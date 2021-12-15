@@ -21,7 +21,7 @@ const App = function () {
 function Map() {
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
-    googleMapsApiKey: "Key"
+    googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY
   })
 
   return isLoaded ? (
