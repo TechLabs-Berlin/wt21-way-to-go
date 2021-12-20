@@ -8,49 +8,46 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-#please leave this block here, but outcomment it before running in your environment (still figuring this out)
-from google.colab import drive 
+#please outcomment this block before running in your environment (I need it in order to run it on GoogleDrive, still figuring this out)
+from google.colab import drive
 drive.mount('/content/drive')
 # %cd /content/drive/My\ Drive/Way\ To\ Go
-#pip install requests #might be necessary depending on where code is executed
-#pip install pandas #might be necessary depending on where code is executed
 !pip install GoogleMaps #for GitHub without '!'
 
 import requests
-import googlemaps
+import json
 import pandas
+import googlemaps
 from urllib.parse import urlencode
 
 #fetching API key from textfile
 with open('API_KEY/API_key.txt', 'r') as f:
   api_key = f.read()
 
-#sample call of the Directions API
+'''
+#sample call of the Directions API for testing: can later be deleted
 data_type = 'json'
 endpoint_directions_api = f'https://maps.googleapis.com/maps/api/directions/{data_type}'
 parameters = {'origin': 'Berlin Alexanderplatz', 'destination': 'Berlin Zoologischer Garten', 'mode': 'walking', 'language': 'en', 'key': api_key}
 url_parameters = urlencode(parameters)
 url = f'{endpoint_directions_api}?{url_parameters}'
 print(url)
+'''
 
-#function for collecting waypoints so that WebDev can show the (at this point unmodified) route on the map
+#function for collecting waypoints of the (at this point unmodified) route
 def extract_lat_lng(current_loc, desired_dest, data_type = 'json'):
   endpoint_directions_api = f'https://maps.googleapis.com/maps/api/directions/{data_type}'
-  parameters = {'origin': current_loc, 'destination': 'Berlin Zoologischer Garten', 'mode': 'walking', 'language': 'en', 'key': api_key}
+  parameters = {'origin': current_loc, 'destination': desired_dest, 'mode': 'walking', 'language': 'en', 'key': api_key}
   url_parameters = urlencode(parameters)
   url = f'{endpoint_directions_api}?{url_parameters}'
-  return url
+  data = requests.get(url)
+  print(url)
+  if data.status_code not in range(200, 299):
+    return{}
+  return data.json() and print(data.text) #printing it to see if it works, though a method for reading only the lat and lng into a dictionary needs still to be added
 
-#fake user_1 #later: getting fake user data from UX?
-current_loc =(52.52314399999999, 13.4134341)
-desired_dest = (52.5053272, 13.3400751)
-additional_time = 60
-wanna_see = [] #types of attractions interested in to be fetched from Places API
-
-#calling waypoints function with fake user input
-extract_lat_lng(current_loc, desired_dest) #not yet functioning
-#waypoints_dict = dict()
-#lat_lng = tuple()
+#calling waypoints function with fake input
+extract_lat_lng('Berlin Volkspark Friedrichshain', 'Berlin Potsdamer Platz')
 
 #sample call of the Places API
 endpoint_places_api = f''
