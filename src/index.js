@@ -12,6 +12,10 @@ const center = {
   lng: 13.404954
 };
 
+const options = {
+  styles: mapStyle,
+}
+
 const App = function () {
     return <div>WayToGo
         <Map></Map>
@@ -29,6 +33,7 @@ function Map() {
         mapContainerStyle={containerStyle}
         center={center}
         zoom={10}
+        options={options}
       >
       </GoogleMap>
   ) : <></>
