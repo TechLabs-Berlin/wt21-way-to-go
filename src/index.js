@@ -47,8 +47,12 @@ function Map() {
 }
 
 function Search() {
-  const {} = usePlacesAutocomplete({}) 
-}
+  const {} = usePlacesAutocomplete({
+    requestOptions: {
+      location: { lat: () => 52.520008, lng: () => 13.404954 },
+      radius: 50 * 1000,
+    },
+  });
 
 ReactDOM.render(
     <App />,
