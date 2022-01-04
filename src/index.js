@@ -19,6 +19,8 @@ const options = {
 
 const App = function () {
     return <div>WayToGo
+
+        <Search />
         <Map></Map>
     </div>
 };
