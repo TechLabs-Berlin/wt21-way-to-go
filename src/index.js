@@ -59,6 +59,26 @@ function Search() {
       radius: 50 * 1000,
     },
   });
+
+  return (
+    <div>
+      <input
+        value={value}
+        onChange={handleInput}
+        disabled={!ready}
+        placeholder="Enter an Address"
+      />
+      <div>
+        <div>
+          {status === "OK" &&
+            data.map(({ id, description }) => (
+              <input onClick={() => handleSelect(description)} key={id} value={description} />
+            ))}
+        </div>
+      </div>
+    </div>
+);
+
 }
 
 ReactDOM.render(
