@@ -42,6 +42,9 @@ function Map() {
   ) : <></>
 }
 
+function Search() {
+}
+
 ReactDOM.render(
     <App />,
 	document.querySelector('#root')
