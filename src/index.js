@@ -43,6 +43,7 @@ function Map() {
 }
 
 function Search() {
+  const {} = usePlacesAutocomplete({}) 
 }
 
 ReactDOM.render(
