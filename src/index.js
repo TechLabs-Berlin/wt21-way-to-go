@@ -37,7 +37,7 @@ const App = function () {
 
         <Locate panTo={panTo} />
         <Search panTo={panTo.bind(this)} />
-        <Map></Map>
+        { isLoaded && <Map onMapLoad={onMapLoad} ></Map> }
     </div>
 };
 
