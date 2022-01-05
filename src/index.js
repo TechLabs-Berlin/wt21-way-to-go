@@ -29,6 +29,7 @@ const App = function () {
   }, []);
 
   const panTo = React.useCallback(({ lat, lng }) => {
+    mapRef.current.panTo({ lat, lng });
   }, []);
 
     return <div>WayToGo
