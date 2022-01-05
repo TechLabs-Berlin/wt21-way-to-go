@@ -41,7 +41,7 @@ const App = function () {
     return <div>WayToGo
 
         <Locate panTo={panTo} />
-        <Search panTo={panTo.bind(this)} />
+        { isLoaded && <Search panTo={panTo.bind(this)} />}
         { isLoaded && <Map onMapLoad={onMapLoad} ></Map> }
     </div>
 };
@@ -56,7 +56,7 @@ function Map({onMapLoad}) {
       options={options}
       onLoad={onMapLoad}
     />
-)
+  )
 }
 
 function Locate({ panTo }) {
