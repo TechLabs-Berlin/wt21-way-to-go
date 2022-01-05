@@ -24,6 +24,8 @@ const options = {
 const App = function () {
 
   const mapRef = React.useRef();
+  const onMapLoad = React.useCallback((map) => {
+  }, []);
 
   const panTo = React.useCallback(({ lat, lng }) => {
   }, []);
