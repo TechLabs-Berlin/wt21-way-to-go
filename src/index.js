@@ -79,6 +79,10 @@ function Search({panTo}) {
     },
   });
 
+  const handleInput = (e) => {
+    setValue(e.target.value);
+  };
+
   const handleSelect = async (address) => {
     setValue(address, false);
     clearSuggestions();
