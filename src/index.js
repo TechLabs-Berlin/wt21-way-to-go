@@ -62,6 +62,7 @@ function Search() {
 
   const handleSelect = async (address) => {
   try {
+    const results = await getGeocode({ address });
   } catch (error) {
     console.log("Error: ", error);
   }
