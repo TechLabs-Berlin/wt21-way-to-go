@@ -62,6 +62,15 @@ function Locate({ panTo }) {
   return (
     <button
     onClick={() => {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+              panTo({
+                lat: position.coords.latitude,
+                lng: position.coords.longitude,
+              });
+        },
+        () => null
+      );
     }}
     >
     </button>
