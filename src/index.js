@@ -46,7 +46,7 @@ const App = function () {
     </div>
 };
 
-function Map() {
+function Map({onMapLoad}) {
 
   return (
     <GoogleMap
