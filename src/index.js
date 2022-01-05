@@ -48,16 +48,15 @@ const App = function () {
 
 function Map() {
 
-  return isLoaded ? (
-      <GoogleMap
-        mapContainerStyle={containerStyle}
-        center={center}
-        zoom={10}
-        options={options}
-        onLoad={onMapLoad}
-      >
-      </GoogleMap>
-  ) : <></>
+  return (
+    <GoogleMap
+      mapContainerStyle={containerStyle}
+      center={center}
+      zoom={10}
+      options={options}
+      onLoad={onMapLoad}
+    />
+)
 }
 
 function Locate({ panTo }) {
