@@ -30,6 +30,7 @@ const App = function () {
 
   const panTo = React.useCallback(({ lat, lng }) => {
     mapRef.current.panTo({ lat, lng });
+    mapRef.current.setZoom(16);
   }, []);
 
     return <div>WayToGo
