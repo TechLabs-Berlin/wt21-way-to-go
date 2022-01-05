@@ -7,6 +7,7 @@ import usePlacesAutocomplete, {
   getLatLng,
   }  from "use-places-autocomplete";
 
+const libraries = ["places"];
 const containerStyle = {
   width: '1000px',
   height: '600px'
@@ -25,7 +26,8 @@ const App = function () {
 
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
-    googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY
+    googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY,
+    libraries,
   })
 
   const mapRef = React.useRef();
