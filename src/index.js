@@ -35,7 +35,7 @@ const App = function () {
 
     return <div>WayToGo
 
-        <Search />
+        <Search panTo={panTo.bind(this)} />
         <Map></Map>
     </div>
 };
