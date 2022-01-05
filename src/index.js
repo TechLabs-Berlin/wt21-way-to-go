@@ -60,6 +60,13 @@ function Search() {
     },
   });
 
+  const handleSelect = async (address) => {
+  try {
+  } catch (error) {
+    console.log("Error: ", error);
+  }
+};
+
   return (
     <div>
       <input
@@ -78,7 +85,6 @@ function Search() {
       </div>
     </div>
 );
-
 }
 
 ReactDOM.render(
