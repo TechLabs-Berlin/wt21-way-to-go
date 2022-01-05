@@ -76,6 +76,7 @@ function Locate({ panTo }) {
       );
     }}
     >
+      Current Location
     </button>
   );
 }
