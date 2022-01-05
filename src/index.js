@@ -54,6 +54,7 @@ function Map() {
         center={center}
         zoom={10}
         options={options}
+        onLoad={onMapLoad}
       >
       </GoogleMap>
   ) : <></>
