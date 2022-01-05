@@ -40,7 +40,7 @@ const App = function () {
     mapRef.current.setZoom(16);
   }, []);
 
-    return <div>WayToGo
+    return <div><h1>WayToGo</h1>
 
         <Locate panTo={panTo} />
         { isLoaded && <Search panTo={panTo.bind(this)} />}
