@@ -60,7 +60,10 @@ function Map() {
 
 function Locate({ panTo }) {
   return (
-    <button>
+    <button
+    onClick={() => {
+    }}
+    >
     </button>
   );
 }
