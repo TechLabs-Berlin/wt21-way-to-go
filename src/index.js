@@ -57,6 +57,13 @@ function Map() {
   ) : <></>
 }
 
+function Locate({ panTo }) {
+  return (
+    <button>
+    </button>
+  );
+}
+
 function Search({panTo}) {
   const {
     ready,
@@ -74,7 +81,7 @@ function Search({panTo}) {
   const handleSelect = async (address) => {
     setValue(address, false);
     clearSuggestions();
-    
+
   try {
     const results = await getGeocode({ address });
     const { lat, lng } = await getLatLng(results[0]);
