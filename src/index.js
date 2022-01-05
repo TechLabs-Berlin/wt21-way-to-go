@@ -57,7 +57,7 @@ function Map() {
   ) : <></>
 }
 
-function Search() {
+function Search({panTo}) {
   const {
     ready,
     value,
