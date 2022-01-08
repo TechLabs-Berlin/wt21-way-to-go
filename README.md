@@ -41,6 +41,12 @@ For this demo to work, please create a Google Map API Key, and ensure that the t
 - Places API
 - Geocoding API
 
+## Data
+
+We have worked with data on popular routes and with data on points of interest, that pedestrians might want to look for when walking, both geographically constrained on Berlin and surroundings.
+
+For obtaining the routes data, you need to scrap [wandermap.net](wandermap.net) on the query "Berlin".
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
