@@ -52,6 +52,12 @@ In order to run the Python code, you need to have the following libraries instal
 - [urllib](https://docs.python.org/3/library/urllib.html)
 - [GoogleMaps Services](https://pythonrepo.com/repo/googlemaps-google-maps-services-python-python-third-party-apis-wrappers)
 
+## Data
+
+We have worked with data on popular routes and with data on points of interest, that pedestrians might want to look for when walking, both geographically constrained on Berlin and surroundings.
+
+For obtaining the routes data, you need to scrap [wandermap.net](wandermap.net) on the query "Berlin".
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
