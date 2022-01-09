@@ -139,26 +139,24 @@ function Search({ panTo }) {
         onClick={() => {
           navigator.geolocation.getCurrentPosition(
             (position) => {
-              console.log({
-                lat: position.coords.latitude,
-                lng: position.coords.longitude,
-              });
-              console.log(value);
-
-              axios
-                .post("http://localhost:5000/direction", {
-                  startLocation: {
-                    lat: position.coords.latitude,
-                    lng: position.coords.longitude,
-                  },
-                  destination: value,
+              getGeocode({ address: value }).then((response) =>
+                getLatLng(response[0]).then((destinationCoordinates) => {
+                  axios
+                    .post("http://localhost:5000/direction", {
+                      startLocation: {
+                        lat: position.coords.latitude,
+                        lng: position.coords.longitude,
+                      },
+                      destination: destinationCoordinates,
+                    })
+                    .then(function (response) {
+                      console.log(response);
+                    })
+                    .catch(function (error) {
+                      console.log(error);
+                    });
                 })
-                .then(function (response) {
-                  console.log(response);
-                })
-                .catch(function (error) {
-                  console.log(error);
-                });
+              );
             },
             () => null
           );
