@@ -146,14 +146,19 @@ function Search({ panTo }) {
               console.log(value);
 
               axios
-                .get("http://localhost:5000/direction")
+                .post("http://localhost:5000/direction", {
+                  startLocation: {
+                    lat: position.coords.latitude,
+                    lng: position.coords.longitude,
+                  },
+                  destination: value,
+                })
                 .then(function (response) {
                   console.log(response);
                 })
                 .catch(function (error) {
                   console.log(error);
-                })
-                .then(function () {});
+                });
             },
             () => null
           );
