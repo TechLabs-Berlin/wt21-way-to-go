@@ -6,6 +6,7 @@ import usePlacesAutocomplete, {
   getGeocode,
   getLatLng,
 } from "use-places-autocomplete";
+import axios from "axios";
 
 const libraries = ["places"];
 const containerStyle = {
