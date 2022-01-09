@@ -128,8 +128,8 @@ function Search({ panTo }) {
             data.map(({ id, description }) => (
               <input
                 onClick={() => handleSelect(description)}
-                key={id}
-                value={description}
+                key={Math.random()}
+                defaultValue={description}
               />
             ))}
         </div>
