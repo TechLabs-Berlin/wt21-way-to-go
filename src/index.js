@@ -44,6 +44,7 @@ const App = function () {
 
         <Locate panTo={panTo} />
         { isLoaded && <Search panTo={panTo.bind(this)} />}
+        <Direction />
         { isLoaded && <Map onMapLoad={onMapLoad} ></Map> }
     </div>
 };
@@ -130,6 +131,14 @@ function Search({panTo}) {
       </div>
     </div>
 );
+}
+
+function Direction() {
+return (
+  <button>
+    Show Direction
+  </button>
+)
 }
 
 ReactDOM.render(
