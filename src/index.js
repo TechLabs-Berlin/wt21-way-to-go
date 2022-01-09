@@ -144,6 +144,16 @@ function Search({ panTo }) {
                 lng: position.coords.longitude,
               });
               console.log(value);
+
+              axios
+                .get("http://localhost:5000/direction")
+                .then(function (response) {
+                  console.log(response);
+                })
+                .catch(function (error) {
+                  console.log(error);
+                })
+                .then(function () {});
             },
             () => null
           );
