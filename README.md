@@ -33,13 +33,30 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## API Keys
+## Requirements
+
+### API Keys
 
 For this demo to work, please create a Google Map API Key, and ensure that the two services below are enabled... otherwise it won't work! This API key must be in the environment variable `REACT_APP_GOOGLE_PLACES_API_KEY`.
 
 - Maps JavaScript API
 - Places API
 - Geocoding API
+
+### Virtuel Enviroment
+
+In order to run the Python code, you need to have the following libraries installed:
+
+- [requests](https://docs.python-requests.org/en/latest/)
+- [json](https://docs.python.org/3/library/json.html)
+- [urllib](https://docs.python.org/3/library/urllib.html)
+- [GoogleMaps Services](https://pythonrepo.com/repo/googlemaps-google-maps-services-python-python-third-party-apis-wrappers)
+
+## Data
+
+We have worked with data on popular routes and with data on points of interest, that pedestrians might want to look for when walking, both geographically constrained on Berlin and surroundings.
+
+For obtaining the routes data, you need to scrap [wandermap.net](wandermap.net) on the query "Berlin".
 
 ## Learn More
 
