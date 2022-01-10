@@ -1,4 +1,4 @@
-export default [
+const style = [
     {
         "featureType": "all",
         "elementType": "geometry.fill",
@@ -168,3 +168,5 @@ export default [
         ]
     }
 ]
+
+export default style

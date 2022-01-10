@@ -1,34 +1,34 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { GoogleMap, useJsApiLoader } from '@react-google-maps/api';
-import mapStyle from './mapStyle';
+import React from "react";
+import ReactDOM from "react-dom";
+import { GoogleMap, useJsApiLoader } from "@react-google-maps/api";
+import mapStyle from "./mapStyle";
 import usePlacesAutocomplete, {
   getGeocode,
   getLatLng,
-  }  from "use-places-autocomplete";
+} from "use-places-autocomplete";
+import axios from "axios";
 
 const libraries = ["places"];
 const containerStyle = {
-  width: '1000px',
-  height: '600px'
+  width: "1000px",
+  height: "600px",
 };
 
 const center = {
   lat: 52.520008,
-  lng: 13.404954
+  lng: 13.404954,
 };
 
 const options = {
   styles: mapStyle,
-}
+};
 
 const App = function () {
-
   const { isLoaded } = useJsApiLoader({
-    id: 'google-map-script',
+    id: "google-map-script",
     googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY,
     libraries,
-  })
+  });
 
   const mapRef = React.useRef();
   const onMapLoad = React.useCallback((map) => {
@@ -40,16 +40,18 @@ const App = function () {
     mapRef.current.setZoom(16);
   }, []);
 
-    return <div><h1>WayToGo</h1>
+  return (
+    <div>
+      <h1>WayToGo</h1>
 
-        <Locate panTo={panTo} />
-        { isLoaded && <Search panTo={panTo.bind(this)} />}
-        { isLoaded && <Map onMapLoad={onMapLoad} ></Map> }
+      <Locate panTo={panTo} />
+      {isLoaded && <Search panTo={panTo.bind(this)} />}
+      {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
     </div>
+  );
 };
 
-function Map({onMapLoad}) {
-
+function Map({ onMapLoad }) {
   return (
     <GoogleMap
       mapContainerStyle={containerStyle}
@@ -58,30 +60,30 @@ function Map({onMapLoad}) {
       options={options}
       onLoad={onMapLoad}
     />
-  )
+  );
 }
 
 function Locate({ panTo }) {
   return (
     <button
-    onClick={() => {
-      navigator.geolocation.getCurrentPosition(
-        (position) => {
-              panTo({
-                lat: position.coords.latitude,
-                lng: position.coords.longitude,
-              });
-        },
-        () => null
-      );
-    }}
+      onClick={() => {
+        navigator.geolocation.getCurrentPosition(
+          (position) => {
+            panTo({
+              lat: position.coords.latitude,
+              lng: position.coords.longitude,
+            });
+          },
+          () => null
+        );
+      }}
     >
       Current Location
     </button>
   );
 }
 
-function Search({panTo}) {
+function Search({ panTo }) {
   const {
     ready,
     value,
@@ -103,14 +105,14 @@ function Search({panTo}) {
     setValue(address, false);
     clearSuggestions();
 
-  try {
-    const results = await getGeocode({ address });
-    const { lat, lng } = await getLatLng(results[0]);
-    panTo({ lat, lng });
-  } catch (error) {
-    console.log("Error: ", error);
-  }
-};
+    try {
+      const results = await getGeocode({ address });
+      const { lat, lng } = await getLatLng(results[0]);
+      panTo({ lat, lng });
+    } catch (error) {
+      console.log("Error: ", error);
+    }
+  };
 
   return (
     <div>
@@ -118,21 +120,52 @@ function Search({panTo}) {
         value={value}
         onChange={handleInput}
         disabled={!ready}
-        placeholder="Enter an Address"
+        placeholder="Destination"
       />
       <div>
         <div>
           {status === "OK" &&
             data.map(({ id, description }) => (
-              <input onClick={() => handleSelect(description)} key={id} value={description} />
+              <input
+                onClick={() => handleSelect(description)}
+                key={Math.random()}
+                defaultValue={description}
+              />
             ))}
         </div>
       </div>
+
+      <button
+        onClick={() => {
+          navigator.geolocation.getCurrentPosition(
+            (position) => {
+              getGeocode({ address: value }).then((response) =>
+                getLatLng(response[0]).then((destinationCoordinates) => {
+                  axios
+                    .post("http://localhost:5000/direction", {
+                      startLocation: {
+                        lat: position.coords.latitude,
+                        lng: position.coords.longitude,
+                      },
+                      destination: destinationCoordinates,
+                    })
+                    .then(function (response) {
+                      console.log(response.data);
+                    })
+                    .catch(function (error) {
+                      console.log(error);
+                    });
+                })
+              );
+            },
+            () => null
+          );
+        }}
+      >
+        Show Direction
+      </button>
     </div>
-);
+  );
 }
 
-ReactDOM.render(
-    <App />,
-	document.querySelector('#root')
-)
+ReactDOM.render(<App />, document.querySelector("#root"));
