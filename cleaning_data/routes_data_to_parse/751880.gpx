@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Vogelstimmenweg | Peilstein im Mühlviertel | Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Vogelstimmenweg</strong></p>
+<p>
+	Der Weg führt durch eine besonders reizvolle Landschaft: die Sausende Schlucht. An diesem abgeschiedenen Platz fühlen sich Vögel besonders wohl! Themenweg mit 6 Vogelstimmenstationen, besonders familienfreundlich! Ausgangspunkt dieser Wanderung ist beim GH Hubertushof, Rinnmühle, Peilstein. Weg Nr. 38</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000380/vogelstimmenweg.html">www.boehmerwald.at </a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Vogelstimmenweg | Peilstein im Mühlviertel | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Vogelstimmenweg</strong></p>
+<p>
+	Der Weg führt durch eine besonders reizvolle Landschaft: die Sausende Schlucht. An diesem abgeschiedenen Platz fühlen sich Vögel besonders wohl! Themenweg mit 6 Vogelstimmenstationen, besonders familienfreundlich! Ausgangspunkt dieser Wanderung ist beim GH Hubertushof, Rinnmühle, Peilstein. Weg Nr. 38</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000380/vogelstimmenweg.html">www.boehmerwald.at </a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.61349" lon="13.90689"><ele>501</ele></trkpt>
+<trkpt lat="48.61376" lon="13.90744"><ele>505</ele></trkpt>
+<trkpt lat="48.61409" lon="13.90782"><ele>508</ele></trkpt>
+<trkpt lat="48.61453" lon="13.90789"><ele>514</ele></trkpt>
+<trkpt lat="48.61498" lon="13.90798"><ele>520</ele></trkpt>
+<trkpt lat="48.61529" lon="13.90842"><ele>525</ele></trkpt>
+<trkpt lat="48.61535" lon="13.90908"><ele>529</ele></trkpt>
+<trkpt lat="48.61529" lon="13.90976"><ele>532</ele></trkpt>
+<trkpt lat="48.61523" lon="13.91043"><ele>535</ele></trkpt>
+<trkpt lat="48.61517" lon="13.9111"><ele>540</ele></trkpt>
+<trkpt lat="48.61542" lon="13.91142"><ele>544</ele></trkpt>
+<trkpt lat="48.61584" lon="13.91127"><ele>547</ele></trkpt>
+<trkpt lat="48.61625" lon="13.91099"><ele>547</ele></trkpt>
+<trkpt lat="48.61668" lon="13.91081"><ele>549</ele></trkpt>
+<trkpt lat="48.61712" lon="13.91069"><ele>554</ele></trkpt>
+<trkpt lat="48.61756" lon="13.91057"><ele>558</ele></trkpt>
+<trkpt lat="48.61799" lon="13.91061"><ele>562</ele></trkpt>
+<trkpt lat="48.6184" lon="13.9109"><ele>564</ele></trkpt>
+<trkpt lat="48.61885" lon="13.91088"><ele>566</ele></trkpt>
+<trkpt lat="48.61929" lon="13.91089"><ele>573</ele></trkpt>
+<trkpt lat="48.61965" lon="13.91129"><ele>585</ele></trkpt>
+<trkpt lat="48.61992" lon="13.91176"><ele>593</ele></trkpt>
+<trkpt lat="48.61987" lon="13.91243"><ele>599</ele></trkpt>
+<trkpt lat="48.61982" lon="13.91311"><ele>603</ele></trkpt>
+<trkpt lat="48.61995" lon="13.91327"><ele>605</ele></trkpt>
+<trkpt lat="48.62028" lon="13.91373"><ele>609</ele></trkpt>
+<trkpt lat="48.62072" lon="13.91378"><ele>620</ele></trkpt>
+<trkpt lat="48.62113" lon="13.91401"><ele>632</ele></trkpt>
+<trkpt lat="48.62153" lon="13.91432"><ele>636</ele></trkpt>
+<trkpt lat="48.62191" lon="13.91468"><ele>637</ele></trkpt>
+<trkpt lat="48.62227" lon="13.91509"><ele>638</ele></trkpt>
+<trkpt lat="48.62262" lon="13.91551"><ele>639</ele></trkpt>
+<trkpt lat="48.62297" lon="13.91593"><ele>640</ele></trkpt>
+<trkpt lat="48.62333" lon="13.91635"><ele>640</ele></trkpt>
+<trkpt lat="48.62367" lon="13.91678"><ele>640</ele></trkpt>
+<trkpt lat="48.62392" lon="13.91734"><ele>640</ele></trkpt>
+<trkpt lat="48.6238" lon="13.91785"><ele>641</ele></trkpt>
+<trkpt lat="48.62349" lon="13.91834"><ele>642</ele></trkpt>
+<trkpt lat="48.62318" lon="13.91883"><ele>645</ele></trkpt>
+<trkpt lat="48.62286" lon="13.91932"><ele>648</ele></trkpt>
+<trkpt lat="48.62255" lon="13.9198"><ele>655</ele></trkpt>
+<trkpt lat="48.62223" lon="13.91994"><ele>662</ele></trkpt>
+<trkpt lat="48.62188" lon="13.9195"><ele>670</ele></trkpt>
+<trkpt lat="48.62154" lon="13.91906"><ele>678</ele></trkpt>
+<trkpt lat="48.62124" lon="13.91933"><ele>682</ele></trkpt>
+<trkpt lat="48.62094" lon="13.91985"><ele>680</ele></trkpt>
+<trkpt lat="48.62057" lon="13.92021"><ele>679</ele></trkpt>
+<trkpt lat="48.62018" lon="13.92054"><ele>679</ele></trkpt>
+<trkpt lat="48.61979" lon="13.92088"><ele>679</ele></trkpt>
+<trkpt lat="48.61936" lon="13.92097"><ele>677</ele></trkpt>
+<trkpt lat="48.61894" lon="13.92075"><ele>676</ele></trkpt>
+<trkpt lat="48.61855" lon="13.92042"><ele>676</ele></trkpt>
+<trkpt lat="48.61818" lon="13.92004"><ele>674</ele></trkpt>
+<trkpt lat="48.61783" lon="13.91966"><ele>665</ele></trkpt>
+<trkpt lat="48.61738" lon="13.91961"><ele>658</ele></trkpt>
+<trkpt lat="48.61693" lon="13.91961"><ele>658</ele></trkpt>
+<trkpt lat="48.61648" lon="13.9196"><ele>656</ele></trkpt>
+<trkpt lat="48.61603" lon="13.9196"><ele>645</ele></trkpt>
+<trkpt lat="48.61559" lon="13.9196"><ele>635</ele></trkpt>
+<trkpt lat="48.61514" lon="13.91959"><ele>626</ele></trkpt>
+<trkpt lat="48.61472" lon="13.91943"><ele>619</ele></trkpt>
+<trkpt lat="48.61456" lon="13.91903"><ele>614</ele></trkpt>
+<trkpt lat="48.61494" lon="13.91868"><ele>608</ele></trkpt>
+<trkpt lat="48.61533" lon="13.91833"><ele>603</ele></trkpt>
+<trkpt lat="48.61571" lon="13.91797"><ele>598</ele></trkpt>
+<trkpt lat="48.61608" lon="13.91759"><ele>599</ele></trkpt>
+<trkpt lat="48.6164" lon="13.91712"><ele>600</ele></trkpt>
+<trkpt lat="48.61665" lon="13.91656"><ele>595</ele></trkpt>
+<trkpt lat="48.61684" lon="13.91595"><ele>589</ele></trkpt>
+<trkpt lat="48.61648" lon="13.91628"><ele>583</ele></trkpt>
+<trkpt lat="48.61612" lon="13.91639"><ele>577</ele></trkpt>
+<trkpt lat="48.61627" lon="13.91576"><ele>576</ele></trkpt>
+<trkpt lat="48.61634" lon="13.9151"><ele>578</ele></trkpt>
+<trkpt lat="48.61633" lon="13.91442"><ele>574</ele></trkpt>
+<trkpt lat="48.61612" lon="13.91386"><ele>566</ele></trkpt>
+<trkpt lat="48.61573" lon="13.91352"><ele>558</ele></trkpt>
+<trkpt lat="48.61534" lon="13.91318"><ele>551</ele></trkpt>
+<trkpt lat="48.61508" lon="13.91268"><ele>547</ele></trkpt>
+<trkpt lat="48.61509" lon="13.91201"><ele>543</ele></trkpt>
+<trkpt lat="48.6151" lon="13.91167"><ele>541</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

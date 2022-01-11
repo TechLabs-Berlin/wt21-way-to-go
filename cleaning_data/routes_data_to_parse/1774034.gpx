@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Vom Grundlsee zur Pühringer Hütte]]></name>
+      <desc><![CDATA[<p>Wir starten unsere Wanderung in Gößl Schachen und wandern auf der leicht ansteigenden Forststraße in Richtung Norden. Nach etwa einem halben Kilometer zweigen wir nach rechts auf den Ausseer-Weg Nr. 213 ab. Der Weg bringt uns sanft ansteigend durch den lichten Wald bis zur Einmündung des Weges 214. Wir behalten die Gehrichtung bei und erreichen nach 500 m eine Weggabelung, wo sich die Wege wieder teilen. Wir folgen nun dem Weg 214 leicht bergauf durch den Wald und erreichen bald das Kanzlermoos. Der nächste Etappenpunkt ist das markante Draußengatterl, das wir auf einem schmalen Schottersteig passieren. Hier wird die Umgebung alpiner. Zwischen steilen Hängen, an denen wir mit ein bisschen Glück ein paar Gämsen beobachten können, führt uns der Weg bald zum Vorderen Lahngangsee. Ab hier zieht die Tour noch mal richtig an! Über die steil von der Graswand nach Süden hin abfallende Geröllhalde erreichen wir die Lahngangalm auf 1.494 m Seehöhe. Weiter geht‘s wieder leicht bergauf über den Hinteren Langangsee zu den Jagdhütten in der Elmgrube. Jetzt haben wir das Gröbste hinter uns gebracht. Der Ausseer Weg führt uns nun beinahe eben bis zu einem kleinen Sattel mit einer Weggabelung. Hartgesottene nehmen den felsigen Steig am Fuß des Elm, alle anderen kommen gemütlich am Elmsee vorbei zum Tourenziel, der Pühringer Hütte. Zurück geht‘s auf der gleichen Route.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Vom Grundlsee zur Pühringer Hütte]]></name><desc><![CDATA[<p>Wir starten unsere Wanderung in Gößl Schachen und wandern auf der leicht ansteigenden Forststraße in Richtung Norden. Nach etwa einem halben Kilometer zweigen wir nach rechts auf den Ausseer-Weg Nr. 213 ab. Der Weg bringt uns sanft ansteigend durch den lichten Wald bis zur Einmündung des Weges 214. Wir behalten die Gehrichtung bei und erreichen nach 500 m eine Weggabelung, wo sich die Wege wieder teilen. Wir folgen nun dem Weg 214 leicht bergauf durch den Wald und erreichen bald das Kanzlermoos. Der nächste Etappenpunkt ist das markante Draußengatterl, das wir auf einem schmalen Schottersteig passieren. Hier wird die Umgebung alpiner. Zwischen steilen Hängen, an denen wir mit ein bisschen Glück ein paar Gämsen beobachten können, führt uns der Weg bald zum Vorderen Lahngangsee. Ab hier zieht die Tour noch mal richtig an! Über die steil von der Graswand nach Süden hin abfallende Geröllhalde erreichen wir die Lahngangalm auf 1.494 m Seehöhe. Weiter geht‘s wieder leicht bergauf über den Hinteren Langangsee zu den Jagdhütten in der Elmgrube. Jetzt haben wir das Gröbste hinter uns gebracht. Der Ausseer Weg führt uns nun beinahe eben bis zu einem kleinen Sattel mit einer Weggabelung. Hartgesottene nehmen den felsigen Steig am Fuß des Elm, alle anderen kommen gemütlich am Elmsee vorbei zum Tourenziel, der Pühringer Hütte. Zurück geht‘s auf der gleichen Route.</p>]]></desc><trkseg>
+         <trkpt lat="47.63992" lon="13.88908"><ele>736</ele></trkpt>
+<trkpt lat="47.6403" lon="13.88964"><ele>744</ele></trkpt>
+<trkpt lat="47.64159" lon="13.88979"><ele>766</ele></trkpt>
+<trkpt lat="47.64317" lon="13.88981"><ele>787</ele></trkpt>
+<trkpt lat="47.64408" lon="13.88979"><ele>806</ele></trkpt>
+<trkpt lat="47.64471" lon="13.88968"><ele>810</ele></trkpt>
+<trkpt lat="47.64462" lon="13.88987"><ele>810</ele></trkpt>
+<trkpt lat="47.64418" lon="13.89039"><ele>812</ele></trkpt>
+<trkpt lat="47.64355" lon="13.8905"><ele>817</ele></trkpt>
+<trkpt lat="47.64338" lon="13.89167"><ele>837</ele></trkpt>
+<trkpt lat="47.64254" lon="13.89285"><ele>844</ele></trkpt>
+<trkpt lat="47.64254" lon="13.89364"><ele>868</ele></trkpt>
+<trkpt lat="47.64224" lon="13.89453"><ele>879</ele></trkpt>
+<trkpt lat="47.64241" lon="13.89579"><ele>875</ele></trkpt>
+<trkpt lat="47.64251" lon="13.89677"><ele>867</ele></trkpt>
+<trkpt lat="47.64319" lon="13.89847"><ele>892</ele></trkpt>
+<trkpt lat="47.64323" lon="13.89899"><ele>898</ele></trkpt>
+<trkpt lat="47.64355" lon="13.89963"><ele>889</ele></trkpt>
+<trkpt lat="47.64358" lon="13.90019"><ele>892</ele></trkpt>
+<trkpt lat="47.64397" lon="13.9007"><ele>909</ele></trkpt>
+<trkpt lat="47.64491" lon="13.90026"><ele>948</ele></trkpt>
+<trkpt lat="47.64601" lon="13.89981"><ele>978</ele></trkpt>
+<trkpt lat="47.64639" lon="13.89999"><ele>994</ele></trkpt>
+<trkpt lat="47.64665" lon="13.9011"><ele>1006</ele></trkpt>
+<trkpt lat="47.64678" lon="13.90189"><ele>1008</ele></trkpt>
+<trkpt lat="47.64723" lon="13.90319"><ele>1035</ele></trkpt>
+<trkpt lat="47.64744" lon="13.90468"><ele>1039</ele></trkpt>
+<trkpt lat="47.64782" lon="13.90537"><ele>1039</ele></trkpt>
+<trkpt lat="47.64922" lon="13.90632"><ele>1082</ele></trkpt>
+<trkpt lat="47.64999" lon="13.90817"><ele>1127</ele></trkpt>
+<trkpt lat="47.6506" lon="13.90988"><ele>1149</ele></trkpt>
+<trkpt lat="47.65113" lon="13.9122"><ele>1170</ele></trkpt>
+<trkpt lat="47.6519" lon="13.91404"><ele>1185</ele></trkpt>
+<trkpt lat="47.65264" lon="13.91548"><ele>1190</ele></trkpt>
+<trkpt lat="47.65359" lon="13.91592"><ele>1201</ele></trkpt>
+<trkpt lat="47.65435" lon="13.91595"><ele>1229</ele></trkpt>
+<trkpt lat="47.65497" lon="13.91505"><ele>1241</ele></trkpt>
+<trkpt lat="47.65514" lon="13.91649"><ele>1241</ele></trkpt>
+<trkpt lat="47.65553" lon="13.91793"><ele>1268</ele></trkpt>
+<trkpt lat="47.6561" lon="13.91825"><ele>1293</ele></trkpt>
+<trkpt lat="47.65638" lon="13.91764"><ele>1311</ele></trkpt>
+<trkpt lat="47.65666" lon="13.91688"><ele>1321</ele></trkpt>
+<trkpt lat="47.65751" lon="13.91733"><ele>1335</ele></trkpt>
+<trkpt lat="47.658" lon="13.91785"><ele>1360</ele></trkpt>
+<trkpt lat="47.65855" lon="13.91957"><ele>1361</ele></trkpt>
+<trkpt lat="47.65897" lon="13.92007"><ele>1385</ele></trkpt>
+<trkpt lat="47.65937" lon="13.91978"><ele>1411</ele></trkpt>
+<trkpt lat="47.65978" lon="13.91917"><ele>1413</ele></trkpt>
+<trkpt lat="47.66078" lon="13.91915"><ele>1414</ele></trkpt>
+<trkpt lat="47.6623" lon="13.91921"><ele>1438</ele></trkpt>
+<trkpt lat="47.66268" lon="13.91948"><ele>1448</ele></trkpt>
+<trkpt lat="47.66293" lon="13.91976"><ele>1462</ele></trkpt>
+<trkpt lat="47.66334" lon="13.91966"><ele>1483</ele></trkpt>
+<trkpt lat="47.66385" lon="13.91997"><ele>1495</ele></trkpt>
+<trkpt lat="47.66442" lon="13.92042"><ele>1499</ele></trkpt>
+<trkpt lat="47.6648" lon="13.92074"><ele>1502</ele></trkpt>
+<trkpt lat="47.66509" lon="13.92176"><ele>1506</ele></trkpt>
+<trkpt lat="47.6663" lon="13.92276"><ele>1506</ele></trkpt>
+<trkpt lat="47.66665" lon="13.9236"><ele>1506</ele></trkpt>
+<trkpt lat="47.66729" lon="13.92396"><ele>1502</ele></trkpt>
+<trkpt lat="47.6677" lon="13.92446"><ele>1498</ele></trkpt>
+<trkpt lat="47.66849" lon="13.92482"><ele>1493</ele></trkpt>
+<trkpt lat="47.66935" lon="13.92587"><ele>1498</ele></trkpt>
+<trkpt lat="47.67021" lon="13.92702"><ele>1505</ele></trkpt>
+<trkpt lat="47.67117" lon="13.92807"><ele>1511</ele></trkpt>
+<trkpt lat="47.67202" lon="13.92894"><ele>1510</ele></trkpt>
+<trkpt lat="47.67257" lon="13.92991"><ele>1497</ele></trkpt>
+<trkpt lat="47.67321" lon="13.93106"><ele>1504</ele></trkpt>
+<trkpt lat="47.67338" lon="13.93227"><ele>1504</ele></trkpt>
+<trkpt lat="47.67338" lon="13.93288"><ele>1510</ele></trkpt>
+<trkpt lat="47.6733" lon="13.93348"><ele>1516</ele></trkpt>
+<trkpt lat="47.67333" lon="13.93418"><ele>1517</ele></trkpt>
+<trkpt lat="47.67379" lon="13.93595"><ele>1543</ele></trkpt>
+<trkpt lat="47.67412" lon="13.93743"><ele>1546</ele></trkpt>
+<trkpt lat="47.6747" lon="13.93896"><ele>1557</ele></trkpt>
+<trkpt lat="47.67581" lon="13.9409"><ele>1593</ele></trkpt>
+<trkpt lat="47.67687" lon="13.94274"><ele>1595</ele></trkpt>
+<trkpt lat="47.67757" lon="13.94398"><ele>1605</ele></trkpt>
+<trkpt lat="47.67792" lon="13.94444"><ele>1613</ele></trkpt>
+<trkpt lat="47.67849" lon="13.94471"><ele>1617</ele></trkpt>
+<trkpt lat="47.67928" lon="13.94488"><ele>1622</ele></trkpt>
+<trkpt lat="47.67976" lon="13.94562"><ele>1628</ele></trkpt>
+<trkpt lat="47.67989" lon="13.94599"><ele>1632</ele></trkpt>
+<trkpt lat="47.68008" lon="13.94599"><ele>1635</ele></trkpt>
+<trkpt lat="47.68008" lon="13.94655"><ele>1639</ele></trkpt>
+<trkpt lat="47.68059" lon="13.94709"><ele>1639</ele></trkpt>
+<trkpt lat="47.68079" lon="13.94779"><ele>1650</ele></trkpt>
+<trkpt lat="47.68101" lon="13.94858"><ele>1666</ele></trkpt>
+<trkpt lat="47.6816" lon="13.95048"><ele>1666</ele></trkpt>
+<trkpt lat="47.68212" lon="13.95196"><ele>1661</ele></trkpt>
+<trkpt lat="47.68247" lon="13.95303"><ele>1668</ele></trkpt>
+<trkpt lat="47.68248" lon="13.95391"><ele>1669</ele></trkpt>
+<trkpt lat="47.68249" lon="13.95485"><ele>1666</ele></trkpt>
+<trkpt lat="47.68284" lon="13.95586"><ele>1666</ele></trkpt>
+<trkpt lat="47.68326" lon="13.95623"><ele>1667</ele></trkpt>
+<trkpt lat="47.6837" lon="13.95673"><ele>1668</ele></trkpt>
+<trkpt lat="47.68365" lon="13.9579"><ele>1672</ele></trkpt>
+<trkpt lat="47.68423" lon="13.9591"><ele>1666</ele></trkpt>
+<trkpt lat="47.68474" lon="13.96026"><ele>1655</ele></trkpt>
+<trkpt lat="47.68503" lon="13.961"><ele>1652</ele></trkpt>
+<trkpt lat="47.68514" lon="13.96193"><ele>1633</ele></trkpt>
+<trkpt lat="47.68584" lon="13.96317"><ele>1628</ele></trkpt>
+<trkpt lat="47.68607" lon="13.96396"><ele>1627</ele></trkpt>
+<trkpt lat="47.68684" lon="13.96572"><ele>1629</ele></trkpt>
+<trkpt lat="47.68729" lon="13.96683"><ele>1635</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

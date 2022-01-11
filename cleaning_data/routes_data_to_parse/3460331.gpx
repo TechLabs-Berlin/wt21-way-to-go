@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Karower Teiche AfterWorkWalk]]></name>
+      <desc><![CDATA[<p>
+	Ein kleiner Spaziergang im NSG Karower Teiche und der Bucher Moorlinse.</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Karower Teiche AfterWorkWalk]]></name><desc><![CDATA[<p>
+	Ein kleiner Spaziergang im NSG Karower Teiche und der Bucher Moorlinse.</p>
+]]></desc><trkseg>
+         <trkpt lat="52.61453" lon="13.46902"><ele>48</ele></trkpt>
+<trkpt lat="52.6164" lon="13.45993"><ele>46</ele></trkpt>
+<trkpt lat="52.6173" lon="13.46165"><ele>44</ele></trkpt>
+<trkpt lat="52.61834" lon="13.46058"><ele>46</ele></trkpt>
+<trkpt lat="52.61795" lon="13.46169"><ele>45</ele></trkpt>
+<trkpt lat="52.62012" lon="13.4647"><ele>47</ele></trkpt>
+<trkpt lat="52.62261" lon="13.45952"><ele>48</ele></trkpt>
+<trkpt lat="52.62246" lon="13.45843"><ele>49</ele></trkpt>
+<trkpt lat="52.62342" lon="13.45658"><ele>49</ele></trkpt>
+<trkpt lat="52.62784" lon="13.46171"><ele>51</ele></trkpt>
+<trkpt lat="52.62908" lon="13.46424"><ele>51</ele></trkpt>
+<trkpt lat="52.62864" lon="13.46746"><ele>48</ele></trkpt>
+<trkpt lat="52.62423" lon="13.4736"><ele>48</ele></trkpt>
+<trkpt lat="52.62546" lon="13.47802"><ele>49</ele></trkpt>
+<trkpt lat="52.62589" lon="13.48004"><ele>48</ele></trkpt>
+<trkpt lat="52.62689" lon="13.48131"><ele>49</ele></trkpt>
+<trkpt lat="52.63051" lon="13.4852"><ele>49</ele></trkpt>
+<trkpt lat="52.63161" lon="13.48529"><ele>46</ele></trkpt>
+<trkpt lat="52.63202" lon="13.48696"><ele>49</ele></trkpt>
+<trkpt lat="52.63566" lon="13.49072"><ele>56</ele></trkpt>
+<trkpt lat="52.63675" lon="13.49224"><ele>56</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

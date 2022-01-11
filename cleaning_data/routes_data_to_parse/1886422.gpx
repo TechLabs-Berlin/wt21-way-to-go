@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Groß Schöneberg - Wildpark Schorfheide (Wolfsgehege)]]></name>
+      <desc><![CDATA[<p>
+	Mit dem Vordringen des Wolfes in seine früheren Lebensräume wird wieder kontrovers diskutiert, wie darauf reagiert werden soll. Für die einen ist es eine natürliche Entwicklung, die der Staat hier und da steuern sollte, andere sehen ihre Existenz bedroht und halten eine erneute Bejagung für sinnvoll. Sie können ein Wolfsrudel im Wildpark Schorfheide beobachten und z.B. bei einer Fütterung Interessantes über ihr Verhalten im Rudel, bei der Besiedlung neuer Lebensräume und über ihr Verhältnis zum Menschen erfahren. </p>
+<p>
+	Hinfahrt mit der Heidekrautbahn von Berlin Karow nach Groß Schönebeck, dann ca. 4 km Fußweg</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Groß Schöneberg - Wildpark Schorfheide (Wolfsgehege)]]></name><desc><![CDATA[<p>
+	Mit dem Vordringen des Wolfes in seine früheren Lebensräume wird wieder kontrovers diskutiert, wie darauf reagiert werden soll. Für die einen ist es eine natürliche Entwicklung, die der Staat hier und da steuern sollte, andere sehen ihre Existenz bedroht und halten eine erneute Bejagung für sinnvoll. Sie können ein Wolfsrudel im Wildpark Schorfheide beobachten und z.B. bei einer Fütterung Interessantes über ihr Verhalten im Rudel, bei der Besiedlung neuer Lebensräume und über ihr Verhältnis zum Menschen erfahren. </p>
+<p>
+	Hinfahrt mit der Heidekrautbahn von Berlin Karow nach Groß Schönebeck, dann ca. 4 km Fußweg</p>
+]]></desc><trkseg>
+         <trkpt lat="52.90446" lon="13.53721"><ele>57</ele></trkpt>
+<trkpt lat="52.90437" lon="13.53697"><ele>56</ele></trkpt>
+<trkpt lat="52.90505" lon="13.53599"><ele>54</ele></trkpt>
+<trkpt lat="52.90523" lon="13.53599"><ele>54</ele></trkpt>
+<trkpt lat="52.90525" lon="13.53577"><ele>54</ele></trkpt>
+<trkpt lat="52.90535" lon="13.53369"><ele>54</ele></trkpt>
+<trkpt lat="52.9056" lon="13.53336"><ele>54</ele></trkpt>
+<trkpt lat="52.90603" lon="13.53427"><ele>54</ele></trkpt>
+<trkpt lat="52.90689" lon="13.53585"><ele>56</ele></trkpt>
+<trkpt lat="52.90756" lon="13.5374"><ele>57</ele></trkpt>
+<trkpt lat="52.90782" lon="13.53798"><ele>56</ele></trkpt>
+<trkpt lat="52.90858" lon="13.53997"><ele>56</ele></trkpt>
+<trkpt lat="52.90879" lon="13.54075"><ele>56</ele></trkpt>
+<trkpt lat="52.90908" lon="13.54148"><ele>56</ele></trkpt>
+<trkpt lat="52.91112" lon="13.54007"><ele>56</ele></trkpt>
+<trkpt lat="52.91249" lon="13.53834"><ele>54</ele></trkpt>
+<trkpt lat="52.91306" lon="13.53973"><ele>54</ele></trkpt>
+<trkpt lat="52.91357" lon="13.53981"><ele>54</ele></trkpt>
+<trkpt lat="52.91398" lon="13.53994"><ele>54</ele></trkpt>
+<trkpt lat="52.9146" lon="13.54052"><ele>54</ele></trkpt>
+<trkpt lat="52.91573" lon="13.54174"><ele>55</ele></trkpt>
+<trkpt lat="52.91637" lon="13.5426"><ele>57</ele></trkpt>
+<trkpt lat="52.91696" lon="13.54363"><ele>62</ele></trkpt>
+<trkpt lat="52.91721" lon="13.5441"><ele>62</ele></trkpt>
+<trkpt lat="52.9174" lon="13.54463"><ele>62</ele></trkpt>
+<trkpt lat="52.91773" lon="13.5453"><ele>62</ele></trkpt>
+<trkpt lat="52.91808" lon="13.54579"><ele>62</ele></trkpt>
+<trkpt lat="52.91848" lon="13.54629"><ele>63</ele></trkpt>
+<trkpt lat="52.91907" lon="13.54698"><ele>65</ele></trkpt>
+<trkpt lat="52.91953" lon="13.54737"><ele>67</ele></trkpt>
+<trkpt lat="52.91998" lon="13.54769"><ele>67</ele></trkpt>
+<trkpt lat="52.92018" lon="13.54806"><ele>66</ele></trkpt>
+<trkpt lat="52.92047" lon="13.54851"><ele>65</ele></trkpt>
+<trkpt lat="52.92085" lon="13.54852"><ele>65</ele></trkpt>
+<trkpt lat="52.92096" lon="13.54835"><ele>65</ele></trkpt>
+<trkpt lat="52.92126" lon="13.54893"><ele>66</ele></trkpt>
+<trkpt lat="52.92163" lon="13.54948"><ele>69</ele></trkpt>
+<trkpt lat="52.922" lon="13.54984"><ele>71</ele></trkpt>
+<trkpt lat="52.92256" lon="13.54969"><ele>74</ele></trkpt>
+<trkpt lat="52.92291" lon="13.55034"><ele>74</ele></trkpt>
+<trkpt lat="52.92337" lon="13.5514"><ele>72</ele></trkpt>
+<trkpt lat="52.92318" lon="13.5519"><ele>69</ele></trkpt>
+<trkpt lat="52.9229" lon="13.55233"><ele>68</ele></trkpt>
+<trkpt lat="52.92255" lon="13.55276"><ele>68</ele></trkpt>
+<trkpt lat="52.92217" lon="13.55291"><ele>67</ele></trkpt>
+<trkpt lat="52.92184" lon="13.55321"><ele>63</ele></trkpt>
+<trkpt lat="52.92174" lon="13.55338"><ele>61</ele></trkpt>
+<trkpt lat="52.92116" lon="13.55352"><ele>58</ele></trkpt>
+<trkpt lat="52.92067" lon="13.55366"><ele>58</ele></trkpt>
+<trkpt lat="52.92028" lon="13.55387"><ele>57</ele></trkpt>
+<trkpt lat="52.91997" lon="13.55397"><ele>56</ele></trkpt>
+<trkpt lat="52.91969" lon="13.55399"><ele>56</ele></trkpt>
+<trkpt lat="52.91888" lon="13.55498"><ele>54</ele></trkpt>
+<trkpt lat="52.91851" lon="13.55536"><ele>54</ele></trkpt>
+<trkpt lat="52.91832" lon="13.55573"><ele>54</ele></trkpt>
+<trkpt lat="52.91824" lon="13.55636"><ele>55</ele></trkpt>
+<trkpt lat="52.91824" lon="13.5569"><ele>55</ele></trkpt>
+<trkpt lat="52.91824" lon="13.55747"><ele>55</ele></trkpt>
+<trkpt lat="52.9183" lon="13.55809"><ele>55</ele></trkpt>
+<trkpt lat="52.91836" lon="13.55851"><ele>55</ele></trkpt>
+<trkpt lat="52.91852" lon="13.55906"><ele>56</ele></trkpt>
+<trkpt lat="52.91835" lon="13.55999"><ele>56</ele></trkpt>
+<trkpt lat="52.91821" lon="13.56055"><ele>57</ele></trkpt>
+<trkpt lat="52.91818" lon="13.56088"><ele>58</ele></trkpt>
+<trkpt lat="52.9182" lon="13.56138"><ele>58</ele></trkpt>
+<trkpt lat="52.91862" lon="13.56196"><ele>59</ele></trkpt>
+<trkpt lat="52.91859" lon="13.56214"><ele>59</ele></trkpt>
+<trkpt lat="52.91873" lon="13.56279"><ele>59</ele></trkpt>
+<trkpt lat="52.91848" lon="13.56345"><ele>59</ele></trkpt>
+<trkpt lat="52.91833" lon="13.56353"><ele>59</ele></trkpt>
+<trkpt lat="52.91815" lon="13.56366"><ele>59</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

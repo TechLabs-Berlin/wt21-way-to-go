@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Kleine Scharte Mittelstation Kitzstein]]></name>
+      <desc><![CDATA[<p>Wir beginnen die Wanderung in Bad Hofgastein. Ganz kommod geht’s nun mit der Standseilbahn Schlossalm nach oben bis zur Bergstation Kleine Scharte auf 2.051 m. Wir wandern entlang des Salzburger Almenweges Nr. 127A Richtung Norden über die Zirbelacke zum Mooskarl – einer charmanten Anhöhe mit einem kleinen See und vielen seltenen Pflanzen. Besonders beeindruckend ist der Igelkolben, der am Wasser liegt und fast die ganze Oberfläche bedeckt. Die Bezeichnung des Gewächses kommt daher, dass die geschnäbelten Früchte eine Kugel mit nach außen gerichteten Spitzen bilden. Der Igelkolben blüht im Juli und August – dann bleibt er als Gras am Wasser liegen. Nach dem wir am Mooskarl die Umgebung genossen haben, steuern wir die Brandner Hochalm auf 1.770 m an. In die Hütte kehren wir ein und gönnen uns ein paar leckere Schmankerln. Der Abstieg erfolgt über die Leidalm. Wir kommen an der Maurachalm vorbei und schließlich beim Aeroplanstadl, den man an den kupfernen Hähnen am Terrassengeländer erkennt. Wer hier schon mal zum Skifahren war, kennt den Aeroplan aber soundso... Vom Aeroplanstadl geht’s dann am Forstweg leicht bergab zum Kitzstein. Bei der Mittelstation Kitzstein setzen wir uns wieder in die Schlossalmbahn und kehren zum Ausgangspunkt zurück.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Kleine Scharte Mittelstation Kitzstein]]></name><desc><![CDATA[<p>Wir beginnen die Wanderung in Bad Hofgastein. Ganz kommod geht’s nun mit der Standseilbahn Schlossalm nach oben bis zur Bergstation Kleine Scharte auf 2.051 m. Wir wandern entlang des Salzburger Almenweges Nr. 127A Richtung Norden über die Zirbelacke zum Mooskarl – einer charmanten Anhöhe mit einem kleinen See und vielen seltenen Pflanzen. Besonders beeindruckend ist der Igelkolben, der am Wasser liegt und fast die ganze Oberfläche bedeckt. Die Bezeichnung des Gewächses kommt daher, dass die geschnäbelten Früchte eine Kugel mit nach außen gerichteten Spitzen bilden. Der Igelkolben blüht im Juli und August – dann bleibt er als Gras am Wasser liegen. Nach dem wir am Mooskarl die Umgebung genossen haben, steuern wir die Brandner Hochalm auf 1.770 m an. In die Hütte kehren wir ein und gönnen uns ein paar leckere Schmankerln. Der Abstieg erfolgt über die Leidalm. Wir kommen an der Maurachalm vorbei und schließlich beim Aeroplanstadl, den man an den kupfernen Hähnen am Terrassengeländer erkennt. Wer hier schon mal zum Skifahren war, kennt den Aeroplan aber soundso... Vom Aeroplanstadl geht’s dann am Forstweg leicht bergab zum Kitzstein. Bei der Mittelstation Kitzstein setzen wir uns wieder in die Schlossalmbahn und kehren zum Ausgangspunkt zurück.</p>]]></desc><trkseg>
+         <trkpt lat="47.15397" lon="13.0603"><ele>2038</ele></trkpt>
+<trkpt lat="47.15418" lon="13.05999"><ele>2043</ele></trkpt>
+<trkpt lat="47.15473" lon="13.0597"><ele>2054</ele></trkpt>
+<trkpt lat="47.15512" lon="13.05945"><ele>2054</ele></trkpt>
+<trkpt lat="47.1555" lon="13.05901"><ele>2052</ele></trkpt>
+<trkpt lat="47.15604" lon="13.05915"><ele>2051</ele></trkpt>
+<trkpt lat="47.15701" lon="13.05923"><ele>2042</ele></trkpt>
+<trkpt lat="47.15764" lon="13.05921"><ele>2026</ele></trkpt>
+<trkpt lat="47.1584" lon="13.05867"><ele>2015</ele></trkpt>
+<trkpt lat="47.15898" lon="13.05862"><ele>2024</ele></trkpt>
+<trkpt lat="47.1595" lon="13.05837"><ele>2022</ele></trkpt>
+<trkpt lat="47.16007" lon="13.05749"><ele>2023</ele></trkpt>
+<trkpt lat="47.16016" lon="13.05676"><ele>2025</ele></trkpt>
+<trkpt lat="47.16006" lon="13.05579"><ele>2026</ele></trkpt>
+<trkpt lat="47.16049" lon="13.0547"><ele>2011</ele></trkpt>
+<trkpt lat="47.16119" lon="13.05363"><ele>2013</ele></trkpt>
+<trkpt lat="47.1614" lon="13.05358"><ele>2009</ele></trkpt>
+<trkpt lat="47.16182" lon="13.05353"><ele>2002</ele></trkpt>
+<trkpt lat="47.16213" lon="13.05301"><ele>2003</ele></trkpt>
+<trkpt lat="47.16227" lon="13.05239"><ele>2012</ele></trkpt>
+<trkpt lat="47.16297" lon="13.05147"><ele>1969</ele></trkpt>
+<trkpt lat="47.16323" lon="13.05099"><ele>1966</ele></trkpt>
+<trkpt lat="47.16284" lon="13.05023"><ele>1976</ele></trkpt>
+<trkpt lat="47.16265" lon="13.04947"><ele>1955</ele></trkpt>
+<trkpt lat="47.16279" lon="13.04884"><ele>1941</ele></trkpt>
+<trkpt lat="47.16333" lon="13.04766"><ele>1920</ele></trkpt>
+<trkpt lat="47.16392" lon="13.04691"><ele>1901</ele></trkpt>
+<trkpt lat="47.16466" lon="13.04688"><ele>1890</ele></trkpt>
+<trkpt lat="47.16519" lon="13.04694"><ele>1870</ele></trkpt>
+<trkpt lat="47.16551" lon="13.04747"><ele>1855</ele></trkpt>
+<trkpt lat="47.16598" lon="13.04714"><ele>1850</ele></trkpt>
+<trkpt lat="47.16668" lon="13.04766"><ele>1841</ele></trkpt>
+<trkpt lat="47.16699" lon="13.04768"><ele>1838</ele></trkpt>
+<trkpt lat="47.16728" lon="13.0474"><ele>1833</ele></trkpt>
+<trkpt lat="47.16753" lon="13.04824"><ele>1823</ele></trkpt>
+<trkpt lat="47.16854" lon="13.04875"><ele>1807</ele></trkpt>
+<trkpt lat="47.16952" lon="13.0491"><ele>1776</ele></trkpt>
+<trkpt lat="47.17042" lon="13.04953"><ele>1770</ele></trkpt>
+<trkpt lat="47.17059" lon="13.04995"><ele>1759</ele></trkpt>
+<trkpt lat="47.17027" lon="13.05"><ele>1752</ele></trkpt>
+<trkpt lat="47.16975" lon="13.04994"><ele>1746</ele></trkpt>
+<trkpt lat="47.16941" lon="13.05022"><ele>1744</ele></trkpt>
+<trkpt lat="47.16899" lon="13.05039"><ele>1744</ele></trkpt>
+<trkpt lat="47.16854" lon="13.05018"><ele>1744</ele></trkpt>
+<trkpt lat="47.16816" lon="13.05048"><ele>1742</ele></trkpt>
+<trkpt lat="47.1683" lon="13.05097"><ele>1735</ele></trkpt>
+<trkpt lat="47.16836" lon="13.05132"><ele>1724</ele></trkpt>
+<trkpt lat="47.16849" lon="13.051"><ele>1712</ele></trkpt>
+<trkpt lat="47.16875" lon="13.05096"><ele>1699</ele></trkpt>
+<trkpt lat="47.169" lon="13.05137"><ele>1695</ele></trkpt>
+<trkpt lat="47.16911" lon="13.05175"><ele>1692</ele></trkpt>
+<trkpt lat="47.16937" lon="13.05178"><ele>1689</ele></trkpt>
+<trkpt lat="47.16927" lon="13.05225"><ele>1684</ele></trkpt>
+<trkpt lat="47.16915" lon="13.05264"><ele>1679</ele></trkpt>
+<trkpt lat="47.16933" lon="13.05376"><ele>1632</ele></trkpt>
+<trkpt lat="47.16971" lon="13.05486"><ele>1629</ele></trkpt>
+<trkpt lat="47.16948" lon="13.05677"><ele>1603</ele></trkpt>
+<trkpt lat="47.16895" lon="13.05934"><ele>1571</ele></trkpt>
+<trkpt lat="47.16896" lon="13.05992"><ele>1585</ele></trkpt>
+<trkpt lat="47.1687" lon="13.06035"><ele>1598</ele></trkpt>
+<trkpt lat="47.16872" lon="13.06139"><ele>1597</ele></trkpt>
+<trkpt lat="47.16865" lon="13.0619"><ele>1589</ele></trkpt>
+<trkpt lat="47.1689" lon="13.06297"><ele>1561</ele></trkpt>
+<trkpt lat="47.16885" lon="13.06444"><ele>1571</ele></trkpt>
+<trkpt lat="47.16904" lon="13.06502"><ele>1569</ele></trkpt>
+<trkpt lat="47.16896" lon="13.06637"><ele>1554</ele></trkpt>
+<trkpt lat="47.16898" lon="13.06738"><ele>1556</ele></trkpt>
+<trkpt lat="47.16881" lon="13.06858"><ele>1547</ele></trkpt>
+<trkpt lat="47.16816" lon="13.07042"><ele>1499</ele></trkpt>
+<trkpt lat="47.16727" lon="13.07111"><ele>1487</ele></trkpt>
+<trkpt lat="47.16652" lon="13.07179"><ele>1479</ele></trkpt>
+<trkpt lat="47.16593" lon="13.0727"><ele>1448</ele></trkpt>
+<trkpt lat="47.1655" lon="13.07372"><ele>1426</ele></trkpt>
+<trkpt lat="47.16491" lon="13.07447"><ele>1407</ele></trkpt>
+<trkpt lat="47.16487" lon="13.07517"><ele>1397</ele></trkpt>
+<trkpt lat="47.1653" lon="13.07577"><ele>1385</ele></trkpt>
+<trkpt lat="47.16579" lon="13.07625"><ele>1370</ele></trkpt>
+<trkpt lat="47.16609" lon="13.07702"><ele>1361</ele></trkpt>
+<trkpt lat="47.1661" lon="13.07764"><ele>1356</ele></trkpt>
+<trkpt lat="47.16584" lon="13.07803"><ele>1345</ele></trkpt>
+<trkpt lat="47.1658" lon="13.0785"><ele>1336</ele></trkpt>
+<trkpt lat="47.16547" lon="13.07924"><ele>1330</ele></trkpt>
+<trkpt lat="47.16546" lon="13.08056"><ele>1322</ele></trkpt>
+<trkpt lat="47.16504" lon="13.08084"><ele>1314</ele></trkpt>
+<trkpt lat="47.16486" lon="13.08104"><ele>1314</ele></trkpt>
+<trkpt lat="47.16472" lon="13.08159"><ele>1314</ele></trkpt>
+<trkpt lat="47.16472" lon="13.08201"><ele>1314</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Zur Scotonihütte bei St. Kassian - wandertour]]></name>
+      <desc><![CDATA[<p><strong>In Spitzen-Position</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/9987/medium/suedtirol-wandern-pustertal-52.jpg" /></p><p></p><p>
+Hat man die Hütte erreicht, steht man auf dem ebenen grünen Boden der alten Lagazuoi-Alm, deren magere Schafweiden sich südwärts weit hinauf zu den Felsgipfeln des Großen und Kleinen Lagazuoi ziehen. Aber weniger diese Hänge und Gipfel sind es, die im Bereich der Hütte das Bild beherrschen, sondern die senkrechten Felsgestalten und Wände der Seespitze, der Scotonispitze und der Fanisspitzen.</p><p></p><p><a href="http://sentres.com/suedtirol/tour/zur-scotonihuette-bei-st-kassian">Weitere Informationen auf Sentres.com</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Zur Scotonihütte bei St. Kassian - wandertour]]></name><desc><![CDATA[<p><strong>In Spitzen-Position</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/9987/medium/suedtirol-wandern-pustertal-52.jpg" /></p><p></p><p>
+Hat man die Hütte erreicht, steht man auf dem ebenen grünen Boden der alten Lagazuoi-Alm, deren magere Schafweiden sich südwärts weit hinauf zu den Felsgipfeln des Großen und Kleinen Lagazuoi ziehen. Aber weniger diese Hänge und Gipfel sind es, die im Bereich der Hütte das Bild beherrschen, sondern die senkrechten Felsgestalten und Wände der Seespitze, der Scotonispitze und der Fanisspitzen.</p><p></p><p><a href="http://sentres.com/suedtirol/tour/zur-scotonihuette-bei-st-kassian">Weitere Informationen auf Sentres.com</a></p>]]></desc><trkseg>
+         <trkpt lat="46.5596087035776" lon="11.9813466635414"><ele>1736</ele></trkpt>
+<trkpt lat="46.5597208943952" lon="11.9815906829971"><ele>1734</ele></trkpt>
+<trkpt lat="46.5598562535555" lon="11.9824207227955"><ele>1728</ele></trkpt>
+<trkpt lat="46.5599698990305" lon="11.9827273358933"><ele>1727</ele></trkpt>
+<trkpt lat="46.5600132049779" lon="11.9834377213603"><ele>1725</ele></trkpt>
+<trkpt lat="46.5598544528978" lon="11.9839417344532"><ele>1725</ele></trkpt>
+<trkpt lat="46.5593079268412" lon="11.9851967342076"><ele>1729</ele></trkpt>
+<trkpt lat="46.5588780724675" lon="11.9854739644952"><ele>1734</ele></trkpt>
+<trkpt lat="46.5584193545198" lon="11.9858628176223"><ele>1733</ele></trkpt>
+<trkpt lat="46.558214424434" lon="11.9865683747242"><ele>1730</ele></trkpt>
+<trkpt lat="46.558227598517" lon="11.9873008948273"><ele>1730</ele></trkpt>
+<trkpt lat="46.5581516178369" lon="11.9880135218431"><ele>1732</ele></trkpt>
+<trkpt lat="46.557814825136" lon="11.9886157124552"><ele>1739</ele></trkpt>
+<trkpt lat="46.5569840486193" lon="11.9892923011607"><ele>1764</ele></trkpt>
+<trkpt lat="46.5565326057718" lon="11.9894963461239"><ele>1780</ele></trkpt>
+<trkpt lat="46.5561115933902" lon="11.9898438165685"><ele>1796</ele></trkpt>
+<trkpt lat="46.5557794740589" lon="11.9903544874002"><ele>1805</ele></trkpt>
+<trkpt lat="46.5556776306917" lon="11.9909199184587"><ele>1811</ele></trkpt>
+<trkpt lat="46.5555979299473" lon="11.9909811833272"><ele>1813</ele></trkpt>
+<trkpt lat="46.5560029881381" lon="11.9913611803378"><ele>1825</ele></trkpt>
+<trkpt lat="46.5560017144749" lon="11.9914406952587"><ele>1826</ele></trkpt>
+<trkpt lat="46.5555516692533" lon="11.9916844285125"><ele>1838</ele></trkpt>
+<trkpt lat="46.5558671523662" lon="11.9921852741296"><ele>1849</ele></trkpt>
+<trkpt lat="46.5555776516758" lon="11.9926546925321"><ele>1860</ele></trkpt>
+<trkpt lat="46.5557111961635" lon="11.9927155712401"><ele>1864</ele></trkpt>
+<trkpt lat="46.5557808706649" lon="11.9928189712567"><ele>1866</ele></trkpt>
+<trkpt lat="46.5555878845392" lon="11.9931552234608"><ele>1874</ele></trkpt>
+<trkpt lat="46.5557836715684" lon="11.9932341328343"><ele>1879</ele></trkpt>
+<trkpt lat="46.5554444084008" lon="11.9936946728663"><ele>1891</ele></trkpt>
+<trkpt lat="46.5556252168758" lon="11.9938793130582"><ele>1896</ele></trkpt>
+<trkpt lat="46.5552194697582" lon="11.9941648474153"><ele>1909</ele></trkpt>
+<trkpt lat="46.5550269892328" lon="11.9947395679256"><ele>1923</ele></trkpt>
+<trkpt lat="46.5547238682154" lon="11.9953416198691"><ele>1936</ele></trkpt>
+<trkpt lat="46.5546541367823" lon="11.9959704689284"><ele>1945</ele></trkpt>
+<trkpt lat="46.5542029153356" lon="11.9963565270717"><ele>1965</ele></trkpt>
+<trkpt lat="46.5539188454417" lon="11.9969941728011"><ele>1985</ele></trkpt>
+<trkpt lat="46.5534446318337" lon="11.9971918861702"><ele>1986</ele></trkpt>
+<trkpt lat="46.55310293307" lon="11.9977275120916"><ele>1989</ele></trkpt>
+<trkpt lat="46.5530962587251" lon="11.9980008287874"><ele>1991</ele></trkpt>
+<trkpt lat="46.5529086222068" lon="11.9984202742648"><ele>1995</ele></trkpt>
+<trkpt lat="46.5528415037994" lon="11.9984214271923"><ele>1995</ele></trkpt>
+<trkpt lat="46.5529079356299" lon="11.9984120030311"><ele>1996</ele></trkpt>
+<trkpt lat="46.5529839522591" lon="11.9983292187326"><ele>1996</ele></trkpt>
+<trkpt lat="46.5532832001683" lon="11.9972940493967"><ele>1985</ele></trkpt>
+<trkpt lat="46.5537636007812" lon="11.9970922843442"><ele>1965</ele></trkpt>
+<trkpt lat="46.5545319350567" lon="11.9960907951436"><ele>1934</ele></trkpt>
+<trkpt lat="46.5547073022963" lon="11.9954990979069"><ele>1924</ele></trkpt>
+<trkpt lat="46.5549993146354" lon="11.9949113394641"><ele>1908</ele></trkpt>
+<trkpt lat="46.5551014302719" lon="11.9942728739841"><ele>1895</ele></trkpt>
+<trkpt lat="46.5555482977959" lon="11.993989809901"><ele>1883</ele></trkpt>
+<trkpt lat="46.5556244667526" lon="11.9938777054444"><ele>1880</ele></trkpt>
+<trkpt lat="46.5554346639921" lon="11.993719002567"><ele>1875</ele></trkpt>
+<trkpt lat="46.5557856192433" lon="11.9932344439831"><ele>1862</ele></trkpt>
+<trkpt lat="46.5555950796582" lon="11.9931531738263"><ele>1857</ele></trkpt>
+<trkpt lat="46.5555729877326" lon="11.9926612908861"><ele>1849</ele></trkpt>
+<trkpt lat="46.5558904628902" lon="11.9921093726041"><ele>1837</ele></trkpt>
+<trkpt lat="46.555584410768" lon="11.991624693219"><ele>1826</ele></trkpt>
+<trkpt lat="46.555998419272" lon="11.9913642763483"><ele>1815</ele></trkpt>
+<trkpt lat="46.5555924962671" lon="11.9909798275491"><ele>1806</ele></trkpt>
+<trkpt lat="46.5560372735805" lon="11.9898998808927"><ele>1786</ele></trkpt>
+<trkpt lat="46.5564922852595" lon="11.9895313984992"><ele>1768</ele></trkpt>
+<trkpt lat="46.5569489472669" lon="11.9893430078471"><ele>1754</ele></trkpt>
+<trkpt lat="46.5573499254261" lon="11.9889570357664"><ele>1740</ele></trkpt>
+<trkpt lat="46.5577697248933" lon="11.9886730972979"><ele>1735</ele></trkpt>
+<trkpt lat="46.5581165997543" lon="11.9880817574607"><ele>1730</ele></trkpt>
+<trkpt lat="46.5582255940134" lon="11.9872978538635"><ele>1730</ele></trkpt>
+<trkpt lat="46.5582101435752" lon="11.9865709294525"><ele>1732</ele></trkpt>
+<trkpt lat="46.5583792352943" lon="11.9859208945567"><ele>1735</ele></trkpt>
+<trkpt lat="46.5587739287109" lon="11.9855059258633"><ele>1731</ele></trkpt>
+<trkpt lat="46.5592314604345" lon="11.9853207972266"><ele>1727</ele></trkpt>
+<trkpt lat="46.55980268079" lon="11.9840770561352"><ele>1728</ele></trkpt>
+<trkpt lat="46.5600517877423" lon="11.9833419467002"><ele>1728</ele></trkpt>
+<trkpt lat="46.5599745852518" lon="11.982728569333"><ele>1728</ele></trkpt>
+<trkpt lat="46.5597554234184" lon="11.9819191290134"><ele>1729</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

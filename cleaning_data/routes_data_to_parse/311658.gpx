@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Großes Bärneck von der Riesner Alm]]></name>
+      <desc><![CDATA[<p>Mit der Riesneralmbahn ist die Hälfte der notwendigen Höhenmeter in wenigen Minuten zurückgelegt. Und dann beginnt ein reizvoller, aussichtsreicher und fast eben verlaufender Höhenweg in das Kar unterhalb des Großen Bärneck zur Finsterkaralm. Zum kleinen, aber schön gelegenen Finsterkarsee führt der Steig mäßig steil entlang des kleinen Baches geran und seine Lage im hintersten Kar am Fuße der Finsterkarspitze macht ihn zu einem schönen Rastplatz. Hoch über Tälern und Almböden wandert man so über den Kammverlauf mit den eingelagerten Gipfeln zum Großen Bärneck. Der Weiterweg führt bis zur Gstemmerscharte. Dort beendet man die aussichtsreiche Höhenwanderung und nimmt den Steig 902 hinunter zu den Mölrschbachalmen bis zur Mörschbachhütte.</p>
+<p>Gehzeit: ca. 5-6 Stunden</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Großes Bärneck von der Riesner Alm]]></name><desc><![CDATA[<p>Mit der Riesneralmbahn ist die Hälfte der notwendigen Höhenmeter in wenigen Minuten zurückgelegt. Und dann beginnt ein reizvoller, aussichtsreicher und fast eben verlaufender Höhenweg in das Kar unterhalb des Großen Bärneck zur Finsterkaralm. Zum kleinen, aber schön gelegenen Finsterkarsee führt der Steig mäßig steil entlang des kleinen Baches geran und seine Lage im hintersten Kar am Fuße der Finsterkarspitze macht ihn zu einem schönen Rastplatz. Hoch über Tälern und Almböden wandert man so über den Kammverlauf mit den eingelagerten Gipfeln zum Großen Bärneck. Der Weiterweg führt bis zur Gstemmerscharte. Dort beendet man die aussichtsreiche Höhenwanderung und nimmt den Steig 902 hinunter zu den Mölrschbachalmen bis zur Mörschbachhütte.</p>
+<p>Gehzeit: ca. 5-6 Stunden</p>]]></desc><trkseg>
+         <trkpt lat="47.36826" lon="14.10063"><ele>1569</ele></trkpt>
+<trkpt lat="47.36792" lon="14.10155"><ele>1602</ele></trkpt>
+<trkpt lat="47.36792" lon="14.10269"><ele>1605</ele></trkpt>
+<trkpt lat="47.36738" lon="14.10348"><ele>1599</ele></trkpt>
+<trkpt lat="47.36682" lon="14.10436"><ele>1595</ele></trkpt>
+<trkpt lat="47.3662" lon="14.10451"><ele>1594</ele></trkpt>
+<trkpt lat="47.36609" lon="14.10454"><ele>1594</ele></trkpt>
+<trkpt lat="47.36575" lon="14.10451"><ele>1594</ele></trkpt>
+<trkpt lat="47.36502" lon="14.1034"><ele>1586</ele></trkpt>
+<trkpt lat="47.36425" lon="14.10192"><ele>1585</ele></trkpt>
+<trkpt lat="47.36386" lon="14.10112"><ele>1595</ele></trkpt>
+<trkpt lat="47.36335" lon="14.09994"><ele>1551</ele></trkpt>
+<trkpt lat="47.36258" lon="14.09861"><ele>1538</ele></trkpt>
+<trkpt lat="47.36189" lon="14.09829"><ele>1543</ele></trkpt>
+<trkpt lat="47.36077" lon="14.09808"><ele>1547</ele></trkpt>
+<trkpt lat="47.35976" lon="14.09773"><ele>1541</ele></trkpt>
+<trkpt lat="47.35858" lon="14.09709"><ele>1551</ele></trkpt>
+<trkpt lat="47.35839" lon="14.09698"><ele>1554</ele></trkpt>
+<trkpt lat="47.35807" lon="14.09762"><ele>1563</ele></trkpt>
+<trkpt lat="47.35788" lon="14.09799"><ele>1574</ele></trkpt>
+<trkpt lat="47.35785" lon="14.09801"><ele>1575</ele></trkpt>
+<trkpt lat="47.3574" lon="14.09827"><ele>1593</ele></trkpt>
+<trkpt lat="47.35657" lon="14.09833"><ele>1593</ele></trkpt>
+<trkpt lat="47.35644" lon="14.09861"><ele>1604</ele></trkpt>
+<trkpt lat="47.35672" lon="14.09934"><ele>1638</ele></trkpt>
+<trkpt lat="47.35695" lon="14.09966"><ele>1650</ele></trkpt>
+<trkpt lat="47.35698" lon="14.0999"><ele>1654</ele></trkpt>
+<trkpt lat="47.3564" lon="14.10016"><ele>1669</ele></trkpt>
+<trkpt lat="47.35592" lon="14.10005"><ele>1675</ele></trkpt>
+<trkpt lat="47.35566" lon="14.09973"><ele>1680</ele></trkpt>
+<trkpt lat="47.35534" lon="14.09936"><ele>1691</ele></trkpt>
+<trkpt lat="47.35459" lon="14.09911"><ele>1709</ele></trkpt>
+<trkpt lat="47.35307" lon="14.09881"><ele>1731</ele></trkpt>
+<trkpt lat="47.35189" lon="14.09848"><ele>1760</ele></trkpt>
+<trkpt lat="47.3511" lon="14.09797"><ele>1779</ele></trkpt>
+<trkpt lat="47.35062" lon="14.09726"><ele>1796</ele></trkpt>
+<trkpt lat="47.35034" lon="14.09653"><ele>1804</ele></trkpt>
+<trkpt lat="47.35027" lon="14.09597"><ele>1809</ele></trkpt>
+<trkpt lat="47.35022" lon="14.09561"><ele>1813</ele></trkpt>
+<trkpt lat="47.34964" lon="14.09546"><ele>1827</ele></trkpt>
+<trkpt lat="47.34897" lon="14.09544"><ele>1853</ele></trkpt>
+<trkpt lat="47.3485" lon="14.09503"><ele>1856</ele></trkpt>
+<trkpt lat="47.34816" lon="14.09419"><ele>1868</ele></trkpt>
+<trkpt lat="47.34816" lon="14.09383"><ele>1876</ele></trkpt>
+<trkpt lat="47.34796" lon="14.09366"><ele>1884</ele></trkpt>
+<trkpt lat="47.34783" lon="14.09327"><ele>1890</ele></trkpt>
+<trkpt lat="47.34768" lon="14.09308"><ele>1893</ele></trkpt>
+<trkpt lat="47.34721" lon="14.09303"><ele>1903</ele></trkpt>
+<trkpt lat="47.34723" lon="14.09254"><ele>1922</ele></trkpt>
+<trkpt lat="47.34747" lon="14.09162"><ele>1952</ele></trkpt>
+<trkpt lat="47.34768" lon="14.09121"><ele>1952</ele></trkpt>
+<trkpt lat="47.34734" lon="14.09119"><ele>1952</ele></trkpt>
+<trkpt lat="47.34775" lon="14.09061"><ele>1960</ele></trkpt>
+<trkpt lat="47.34764" lon="14.09035"><ele>1964</ele></trkpt>
+<trkpt lat="47.34762" lon="14.09029"><ele>1965</ele></trkpt>
+<trkpt lat="47.34773" lon="14.08992"><ele>1970</ele></trkpt>
+<trkpt lat="47.34811" lon="14.08891"><ele>1983</ele></trkpt>
+<trkpt lat="47.34809" lon="14.08849"><ele>1984</ele></trkpt>
+<trkpt lat="47.34923" lon="14.08645"><ele>1968</ele></trkpt>
+<trkpt lat="47.34979" lon="14.08552"><ele>1975</ele></trkpt>
+<trkpt lat="47.34987" lon="14.08509"><ele>1974</ele></trkpt>
+<trkpt lat="47.35065" lon="14.08334"><ele>1992</ele></trkpt>
+<trkpt lat="47.35069" lon="14.08323"><ele>1994</ele></trkpt>
+<trkpt lat="47.35135" lon="14.08222"><ele>2029</ele></trkpt>
+<trkpt lat="47.35238" lon="14.08106"><ele>2041</ele></trkpt>
+<trkpt lat="47.35288" lon="14.08046"><ele>2041</ele></trkpt>
+<trkpt lat="47.35322" lon="14.07949"><ele>2041</ele></trkpt>
+<trkpt lat="47.35323" lon="14.08005"><ele>2040</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

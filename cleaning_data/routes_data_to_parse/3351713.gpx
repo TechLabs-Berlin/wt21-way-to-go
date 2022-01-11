@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Walking - Sadrazamkoy round trail]]></name>
+      <desc><![CDATA[<p>
+	<strong>Sadrazamköy Trail</strong></p>
+<p>
+	 </p>
+<p>
+	<strong>Trail Info:</strong></p>
+<p>
+	Location of the Trailhead: The trailhead is located near the roadside cafe beyond Sadrazamköy village.</p>
+<p>
+	Distance: 9,5 km</p>
+<p>
+	Duration: 3 – 4 hours</p>
+<p>
+	Ascent: +120 m</p>
+<p>
+	Difficulty level: Easy / Moderate</p>
+<p>
+	Notes:</p>
+<p>
+	·         This trail is not marked but overlaps partly with another trail marked with green-white.</p>
+<p>
+	·         Trail surface in rocky areas (nearly half of the way) is very rough and not recommended for people with poor eyesight.</p>
+<p>
+	 </p>
+<p>
+	<strong>Information Board (1) – Lighthouse (10)</strong></p>
+<p>
+	Trail information board <strong>(1)</strong> located in the parking area near the cafe/restaurant is the starting point for the trail. From the information board turn L and walk past the cafe, down to the water tank and the trailgate. The water tank is fed by a trickling spring. This is one of the very rare permanent springs in North Cyprus. Turn R at the corner of the water pool <strong>(2)</strong> and walk towards the seaside along the fence of the housing complex on the right. At the end of the fence <strong>(3)</strong>, turn L onto a small path going around the lentisk bushes. This trail travels all the way to the lighthouse at the northwestern tip of the island all along the coastal cliffs. Stay on the track as close as possible to the edge of the cliff. Where the cliff is broken <strong>(4)</strong>, turn right and walk down to the sea shore. Walk below the cliff through eroded rock formations. Arrive at an open space and turn L on the dirt track <strong>(5)</strong> up a gentle slope. 20 meters inland from the edge of the cliff find the trail indicated by a rock cairn <strong>(6)</strong>. This trail is lined with rocks on the sides and marked with white-green colors. Follow this trail for about 1,5 km on rocky terrain to cross a dirt track <strong>(7)</strong> and then to pass by a water-well near a seaside shack <strong>(8)</strong> with dogs. Arrive at a concrete pyramid P62 <strong>(9)</strong>, and turn R. Continue to follow the trail along the shore on the edge of the cliff to the lighthouse <strong>(10)</strong>.</p>
+<p>
+	<strong>Lighthouse (10)– Junction (17)</strong></p>
+<p>
+	From the lighthouse, use the gravel road curving L for about 50 meters and find the narrow path <strong>(11)</strong> again just below the gravel road towards the sea. This section of the trail is now along the west coast, heading south. The path meanders through an unusual cover of thymes. After the sandy area, the trail climbs up and down three rocky hills one after the other <strong>(12, 13, 14)</strong>. Descend from the third hill to soft ground again lined nicely with rocks to arrive at pyramid P75 <strong>(15)</strong> next to a water-well and a junction. From the pyramid, turn R to follow the dirt track along the shore further south in this windswept landscape tormented by the saline seasprays. Keep going straight at the end of the sandy dirt track to find the rough and rocky road <strong>(16)</strong> about 100 meters ahead. Follow the road until the next junction <strong>(17)</strong>.</p>
+<p>
+	<strong>Junction (17) – Information Board (1)</strong></p>
+<p>
+	 At the junction <strong>(17)</strong> turn L, away from the seaside. Walk inland on the dirt track and arrive at a junction <strong>(18)</strong> in about 150 meters. Turn L, and there is an observation structure on top of the highest hill in the distance. Pass by a bunker (19) on the right side of the road and continue forward in this amazing mosaic of scapes of various rock outcrops, ploughed fields and natural scrubland. In about 700 meters, there is a stone cairn on the left, and here, leave the dirt track to a smaller inconspicuous path <strong>(20)</strong> branching off to the R. Follow the path with fields on the left and bushes on the right. Path curves R and arrives at a junction <strong>(21)</strong>. Turn L and continue on the dirt track and then turn R after a big pile of stones <strong>(22)</strong> onto a smaller path. This area is covered by crisscrossing goat tracks. Follow a path roughly in the direction of the mosque situated in the village. At the tall olive tree <strong>(23)</strong>turn R, and head uphill towards the observation structure on top of the rocky hill to arrive at an open space with a water well <strong>(24)</strong>. Pass by the well and the rocks behind it and follow the narrow path curving L towards the village again through squat bushes. Walk on the trail with a gentle slope down along the hill towards the white houses on the seaside. There are lots of loose stones on the ground and many tracks. Refrain from the tracks leading up the hill. Pass by a carob tree <strong>(25)</strong> and a field to the left, to arrive at the gravel road in about a 100 meters. On the gravel road, turn R and finish at the trailhead <strong>(1)</strong>.</p>
+<p>
+	 </p>
+<p>
+	<strong>Difficulty Levels</strong></p>
+<p>
+	Easy: Flat to slight slopes</p>
+<p>
+	Moderate: Moderate Slopes</p>
+<p>
+	Difficult: Trail with Steep slopes</p>
+<p>
+	Very Difficult: Trail with very steep slopes requiring scrambling</p>
+<p>
+	 </p>
+<p>
+	 </p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Walking - Sadrazamkoy round trail]]></name><desc><![CDATA[<p>
+	<strong>Sadrazamköy Trail</strong></p>
+<p>
+	 </p>
+<p>
+	<strong>Trail Info:</strong></p>
+<p>
+	Location of the Trailhead: The trailhead is located near the roadside cafe beyond Sadrazamköy village.</p>
+<p>
+	Distance: 9,5 km</p>
+<p>
+	Duration: 3 – 4 hours</p>
+<p>
+	Ascent: +120 m</p>
+<p>
+	Difficulty level: Easy / Moderate</p>
+<p>
+	Notes:</p>
+<p>
+	·         This trail is not marked but overlaps partly with another trail marked with green-white.</p>
+<p>
+	·         Trail surface in rocky areas (nearly half of the way) is very rough and not recommended for people with poor eyesight.</p>
+<p>
+	 </p>
+<p>
+	<strong>Information Board (1) – Lighthouse (10)</strong></p>
+<p>
+	Trail information board <strong>(1)</strong> located in the parking area near the cafe/restaurant is the starting point for the trail. From the information board turn L and walk past the cafe, down to the water tank and the trailgate. The water tank is fed by a trickling spring. This is one of the very rare permanent springs in North Cyprus. Turn R at the corner of the water pool <strong>(2)</strong> and walk towards the seaside along the fence of the housing complex on the right. At the end of the fence <strong>(3)</strong>, turn L onto a small path going around the lentisk bushes. This trail travels all the way to the lighthouse at the northwestern tip of the island all along the coastal cliffs. Stay on the track as close as possible to the edge of the cliff. Where the cliff is broken <strong>(4)</strong>, turn right and walk down to the sea shore. Walk below the cliff through eroded rock formations. Arrive at an open space and turn L on the dirt track <strong>(5)</strong> up a gentle slope. 20 meters inland from the edge of the cliff find the trail indicated by a rock cairn <strong>(6)</strong>. This trail is lined with rocks on the sides and marked with white-green colors. Follow this trail for about 1,5 km on rocky terrain to cross a dirt track <strong>(7)</strong> and then to pass by a water-well near a seaside shack <strong>(8)</strong> with dogs. Arrive at a concrete pyramid P62 <strong>(9)</strong>, and turn R. Continue to follow the trail along the shore on the edge of the cliff to the lighthouse <strong>(10)</strong>.</p>
+<p>
+	<strong>Lighthouse (10)– Junction (17)</strong></p>
+<p>
+	From the lighthouse, use the gravel road curving L for about 50 meters and find the narrow path <strong>(11)</strong> again just below the gravel road towards the sea. This section of the trail is now along the west coast, heading south. The path meanders through an unusual cover of thymes. After the sandy area, the trail climbs up and down three rocky hills one after the other <strong>(12, 13, 14)</strong>. Descend from the third hill to soft ground again lined nicely with rocks to arrive at pyramid P75 <strong>(15)</strong> next to a water-well and a junction. From the pyramid, turn R to follow the dirt track along the shore further south in this windswept landscape tormented by the saline seasprays. Keep going straight at the end of the sandy dirt track to find the rough and rocky road <strong>(16)</strong> about 100 meters ahead. Follow the road until the next junction <strong>(17)</strong>.</p>
+<p>
+	<strong>Junction (17) – Information Board (1)</strong></p>
+<p>
+	 At the junction <strong>(17)</strong> turn L, away from the seaside. Walk inland on the dirt track and arrive at a junction <strong>(18)</strong> in about 150 meters. Turn L, and there is an observation structure on top of the highest hill in the distance. Pass by a bunker (19) on the right side of the road and continue forward in this amazing mosaic of scapes of various rock outcrops, ploughed fields and natural scrubland. In about 700 meters, there is a stone cairn on the left, and here, leave the dirt track to a smaller inconspicuous path <strong>(20)</strong> branching off to the R. Follow the path with fields on the left and bushes on the right. Path curves R and arrives at a junction <strong>(21)</strong>. Turn L and continue on the dirt track and then turn R after a big pile of stones <strong>(22)</strong> onto a smaller path. This area is covered by crisscrossing goat tracks. Follow a path roughly in the direction of the mosque situated in the village. At the tall olive tree <strong>(23)</strong>turn R, and head uphill towards the observation structure on top of the rocky hill to arrive at an open space with a water well <strong>(24)</strong>. Pass by the well and the rocks behind it and follow the narrow path curving L towards the village again through squat bushes. Walk on the trail with a gentle slope down along the hill towards the white houses on the seaside. There are lots of loose stones on the ground and many tracks. Refrain from the tracks leading up the hill. Pass by a carob tree <strong>(25)</strong> and a field to the left, to arrive at the gravel road in about a 100 meters. On the gravel road, turn R and finish at the trailhead <strong>(1)</strong>.</p>
+<p>
+	 </p>
+<p>
+	<strong>Difficulty Levels</strong></p>
+<p>
+	Easy: Flat to slight slopes</p>
+<p>
+	Moderate: Moderate Slopes</p>
+<p>
+	Difficult: Trail with Steep slopes</p>
+<p>
+	Very Difficult: Trail with very steep slopes requiring scrambling</p>
+<p>
+	 </p>
+<p>
+	 </p>
+]]></desc><trkseg>
+         <trkpt lat="35.38632" lon="32.94335"><ele>33</ele></trkpt>
+<trkpt lat="35.3861" lon="32.9429"><ele>33</ele></trkpt>
+<trkpt lat="35.38606" lon="32.94269"><ele>33</ele></trkpt>
+<trkpt lat="35.38605" lon="32.94264"><ele>33</ele></trkpt>
+<trkpt lat="35.38611" lon="32.9429"><ele>33</ele></trkpt>
+<trkpt lat="35.38622" lon="32.94315"><ele>33</ele></trkpt>
+<trkpt lat="35.38632" lon="32.94336"><ele>33</ele></trkpt>
+<trkpt lat="35.38654" lon="32.94403"><ele>32</ele></trkpt>
+<trkpt lat="35.3866" lon="32.94448"><ele>31</ele></trkpt>
+<trkpt lat="35.38671" lon="32.94489"><ele>30</ele></trkpt>
+<trkpt lat="35.3867" lon="32.94517"><ele>29</ele></trkpt>
+<trkpt lat="35.38679" lon="32.94539"><ele>28</ele></trkpt>
+<trkpt lat="35.38701" lon="32.94576"><ele>26</ele></trkpt>
+<trkpt lat="35.38706" lon="32.94585"><ele>26</ele></trkpt>
+<trkpt lat="35.38723" lon="32.94595"><ele>26</ele></trkpt>
+<trkpt lat="35.38733" lon="32.94607"><ele>26</ele></trkpt>
+<trkpt lat="35.38736" lon="32.94616"><ele>26</ele></trkpt>
+<trkpt lat="35.38737" lon="32.94638"><ele>26</ele></trkpt>
+<trkpt lat="35.3872" lon="32.94637"><ele>25</ele></trkpt>
+<trkpt lat="35.38718" lon="32.94647"><ele>25</ele></trkpt>
+<trkpt lat="35.38719" lon="32.94657"><ele>25</ele></trkpt>
+<trkpt lat="35.38737" lon="32.94681"><ele>25</ele></trkpt>
+<trkpt lat="35.38742" lon="32.94697"><ele>25</ele></trkpt>
+<trkpt lat="35.38754" lon="32.94707"><ele>25</ele></trkpt>
+<trkpt lat="35.38761" lon="32.94724"><ele>24</ele></trkpt>
+<trkpt lat="35.38773" lon="32.94739"><ele>24</ele></trkpt>
+<trkpt lat="35.38774" lon="32.94745"><ele>23</ele></trkpt>
+<trkpt lat="35.38785" lon="32.94757"><ele>23</ele></trkpt>
+<trkpt lat="35.38802" lon="32.94767"><ele>22</ele></trkpt>
+<trkpt lat="35.38805" lon="32.94774"><ele>22</ele></trkpt>
+<trkpt lat="35.38806" lon="32.94783"><ele>22</ele></trkpt>
+<trkpt lat="35.38796" lon="32.94833"><ele>22</ele></trkpt>
+<trkpt lat="35.38766" lon="32.94894"><ele>23</ele></trkpt>
+<trkpt lat="35.3876" lon="32.94909"><ele>23</ele></trkpt>
+<trkpt lat="35.38763" lon="32.94932"><ele>23</ele></trkpt>
+<trkpt lat="35.38761" lon="32.9491"><ele>23</ele></trkpt>
+<trkpt lat="35.38764" lon="32.94902"><ele>23</ele></trkpt>
+<trkpt lat="35.38785" lon="32.94861"><ele>23</ele></trkpt>
+<trkpt lat="35.38796" lon="32.94841"><ele>23</ele></trkpt>
+<trkpt lat="35.38803" lon="32.94826"><ele>23</ele></trkpt>
+<trkpt lat="35.38805" lon="32.94834"><ele>23</ele></trkpt>
+<trkpt lat="35.38815" lon="32.94837"><ele>23</ele></trkpt>
+<trkpt lat="35.38822" lon="32.94858"><ele>22</ele></trkpt>
+<trkpt lat="35.3883" lon="32.94861"><ele>22</ele></trkpt>
+<trkpt lat="35.38833" lon="32.94857"><ele>22</ele></trkpt>
+<trkpt lat="35.38842" lon="32.94855"><ele>21</ele></trkpt>
+<trkpt lat="35.3887" lon="32.94884"><ele>19</ele></trkpt>
+<trkpt lat="35.38893" lon="32.94887"><ele>18</ele></trkpt>
+<trkpt lat="35.38905" lon="32.94885"><ele>18</ele></trkpt>
+<trkpt lat="35.38909" lon="32.94884"><ele>18</ele></trkpt>
+<trkpt lat="35.38937" lon="32.94881"><ele>17</ele></trkpt>
+<trkpt lat="35.38949" lon="32.94875"><ele>17</ele></trkpt>
+<trkpt lat="35.3896" lon="32.94879"><ele>17</ele></trkpt>
+<trkpt lat="35.38992" lon="32.94882"><ele>13</ele></trkpt>
+<trkpt lat="35.39015" lon="32.94889"><ele>9</ele></trkpt>
+<trkpt lat="35.39023" lon="32.94887"><ele>8</ele></trkpt>
+<trkpt lat="35.39035" lon="32.9489"><ele>6</ele></trkpt>
+<trkpt lat="35.39044" lon="32.94905"><ele>4</ele></trkpt>
+<trkpt lat="35.39049" lon="32.94904"><ele>3</ele></trkpt>
+<trkpt lat="35.39052" lon="32.94889"><ele>3</ele></trkpt>
+<trkpt lat="35.39049" lon="32.94861"><ele>4</ele></trkpt>
+<trkpt lat="35.39051" lon="32.94857"><ele>4</ele></trkpt>
+<trkpt lat="35.3906" lon="32.94852"><ele>5</ele></trkpt>
+<trkpt lat="35.39098" lon="32.94775"><ele>7</ele></trkpt>
+<trkpt lat="35.39102" lon="32.94764"><ele>7</ele></trkpt>
+<trkpt lat="35.391" lon="32.94745"><ele>7</ele></trkpt>
+<trkpt lat="35.39105" lon="32.9472"><ele>7</ele></trkpt>
+<trkpt lat="35.39103" lon="32.94663"><ele>7</ele></trkpt>
+<trkpt lat="35.39116" lon="32.94651"><ele>7</ele></trkpt>
+<trkpt lat="35.39143" lon="32.94631"><ele>6</ele></trkpt>
+<trkpt lat="35.39147" lon="32.94638"><ele>6</ele></trkpt>
+<trkpt lat="35.39158" lon="32.94643"><ele>5</ele></trkpt>
+<trkpt lat="35.39173" lon="32.9464"><ele>4</ele></trkpt>
+<trkpt lat="35.39184" lon="32.94616"><ele>3</ele></trkpt>
+<trkpt lat="35.39192" lon="32.94591"><ele>2</ele></trkpt>
+<trkpt lat="35.39209" lon="32.9456"><ele>2</ele></trkpt>
+<trkpt lat="35.39227" lon="32.94548"><ele>2</ele></trkpt>
+<trkpt lat="35.39258" lon="32.94522"><ele>3</ele></trkpt>
+<trkpt lat="35.39251" lon="32.94507"><ele>3</ele></trkpt>
+<trkpt lat="35.39251" lon="32.94496"><ele>3</ele></trkpt>
+<trkpt lat="35.39257" lon="32.94488"><ele>3</ele></trkpt>
+<trkpt lat="35.39252" lon="32.94467"><ele>4</ele></trkpt>
+<trkpt lat="35.39266" lon="32.9444"><ele>4</ele></trkpt>
+<trkpt lat="35.39272" lon="32.94413"><ele>5</ele></trkpt>
+<trkpt lat="35.39284" lon="32.94403"><ele>5</ele></trkpt>
+<trkpt lat="35.39296" lon="32.94377"><ele>6</ele></trkpt>
+<trkpt lat="35.39339" lon="32.94331"><ele>5</ele></trkpt>
+<trkpt lat="35.39351" lon="32.94313"><ele>4</ele></trkpt>
+<trkpt lat="35.39359" lon="32.94291"><ele>3</ele></trkpt>
+<trkpt lat="35.39361" lon="32.94283"><ele>3</ele></trkpt>
+<trkpt lat="35.39353" lon="32.94235"><ele>2</ele></trkpt>
+<trkpt lat="35.3936" lon="32.94224"><ele>2</ele></trkpt>
+<trkpt lat="35.39371" lon="32.94182"><ele>2</ele></trkpt>
+<trkpt lat="35.3938" lon="32.94161"><ele>2</ele></trkpt>
+<trkpt lat="35.39381" lon="32.94139"><ele>2</ele></trkpt>
+<trkpt lat="35.39385" lon="32.94104"><ele>3</ele></trkpt>
+<trkpt lat="35.39393" lon="32.94088"><ele>3</ele></trkpt>
+<trkpt lat="35.39397" lon="32.94054"><ele>4</ele></trkpt>
+<trkpt lat="35.39407" lon="32.9403"><ele>5</ele></trkpt>
+<trkpt lat="35.39412" lon="32.94005"><ele>6</ele></trkpt>
+<trkpt lat="35.39427" lon="32.93977"><ele>6</ele></trkpt>
+<trkpt lat="35.3944" lon="32.93935"><ele>5</ele></trkpt>
+<trkpt lat="35.39445" lon="32.93929"><ele>5</ele></trkpt>
+<trkpt lat="35.39453" lon="32.93929"><ele>5</ele></trkpt>
+<trkpt lat="35.39458" lon="32.93924"><ele>5</ele></trkpt>
+<trkpt lat="35.39462" lon="32.93916"><ele>5</ele></trkpt>
+<trkpt lat="35.39472" lon="32.93909"><ele>5</ele></trkpt>
+<trkpt lat="35.39475" lon="32.93913"><ele>5</ele></trkpt>
+<trkpt lat="35.39491" lon="32.93907"><ele>5</ele></trkpt>
+<trkpt lat="35.39515" lon="32.93886"><ele>5</ele></trkpt>
+<trkpt lat="35.39518" lon="32.93872"><ele>5</ele></trkpt>
+<trkpt lat="35.39514" lon="32.93851"><ele>5</ele></trkpt>
+<trkpt lat="35.3952" lon="32.93844"><ele>5</ele></trkpt>
+<trkpt lat="35.39528" lon="32.93844"><ele>5</ele></trkpt>
+<trkpt lat="35.39561" lon="32.93816"><ele>6</ele></trkpt>
+<trkpt lat="35.39582" lon="32.93791"><ele>7</ele></trkpt>
+<trkpt lat="35.3958" lon="32.93757"><ele>8</ele></trkpt>
+<trkpt lat="35.39598" lon="32.93703"><ele>10</ele></trkpt>
+<trkpt lat="35.39599" lon="32.9369"><ele>10</ele></trkpt>
+<trkpt lat="35.39597" lon="32.93657"><ele>11</ele></trkpt>
+<trkpt lat="35.39603" lon="32.93634"><ele>12</ele></trkpt>
+<trkpt lat="35.39605" lon="32.93584"><ele>13</ele></trkpt>
+<trkpt lat="35.39603" lon="32.9357"><ele>13</ele></trkpt>
+<trkpt lat="35.39604" lon="32.93565"><ele>13</ele></trkpt>
+<trkpt lat="35.39612" lon="32.93554"><ele>13</ele></trkpt>
+<trkpt lat="35.39615" lon="32.93537"><ele>13</ele></trkpt>
+<trkpt lat="35.39622" lon="32.9351"><ele>13</ele></trkpt>
+<trkpt lat="35.39621" lon="32.93462"><ele>13</ele></trkpt>
+<trkpt lat="35.39624" lon="32.93455"><ele>13</ele></trkpt>
+<trkpt lat="35.39635" lon="32.9345"><ele>12</ele></trkpt>
+<trkpt lat="35.39656" lon="32.93418"><ele>11</ele></trkpt>
+<trkpt lat="35.39658" lon="32.93411"><ele>11</ele></trkpt>
+<trkpt lat="35.39654" lon="32.93368"><ele>12</ele></trkpt>
+<trkpt lat="35.39646" lon="32.93317"><ele>14</ele></trkpt>
+<trkpt lat="35.39649" lon="32.93308"><ele>14</ele></trkpt>
+<trkpt lat="35.3965" lon="32.93273"><ele>15</ele></trkpt>
+<trkpt lat="35.39657" lon="32.93248"><ele>16</ele></trkpt>
+<trkpt lat="35.39666" lon="32.9324"><ele>17</ele></trkpt>
+<trkpt lat="35.3968" lon="32.9321"><ele>17</ele></trkpt>
+<trkpt lat="35.39688" lon="32.93207"><ele>17</ele></trkpt>
+<trkpt lat="35.397" lon="32.93198"><ele>15</ele></trkpt>
+<trkpt lat="35.39706" lon="32.93168"><ele>13</ele></trkpt>
+<trkpt lat="35.39711" lon="32.93158"><ele>12</ele></trkpt>
+<trkpt lat="35.39717" lon="32.93132"><ele>10</ele></trkpt>
+<trkpt lat="35.39725" lon="32.93111"><ele>10</ele></trkpt>
+<trkpt lat="35.39724" lon="32.93076"><ele>10</ele></trkpt>
+<trkpt lat="35.39727" lon="32.93066"><ele>10</ele></trkpt>
+<trkpt lat="35.39724" lon="32.93028"><ele>10</ele></trkpt>
+<trkpt lat="35.39734" lon="32.93017"><ele>10</ele></trkpt>
+<trkpt lat="35.39741" lon="32.9302"><ele>10</ele></trkpt>
+<trkpt lat="35.39746" lon="32.93029"><ele>10</ele></trkpt>
+<trkpt lat="35.39776" lon="32.93031"><ele>9</ele></trkpt>
+<trkpt lat="35.39783" lon="32.93027"><ele>9</ele></trkpt>
+<trkpt lat="35.39787" lon="32.93028"><ele>9</ele></trkpt>
+<trkpt lat="35.39793" lon="32.93021"><ele>9</ele></trkpt>
+<trkpt lat="35.39796" lon="32.93012"><ele>8</ele></trkpt>
+<trkpt lat="35.39813" lon="32.93005"><ele>8</ele></trkpt>
+<trkpt lat="35.39835" lon="32.9301"><ele>7</ele></trkpt>
+<trkpt lat="35.39857" lon="32.93012"><ele>6</ele></trkpt>
+<trkpt lat="35.39873" lon="32.93008"><ele>6</ele></trkpt>
+<trkpt lat="35.39927" lon="32.92959"><ele>7</ele></trkpt>
+<trkpt lat="35.39935" lon="32.92927"><ele>7</ele></trkpt>
+<trkpt lat="35.39954" lon="32.92891"><ele>7</ele></trkpt>
+<trkpt lat="35.39958" lon="32.92888"><ele>7</ele></trkpt>
+<trkpt lat="35.39953" lon="32.92862"><ele>7</ele></trkpt>
+<trkpt lat="35.39955" lon="32.92836"><ele>7</ele></trkpt>
+<trkpt lat="35.39971" lon="32.92816"><ele>7</ele></trkpt>
+<trkpt lat="35.39981" lon="32.92787"><ele>7</ele></trkpt>
+<trkpt lat="35.3998" lon="32.92781"><ele>7</ele></trkpt>
+<trkpt lat="35.39996" lon="32.92754"><ele>7</ele></trkpt>
+<trkpt lat="35.39996" lon="32.92736"><ele>8</ele></trkpt>
+<trkpt lat="35.39991" lon="32.92717"><ele>8</ele></trkpt>
+<trkpt lat="35.39991" lon="32.92693"><ele>8</ele></trkpt>
+<trkpt lat="35.40002" lon="32.92671"><ele>8</ele></trkpt>
+<trkpt lat="35.40006" lon="32.9265"><ele>8</ele></trkpt>
+<trkpt lat="35.40014" lon="32.92577"><ele>8</ele></trkpt>
+<trkpt lat="35.40022" lon="32.92561"><ele>8</ele></trkpt>
+<trkpt lat="35.40037" lon="32.92525"><ele>6</ele></trkpt>
+<trkpt lat="35.40044" lon="32.92517"><ele>6</ele></trkpt>
+<trkpt lat="35.40055" lon="32.92512"><ele>6</ele></trkpt>
+<trkpt lat="35.40064" lon="32.92499"><ele>5</ele></trkpt>
+<trkpt lat="35.40067" lon="32.92497"><ele>5</ele></trkpt>
+<trkpt lat="35.40073" lon="32.92498"><ele>5</ele></trkpt>
+<trkpt lat="35.4008" lon="32.92487"><ele>5</ele></trkpt>
+<trkpt lat="35.40096" lon="32.92473"><ele>5</ele></trkpt>
+<trkpt lat="35.40107" lon="32.92443"><ele>5</ele></trkpt>
+<trkpt lat="35.40109" lon="32.92423"><ele>5</ele></trkpt>
+<trkpt lat="35.40114" lon="32.92415"><ele>5</ele></trkpt>
+<trkpt lat="35.40117" lon="32.92414"><ele>5</ele></trkpt>
+<trkpt lat="35.4012" lon="32.9241"><ele>5</ele></trkpt>
+<trkpt lat="35.40126" lon="32.92375"><ele>5</ele></trkpt>
+<trkpt lat="35.40135" lon="32.92359"><ele>5</ele></trkpt>
+<trkpt lat="35.40159" lon="32.92334"><ele>5</ele></trkpt>
+<trkpt lat="35.40177" lon="32.92323"><ele>4</ele></trkpt>
+<trkpt lat="35.40193" lon="32.92312"><ele>4</ele></trkpt>
+<trkpt lat="35.40202" lon="32.92301"><ele>4</ele></trkpt>
+<trkpt lat="35.40207" lon="32.92281"><ele>4</ele></trkpt>
+<trkpt lat="35.40214" lon="32.92266"><ele>4</ele></trkpt>
+<trkpt lat="35.40224" lon="32.92251"><ele>4</ele></trkpt>
+<trkpt lat="35.40243" lon="32.92218"><ele>4</ele></trkpt>
+<trkpt lat="35.40254" lon="32.92211"><ele>4</ele></trkpt>
+<trkpt lat="35.40264" lon="32.92203"><ele>4</ele></trkpt>
+<trkpt lat="35.40276" lon="32.92197"><ele>4</ele></trkpt>
+<trkpt lat="35.40277" lon="32.92191"><ele>4</ele></trkpt>
+<trkpt lat="35.40284" lon="32.92187"><ele>4</ele></trkpt>
+<trkpt lat="35.40304" lon="32.92169"><ele>4</ele></trkpt>
+<trkpt lat="35.40328" lon="32.92158"><ele>4</ele></trkpt>
+<trkpt lat="35.40334" lon="32.9215"><ele>4</ele></trkpt>
+<trkpt lat="35.40327" lon="32.92129"><ele>4</ele></trkpt>
+<trkpt lat="35.40323" lon="32.92127"><ele>4</ele></trkpt>
+<trkpt lat="35.4033" lon="32.92089"><ele>4</ele></trkpt>
+<trkpt lat="35.40328" lon="32.9207"><ele>3</ele></trkpt>
+<trkpt lat="35.40331" lon="32.92046"><ele>2</ele></trkpt>
+<trkpt lat="35.40329" lon="32.92043"><ele>2</ele></trkpt>
+<trkpt lat="35.40322" lon="32.92039"><ele>2</ele></trkpt>
+<trkpt lat="35.40293" lon="32.92036"><ele>2</ele></trkpt>
+<trkpt lat="35.40275" lon="32.92044"><ele>2</ele></trkpt>
+<trkpt lat="35.40258" lon="32.92058"><ele>3</ele></trkpt>
+<trkpt lat="35.4025" lon="32.9206"><ele>3</ele></trkpt>
+<trkpt lat="35.40241" lon="32.92072"><ele>3</ele></trkpt>
+<trkpt lat="35.40227" lon="32.92097"><ele>3</ele></trkpt>
+<trkpt lat="35.4021" lon="32.92108"><ele>3</ele></trkpt>
+<trkpt lat="35.40195" lon="32.92113"><ele>3</ele></trkpt>
+<trkpt lat="35.40153" lon="32.92113"><ele>2</ele></trkpt>
+<trkpt lat="35.401" lon="32.9211"><ele>2</ele></trkpt>
+<trkpt lat="35.40073" lon="32.92102"><ele>2</ele></trkpt>
+<trkpt lat="35.40057" lon="32.92101"><ele>2</ele></trkpt>
+<trkpt lat="35.40037" lon="32.92092"><ele>2</ele></trkpt>
+<trkpt lat="35.40034" lon="32.92084"><ele>2</ele></trkpt>
+<trkpt lat="35.40029" lon="32.9208"><ele>2</ele></trkpt>
+<trkpt lat="35.39992" lon="32.92093"><ele>2</ele></trkpt>
+<trkpt lat="35.39983" lon="32.9209"><ele>2</ele></trkpt>
+<trkpt lat="35.39965" lon="32.92093"><ele>2</ele></trkpt>
+<trkpt lat="35.3996" lon="32.92094"><ele>2</ele></trkpt>
+<trkpt lat="35.39924" lon="32.92103"><ele>2</ele></trkpt>
+<trkpt lat="35.39918" lon="32.92102"><ele>1</ele></trkpt>
+<trkpt lat="35.39902" lon="32.92101"><ele>1</ele></trkpt>
+<trkpt lat="35.39865" lon="32.92087"><ele>1</ele></trkpt>
+<trkpt lat="35.39854" lon="32.92087"><ele>1</ele></trkpt>
+<trkpt lat="35.39836" lon="32.9208"><ele>1</ele></trkpt>
+<trkpt lat="35.39816" lon="32.92064"><ele>2</ele></trkpt>
+<trkpt lat="35.39786" lon="32.92048"><ele>3</ele></trkpt>
+<trkpt lat="35.39763" lon="32.92058"><ele>4</ele></trkpt>
+<trkpt lat="35.39743" lon="32.92091"><ele>5</ele></trkpt>
+<trkpt lat="35.39739" lon="32.92108"><ele>5</ele></trkpt>
+<trkpt lat="35.39735" lon="32.9211"><ele>5</ele></trkpt>
+<trkpt lat="35.39723" lon="32.92101"><ele>6</ele></trkpt>
+<trkpt lat="35.39705" lon="32.92105"><ele>7</ele></trkpt>
+<trkpt lat="35.39696" lon="32.92114"><ele>7</ele></trkpt>
+<trkpt lat="35.39688" lon="32.92135"><ele>8</ele></trkpt>
+<trkpt lat="35.39682" lon="32.92136"><ele>8</ele></trkpt>
+<trkpt lat="35.39681" lon="32.92139"><ele>8</ele></trkpt>
+<trkpt lat="35.39679" lon="32.92137"><ele>8</ele></trkpt>
+<trkpt lat="35.39651" lon="32.92159"><ele>9</ele></trkpt>
+<trkpt lat="35.39648" lon="32.92173"><ele>10</ele></trkpt>
+<trkpt lat="35.39642" lon="32.92181"><ele>10</ele></trkpt>
+<trkpt lat="35.39638" lon="32.9218"><ele>10</ele></trkpt>
+<trkpt lat="35.39633" lon="32.92172"><ele>10</ele></trkpt>
+<trkpt lat="35.39624" lon="32.92166"><ele>10</ele></trkpt>
+<trkpt lat="35.39621" lon="32.92167"><ele>10</ele></trkpt>
+<trkpt lat="35.39616" lon="32.92162"><ele>10</ele></trkpt>
+<trkpt lat="35.39606" lon="32.92143"><ele>10</ele></trkpt>
+<trkpt lat="35.3958" lon="32.92154"><ele>9</ele></trkpt>
+<trkpt lat="35.39562" lon="32.92146"><ele>9</ele></trkpt>
+<trkpt lat="35.39554" lon="32.92138"><ele>8</ele></trkpt>
+<trkpt lat="35.39525" lon="32.92135"><ele>7</ele></trkpt>
+<trkpt lat="35.39518" lon="32.92127"><ele>7</ele></trkpt>
+<trkpt lat="35.39511" lon="32.92126"><ele>7</ele></trkpt>
+<trkpt lat="35.39507" lon="32.92123"><ele>7</ele></trkpt>
+<trkpt lat="35.39494" lon="32.92101"><ele>7</ele></trkpt>
+<trkpt lat="35.3949" lon="32.92097"><ele>7</ele></trkpt>
+<trkpt lat="35.39475" lon="32.92073"><ele>7</ele></trkpt>
+<trkpt lat="35.39467" lon="32.92079"><ele>7</ele></trkpt>
+<trkpt lat="35.3946" lon="32.92094"><ele>7</ele></trkpt>
+<trkpt lat="35.39457" lon="32.92126"><ele>6</ele></trkpt>
+<trkpt lat="35.39453" lon="32.92146"><ele>6</ele></trkpt>
+<trkpt lat="35.39441" lon="32.92164"><ele>5</ele></trkpt>
+<trkpt lat="35.39392" lon="32.9218"><ele>3</ele></trkpt>
+<trkpt lat="35.39364" lon="32.92199"><ele>1</ele></trkpt>
+<trkpt lat="35.39357" lon="32.92201"><ele>1</ele></trkpt>
+<trkpt lat="35.39351" lon="32.92206"><ele>1</ele></trkpt>
+<trkpt lat="35.3932" lon="32.92222"><ele>0</ele></trkpt>
+<trkpt lat="35.39305" lon="32.92233"><ele>1</ele></trkpt>
+<trkpt lat="35.39286" lon="32.92243"><ele>1</ele></trkpt>
+<trkpt lat="35.39255" lon="32.92261"><ele>3</ele></trkpt>
+<trkpt lat="35.39179" lon="32.92343"><ele>4</ele></trkpt>
+<trkpt lat="35.3914" lon="32.92394"><ele>3</ele></trkpt>
+<trkpt lat="35.3913" lon="32.92395"><ele>3</ele></trkpt>
+<trkpt lat="35.39116" lon="32.92362"><ele>3</ele></trkpt>
+<trkpt lat="35.39087" lon="32.92358"><ele>3</ele></trkpt>
+<trkpt lat="35.39039" lon="32.92335"><ele>1</ele></trkpt>
+<trkpt lat="35.39014" lon="32.92319"><ele>0</ele></trkpt>
+<trkpt lat="35.39008" lon="32.9231"><ele>0</ele></trkpt>
+<trkpt lat="35.39005" lon="32.92292"><ele>0</ele></trkpt>
+<trkpt lat="35.39" lon="32.92284"><ele>0</ele></trkpt>
+<trkpt lat="35.38998" lon="32.92281"><ele>0</ele></trkpt>
+<trkpt lat="35.38982" lon="32.92272"><ele>0</ele></trkpt>
+<trkpt lat="35.38969" lon="32.92252"><ele>0</ele></trkpt>
+<trkpt lat="35.38954" lon="32.92246"><ele>0</ele></trkpt>
+<trkpt lat="35.38949" lon="32.9225"><ele>0</ele></trkpt>
+<trkpt lat="35.38947" lon="32.92246"><ele>0</ele></trkpt>
+<trkpt lat="35.38925" lon="32.92234"><ele>0</ele></trkpt>
+<trkpt lat="35.38888" lon="32.92223"><ele>0</ele></trkpt>
+<trkpt lat="35.38853" lon="32.92207"><ele>1</ele></trkpt>
+<trkpt lat="35.38823" lon="32.9217"><ele>2</ele></trkpt>
+<trkpt lat="35.3881" lon="32.92163"><ele>2</ele></trkpt>
+<trkpt lat="35.388" lon="32.92162"><ele>2</ele></trkpt>
+<trkpt lat="35.38788" lon="32.92149"><ele>2</ele></trkpt>
+<trkpt lat="35.38759" lon="32.92136"><ele>2</ele></trkpt>
+<trkpt lat="35.38751" lon="32.92128"><ele>2</ele></trkpt>
+<trkpt lat="35.38727" lon="32.92114"><ele>2</ele></trkpt>
+<trkpt lat="35.38709" lon="32.92117"><ele>2</ele></trkpt>
+<trkpt lat="35.3869" lon="32.92126"><ele>2</ele></trkpt>
+<trkpt lat="35.38671" lon="32.92123"><ele>2</ele></trkpt>
+<trkpt lat="35.38654" lon="32.92117"><ele>2</ele></trkpt>
+<trkpt lat="35.38639" lon="32.92117"><ele>2</ele></trkpt>
+<trkpt lat="35.38602" lon="32.92126"><ele>3</ele></trkpt>
+<trkpt lat="35.38569" lon="32.9214"><ele>5</ele></trkpt>
+<trkpt lat="35.38561" lon="32.92147"><ele>5</ele></trkpt>
+<trkpt lat="35.38558" lon="32.92175"><ele>6</ele></trkpt>
+<trkpt lat="35.38562" lon="32.92188"><ele>7</ele></trkpt>
+<trkpt lat="35.38565" lon="32.92223"><ele>9</ele></trkpt>
+<trkpt lat="35.38556" lon="32.92303"><ele>13</ele></trkpt>
+<trkpt lat="35.38551" lon="32.9231"><ele>14</ele></trkpt>
+<trkpt lat="35.3856" lon="32.92345"><ele>15</ele></trkpt>
+<trkpt lat="35.38559" lon="32.92363"><ele>16</ele></trkpt>
+<trkpt lat="35.38542" lon="32.92407"><ele>16</ele></trkpt>
+<trkpt lat="35.3853" lon="32.92423"><ele>16</ele></trkpt>
+<trkpt lat="35.38527" lon="32.92433"><ele>16</ele></trkpt>
+<trkpt lat="35.38534" lon="32.92479"><ele>17</ele></trkpt>
+<trkpt lat="35.38539" lon="32.92491"><ele>17</ele></trkpt>
+<trkpt lat="35.38554" lon="32.92504"><ele>18</ele></trkpt>
+<trkpt lat="35.38572" lon="32.92507"><ele>18</ele></trkpt>
+<trkpt lat="35.38586" lon="32.92513"><ele>19</ele></trkpt>
+<trkpt lat="35.38593" lon="32.92531"><ele>19</ele></trkpt>
+<trkpt lat="35.38624" lon="32.92572"><ele>20</ele></trkpt>
+<trkpt lat="35.38664" lon="32.9265"><ele>21</ele></trkpt>
+<trkpt lat="35.38702" lon="32.92716"><ele>21</ele></trkpt>
+<trkpt lat="35.38737" lon="32.92791"><ele>22</ele></trkpt>
+<trkpt lat="35.38776" lon="32.92817"><ele>22</ele></trkpt>
+<trkpt lat="35.38792" lon="32.92863"><ele>22</ele></trkpt>
+<trkpt lat="35.38804" lon="32.92874"><ele>22</ele></trkpt>
+<trkpt lat="35.38837" lon="32.92886"><ele>22</ele></trkpt>
+<trkpt lat="35.38853" lon="32.92901"><ele>22</ele></trkpt>
+<trkpt lat="35.38883" lon="32.9294"><ele>23</ele></trkpt>
+<trkpt lat="35.38902" lon="32.92958"><ele>23</ele></trkpt>
+<trkpt lat="35.3892" lon="32.93003"><ele>24</ele></trkpt>
+<trkpt lat="35.38933" lon="32.93056"><ele>24</ele></trkpt>
+<trkpt lat="35.38949" lon="32.93134"><ele>26</ele></trkpt>
+<trkpt lat="35.38954" lon="32.93218"><ele>27</ele></trkpt>
+<trkpt lat="35.38961" lon="32.93268"><ele>27</ele></trkpt>
+<trkpt lat="35.38971" lon="32.93312"><ele>27</ele></trkpt>
+<trkpt lat="35.38999" lon="32.93377"><ele>29</ele></trkpt>
+<trkpt lat="35.39005" lon="32.93401"><ele>29</ele></trkpt>
+<trkpt lat="35.39011" lon="32.93433"><ele>29</ele></trkpt>
+<trkpt lat="35.39013" lon="32.9349"><ele>29</ele></trkpt>
+<trkpt lat="35.3901" lon="32.9352"><ele>29</ele></trkpt>
+<trkpt lat="35.39009" lon="32.93568"><ele>29</ele></trkpt>
+<trkpt lat="35.39019" lon="32.93632"><ele>31</ele></trkpt>
+<trkpt lat="35.39018" lon="32.93645"><ele>31</ele></trkpt>
+<trkpt lat="35.39004" lon="32.9366"><ele>31</ele></trkpt>
+<trkpt lat="35.38984" lon="32.93669"><ele>32</ele></trkpt>
+<trkpt lat="35.38963" lon="32.93674"><ele>32</ele></trkpt>
+<trkpt lat="35.38951" lon="32.93685"><ele>32</ele></trkpt>
+<trkpt lat="35.3895" lon="32.93712"><ele>32</ele></trkpt>
+<trkpt lat="35.38953" lon="32.93736"><ele>33</ele></trkpt>
+<trkpt lat="35.3896" lon="32.93755"><ele>33</ele></trkpt>
+<trkpt lat="35.38988" lon="32.93799"><ele>33</ele></trkpt>
+<trkpt lat="35.39003" lon="32.93815"><ele>33</ele></trkpt>
+<trkpt lat="35.38983" lon="32.9383"><ele>33</ele></trkpt>
+<trkpt lat="35.38974" lon="32.93829"><ele>33</ele></trkpt>
+<trkpt lat="35.38941" lon="32.93837"><ele>33</ele></trkpt>
+<trkpt lat="35.38923" lon="32.93844"><ele>34</ele></trkpt>
+<trkpt lat="35.38881" lon="32.93868"><ele>34</ele></trkpt>
+<trkpt lat="35.38875" lon="32.93879"><ele>34</ele></trkpt>
+<trkpt lat="35.38861" lon="32.93891"><ele>35</ele></trkpt>
+<trkpt lat="35.38842" lon="32.93904"><ele>35</ele></trkpt>
+<trkpt lat="35.38832" lon="32.93918"><ele>35</ele></trkpt>
+<trkpt lat="35.38818" lon="32.93921"><ele>35</ele></trkpt>
+<trkpt lat="35.38802" lon="32.93931"><ele>35</ele></trkpt>
+<trkpt lat="35.38793" lon="32.93948"><ele>36</ele></trkpt>
+<trkpt lat="35.38779" lon="32.93965"><ele>36</ele></trkpt>
+<trkpt lat="35.38734" lon="32.93989"><ele>36</ele></trkpt>
+<trkpt lat="35.38719" lon="32.93981"><ele>36</ele></trkpt>
+<trkpt lat="35.38687" lon="32.93994"><ele>36</ele></trkpt>
+<trkpt lat="35.38671" lon="32.93997"><ele>36</ele></trkpt>
+<trkpt lat="35.38657" lon="32.93999"><ele>36</ele></trkpt>
+<trkpt lat="35.38621" lon="32.93998"><ele>37</ele></trkpt>
+<trkpt lat="35.38607" lon="32.94003"><ele>38</ele></trkpt>
+<trkpt lat="35.38597" lon="32.94009"><ele>39</ele></trkpt>
+<trkpt lat="35.38594" lon="32.94015"><ele>39</ele></trkpt>
+<trkpt lat="35.38583" lon="32.94057"><ele>40</ele></trkpt>
+<trkpt lat="35.3859" lon="32.94101"><ele>40</ele></trkpt>
+<trkpt lat="35.38588" lon="32.94132"><ele>39</ele></trkpt>
+<trkpt lat="35.38603" lon="32.94228"><ele>36</ele></trkpt>
+<trkpt lat="35.386" lon="32.9426"><ele>36</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

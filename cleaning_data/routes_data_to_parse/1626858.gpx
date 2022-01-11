@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Spaziergang Berlin-Mitte]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[Spaziergang Berlin-Mitte]]></name><trkseg>
+         <trkpt lat="52.51638" lon="13.38118"><ele>39</ele></trkpt>
+<trkpt lat="52.5162" lon="13.37695"><ele>35</ele></trkpt>
+<trkpt lat="52.51759" lon="13.3771"><ele>42</ele></trkpt>
+<trkpt lat="52.51784" lon="13.37508"><ele>40</ele></trkpt>
+<trkpt lat="52.51952" lon="13.37504"><ele>39</ele></trkpt>
+<trkpt lat="52.5198" lon="13.37646"><ele>38</ele></trkpt>
+<trkpt lat="52.5215" lon="13.37564"><ele>34</ele></trkpt>
+<trkpt lat="52.52202" lon="13.3765"><ele>35</ele></trkpt>
+<trkpt lat="52.52084" lon="13.37723"><ele>31</ele></trkpt>
+<trkpt lat="52.52084" lon="13.3798"><ele>34</ele></trkpt>
+<trkpt lat="52.51956" lon="13.38021"><ele>32</ele></trkpt>
+<trkpt lat="52.51883" lon="13.38047"><ele>30</ele></trkpt>
+<trkpt lat="52.51962" lon="13.38367"><ele>36</ele></trkpt>
+<trkpt lat="52.52036" lon="13.3856"><ele>32</ele></trkpt>
+<trkpt lat="52.52065" lon="13.38467"><ele>35</ele></trkpt>
+<trkpt lat="52.52086" lon="13.38641"><ele>35</ele></trkpt>
+<trkpt lat="52.52176" lon="13.38796"><ele>35</ele></trkpt>
+<trkpt lat="52.52201" lon="13.38993"><ele>37</ele></trkpt>
+<trkpt lat="52.52202" lon="13.39208"><ele>36</ele></trkpt>
+<trkpt lat="52.52182" lon="13.39339"><ele>34</ele></trkpt>
+<trkpt lat="52.51968" lon="13.39641"><ele>32</ele></trkpt>
+<trkpt lat="52.5195" lon="13.39693"><ele>32</ele></trkpt>
+<trkpt lat="52.51924" lon="13.39729"><ele>33</ele></trkpt>
+<trkpt lat="52.51977" lon="13.39894"><ele>34</ele></trkpt>
+<trkpt lat="52.52024" lon="13.39961"><ele>33</ele></trkpt>
+<trkpt lat="52.521" lon="13.40154"><ele>36</ele></trkpt>
+<trkpt lat="52.52133" lon="13.40296"><ele>41</ele></trkpt>
+<trkpt lat="52.52002" lon="13.40478"><ele>42</ele></trkpt>
+<trkpt lat="52.51918" lon="13.40328"><ele>40</ele></trkpt>
+<trkpt lat="52.51959" lon="13.40274"><ele>41</ele></trkpt>
+<trkpt lat="52.51896" lon="13.40291"><ele>43</ele></trkpt>
+<trkpt lat="52.51789" lon="13.4001"><ele>35</ele></trkpt>
+<trkpt lat="52.51758" lon="13.39697"><ele>37</ele></trkpt>
+<trkpt lat="52.51719" lon="13.39255"><ele>40</ele></trkpt>
+<trkpt lat="52.5171" lon="13.38942"><ele>43</ele></trkpt>
+<trkpt lat="52.51708" lon="13.38879"><ele>44</ele></trkpt>
+<trkpt lat="52.5202" lon="13.388"><ele>34</ele></trkpt>
+<trkpt lat="52.5204" lon="13.38643"><ele>35</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

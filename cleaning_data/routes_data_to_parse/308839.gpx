@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Silberkarklamm]]></name>
+      <desc><![CDATA[<p>Start ist der Eingang zur Klamm (Maut). Hier beginnt der Klammsteig, der immer am wilden Gebirgsbach entlang über Stufen, Leitern und Stegen zwischen den hohen Felswänden bergauf in das Silberkar führt. Beim schönen Schleierfall öffnen sich überraschend die Felswändem die Klamm bleibt zurück und in 20 Minuten erreicht man die mitten im großen Kar gelegene Silberkar Hütte. Von der Hütte aus empfiehlt es sich über den Höhenweg zurück zu wandern, der noch ein paar prachtvolle Ausblicke beschert.</p>
+<p>Gehzeit: ca. 2,5-3 Stunden (Höhenweg retour)</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Silberkarklamm]]></name><desc><![CDATA[<p>Start ist der Eingang zur Klamm (Maut). Hier beginnt der Klammsteig, der immer am wilden Gebirgsbach entlang über Stufen, Leitern und Stegen zwischen den hohen Felswänden bergauf in das Silberkar führt. Beim schönen Schleierfall öffnen sich überraschend die Felswändem die Klamm bleibt zurück und in 20 Minuten erreicht man die mitten im großen Kar gelegene Silberkar Hütte. Von der Hütte aus empfiehlt es sich über den Höhenweg zurück zu wandern, der noch ein paar prachtvolle Ausblicke beschert.</p>
+<p>Gehzeit: ca. 2,5-3 Stunden (Höhenweg retour)</p>]]></desc><trkseg>
+         <trkpt lat="47.42407" lon="13.69748"><ele>1048</ele></trkpt>
+<trkpt lat="47.42431" lon="13.69781"><ele>1054</ele></trkpt>
+<trkpt lat="47.42444" lon="13.69796"><ele>1057</ele></trkpt>
+<trkpt lat="47.42459" lon="13.69815"><ele>1061</ele></trkpt>
+<trkpt lat="47.42463" lon="13.69823"><ele>1063</ele></trkpt>
+<trkpt lat="47.4247" lon="13.69834"><ele>1065</ele></trkpt>
+<trkpt lat="47.42476" lon="13.69849"><ele>1065</ele></trkpt>
+<trkpt lat="47.42482" lon="13.69869"><ele>1064</ele></trkpt>
+<trkpt lat="47.42491" lon="13.69894"><ele>1063</ele></trkpt>
+<trkpt lat="47.425" lon="13.69914"><ele>1062</ele></trkpt>
+<trkpt lat="47.42515" lon="13.69944"><ele>1061</ele></trkpt>
+<trkpt lat="47.42532" lon="13.69978"><ele>1060</ele></trkpt>
+<trkpt lat="47.42551" lon="13.70012"><ele>1059</ele></trkpt>
+<trkpt lat="47.42566" lon="13.70038"><ele>1058</ele></trkpt>
+<trkpt lat="47.42583" lon="13.70068"><ele>1057</ele></trkpt>
+<trkpt lat="47.42596" lon="13.70098"><ele>1055</ele></trkpt>
+<trkpt lat="47.42605" lon="13.7012"><ele>1054</ele></trkpt>
+<trkpt lat="47.4262" lon="13.70158"><ele>1052</ele></trkpt>
+<trkpt lat="47.42671" lon="13.70302"><ele>1052</ele></trkpt>
+<trkpt lat="47.42699" lon="13.70368"><ele>1038</ele></trkpt>
+<trkpt lat="47.42716" lon="13.70405"><ele>1032</ele></trkpt>
+<trkpt lat="47.42733" lon="13.70452"><ele>1028</ele></trkpt>
+<trkpt lat="47.42753" lon="13.70497"><ele>1025</ele></trkpt>
+<trkpt lat="47.42776" lon="13.70551"><ele>1029</ele></trkpt>
+<trkpt lat="47.42811" lon="13.70547"><ele>1033</ele></trkpt>
+<trkpt lat="47.42843" lon="13.70574"><ele>1032</ele></trkpt>
+<trkpt lat="47.42853" lon="13.70603"><ele>1029</ele></trkpt>
+<trkpt lat="47.42875" lon="13.70665"><ele>1021</ele></trkpt>
+<trkpt lat="47.42882" lon="13.70697"><ele>1025</ele></trkpt>
+<trkpt lat="47.4289" lon="13.70744"><ele>1030</ele></trkpt>
+<trkpt lat="47.42888" lon="13.70819"><ele>1035</ele></trkpt>
+<trkpt lat="47.42889" lon="13.70822"><ele>1035</ele></trkpt>
+<trkpt lat="47.42933" lon="13.70916"><ele>1029</ele></trkpt>
+<trkpt lat="47.42963" lon="13.70984"><ele>1039</ele></trkpt>
+<trkpt lat="47.42995" lon="13.71085"><ele>1027</ele></trkpt>
+<trkpt lat="47.43023" lon="13.71132"><ele>1014</ele></trkpt>
+<trkpt lat="47.43027" lon="13.71145"><ele>1015</ele></trkpt>
+<trkpt lat="47.43064" lon="13.71195"><ele>1022</ele></trkpt>
+<trkpt lat="47.431" lon="13.71257"><ele>1022</ele></trkpt>
+<trkpt lat="47.43118" lon="13.71332"><ele>1012</ele></trkpt>
+<trkpt lat="47.43145" lon="13.71392"><ele>1020</ele></trkpt>
+<trkpt lat="47.43171" lon="13.71426"><ele>1027</ele></trkpt>
+<trkpt lat="47.43214" lon="13.71446"><ele>1027</ele></trkpt>
+<trkpt lat="47.43233" lon="13.71484"><ele>1023</ele></trkpt>
+<trkpt lat="47.43246" lon="13.71521"><ele>1019</ele></trkpt>
+<trkpt lat="47.43283" lon="13.71525"><ele>1015</ele></trkpt>
+<trkpt lat="47.43296" lon="13.7154"><ele>1013</ele></trkpt>
+<trkpt lat="47.43349" lon="13.7157"><ele>1008</ele></trkpt>
+<trkpt lat="47.43362" lon="13.71598"><ele>1007</ele></trkpt>
+<trkpt lat="47.43382" lon="13.71611"><ele>1006</ele></trkpt>
+<trkpt lat="47.43397" lon="13.71652"><ele>1007</ele></trkpt>
+<trkpt lat="47.43416" lon="13.71658"><ele>1009</ele></trkpt>
+<trkpt lat="47.43437" lon="13.71673"><ele>1011</ele></trkpt>
+<trkpt lat="47.43465" lon="13.71692"><ele>1014</ele></trkpt>
+<trkpt lat="47.43504" lon="13.71707"><ele>1016</ele></trkpt>
+<trkpt lat="47.43508" lon="13.71714"><ele>1016</ele></trkpt>
+<trkpt lat="47.43534" lon="13.71677"><ele>1018</ele></trkpt>
+<trkpt lat="47.43553" lon="13.7165"><ele>1022</ele></trkpt>
+<trkpt lat="47.43581" lon="13.71624"><ele>1031</ele></trkpt>
+<trkpt lat="47.43603" lon="13.71613"><ele>1037</ele></trkpt>
+<trkpt lat="47.43626" lon="13.71596"><ele>1042</ele></trkpt>
+<trkpt lat="47.43628" lon="13.71607"><ele>1042</ele></trkpt>
+<trkpt lat="47.43639" lon="13.71662"><ele>1042</ele></trkpt>
+<trkpt lat="47.43665" lon="13.71645"><ele>1042</ele></trkpt>
+<trkpt lat="47.43673" lon="13.71652"><ele>1045</ele></trkpt>
+<trkpt lat="47.43723" lon="13.71656"><ele>1085</ele></trkpt>
+<trkpt lat="47.43716" lon="13.71553"><ele>1115</ele></trkpt>
+<trkpt lat="47.43768" lon="13.71531"><ele>1115</ele></trkpt>
+<trkpt lat="47.43768" lon="13.71537"><ele>1115</ele></trkpt>
+<trkpt lat="47.43778" lon="13.71632"><ele>1132</ele></trkpt>
+<trkpt lat="47.43826" lon="13.71617"><ele>1138</ele></trkpt>
+<trkpt lat="47.43873" lon="13.71607"><ele>1138</ele></trkpt>
+<trkpt lat="47.43856" lon="13.7151"><ele>1145</ele></trkpt>
+<trkpt lat="47.43862" lon="13.71493"><ele>1147</ele></trkpt>
+<trkpt lat="47.43881" lon="13.71497"><ele>1150</ele></trkpt>
+<trkpt lat="47.43912" lon="13.71512"><ele>1145</ele></trkpt>
+<trkpt lat="47.43931" lon="13.71508"><ele>1142</ele></trkpt>
+<trkpt lat="47.43965" lon="13.71491"><ele>1135</ele></trkpt>
+<trkpt lat="47.43993" lon="13.71478"><ele>1140</ele></trkpt>
+<trkpt lat="47.44019" lon="13.71444"><ele>1148</ele></trkpt>
+<trkpt lat="47.44049" lon="13.71407"><ele>1155</ele></trkpt>
+<trkpt lat="47.4407" lon="13.71405"><ele>1157</ele></trkpt>
+<trkpt lat="47.44109" lon="13.71379"><ele>1160</ele></trkpt>
+<trkpt lat="47.44163" lon="13.71394"><ele>1172</ele></trkpt>
+<trkpt lat="47.44203" lon="13.7136"><ele>1185</ele></trkpt>
+<trkpt lat="47.44272" lon="13.71386"><ele>1198</ele></trkpt>
+<trkpt lat="47.44293" lon="13.71381"><ele>1202</ele></trkpt>
+<trkpt lat="47.44317" lon="13.71351"><ele>1210</ele></trkpt>
+<trkpt lat="47.44339" lon="13.71371"><ele>1216</ele></trkpt>
+<trkpt lat="47.44407" lon="13.71368"><ele>1228</ele></trkpt>
+<trkpt lat="47.44429" lon="13.71345"><ele>1230</ele></trkpt>
+<trkpt lat="47.44457" lon="13.71302"><ele>1233</ele></trkpt>
+<trkpt lat="47.44416" lon="13.71274"><ele>1233</ele></trkpt>
+<trkpt lat="47.4439" lon="13.71257"><ele>1233</ele></trkpt>
+<trkpt lat="47.44388" lon="13.71254"><ele>1233</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

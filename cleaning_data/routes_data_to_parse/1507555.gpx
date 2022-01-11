@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Weisser See Wanderung]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[Weisser See Wanderung]]></name><trkseg>
+         <trkpt lat="52.55201" lon="13.46576"><ele>53</ele></trkpt>
+<trkpt lat="52.55238" lon="13.4649"><ele>50</ele></trkpt>
+<trkpt lat="52.5523" lon="13.4643"><ele>49</ele></trkpt>
+<trkpt lat="52.55269" lon="13.46237"><ele>49</ele></trkpt>
+<trkpt lat="52.55342" lon="13.46113"><ele>50</ele></trkpt>
+<trkpt lat="52.55454" lon="13.46087"><ele>46</ele></trkpt>
+<trkpt lat="52.55556" lon="13.46216"><ele>47</ele></trkpt>
+<trkpt lat="52.55572" lon="13.46353"><ele>46</ele></trkpt>
+<trkpt lat="52.55566" lon="13.46533"><ele>47</ele></trkpt>
+<trkpt lat="52.55705" lon="13.46512"><ele>51</ele></trkpt>
+<trkpt lat="52.55705" lon="13.46671"><ele>53</ele></trkpt>
+<trkpt lat="52.55689" lon="13.46997"><ele>55</ele></trkpt>
+<trkpt lat="52.55723" lon="13.47207"><ele>56</ele></trkpt>
+<trkpt lat="52.55731" lon="13.47636"><ele>56</ele></trkpt>
+<trkpt lat="52.55754" lon="13.47804"><ele>57</ele></trkpt>
+<trkpt lat="52.55754" lon="13.47919"><ele>57</ele></trkpt>
+<trkpt lat="52.5589" lon="13.47898"><ele>58</ele></trkpt>
+<trkpt lat="52.5595" lon="13.48593"><ele>54</ele></trkpt>
+<trkpt lat="52.55882" lon="13.48598"><ele>55</ele></trkpt>
+<trkpt lat="52.55861" lon="13.48623"><ele>55</ele></trkpt>
+<trkpt lat="52.55827" lon="13.48731"><ele>55</ele></trkpt>
+<trkpt lat="52.55783" lon="13.48859"><ele>55</ele></trkpt>
+<trkpt lat="52.5577" lon="13.48954"><ele>53</ele></trkpt>
+<trkpt lat="52.55728" lon="13.4901"><ele>52</ele></trkpt>
+<trkpt lat="52.55775" lon="13.49168"><ele>51</ele></trkpt>
+<trkpt lat="52.55681" lon="13.49241"><ele>53</ele></trkpt>
+<trkpt lat="52.55543" lon="13.4928"><ele>54</ele></trkpt>
+<trkpt lat="52.55501" lon="13.49271"><ele>54</ele></trkpt>
+<trkpt lat="52.55454" lon="13.49211"><ele>53</ele></trkpt>
+<trkpt lat="52.55405" lon="13.49207"><ele>51</ele></trkpt>
+<trkpt lat="52.5536" lon="13.49224"><ele>54</ele></trkpt>
+<trkpt lat="52.55324" lon="13.49241"><ele>58</ele></trkpt>
+<trkpt lat="52.55131" lon="13.4916"><ele>57</ele></trkpt>
+<trkpt lat="52.54953" lon="13.49061"><ele>55</ele></trkpt>
+<trkpt lat="52.54904" lon="13.49276"><ele>55</ele></trkpt>
+<trkpt lat="52.54817" lon="13.49288"><ele>56</ele></trkpt>
+<trkpt lat="52.54776" lon="13.49151"><ele>59</ele></trkpt>
+<trkpt lat="52.54791" lon="13.48984"><ele>61</ele></trkpt>
+<trkpt lat="52.54794" lon="13.48795"><ele>56</ele></trkpt>
+<trkpt lat="52.54812" lon="13.48675"><ele>56</ele></trkpt>
+<trkpt lat="52.54828" lon="13.48615"><ele>55</ele></trkpt>
+<trkpt lat="52.54948" lon="13.48567"><ele>54</ele></trkpt>
+<trkpt lat="52.5506" lon="13.48379"><ele>53</ele></trkpt>
+<trkpt lat="52.5523" lon="13.4861"><ele>56</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

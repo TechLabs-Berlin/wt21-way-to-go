@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Steglitz Parks]]></name>
+      <desc><![CDATA[<p>
+	Eis am Ende und Restaurant mit Wickeln mittendrin.</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Steglitz Parks]]></name><desc><![CDATA[<p>
+	Eis am Ende und Restaurant mit Wickeln mittendrin.</p>
+]]></desc><trkseg>
+         <trkpt lat="52.45561" lon="13.32122"><ele>53</ele></trkpt>
+<trkpt lat="52.4549" lon="13.3224"><ele>47</ele></trkpt>
+<trkpt lat="52.45316" lon="13.32001"><ele>43</ele></trkpt>
+<trkpt lat="52.45207" lon="13.32117"><ele>44</ele></trkpt>
+<trkpt lat="52.45095" lon="13.31954"><ele>42</ele></trkpt>
+<trkpt lat="52.45067" lon="13.31877"><ele>42</ele></trkpt>
+<trkpt lat="52.44806" lon="13.32062"><ele>38</ele></trkpt>
+<trkpt lat="52.44797" lon="13.32046"><ele>38</ele></trkpt>
+<trkpt lat="52.44659" lon="13.32157"><ele>38</ele></trkpt>
+<trkpt lat="52.44684" lon="13.32227"><ele>38</ele></trkpt>
+<trkpt lat="52.44719" lon="13.32216"><ele>39</ele></trkpt>
+<trkpt lat="52.44744" lon="13.3232"><ele>39</ele></trkpt>
+<trkpt lat="52.44768" lon="13.32299"><ele>39</ele></trkpt>
+<trkpt lat="52.44739" lon="13.32221"><ele>40</ele></trkpt>
+<trkpt lat="52.44682" lon="13.32244"><ele>39</ele></trkpt>
+<trkpt lat="52.44676" lon="13.32235"><ele>39</ele></trkpt>
+<trkpt lat="52.44509" lon="13.32398"><ele>39</ele></trkpt>
+<trkpt lat="52.44478" lon="13.32584"><ele>40</ele></trkpt>
+<trkpt lat="52.44472" lon="13.32665"><ele>38</ele></trkpt>
+<trkpt lat="52.44451" lon="13.32707"><ele>35</ele></trkpt>
+<trkpt lat="52.44421" lon="13.32732"><ele>35</ele></trkpt>
+<trkpt lat="52.44517" lon="13.33024"><ele>37</ele></trkpt>
+<trkpt lat="52.44557" lon="13.33238"><ele>39</ele></trkpt>
+<trkpt lat="52.44595" lon="13.33371"><ele>39</ele></trkpt>
+<trkpt lat="52.44657" lon="13.33451"><ele>41</ele></trkpt>
+<trkpt lat="52.44703" lon="13.33475"><ele>41</ele></trkpt>
+<trkpt lat="52.44771" lon="13.33486"><ele>41</ele></trkpt>
+<trkpt lat="52.44818" lon="13.33362"><ele>39</ele></trkpt>
+<trkpt lat="52.44858" lon="13.33378"><ele>39</ele></trkpt>
+<trkpt lat="52.44838" lon="13.33473"><ele>39</ele></trkpt>
+<trkpt lat="52.44792" lon="13.335"><ele>42</ele></trkpt>
+<trkpt lat="52.44752" lon="13.33655"><ele>45</ele></trkpt>
+<trkpt lat="52.4479" lon="13.33703"><ele>44</ele></trkpt>
+<trkpt lat="52.44824" lon="13.33725"><ele>44</ele></trkpt>
+<trkpt lat="52.44966" lon="13.33651"><ele>49</ele></trkpt>
+<trkpt lat="52.44977" lon="13.33565"><ele>49</ele></trkpt>
+<trkpt lat="52.45009" lon="13.33428"><ele>47</ele></trkpt>
+<trkpt lat="52.45156" lon="13.32998"><ele>45</ele></trkpt>
+<trkpt lat="52.45114" lon="13.32966"><ele>45</ele></trkpt>
+<trkpt lat="52.4526" lon="13.32628"><ele>49</ele></trkpt>
+<trkpt lat="52.45435" lon="13.32209"><ele>46</ele></trkpt>
+<trkpt lat="52.4549" lon="13.32271"><ele>47</ele></trkpt>
+<trkpt lat="52.45532" lon="13.32207"><ele>47</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

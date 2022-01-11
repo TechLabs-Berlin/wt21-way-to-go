@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Hochwurzen-Roßfeld]]></name>
+      <desc><![CDATA[<p>Von der Bergstation der Gondelbahn zur Strasse und dem Wegkreuz absteigen und von dort der Markierung Nr. 60 folgen. Erster Aussichtspunkt auf der Niederen Wurzen beim Aussichtsbankerl. Kurzer Abstieg zum Hüttecksattel, dann in vilen Kehren durch schönen Lärchen- und Zirbenwald. Herrlicher Rundumblick vom Roßfeld-besonders schön auch zum Sonnenuntergang.</p>
+<p>Gehzeit:ca. 2-2,5h</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Hochwurzen-Roßfeld]]></name><desc><![CDATA[<p>Von der Bergstation der Gondelbahn zur Strasse und dem Wegkreuz absteigen und von dort der Markierung Nr. 60 folgen. Erster Aussichtspunkt auf der Niederen Wurzen beim Aussichtsbankerl. Kurzer Abstieg zum Hüttecksattel, dann in vilen Kehren durch schönen Lärchen- und Zirbenwald. Herrlicher Rundumblick vom Roßfeld-besonders schön auch zum Sonnenuntergang.</p>
+<p>Gehzeit:ca. 2-2,5h</p>]]></desc><trkseg>
+         <trkpt lat="47.35876" lon="13.6399"><ele>1818</ele></trkpt>
+<trkpt lat="47.35854" lon="13.63983"><ele>1813</ele></trkpt>
+<trkpt lat="47.35811" lon="13.64013"><ele>1803</ele></trkpt>
+<trkpt lat="47.35755" lon="13.64021"><ele>1795</ele></trkpt>
+<trkpt lat="47.35734" lon="13.64041"><ele>1793</ele></trkpt>
+<trkpt lat="47.35713" lon="13.64051"><ele>1790</ele></trkpt>
+<trkpt lat="47.3567" lon="13.64043"><ele>1783</ele></trkpt>
+<trkpt lat="47.3565" lon="13.64047"><ele>1779</ele></trkpt>
+<trkpt lat="47.35597" lon="13.64099"><ele>1764</ele></trkpt>
+<trkpt lat="47.35569" lon="13.64116"><ele>1756</ele></trkpt>
+<trkpt lat="47.35552" lon="13.6412"><ele>1752</ele></trkpt>
+<trkpt lat="47.35498" lon="13.64124"><ele>1742</ele></trkpt>
+<trkpt lat="47.35455" lon="13.64109"><ele>1736</ele></trkpt>
+<trkpt lat="47.35427" lon="13.64073"><ele>1734</ele></trkpt>
+<trkpt lat="47.35395" lon="13.64041"><ele>1734</ele></trkpt>
+<trkpt lat="47.35333" lon="13.63989"><ele>1754</ele></trkpt>
+<trkpt lat="47.35307" lon="13.63981"><ele>1766</ele></trkpt>
+<trkpt lat="47.35296" lon="13.63914"><ele>1791</ele></trkpt>
+<trkpt lat="47.35273" lon="13.6392"><ele>1802</ele></trkpt>
+<trkpt lat="47.35243" lon="13.63835"><ele>1802</ele></trkpt>
+<trkpt lat="47.35223" lon="13.63875"><ele>1806</ele></trkpt>
+<trkpt lat="47.35223" lon="13.6391"><ele>1814</ele></trkpt>
+<trkpt lat="47.35174" lon="13.63858"><ele>1836</ele></trkpt>
+<trkpt lat="47.35157" lon="13.63854"><ele>1845</ele></trkpt>
+<trkpt lat="47.35155" lon="13.6392"><ele>1870</ele></trkpt>
+<trkpt lat="47.35107" lon="13.6388"><ele>1876</ele></trkpt>
+<trkpt lat="47.35118" lon="13.63938"><ele>1876</ele></trkpt>
+<trkpt lat="47.35101" lon="13.63974"><ele>1884</ele></trkpt>
+<trkpt lat="47.35069" lon="13.63946"><ele>1894</ele></trkpt>
+<trkpt lat="47.34992" lon="13.63985"><ele>1894</ele></trkpt>
+<trkpt lat="47.34936" lon="13.64021"><ele>1901</ele></trkpt>
+<trkpt lat="47.34893" lon="13.64049"><ele>1911</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

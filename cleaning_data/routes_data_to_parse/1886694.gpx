@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Gr. Runde Südteil Schillerpark]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[Gr. Runde Südteil Schillerpark]]></name><trkseg>
+         <trkpt lat="52.5563" lon="13.34942"><ele>43</ele></trkpt>
+<trkpt lat="52.55616" lon="13.34945"><ele>42</ele></trkpt>
+<trkpt lat="52.55596" lon="13.34955"><ele>42</ele></trkpt>
+<trkpt lat="52.55568" lon="13.34996"><ele>41</ele></trkpt>
+<trkpt lat="52.55534" lon="13.35052"><ele>41</ele></trkpt>
+<trkpt lat="52.55481" lon="13.35142"><ele>41</ele></trkpt>
+<trkpt lat="52.55454" lon="13.35182"><ele>41</ele></trkpt>
+<trkpt lat="52.5542" lon="13.35233"><ele>40</ele></trkpt>
+<trkpt lat="52.55409" lon="13.35255"><ele>39</ele></trkpt>
+<trkpt lat="52.55402" lon="13.35281"><ele>39</ele></trkpt>
+<trkpt lat="52.55402" lon="13.35315"><ele>38</ele></trkpt>
+<trkpt lat="52.55406" lon="13.35329"><ele>38</ele></trkpt>
+<trkpt lat="52.55489" lon="13.35447"><ele>39</ele></trkpt>
+<trkpt lat="52.55531" lon="13.3551"><ele>39</ele></trkpt>
+<trkpt lat="52.55539" lon="13.3551"><ele>39</ele></trkpt>
+<trkpt lat="52.55624" lon="13.35361"><ele>41</ele></trkpt>
+<trkpt lat="52.55633" lon="13.35357"><ele>41</ele></trkpt>
+<trkpt lat="52.55644" lon="13.35394"><ele>41</ele></trkpt>
+<trkpt lat="52.55658" lon="13.35434"><ele>42</ele></trkpt>
+<trkpt lat="52.55676" lon="13.35461"><ele>42</ele></trkpt>
+<trkpt lat="52.55698" lon="13.35485"><ele>43</ele></trkpt>
+<trkpt lat="52.55716" lon="13.35505"><ele>43</ele></trkpt>
+<trkpt lat="52.55723" lon="13.35549"><ele>44</ele></trkpt>
+<trkpt lat="52.55738" lon="13.35593"><ele>44</ele></trkpt>
+<trkpt lat="52.55751" lon="13.35622"><ele>44</ele></trkpt>
+<trkpt lat="52.55765" lon="13.3566"><ele>44</ele></trkpt>
+<trkpt lat="52.55769" lon="13.35688"><ele>44</ele></trkpt>
+<trkpt lat="52.55776" lon="13.35697"><ele>44</ele></trkpt>
+<trkpt lat="52.55785" lon="13.35745"><ele>45</ele></trkpt>
+<trkpt lat="52.55794" lon="13.35816"><ele>46</ele></trkpt>
+<trkpt lat="52.55799" lon="13.35872"><ele>46</ele></trkpt>
+<trkpt lat="52.55808" lon="13.3593"><ele>46</ele></trkpt>
+<trkpt lat="52.55824" lon="13.35987"><ele>46</ele></trkpt>
+<trkpt lat="52.55833" lon="13.3599"><ele>46</ele></trkpt>
+<trkpt lat="52.55893" lon="13.35968"><ele>46</ele></trkpt>
+<trkpt lat="52.55919" lon="13.35945"><ele>46</ele></trkpt>
+<trkpt lat="52.55919" lon="13.35921"><ele>46</ele></trkpt>
+<trkpt lat="52.55904" lon="13.35818"><ele>45</ele></trkpt>
+<trkpt lat="52.55896" lon="13.35788"><ele>44</ele></trkpt>
+<trkpt lat="52.55868" lon="13.3569"><ele>43</ele></trkpt>
+<trkpt lat="52.55799" lon="13.35601"><ele>43</ele></trkpt>
+<trkpt lat="52.55742" lon="13.35423"><ele>43</ele></trkpt>
+<trkpt lat="52.55727" lon="13.35391"><ele>43</ele></trkpt>
+<trkpt lat="52.55711" lon="13.35076"><ele>42</ele></trkpt>
+<trkpt lat="52.55718" lon="13.35023"><ele>42</ele></trkpt>
+<trkpt lat="52.55719" lon="13.34986"><ele>42</ele></trkpt>
+<trkpt lat="52.55705" lon="13.34987"><ele>42</ele></trkpt>
+<trkpt lat="52.55688" lon="13.34974"><ele>42</ele></trkpt>
+<trkpt lat="52.55669" lon="13.34957"><ele>42</ele></trkpt>
+<trkpt lat="52.55651" lon="13.34944"><ele>42</ele></trkpt>
+<trkpt lat="52.5563" lon="13.34942"><ele>42</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

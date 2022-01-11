@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Berlin Rahnsdorf]]></name>
+      <desc><![CDATA[<p>
+	zur F&auml;hre</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Berlin Rahnsdorf]]></name><desc><![CDATA[<p>
+	zur F&auml;hre</p>
+]]></desc><trkseg>
+         <trkpt lat="52.44322" lon="13.68478"><ele>37</ele></trkpt>
+<trkpt lat="52.4432" lon="13.68488"><ele>37</ele></trkpt>
+<trkpt lat="52.44308" lon="13.68524"><ele>36</ele></trkpt>
+<trkpt lat="52.44302" lon="13.68534"><ele>36</ele></trkpt>
+<trkpt lat="52.44291" lon="13.6856"><ele>36</ele></trkpt>
+<trkpt lat="52.44286" lon="13.68569"><ele>35</ele></trkpt>
+<trkpt lat="52.44276" lon="13.68581"><ele>35</ele></trkpt>
+<trkpt lat="52.44267" lon="13.68591"><ele>36</ele></trkpt>
+<trkpt lat="52.4426" lon="13.68596"><ele>36</ele></trkpt>
+<trkpt lat="52.44255" lon="13.68602"><ele>36</ele></trkpt>
+<trkpt lat="52.4424" lon="13.68615"><ele>36</ele></trkpt>
+<trkpt lat="52.44237" lon="13.68621"><ele>36</ele></trkpt>
+<trkpt lat="52.44237" lon="13.68621"><ele>36</ele></trkpt>
+<trkpt lat="52.44219" lon="13.68635"><ele>35</ele></trkpt>
+<trkpt lat="52.44217" lon="13.68637"><ele>35</ele></trkpt>
+<trkpt lat="52.44196" lon="13.68658"><ele>34</ele></trkpt>
+<trkpt lat="52.44195" lon="13.6866"><ele>34</ele></trkpt>
+<trkpt lat="52.4418" lon="13.68677"><ele>35</ele></trkpt>
+<trkpt lat="52.44178" lon="13.6868"><ele>35</ele></trkpt>
+<trkpt lat="52.44176" lon="13.68682"><ele>35</ele></trkpt>
+<trkpt lat="52.44157" lon="13.68714"><ele>35</ele></trkpt>
+<trkpt lat="52.44151" lon="13.68725"><ele>35</ele></trkpt>
+<trkpt lat="52.44141" lon="13.68747"><ele>35</ele></trkpt>
+<trkpt lat="52.44127" lon="13.68778"><ele>35</ele></trkpt>
+<trkpt lat="52.44127" lon="13.68778"><ele>35</ele></trkpt>
+<trkpt lat="52.44117" lon="13.68764"><ele>36</ele></trkpt>
+<trkpt lat="52.43953" lon="13.68536"><ele>35</ele></trkpt>
+<trkpt lat="52.43939" lon="13.68517"><ele>35</ele></trkpt>
+<trkpt lat="52.43935" lon="13.68512"><ele>35</ele></trkpt>
+<trkpt lat="52.43931" lon="13.68504"><ele>35</ele></trkpt>
+<trkpt lat="52.43926" lon="13.68489"><ele>35</ele></trkpt>
+<trkpt lat="52.4392" lon="13.68458"><ele>36</ele></trkpt>
+<trkpt lat="52.43913" lon="13.68423"><ele>36</ele></trkpt>
+<trkpt lat="52.43903" lon="13.68381"><ele>36</ele></trkpt>
+<trkpt lat="52.43903" lon="13.68381"><ele>36</ele></trkpt>
+<trkpt lat="52.43844" lon="13.68452"><ele>34</ele></trkpt>
+<trkpt lat="52.43844" lon="13.68452"><ele>34</ele></trkpt>
+<trkpt lat="52.43765" lon="13.68293"><ele>35</ele></trkpt>
+<trkpt lat="52.43675" lon="13.68111"><ele>34</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

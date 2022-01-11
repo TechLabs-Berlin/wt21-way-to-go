@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Alberschwende - Brüggelekopf]]></name>
+      <desc><![CDATA[<p>Diese Wanderung beginnt am Dorfplatz in Alberschwende. Wir wandern auf der Straße in Richtung Osten bis zur Talstation der Bergbahnen. Hier beginnt der Anstieg über ein kleines Sträßchen, das uns vorerst über Wiesen bergan führt. In weiterer Folge kommen wir auf den Weitwanderweg 04, der uns über den Skihang bergauf leitet. Auf diesem Streckenabschnitt eröffnen sich immer wieder schöne Tiefblicke auf Alberschwende. Nachdem wir das Skiheim Hard passiert haben, steht der anspruchsvollste Teil dieser Tour bevor. Nun steigen wir über einen von Wurzeln durchwachsenen Pfad zum Alpengasthof Brüggele auf, von wo wir dann in Kürze den Gipfel des Brüggelekopfes erreichen. Direkt beim Alpengasthof Brüggele halten wir uns nach dem Wegweiser Kaltenbrunnen. Wir überschreiten einen kleinen Bach und wandern nun durch den Wald bergab bis nach Kaltenbrunnen. In Kaltenbrunnen angekommen, halten wir uns auf dem Wanderweg talwärts. Bald erreichen wir einen Wanderweg, der uns nach links in Richtung Alberschwende führt. Jetzt queren wir den Nordhang des Brüggelekopf samt seinen idyllischen Bergwiesen und kommen über Tannen und Lanzen nach Alberschwende zurück.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Alberschwende - Brüggelekopf]]></name><desc><![CDATA[<p>Diese Wanderung beginnt am Dorfplatz in Alberschwende. Wir wandern auf der Straße in Richtung Osten bis zur Talstation der Bergbahnen. Hier beginnt der Anstieg über ein kleines Sträßchen, das uns vorerst über Wiesen bergan führt. In weiterer Folge kommen wir auf den Weitwanderweg 04, der uns über den Skihang bergauf leitet. Auf diesem Streckenabschnitt eröffnen sich immer wieder schöne Tiefblicke auf Alberschwende. Nachdem wir das Skiheim Hard passiert haben, steht der anspruchsvollste Teil dieser Tour bevor. Nun steigen wir über einen von Wurzeln durchwachsenen Pfad zum Alpengasthof Brüggele auf, von wo wir dann in Kürze den Gipfel des Brüggelekopfes erreichen. Direkt beim Alpengasthof Brüggele halten wir uns nach dem Wegweiser Kaltenbrunnen. Wir überschreiten einen kleinen Bach und wandern nun durch den Wald bergab bis nach Kaltenbrunnen. In Kaltenbrunnen angekommen, halten wir uns auf dem Wanderweg talwärts. Bald erreichen wir einen Wanderweg, der uns nach links in Richtung Alberschwende führt. Jetzt queren wir den Nordhang des Brüggelekopf samt seinen idyllischen Bergwiesen und kommen über Tannen und Lanzen nach Alberschwende zurück.</p>]]></desc><trkseg>
+         <trkpt lat="47.45029" lon="9.83115"><ele>720</ele></trkpt>
+<trkpt lat="47.45038" lon="9.83239"><ele>722</ele></trkpt>
+<trkpt lat="47.45072" lon="9.83352"><ele>720</ele></trkpt>
+<trkpt lat="47.4509" lon="9.83372"><ele>719</ele></trkpt>
+<trkpt lat="47.45134" lon="9.83454"><ele>716</ele></trkpt>
+<trkpt lat="47.45163" lon="9.83494"><ele>718</ele></trkpt>
+<trkpt lat="47.4521" lon="9.83619"><ele>726</ele></trkpt>
+<trkpt lat="47.45138" lon="9.83703"><ele>732</ele></trkpt>
+<trkpt lat="47.45095" lon="9.83788"><ele>739</ele></trkpt>
+<trkpt lat="47.4505" lon="9.83842"><ele>747</ele></trkpt>
+<trkpt lat="47.44989" lon="9.83879"><ele>754</ele></trkpt>
+<trkpt lat="47.44962" lon="9.83914"><ele>759</ele></trkpt>
+<trkpt lat="47.44912" lon="9.83925"><ele>772</ele></trkpt>
+<trkpt lat="47.44846" lon="9.83932"><ele>784</ele></trkpt>
+<trkpt lat="47.4483" lon="9.83958"><ele>786</ele></trkpt>
+<trkpt lat="47.44817" lon="9.84044"><ele>797</ele></trkpt>
+<trkpt lat="47.4479" lon="9.84067"><ele>807</ele></trkpt>
+<trkpt lat="47.44761" lon="9.84066"><ele>816</ele></trkpt>
+<trkpt lat="47.44727" lon="9.84054"><ele>821</ele></trkpt>
+<trkpt lat="47.44698" lon="9.84042"><ele>824</ele></trkpt>
+<trkpt lat="47.4464" lon="9.84041"><ele>834</ele></trkpt>
+<trkpt lat="47.44595" lon="9.8406"><ele>845</ele></trkpt>
+<trkpt lat="47.44543" lon="9.84008"><ele>864</ele></trkpt>
+<trkpt lat="47.44465" lon="9.84166"><ele>894</ele></trkpt>
+<trkpt lat="47.44404" lon="9.84197"><ele>919</ele></trkpt>
+<trkpt lat="47.44382" lon="9.84297"><ele>939</ele></trkpt>
+<trkpt lat="47.44332" lon="9.84289"><ele>948</ele></trkpt>
+<trkpt lat="47.4424" lon="9.84361"><ele>951</ele></trkpt>
+<trkpt lat="47.44221" lon="9.84415"><ele>951</ele></trkpt>
+<trkpt lat="47.44249" lon="9.84482"><ele>959</ele></trkpt>
+<trkpt lat="47.4422" lon="9.84555"><ele>975</ele></trkpt>
+<trkpt lat="47.44196" lon="9.84609"><ele>991</ele></trkpt>
+<trkpt lat="47.44185" lon="9.84659"><ele>1004</ele></trkpt>
+<trkpt lat="47.44192" lon="9.8471"><ele>1022</ele></trkpt>
+<trkpt lat="47.44173" lon="9.84834"><ele>1068</ele></trkpt>
+<trkpt lat="47.44201" lon="9.84927"><ele>1088</ele></trkpt>
+<trkpt lat="47.4423" lon="9.85025"><ele>1094</ele></trkpt>
+<trkpt lat="47.44256" lon="9.85022"><ele>1097</ele></trkpt>
+<trkpt lat="47.44274" lon="9.8508"><ele>1110</ele></trkpt>
+<trkpt lat="47.44295" lon="9.85131"><ele>1121</ele></trkpt>
+<trkpt lat="47.44302" lon="9.85201"><ele>1140</ele></trkpt>
+<trkpt lat="47.44317" lon="9.85263"><ele>1157</ele></trkpt>
+<trkpt lat="47.44354" lon="9.85272"><ele>1161</ele></trkpt>
+<trkpt lat="47.44378" lon="9.85319"><ele>1166</ele></trkpt>
+<trkpt lat="47.44377" lon="9.85365"><ele>1167</ele></trkpt>
+<trkpt lat="47.44358" lon="9.85404"><ele>1166</ele></trkpt>
+<trkpt lat="47.44316" lon="9.85426"><ele>1163</ele></trkpt>
+<trkpt lat="47.44292" lon="9.85453"><ele>1156</ele></trkpt>
+<trkpt lat="47.44239" lon="9.85502"><ele>1143</ele></trkpt>
+<trkpt lat="47.44173" lon="9.85548"><ele>1128</ele></trkpt>
+<trkpt lat="47.44146" lon="9.85594"><ele>1123</ele></trkpt>
+<trkpt lat="47.44153" lon="9.85688"><ele>1115</ele></trkpt>
+<trkpt lat="47.44156" lon="9.8573"><ele>1114</ele></trkpt>
+<trkpt lat="47.44135" lon="9.85676"><ele>1113</ele></trkpt>
+<trkpt lat="47.44077" lon="9.85651"><ele>1116</ele></trkpt>
+<trkpt lat="47.44025" lon="9.85651"><ele>1118</ele></trkpt>
+<trkpt lat="47.43977" lon="9.85696"><ele>1117</ele></trkpt>
+<trkpt lat="47.44002" lon="9.85813"><ele>1111</ele></trkpt>
+<trkpt lat="47.4401" lon="9.85879"><ele>1103</ele></trkpt>
+<trkpt lat="47.44051" lon="9.85958"><ele>1082</ele></trkpt>
+<trkpt lat="47.4404" lon="9.86101"><ele>1059</ele></trkpt>
+<trkpt lat="47.44062" lon="9.86245"><ele>1048</ele></trkpt>
+<trkpt lat="47.4408" lon="9.86393"><ele>1028</ele></trkpt>
+<trkpt lat="47.44071" lon="9.8644"><ele>1017</ele></trkpt>
+<trkpt lat="47.44026" lon="9.86443"><ele>1007</ele></trkpt>
+<trkpt lat="47.44023" lon="9.86517"><ele>1001</ele></trkpt>
+<trkpt lat="47.4403" lon="9.86629"><ele>990</ele></trkpt>
+<trkpt lat="47.44056" lon="9.86704"><ele>985</ele></trkpt>
+<trkpt lat="47.44072" lon="9.86719"><ele>985</ele></trkpt>
+<trkpt lat="47.44106" lon="9.86689"><ele>985</ele></trkpt>
+<trkpt lat="47.44154" lon="9.86705"><ele>975</ele></trkpt>
+<trkpt lat="47.44159" lon="9.86764"><ele>966</ele></trkpt>
+<trkpt lat="47.44111" lon="9.86786"><ele>956</ele></trkpt>
+<trkpt lat="47.44087" lon="9.86793"><ele>952</ele></trkpt>
+<trkpt lat="47.44071" lon="9.86859"><ele>948</ele></trkpt>
+<trkpt lat="47.44139" lon="9.8686"><ele>947</ele></trkpt>
+<trkpt lat="47.44184" lon="9.86881"><ele>937</ele></trkpt>
+<trkpt lat="47.44191" lon="9.8697"><ele>924</ele></trkpt>
+<trkpt lat="47.44304" lon="9.86999"><ele>902</ele></trkpt>
+<trkpt lat="47.44447" lon="9.86994"><ele>882</ele></trkpt>
+<trkpt lat="47.44555" lon="9.86976"><ele>859</ele></trkpt>
+<trkpt lat="47.44613" lon="9.87008"><ele>849</ele></trkpt>
+<trkpt lat="47.44713" lon="9.87021"><ele>822</ele></trkpt>
+<trkpt lat="47.44745" lon="9.8689"><ele>831</ele></trkpt>
+<trkpt lat="47.44773" lon="9.86727"><ele>837</ele></trkpt>
+<trkpt lat="47.4481" lon="9.86658"><ele>835</ele></trkpt>
+<trkpt lat="47.44811" lon="9.86611"><ele>840</ele></trkpt>
+<trkpt lat="47.4479" lon="9.86529"><ele>846</ele></trkpt>
+<trkpt lat="47.44785" lon="9.86498"><ele>844</ele></trkpt>
+<trkpt lat="47.44804" lon="9.86428"><ele>839</ele></trkpt>
+<trkpt lat="47.44865" lon="9.86356"><ele>837</ele></trkpt>
+<trkpt lat="47.44926" lon="9.86318"><ele>828</ele></trkpt>
+<trkpt lat="47.44976" lon="9.86338"><ele>822</ele></trkpt>
+<trkpt lat="47.45013" lon="9.86308"><ele>827</ele></trkpt>
+<trkpt lat="47.45029" lon="9.86246"><ele>831</ele></trkpt>
+<trkpt lat="47.45103" lon="9.86231"><ele>829</ele></trkpt>
+<trkpt lat="47.45188" lon="9.86256"><ele>846</ele></trkpt>
+<trkpt lat="47.45235" lon="9.86307"><ele>850</ele></trkpt>
+<trkpt lat="47.45298" lon="9.86297"><ele>846</ele></trkpt>
+<trkpt lat="47.45351" lon="9.86204"><ele>825</ele></trkpt>
+<trkpt lat="47.45408" lon="9.86077"><ele>808</ele></trkpt>
+<trkpt lat="47.45439" lon="9.85994"><ele>811</ele></trkpt>
+<trkpt lat="47.45456" lon="9.85908"><ele>799</ele></trkpt>
+<trkpt lat="47.45472" lon="9.85854"><ele>795</ele></trkpt>
+<trkpt lat="47.45475" lon="9.85777"><ele>795</ele></trkpt>
+<trkpt lat="47.45529" lon="9.85657"><ele>788</ele></trkpt>
+<trkpt lat="47.4553" lon="9.85533"><ele>787</ele></trkpt>
+<trkpt lat="47.45531" lon="9.85385"><ele>782</ele></trkpt>
+<trkpt lat="47.45511" lon="9.85198"><ele>772</ele></trkpt>
+<trkpt lat="47.45511" lon="9.85136"><ele>768</ele></trkpt>
+<trkpt lat="47.45478" lon="9.85027"><ele>754</ele></trkpt>
+<trkpt lat="47.45455" lon="9.84883"><ele>751</ele></trkpt>
+<trkpt lat="47.45422" lon="9.84734"><ele>744</ele></trkpt>
+<trkpt lat="47.45395" lon="9.8447"><ele>726</ele></trkpt>
+<trkpt lat="47.45346" lon="9.84415"><ele>732</ele></trkpt>
+<trkpt lat="47.45296" lon="9.84383"><ele>735</ele></trkpt>
+<trkpt lat="47.4528" lon="9.84324"><ele>736</ele></trkpt>
+<trkpt lat="47.45294" lon="9.84235"><ele>736</ele></trkpt>
+<trkpt lat="47.45287" lon="9.84169"><ele>736</ele></trkpt>
+<trkpt lat="47.45243" lon="9.84071"><ele>731</ele></trkpt>
+<trkpt lat="47.45217" lon="9.83989"><ele>735</ele></trkpt>
+<trkpt lat="47.4521" lon="9.83915"><ele>738</ele></trkpt>
+<trkpt lat="47.4521" lon="9.8383"><ele>737</ele></trkpt>
+<trkpt lat="47.45182" lon="9.83755"><ele>733</ele></trkpt>
+<trkpt lat="47.45166" lon="9.83681"><ele>729</ele></trkpt>
+<trkpt lat="47.45206" lon="9.83616"><ele>723</ele></trkpt>
+<trkpt lat="47.45179" lon="9.83529"><ele>720</ele></trkpt>
+<trkpt lat="47.45145" lon="9.83466"><ele>720</ele></trkpt>
+<trkpt lat="47.4509" lon="9.8338"><ele>720</ele></trkpt>
+<trkpt lat="47.45077" lon="9.83349"><ele>720</ele></trkpt>
+<trkpt lat="47.45036" lon="9.83231"><ele>720</ele></trkpt>
+<trkpt lat="47.45029" lon="9.83119"><ele>720</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

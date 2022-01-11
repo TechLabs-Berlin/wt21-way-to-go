@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[WINTERWANDERWEG Klafferrunde | Klaffer am Hochficht | Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Klafferrunde</strong></p>
+<p>
+	Wenig befahrene Straßen, Feldwege, eher sonnig. 3,6 km, Gehzeit ca. 1 Std.</p>
+<p>
+	Ausgangspunkt: Raiffeisenbank in Klaffer am Hochficht</p>
+<p>
+	Die Wanderung beginnt bei der Raiffeisenbank und führt Sie in nordwestlicher Richtung auf einer schmalen Asphaltstraße. Nach ca. 300 m biegen sie bei der Abzweigung links ein, gehen geradeaus dem Waldrand entlang weiter. Nach ca. 700 m biegen Sie links in eine Asphaltstraße ein und folgen dieser zurück in den Ort. Bei der Kreuzung biegen Sie rechts ab und folgen einer Straße, die im weiten Bogen um eine Siedlung führt. Nach ca. 500 m nehmen Sie die 2. Abzweigung nach rechts und folgen dem Weg. Kurz vor der Bundesstraße führt Sie links eine Straße steil bergan, vorbei am Kräutergarten, zurück zum Ausgangspunkt.</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430002090/winterwanderweg-klafferrunde.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 hier anfordern: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[WINTERWANDERWEG Klafferrunde | Klaffer am Hochficht | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Klafferrunde</strong></p>
+<p>
+	Wenig befahrene Straßen, Feldwege, eher sonnig. 3,6 km, Gehzeit ca. 1 Std.</p>
+<p>
+	Ausgangspunkt: Raiffeisenbank in Klaffer am Hochficht</p>
+<p>
+	Die Wanderung beginnt bei der Raiffeisenbank und führt Sie in nordwestlicher Richtung auf einer schmalen Asphaltstraße. Nach ca. 300 m biegen sie bei der Abzweigung links ein, gehen geradeaus dem Waldrand entlang weiter. Nach ca. 700 m biegen Sie links in eine Asphaltstraße ein und folgen dieser zurück in den Ort. Bei der Kreuzung biegen Sie rechts ab und folgen einer Straße, die im weiten Bogen um eine Siedlung führt. Nach ca. 500 m nehmen Sie die 2. Abzweigung nach rechts und folgen dem Weg. Kurz vor der Bundesstraße führt Sie links eine Straße steil bergan, vorbei am Kräutergarten, zurück zum Ausgangspunkt.</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430002090/winterwanderweg-klafferrunde.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 hier anfordern: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.69548" lon="13.88082"><ele>632</ele></trkpt>
+<trkpt lat="48.69548" lon="13.88082"><ele>632</ele></trkpt>
+<trkpt lat="48.69548" lon="13.88082"><ele>632</ele></trkpt>
+<trkpt lat="48.69632" lon="13.87792"><ele>635</ele></trkpt>
+<trkpt lat="48.69675" lon="13.87713"><ele>630</ele></trkpt>
+<trkpt lat="48.69696" lon="13.87681"><ele>630</ele></trkpt>
+<trkpt lat="48.69711" lon="13.87627"><ele>630</ele></trkpt>
+<trkpt lat="48.69707" lon="13.87608"><ele>629</ele></trkpt>
+<trkpt lat="48.69707" lon="13.87556"><ele>629</ele></trkpt>
+<trkpt lat="48.69694" lon="13.87513"><ele>628</ele></trkpt>
+<trkpt lat="48.69692" lon="13.87477"><ele>628</ele></trkpt>
+<trkpt lat="48.69677" lon="13.87434"><ele>628</ele></trkpt>
+<trkpt lat="48.69666" lon="13.87369"><ele>629</ele></trkpt>
+<trkpt lat="48.69675" lon="13.87322"><ele>630</ele></trkpt>
+<trkpt lat="48.69681" lon="13.87277"><ele>630</ele></trkpt>
+<trkpt lat="48.6966" lon="13.87243"><ele>629</ele></trkpt>
+<trkpt lat="48.69643" lon="13.87226"><ele>625</ele></trkpt>
+<trkpt lat="48.69621" lon="13.87217"><ele>622</ele></trkpt>
+<trkpt lat="48.69615" lon="13.87239"><ele>619</ele></trkpt>
+<trkpt lat="48.69611" lon="13.87286"><ele>615</ele></trkpt>
+<trkpt lat="48.69606" lon="13.87346"><ele>618</ele></trkpt>
+<trkpt lat="48.69602" lon="13.87389"><ele>620</ele></trkpt>
+<trkpt lat="48.69581" lon="13.87414"><ele>620</ele></trkpt>
+<trkpt lat="48.69546" lon="13.87449"><ele>618</ele></trkpt>
+<trkpt lat="48.69527" lon="13.87475"><ele>617</ele></trkpt>
+<trkpt lat="48.69495" lon="13.87502"><ele>618</ele></trkpt>
+<trkpt lat="48.69467" lon="13.87543"><ele>619</ele></trkpt>
+<trkpt lat="48.69447" lon="13.87605"><ele>620</ele></trkpt>
+<trkpt lat="48.69439" lon="13.87648"><ele>620</ele></trkpt>
+<trkpt lat="48.69426" lon="13.87666"><ele>620</ele></trkpt>
+<trkpt lat="48.69469" lon="13.87734"><ele>628</ele></trkpt>
+<trkpt lat="48.69501" lon="13.87788"><ele>634</ele></trkpt>
+<trkpt lat="48.69525" lon="13.87809"><ele>634</ele></trkpt>
+<trkpt lat="48.69531" lon="13.87872"><ele>635</ele></trkpt>
+<trkpt lat="48.69553" lon="13.87874"><ele>635</ele></trkpt>
+<trkpt lat="48.69561" lon="13.87912"><ele>633</ele></trkpt>
+<trkpt lat="48.69544" lon="13.87962"><ele>630</ele></trkpt>
+<trkpt lat="48.69538" lon="13.87983"><ele>629</ele></trkpt>
+<trkpt lat="48.69518" lon="13.8797"><ele>627</ele></trkpt>
+<trkpt lat="48.69497" lon="13.87938"><ele>625</ele></trkpt>
+<trkpt lat="48.69471" lon="13.87904"><ele>621</ele></trkpt>
+<trkpt lat="48.69441" lon="13.87861"><ele>615</ele></trkpt>
+<trkpt lat="48.69417" lon="13.87826"><ele>610</ele></trkpt>
+<trkpt lat="48.69383" lon="13.8782"><ele>609</ele></trkpt>
+<trkpt lat="48.69359" lon="13.87856"><ele>609</ele></trkpt>
+<trkpt lat="48.69308" lon="13.87953"><ele>610</ele></trkpt>
+<trkpt lat="48.69306" lon="13.87981"><ele>610</ele></trkpt>
+<trkpt lat="48.69362" lon="13.88073"><ele>614</ele></trkpt>
+<trkpt lat="48.69375" lon="13.88093"><ele>615</ele></trkpt>
+<trkpt lat="48.6934" lon="13.88144"><ele>613</ele></trkpt>
+<trkpt lat="48.6931" lon="13.88189"><ele>611</ele></trkpt>
+<trkpt lat="48.69293" lon="13.88238"><ele>612</ele></trkpt>
+<trkpt lat="48.69256" lon="13.88286"><ele>614</ele></trkpt>
+<trkpt lat="48.69226" lon="13.88386"><ele>608</ele></trkpt>
+<trkpt lat="48.69214" lon="13.88438"><ele>607</ele></trkpt>
+<trkpt lat="48.69205" lon="13.88513"><ele>607</ele></trkpt>
+<trkpt lat="48.69196" lon="13.88605"><ele>608</ele></trkpt>
+<trkpt lat="48.69186" lon="13.88788"><ele>608</ele></trkpt>
+<trkpt lat="48.69188" lon="13.88912"><ele>605</ele></trkpt>
+<trkpt lat="48.69177" lon="13.89026"><ele>613</ele></trkpt>
+<trkpt lat="48.69196" lon="13.89095"><ele>619</ele></trkpt>
+<trkpt lat="48.69239" lon="13.88983"><ele>625</ele></trkpt>
+<trkpt lat="48.69347" lon="13.88676"><ele>636</ele></trkpt>
+<trkpt lat="48.69377" lon="13.88612"><ele>635</ele></trkpt>
+<trkpt lat="48.69394" lon="13.88562"><ele>634</ele></trkpt>
+<trkpt lat="48.69407" lon="13.88507"><ele>633</ele></trkpt>
+<trkpt lat="48.69398" lon="13.88444"><ele>632</ele></trkpt>
+<trkpt lat="48.69417" lon="13.88408"><ele>631</ele></trkpt>
+<trkpt lat="48.69465" lon="13.88326"><ele>629</ele></trkpt>
+<trkpt lat="48.6949" lon="13.88292"><ele>629</ele></trkpt>
+<trkpt lat="48.69505" lon="13.88256"><ele>629</ele></trkpt>
+<trkpt lat="48.69548" lon="13.88082"><ele>631</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

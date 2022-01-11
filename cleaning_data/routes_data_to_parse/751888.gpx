@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Rohrbacher Panoramaweg | Rohrbach-Berg | Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Rohrbacher Panoramaweg</strong></p>
+<p>
+	Am Weg liegen 3 Aussichtspunkte von denen man einen ausgezeichneten Blick auf den Böhmerwald, die Stadt Rohrbach-Berg, das Mühlviertel und die Alpen hat. Ausgangspunkt dieser Wanderung ist beim GH Mosthütte, Stifterstraße, Rohrbach-Berg. Weg Nr. 52</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000384/rohrbacher-panoramaweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100  </p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Rohrbacher Panoramaweg | Rohrbach-Berg | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Rohrbacher Panoramaweg</strong></p>
+<p>
+	Am Weg liegen 3 Aussichtspunkte von denen man einen ausgezeichneten Blick auf den Böhmerwald, die Stadt Rohrbach-Berg, das Mühlviertel und die Alpen hat. Ausgangspunkt dieser Wanderung ist beim GH Mosthütte, Stifterstraße, Rohrbach-Berg. Weg Nr. 52</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000384/rohrbacher-panoramaweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100  </p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.57187" lon="14.00602"><ele>638</ele></trkpt>
+<trkpt lat="48.57215" lon="14.0055"><ele>638</ele></trkpt>
+<trkpt lat="48.57224" lon="14.00492"><ele>638</ele></trkpt>
+<trkpt lat="48.57212" lon="14.00426"><ele>645</ele></trkpt>
+<trkpt lat="48.572" lon="14.00361"><ele>653</ele></trkpt>
+<trkpt lat="48.57193" lon="14.00295"><ele>654</ele></trkpt>
+<trkpt lat="48.57204" lon="14.0023"><ele>655</ele></trkpt>
+<trkpt lat="48.57216" lon="14.00164"><ele>665</ele></trkpt>
+<trkpt lat="48.57228" lon="14.00099"><ele>674</ele></trkpt>
+<trkpt lat="48.5725" lon="14.00044"><ele>669</ele></trkpt>
+<trkpt lat="48.57285" lon="14.00002"><ele>664</ele></trkpt>
+<trkpt lat="48.57321" lon="13.9996"><ele>670</ele></trkpt>
+<trkpt lat="48.57356" lon="13.99918"><ele>675</ele></trkpt>
+<trkpt lat="48.57391" lon="13.99876"><ele>671</ele></trkpt>
+<trkpt lat="48.57426" lon="13.99834"><ele>666</ele></trkpt>
+<trkpt lat="48.57463" lon="13.99832"><ele>665</ele></trkpt>
+<trkpt lat="48.575" lon="13.9987"><ele>664</ele></trkpt>
+<trkpt lat="48.57538" lon="13.99859"><ele>667</ele></trkpt>
+<trkpt lat="48.57543" lon="13.99914"><ele>671</ele></trkpt>
+<trkpt lat="48.57535" lon="13.99981"><ele>671</ele></trkpt>
+<trkpt lat="48.57526" lon="14.00047"><ele>669</ele></trkpt>
+<trkpt lat="48.57508" lon="14.00106"><ele>670</ele></trkpt>
+<trkpt lat="48.57476" lon="14.00155"><ele>674</ele></trkpt>
+<trkpt lat="48.57445" lon="14.00203"><ele>669</ele></trkpt>
+<trkpt lat="48.57421" lon="14.0026"><ele>662</ele></trkpt>
+<trkpt lat="48.57399" lon="14.00319"><ele>657</ele></trkpt>
+<trkpt lat="48.5739" lon="14.00385"><ele>653</ele></trkpt>
+<trkpt lat="48.57379" lon="14.00448"><ele>647</ele></trkpt>
+<trkpt lat="48.57334" lon="14.00445"><ele>641</ele></trkpt>
+<trkpt lat="48.57294" lon="14.00461"><ele>639</ele></trkpt>
+<trkpt lat="48.57261" lon="14.00507"><ele>639</ele></trkpt>
+<trkpt lat="48.57228" lon="14.00553"><ele>638</ele></trkpt>
+<trkpt lat="48.57195" lon="14.00599"><ele>638</ele></trkpt>
+<trkpt lat="48.57187" lon="14.00611"><ele>637</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Dolomiten Höhenweg 5 3 Etappe 1 - wandertour]]></name>
+      <desc><![CDATA[<p><strong>Zu den wohl berühmtesten Zinnen der Welt</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/12115/medium/298_sexten.jpg" /></p><p></p><p>1. Etappe: Informativer, jedoch sehr weiter Weg durch das
+Zentrum der Sextener Gruppe mit dem Schaustück
+der Drei Zinnen. Technisch problemlos.</p><p></p><p><a href="http://sentres.com/suedtirol/tour/dolomiten-hoehenweg-53-etappe-1">Weitere Informationen auf Sentres.com</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Dolomiten Höhenweg 5 3 Etappe 1 - wandertour]]></name><desc><![CDATA[<p><strong>Zu den wohl berühmtesten Zinnen der Welt</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/12115/medium/298_sexten.jpg" /></p><p></p><p>1. Etappe: Informativer, jedoch sehr weiter Weg durch das
+Zentrum der Sextener Gruppe mit dem Schaustück
+der Drei Zinnen. Technisch problemlos.</p><p></p><p><a href="http://sentres.com/suedtirol/tour/dolomiten-hoehenweg-53-etappe-1">Weitere Informationen auf Sentres.com</a></p>]]></desc><trkseg>
+         <trkpt lat="" lon=""><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

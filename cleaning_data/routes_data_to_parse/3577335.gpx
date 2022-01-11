@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Schönau_18km_920hm]]></name>
+      <desc><![CDATA[<p>
+	http://www.wandermap.net/de/route/3577327-schonau_18km_920hm/#/z14/47.5907097,12.9874277/terrain</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Schönau_18km_920hm]]></name><desc><![CDATA[<p>
+	http://www.wandermap.net/de/route/3577327-schonau_18km_920hm/#/z14/47.5907097,12.9874277/terrain</p>
+]]></desc><trkseg>
+         <trkpt lat="52.51734" lon="13.39207"><ele>39</ele></trkpt>
+<trkpt lat="52.51733" lon="13.39207"><ele>39</ele></trkpt>
+<trkpt lat="52.51738" lon="13.39284"><ele>37</ele></trkpt>
+<trkpt lat="52.51735" lon="13.39341"><ele>36</ele></trkpt>
+<trkpt lat="52.5177" lon="13.3989"><ele>33</ele></trkpt>
+<trkpt lat="52.51773" lon="13.39926"><ele>34</ele></trkpt>
+<trkpt lat="52.51781" lon="13.39961"><ele>35</ele></trkpt>
+<trkpt lat="52.51821" lon="13.40067"><ele>41</ele></trkpt>
+<trkpt lat="52.51811" lon="13.40075"><ele>42</ele></trkpt>
+<trkpt lat="52.51863" lon="13.4021"><ele>37</ele></trkpt>
+<trkpt lat="52.51895" lon="13.40288"><ele>34</ele></trkpt>
+<trkpt lat="52.51935" lon="13.40375"><ele>44</ele></trkpt>
+<trkpt lat="52.52012" lon="13.40521"><ele>49</ele></trkpt>
+<trkpt lat="52.5211" lon="13.40712"><ele>54</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

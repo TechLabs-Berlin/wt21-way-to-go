@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Zur Faltschnalalm in Pfelders - familienwanderung]]></name>
+      <desc><![CDATA[<p><strong>Auf die "Filtnschnol"</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/2935/medium/almen_burggraf_030b.jpg" /></p><p></p><p>Unter mächtigem Bergkranz</p><p></p><p><a href="http://sentres.com/suedtirol/tour/zur-faltschnalalm-in-pfelders">Weitere Informationen auf Sentres.com</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Zur Faltschnalalm in Pfelders - familienwanderung]]></name><desc><![CDATA[<p><strong>Auf die "Filtnschnol"</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/2935/medium/almen_burggraf_030b.jpg" /></p><p></p><p>Unter mächtigem Bergkranz</p><p></p><p><a href="http://sentres.com/suedtirol/tour/zur-faltschnalalm-in-pfelders">Weitere Informationen auf Sentres.com</a></p>]]></desc><trkseg>
+         <trkpt lat="46.7955957262306" lon="11.0915155513476"><ele>1617</ele></trkpt>
+<trkpt lat="46.7945460205348" lon="11.0907989102251"><ele>1644</ele></trkpt>
+<trkpt lat="46.7940196167303" lon="11.089576846411"><ele>1643</ele></trkpt>
+<trkpt lat="46.7938583551775" lon="11.0884445608986"><ele>1637</ele></trkpt>
+<trkpt lat="46.7934812718037" lon="11.0875420524797"><ele>1650</ele></trkpt>
+<trkpt lat="46.7929978098831" lon="11.0870732289966"><ele>1671</ele></trkpt>
+<trkpt lat="46.792938887789" lon="11.0867387117791"><ele>1678</ele></trkpt>
+<trkpt lat="46.7928464811115" lon="11.0873123101139"><ele>1678</ele></trkpt>
+<trkpt lat="46.7924907235022" lon="11.0866463883954"><ele>1686</ele></trkpt>
+<trkpt lat="46.7921325075644" lon="11.0858078653963"><ele>1724</ele></trkpt>
+<trkpt lat="46.7920772831648" lon="11.0858765231284"><ele>1727</ele></trkpt>
+<trkpt lat="46.7920613724819" lon="11.085684117241"><ele>1727</ele></trkpt>
+<trkpt lat="46.7918980633412" lon="11.0856064332632"><ele>1727</ele></trkpt>
+<trkpt lat="46.7916901215026" lon="11.0856254825689"><ele>1727</ele></trkpt>
+<trkpt lat="46.7916359985851" lon="11.0857446194521"><ele>1727</ele></trkpt>
+<trkpt lat="46.7901352541371" lon="11.0844228925156"><ele>1765</ele></trkpt>
+<trkpt lat="46.789545462092" lon="11.0839607698416"><ele>1777</ele></trkpt>
+<trkpt lat="46.7889875714281" lon="11.0833480546516"><ele>1793</ele></trkpt>
+<trkpt lat="46.7889143189145" lon="11.083332312412"><ele>1796</ele></trkpt>
+<trkpt lat="46.7889605122083" lon="11.0834729641784"><ele>1799</ele></trkpt>
+<trkpt lat="46.7875287207578" lon="11.0825159878623"><ele>1829</ele></trkpt>
+<trkpt lat="46.7875347495805" lon="11.0825951880122"><ele>1831</ele></trkpt>
+<trkpt lat="46.786463030618" lon="11.0824155041516"><ele>1855</ele></trkpt>
+<trkpt lat="46.7851085983977" lon="11.0814728458887"><ele>1878</ele></trkpt>
+<trkpt lat="46.7849026710162" lon="11.0810369826216"><ele>1881</ele></trkpt>
+<trkpt lat="46.7847172598579" lon="11.0808414829722"><ele>1883</ele></trkpt>
+<trkpt lat="46.7842078635732" lon="11.0808494416094"><ele>1882</ele></trkpt>
+<trkpt lat="46.7836582592113" lon="11.0809527846236"><ele>1881</ele></trkpt>
+<trkpt lat="46.7831249580311" lon="11.081131679236"><ele>1884</ele></trkpt>
+<trkpt lat="46.7828087393633" lon="11.0806402251431"><ele>1881</ele></trkpt>
+<trkpt lat="46.7826295356865" lon="11.080479032022"><ele>1876</ele></trkpt>
+<trkpt lat="46.7830871650499" lon="11.0793134194673"><ele>1867</ele></trkpt>
+<trkpt lat="46.7832583695228" lon="11.0786978218286"><ele>1867</ele></trkpt>
+<trkpt lat="46.7833703984298" lon="11.0778150876794"><ele>1854</ele></trkpt>
+<trkpt lat="46.7831312295709" lon="11.0759766717243"><ele>1832</ele></trkpt>
+<trkpt lat="46.7831906422594" lon="11.0746898943944"><ele>1817</ele></trkpt>
+<trkpt lat="46.7833285865437" lon="11.0743006387266"><ele>1815</ele></trkpt>
+<trkpt lat="46.7833624994948" lon="11.0734033245505"><ele>1809</ele></trkpt>
+<trkpt lat="46.7831744211396" lon="11.0720539242446"><ele>1795</ele></trkpt>
+<trkpt lat="46.783205552359" lon="11.0718101855274"><ele>1795</ele></trkpt>
+<trkpt lat="46.7837235498235" lon="11.0704347980712"><ele>1787</ele></trkpt>
+<trkpt lat="46.7839361248743" lon="11.0694609854057"><ele>1778</ele></trkpt>
+<trkpt lat="46.7839139384583" lon="11.0692516445082"><ele>1776</ele></trkpt>
+<trkpt lat="46.7842460006624" lon="11.0690708264764"><ele>1772</ele></trkpt>
+<trkpt lat="46.7843052186708" lon="11.0683774493859"><ele>1775</ele></trkpt>
+<trkpt lat="46.7837732555726" lon="11.068072920554"><ele>1777</ele></trkpt>
+<trkpt lat="46.7831517975841" lon="11.0669064399114"><ele>1774</ele></trkpt>
+<trkpt lat="46.7827269022407" lon="11.0663108492147"><ele>1773</ele></trkpt>
+<trkpt lat="46.78331024505" lon="11.0662624481288"><ele>1772</ele></trkpt>
+<trkpt lat="46.7837903070486" lon="11.0666721395644"><ele>1770</ele></trkpt>
+<trkpt lat="46.7840210603597" lon="11.0671547333806"><ele>1769</ele></trkpt>
+<trkpt lat="46.7844206772221" lon="11.0673593746"><ele>1767</ele></trkpt>
+<trkpt lat="46.7848832332516" lon="11.0677456882882"><ele>1764</ele></trkpt>
+<trkpt lat="46.7858992877176" lon="11.0704278643952"><ele>1761</ele></trkpt>
+<trkpt lat="46.7861818497075" lon="11.0710250685068"><ele>1771</ele></trkpt>
+<trkpt lat="46.7865404645145" lon="11.0728795766652"><ele>1750</ele></trkpt>
+<trkpt lat="46.786901069668" lon="11.0738364825081"><ele>1751</ele></trkpt>
+<trkpt lat="46.7873989103479" lon="11.0743039107376"><ele>1735</ele></trkpt>
+<trkpt lat="46.7886585223051" lon="11.074976588558"><ele>1735</ele></trkpt>
+<trkpt lat="46.7892461301809" lon="11.0763370193651"><ele>1710</ele></trkpt>
+<trkpt lat="46.7902186132113" lon="11.0773200094781"><ele>1713</ele></trkpt>
+<trkpt lat="46.7909467807673" lon="11.0773082873969"><ele>1706</ele></trkpt>
+<trkpt lat="46.7914306265137" lon="11.0775664819491"><ele>1694</ele></trkpt>
+<trkpt lat="46.7917264954944" lon="11.0779490481537"><ele>1681</ele></trkpt>
+<trkpt lat="46.7916949342551" lon="11.0786287742118"><ele>1674</ele></trkpt>
+<trkpt lat="46.7918625567471" lon="11.0796869095841"><ele>1673</ele></trkpt>
+<trkpt lat="46.7922370870226" lon="11.0803288932894"><ele>1673</ele></trkpt>
+<trkpt lat="46.7925329435555" lon="11.080591331098"><ele>1671</ele></trkpt>
+<trkpt lat="46.7926291391839" lon="11.0804695363716"><ele>1670</ele></trkpt>
+<trkpt lat="46.7926672771703" lon="11.0799532559665"><ele>1667</ele></trkpt>
+<trkpt lat="46.7930948538379" lon="11.0805489738452"><ele>1657</ele></trkpt>
+<trkpt lat="46.7934647524874" lon="11.0813027497229"><ele>1645</ele></trkpt>
+<trkpt lat="46.7935897569007" lon="11.0822211085109"><ele>1643</ele></trkpt>
+<trkpt lat="46.7946883463532" lon="11.0860201127802"><ele>1629</ele></trkpt>
+<trkpt lat="46.7957690808095" lon="11.0880000686551"><ele>1623</ele></trkpt>
+<trkpt lat="46.7962163106253" lon="11.0886266166918"><ele>1621</ele></trkpt>
+<trkpt lat="46.7962880553091" lon="11.0893652013123"><ele>1616</ele></trkpt>
+<trkpt lat="46.7961433312921" lon="11.0900958394887"><ele>1607</ele></trkpt>
+<trkpt lat="46.7961667020831" lon="11.0902589194829"><ele>1606</ele></trkpt>
+<trkpt lat="46.7968505501699" lon="11.0910269245442"><ele>1606</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

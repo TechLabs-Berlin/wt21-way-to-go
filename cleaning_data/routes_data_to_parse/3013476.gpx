@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Grafen, Gold und Schwarzer Peter - Mülheim/Andel/Veldenz - Kulturweg Grafschaft Veldenz ]]></name>
+      <desc><![CDATA[
+	<strong><a href="http://alpregio.outdooractive.com/ar-bernkastel-kues/de/alpregio.jsp#i=3098995&amp;tab=TourTab">Grafen, Gold und Schwarzer Peter:</a></strong>
+
+	Der Kulturweg führt durch die Jahrhunderte der Grafschaft Veldenz, gelegen zwischen Trier und Bernkastel-Kues. Zur Grafschaft Veldenz gehörten hier an der Mosel u. a. die Dörfer <strong>Mülheim, Andel und Veldenz</strong>, welche einen Teil des großräumigen Kulturwanderweges bilden.
+
+	Insgesamt besteht das Wanderwegenetz aus <strong>47 km mit mehreren Rundwegen</strong>, welche man individuell in einzelnen Abschnitten erkunden kann.
+
+	Entdecken Sie romantische Orte, unterschiedliche Landschaftsformen, eine <strong>vielseitige gastronomische Auswahl</strong> und ein <strong>umfangreiches Angebot an Spielen, Aktionen und Ereignissen, auch für Kinder,</strong> welche Urlaubserlebnisse der Extraklasse garantieren.
+
+	Weitere Informationen finden Sie auf <a href="http://www.kulturweg-grafschaft-veldenz.de">www.kulturweg-grafschaft-veldenz.de</a>
+
+	<strong>Ferienland Bernkastel-Kues:</strong>
+
+	<a href="http://www.bernkastel.de">www.bernkastel.de</a>
+
+	(cloned from route 1295908)
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Grafen, Gold und Schwarzer Peter - Mülheim/Andel/Veldenz - Kulturweg Grafschaft Veldenz ]]></name><desc><![CDATA[
+	<strong><a href="http://alpregio.outdooractive.com/ar-bernkastel-kues/de/alpregio.jsp#i=3098995&amp;tab=TourTab">Grafen, Gold und Schwarzer Peter:</a></strong>
+
+	Der Kulturweg führt durch die Jahrhunderte der Grafschaft Veldenz, gelegen zwischen Trier und Bernkastel-Kues. Zur Grafschaft Veldenz gehörten hier an der Mosel u. a. die Dörfer <strong>Mülheim, Andel und Veldenz</strong>, welche einen Teil des großräumigen Kulturwanderweges bilden.
+
+	Insgesamt besteht das Wanderwegenetz aus <strong>47 km mit mehreren Rundwegen</strong>, welche man individuell in einzelnen Abschnitten erkunden kann.
+
+	Entdecken Sie romantische Orte, unterschiedliche Landschaftsformen, eine <strong>vielseitige gastronomische Auswahl</strong> und ein <strong>umfangreiches Angebot an Spielen, Aktionen und Ereignissen, auch für Kinder,</strong> welche Urlaubserlebnisse der Extraklasse garantieren.
+
+	Weitere Informationen finden Sie auf <a href="http://www.kulturweg-grafschaft-veldenz.de">www.kulturweg-grafschaft-veldenz.de</a>
+
+	<strong>Ferienland Bernkastel-Kues:</strong>
+
+	<a href="http://www.bernkastel.de">www.bernkastel.de</a>
+
+	(cloned from route 1295908)
+]]></desc><trkseg>
+         <trkpt lat="49.91266" lon="7.01262"><ele>115</ele></trkpt>
+<trkpt lat="49.91321" lon="7.01353"><ele>112</ele></trkpt>
+<trkpt lat="49.91337" lon="7.01408"><ele>111</ele></trkpt>
+<trkpt lat="49.91349" lon="7.014"><ele>111</ele></trkpt>
+<trkpt lat="49.91376" lon="7.01417"><ele>111</ele></trkpt>
+<trkpt lat="49.91426" lon="7.01421"><ele>109</ele></trkpt>
+<trkpt lat="49.91437" lon="7.01614"><ele>110</ele></trkpt>
+<trkpt lat="49.91407" lon="7.01833"><ele>107</ele></trkpt>
+<trkpt lat="49.91448" lon="7.01898"><ele>107</ele></trkpt>
+<trkpt lat="49.91462" lon="7.02074"><ele>111</ele></trkpt>
+<trkpt lat="49.91478" lon="7.02228"><ele>111</ele></trkpt>
+<trkpt lat="49.91476" lon="7.02365"><ele>109</ele></trkpt>
+<trkpt lat="49.91484" lon="7.02546"><ele>109</ele></trkpt>
+<trkpt lat="49.91478" lon="7.02756"><ele>109</ele></trkpt>
+<trkpt lat="49.91473" lon="7.03056"><ele>106</ele></trkpt>
+<trkpt lat="49.91456" lon="7.03318"><ele>108</ele></trkpt>
+<trkpt lat="49.91415" lon="7.03477"><ele>106</ele></trkpt>
+<trkpt lat="49.91382" lon="7.03601"><ele>108</ele></trkpt>
+<trkpt lat="49.91318" lon="7.03743"><ele>112</ele></trkpt>
+<trkpt lat="49.91227" lon="7.03915"><ele>110</ele></trkpt>
+<trkpt lat="49.91152" lon="7.04039"><ele>113</ele></trkpt>
+<trkpt lat="49.91105" lon="7.03988"><ele>110</ele></trkpt>
+<trkpt lat="49.91003" lon="7.04241"><ele>111</ele></trkpt>
+<trkpt lat="49.90948" lon="7.04172"><ele>114</ele></trkpt>
+<trkpt lat="49.90915" lon="7.04275"><ele>114</ele></trkpt>
+<trkpt lat="49.90848" lon="7.04189"><ele>118</ele></trkpt>
+<trkpt lat="49.90796" lon="7.04279"><ele>122</ele></trkpt>
+<trkpt lat="49.90713" lon="7.04258"><ele>124</ele></trkpt>
+<trkpt lat="49.90627" lon="7.04249"><ele>128</ele></trkpt>
+<trkpt lat="49.90611" lon="7.04215"><ele>130</ele></trkpt>
+<trkpt lat="49.90409" lon="7.04129"><ele>147</ele></trkpt>
+<trkpt lat="49.90412" lon="7.04121"><ele>147</ele></trkpt>
+<trkpt lat="49.90417" lon="7.04043"><ele>149</ele></trkpt>
+<trkpt lat="49.90542" lon="7.03606"><ele>153</ele></trkpt>
+<trkpt lat="49.90674" lon="7.03142"><ele>147</ele></trkpt>
+<trkpt lat="49.90801" lon="7.02704"><ele>146</ele></trkpt>
+<trkpt lat="49.90881" lon="7.02438"><ele>158</ele></trkpt>
+<trkpt lat="49.90926" lon="7.02168"><ele>164</ele></trkpt>
+<trkpt lat="49.91006" lon="7.0185"><ele>156</ele></trkpt>
+<trkpt lat="49.91006" lon="7.01782"><ele>155</ele></trkpt>
+<trkpt lat="49.90981" lon="7.01713"><ele>151</ele></trkpt>
+<trkpt lat="49.91028" lon="7.01713"><ele>143</ele></trkpt>
+<trkpt lat="49.90989" lon="7.01597"><ele>148</ele></trkpt>
+<trkpt lat="49.90843" lon="7.01567"><ele>150</ele></trkpt>
+<trkpt lat="49.90917" lon="7.01499"><ele>140</ele></trkpt>
+<trkpt lat="49.91017" lon="7.01516"><ele>132</ele></trkpt>
+<trkpt lat="49.91075" lon="7.01417"><ele>127</ele></trkpt>
+<trkpt lat="49.91166" lon="7.01348"><ele>122</ele></trkpt>
+<trkpt lat="49.91249" lon="7.01275"><ele>117</ele></trkpt>
+<trkpt lat="49.91263" lon="7.01142"><ele>115</ele></trkpt>
+<trkpt lat="49.91249" lon="7.01104"><ele>115</ele></trkpt>
+<trkpt lat="49.91194" lon="7.01005"><ele>115</ele></trkpt>
+<trkpt lat="49.91194" lon="7.00958"><ele>116</ele></trkpt>
+<trkpt lat="49.91067" lon="7.01018"><ele>117</ele></trkpt>
+<trkpt lat="49.91025" lon="7.01022"><ele>117</ele></trkpt>
+<trkpt lat="49.90986" lon="7.01022"><ele>118</ele></trkpt>
+<trkpt lat="49.90964" lon="7.01005"><ele>118</ele></trkpt>
+<trkpt lat="49.90937" lon="7.01061"><ele>119</ele></trkpt>
+<trkpt lat="49.90912" lon="7.01138"><ele>119</ele></trkpt>
+<trkpt lat="49.90658" lon="7.01172"><ele>127</ele></trkpt>
+<trkpt lat="49.90622" lon="7.01117"><ele>127</ele></trkpt>
+<trkpt lat="49.90569" lon="7.01125"><ele>128</ele></trkpt>
+<trkpt lat="49.90522" lon="7.01121"><ele>129</ele></trkpt>
+<trkpt lat="49.9045" lon="7.01117"><ele>130</ele></trkpt>
+<trkpt lat="49.90376" lon="7.01151"><ele>130</ele></trkpt>
+<trkpt lat="49.90307" lon="7.01194"><ele>131</ele></trkpt>
+<trkpt lat="49.90235" lon="7.01228"><ele>136</ele></trkpt>
+<trkpt lat="49.90196" lon="7.01258"><ele>138</ele></trkpt>
+<trkpt lat="49.90166" lon="7.01202"><ele>138</ele></trkpt>
+<trkpt lat="49.90113" lon="7.01211"><ele>139</ele></trkpt>
+<trkpt lat="49.90069" lon="7.0122"><ele>139</ele></trkpt>
+<trkpt lat="49.89989" lon="7.01224"><ele>140</ele></trkpt>
+<trkpt lat="49.89928" lon="7.01237"><ele>141</ele></trkpt>
+<trkpt lat="49.89875" lon="7.01241"><ele>143</ele></trkpt>
+<trkpt lat="49.89828" lon="7.0128"><ele>144</ele></trkpt>
+<trkpt lat="49.89859" lon="7.01361"><ele>145</ele></trkpt>
+<trkpt lat="49.89817" lon="7.01408"><ele>145</ele></trkpt>
+<trkpt lat="49.89768" lon="7.01438"><ele>144</ele></trkpt>
+<trkpt lat="49.89696" lon="7.01477"><ele>145</ele></trkpt>
+<trkpt lat="49.89649" lon="7.01511"><ele>147</ele></trkpt>
+<trkpt lat="49.89596" lon="7.01537"><ele>148</ele></trkpt>
+<trkpt lat="49.89566" lon="7.01494"><ele>148</ele></trkpt>
+<trkpt lat="49.89519" lon="7.01477"><ele>149</ele></trkpt>
+<trkpt lat="49.89488" lon="7.0152"><ele>151</ele></trkpt>
+<trkpt lat="49.89455" lon="7.01602"><ele>152</ele></trkpt>
+<trkpt lat="49.89439" lon="7.01657"><ele>153</ele></trkpt>
+<trkpt lat="49.89422" lon="7.01687"><ele>153</ele></trkpt>
+<trkpt lat="49.89452" lon="7.0176"><ele>155</ele></trkpt>
+<trkpt lat="49.89394" lon="7.0185"><ele>159</ele></trkpt>
+<trkpt lat="49.89295" lon="7.02078"><ele>167</ele></trkpt>
+<trkpt lat="49.89295" lon="7.02142"><ele>170</ele></trkpt>
+<trkpt lat="49.89264" lon="7.02215"><ele>173</ele></trkpt>
+<trkpt lat="49.89201" lon="7.02258"><ele>167</ele></trkpt>
+<trkpt lat="49.89132" lon="7.02322"><ele>168</ele></trkpt>
+<trkpt lat="49.89087" lon="7.02357"><ele>169</ele></trkpt>
+<trkpt lat="49.8906" lon="7.02408"><ele>169</ele></trkpt>
+<trkpt lat="49.89013" lon="7.02383"><ele>170</ele></trkpt>
+<trkpt lat="49.88963" lon="7.02357"><ele>172</ele></trkpt>
+<trkpt lat="49.8896" lon="7.02516"><ele>182</ele></trkpt>
+<trkpt lat="49.88966" lon="7.02601"><ele>191</ele></trkpt>
+<trkpt lat="49.88971" lon="7.02692"><ele>200</ele></trkpt>
+<trkpt lat="49.8893" lon="7.02812"><ele>208</ele></trkpt>
+<trkpt lat="49.88894" lon="7.02906"><ele>209</ele></trkpt>
+<trkpt lat="49.88861" lon="7.02906"><ele>214</ele></trkpt>
+<trkpt lat="49.88899" lon="7.02988"><ele>224</ele></trkpt>
+<trkpt lat="49.88861" lon="7.02971"><ele>229</ele></trkpt>
+<trkpt lat="49.88919" lon="7.03112"><ele>255</ele></trkpt>
+<trkpt lat="49.89004" lon="7.03168"><ele>250</ele></trkpt>
+<trkpt lat="49.88894" lon="7.03159"><ele>248</ele></trkpt>
+<trkpt lat="49.88985" lon="7.03271"><ele>267</ele></trkpt>
+<trkpt lat="49.88938" lon="7.03297"><ele>269</ele></trkpt>
+<trkpt lat="49.88891" lon="7.03292"><ele>281</ele></trkpt>
+<trkpt lat="49.88822" lon="7.03284"><ele>301</ele></trkpt>
+<trkpt lat="49.88769" lon="7.0331"><ele>321</ele></trkpt>
+<trkpt lat="49.88739" lon="7.03357"><ele>320</ele></trkpt>
+<trkpt lat="49.88805" lon="7.03352"><ele>314</ele></trkpt>
+<trkpt lat="49.88877" lon="7.0337"><ele>314</ele></trkpt>
+<trkpt lat="49.8896" lon="7.0343"><ele>324</ele></trkpt>
+<trkpt lat="49.89076" lon="7.03404"><ele>305</ele></trkpt>
+<trkpt lat="49.89253" lon="7.0343"><ele>320</ele></trkpt>
+<trkpt lat="49.89292" lon="7.03391"><ele>329</ele></trkpt>
+<trkpt lat="49.89422" lon="7.03473"><ele>343</ele></trkpt>
+<trkpt lat="49.89436" lon="7.03554"><ele>338</ele></trkpt>
+<trkpt lat="49.89403" lon="7.03606"><ele>348</ele></trkpt>
+<trkpt lat="49.89414" lon="7.03773"><ele>364</ele></trkpt>
+<trkpt lat="49.89414" lon="7.03773"><ele>364</ele></trkpt>
+<trkpt lat="49.8943" lon="7.03876"><ele>369</ele></trkpt>
+<trkpt lat="49.89463" lon="7.03936"><ele>373</ele></trkpt>
+<trkpt lat="49.89513" lon="7.03906"><ele>373</ele></trkpt>
+<trkpt lat="49.89549" lon="7.04005"><ele>374</ele></trkpt>
+<trkpt lat="49.89566" lon="7.04129"><ele>377</ele></trkpt>
+<trkpt lat="49.89491" lon="7.04164"><ele>386</ele></trkpt>
+<trkpt lat="49.89439" lon="7.04151"><ele>391</ele></trkpt>
+<trkpt lat="49.89381" lon="7.04241"><ele>384</ele></trkpt>
+<trkpt lat="49.89356" lon="7.04395"><ele>375</ele></trkpt>
+<trkpt lat="49.89381" lon="7.04485"><ele>370</ele></trkpt>
+<trkpt lat="49.89342" lon="7.04623"><ele>360</ele></trkpt>
+<trkpt lat="49.89463" lon="7.04614"><ele>343</ele></trkpt>
+<trkpt lat="49.89596" lon="7.04631"><ele>312</ele></trkpt>
+<trkpt lat="49.89649" lon="7.047"><ele>305</ele></trkpt>
+<trkpt lat="49.89685" lon="7.04696"><ele>311</ele></trkpt>
+<trkpt lat="49.89721" lon="7.04794"><ele>327</ele></trkpt>
+<trkpt lat="49.89674" lon="7.04872"><ele>338</ele></trkpt>
+<trkpt lat="49.89585" lon="7.04945"><ele>330</ele></trkpt>
+<trkpt lat="49.89557" lon="7.05022"><ele>314</ele></trkpt>
+<trkpt lat="49.89629" lon="7.04988"><ele>308</ele></trkpt>
+<trkpt lat="49.89737" lon="7.04957"><ele>272</ele></trkpt>
+<trkpt lat="49.89823" lon="7.0494"><ele>255</ele></trkpt>
+<trkpt lat="49.8992" lon="7.04769"><ele>244</ele></trkpt>
+<trkpt lat="49.89903" lon="7.04679"><ele>226</ele></trkpt>
+<trkpt lat="49.90005" lon="7.04511"><ele>200</ele></trkpt>
+<trkpt lat="49.9008" lon="7.04567"><ele>197</ele></trkpt>
+<trkpt lat="49.90119" lon="7.04657"><ele>216</ele></trkpt>
+<trkpt lat="49.90135" lon="7.04764"><ele>222</ele></trkpt>
+<trkpt lat="49.90152" lon="7.04906"><ele>212</ele></trkpt>
+<trkpt lat="49.90168" lon="7.05095"><ele>216</ele></trkpt>
+<trkpt lat="49.90171" lon="7.05305"><ele>239</ele></trkpt>
+<trkpt lat="49.90213" lon="7.05357"><ele>239</ele></trkpt>
+<trkpt lat="49.90235" lon="7.05391"><ele>239</ele></trkpt>
+<trkpt lat="49.9024" lon="7.05472"><ele>240</ele></trkpt>
+<trkpt lat="49.90237" lon="7.05464"><ele>240</ele></trkpt>
+<trkpt lat="49.90226" lon="7.05382"><ele>234</ele></trkpt>
+<trkpt lat="49.90193" lon="7.05327"><ele>226</ele></trkpt>
+<trkpt lat="49.90168" lon="7.05275"><ele>217</ele></trkpt>
+<trkpt lat="49.90168" lon="7.05168"><ele>218</ele></trkpt>
+<trkpt lat="49.90149" lon="7.04927"><ele>227</ele></trkpt>
+<trkpt lat="49.90121" lon="7.04683"><ele>197</ele></trkpt>
+<trkpt lat="49.90041" lon="7.04533"><ele>205</ele></trkpt>
+<trkpt lat="49.89997" lon="7.04511"><ele>211</ele></trkpt>
+<trkpt lat="49.89942" lon="7.04567"><ele>213</ele></trkpt>
+<trkpt lat="49.89928" lon="7.04528"><ele>213</ele></trkpt>
+<trkpt lat="49.89964" lon="7.0446"><ele>207</ele></trkpt>
+<trkpt lat="49.90055" lon="7.04378"><ele>187</ele></trkpt>
+<trkpt lat="49.90177" lon="7.04301"><ele>175</ele></trkpt>
+<trkpt lat="49.90351" lon="7.04185"><ele>151</ele></trkpt>
+<trkpt lat="49.90398" lon="7.04138"><ele>150</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

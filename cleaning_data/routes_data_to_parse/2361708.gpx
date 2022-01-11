@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[von Kalteck auf den Klosterstein und zum Regensburger Stein]]></name>
+      <desc><![CDATA[<p>
+	<strong>Parkplatz am Start beim Berghotel Kalteck (Achslach, Kalteck 9) und hinter dem Hotel, aber auch bei km 8,2.</strong></p>
+<p>
+	<strong>Wandenung auf meist (im 1. Drittel zum Teil&nbsp;feucht) sch&ouml;nen Pfaden und Wegen mit 2 Aussichtspunkten: &nbsp;auf dem Klosterstein (1.021m) und vom Regensburger Stein (am Weg gelegen).</strong></p>
+<p>
+	&nbsp;</p>
+<div style="left: -1000px; top: 51.59px; width: 1px; height: 1px; overflow: hidden; position: absolute;">
+	&nbsp;</div>
+<div style="left: -1000px; top: 51.59px; width: 1px; height: 1px; overflow: hidden; position: absolute;">
+	&nbsp;</div>
+<p>
+	<strong><a href="http://www.bikemap.net/de/user/jogruber/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Meine Radtouren</a><span style="color: rgb(207, 51, 207); font-weight: bold;"> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; </span><a href="http://www.bikemap.net/de/user/jogruber/map/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Karte</a><span style="color: rgb(207, 51, 207);"> </span><br style="color: rgb(207, 51, 207);" />
+	<a href="http://www.wandermap.net/de/user/jogruber/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Meine Wanderungen</a><span style="color: rgb(207, 51, 207); font-weight: bold;"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><a href="http://www.wandermap.net/de/user/jogruber/map/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Karte</a></strong></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[von Kalteck auf den Klosterstein und zum Regensburger Stein]]></name><desc><![CDATA[<p>
+	<strong>Parkplatz am Start beim Berghotel Kalteck (Achslach, Kalteck 9) und hinter dem Hotel, aber auch bei km 8,2.</strong></p>
+<p>
+	<strong>Wandenung auf meist (im 1. Drittel zum Teil&nbsp;feucht) sch&ouml;nen Pfaden und Wegen mit 2 Aussichtspunkten: &nbsp;auf dem Klosterstein (1.021m) und vom Regensburger Stein (am Weg gelegen).</strong></p>
+<p>
+	&nbsp;</p>
+<div style="left: -1000px; top: 51.59px; width: 1px; height: 1px; overflow: hidden; position: absolute;">
+	&nbsp;</div>
+<div style="left: -1000px; top: 51.59px; width: 1px; height: 1px; overflow: hidden; position: absolute;">
+	&nbsp;</div>
+<p>
+	<strong><a href="http://www.bikemap.net/de/user/jogruber/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Meine Radtouren</a><span style="color: rgb(207, 51, 207); font-weight: bold;"> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; </span><a href="http://www.bikemap.net/de/user/jogruber/map/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Karte</a><span style="color: rgb(207, 51, 207);"> </span><br style="color: rgb(207, 51, 207);" />
+	<a href="http://www.wandermap.net/de/user/jogruber/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Meine Wanderungen</a><span style="color: rgb(207, 51, 207); font-weight: bold;"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><a href="http://www.wandermap.net/de/user/jogruber/map/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Karte</a></strong></p>
+]]></desc><trkseg>
+         <trkpt lat="48.93997" lon="12.92079"><ele>737</ele></trkpt>
+<trkpt lat="48.93983" lon="12.92121"><ele>737</ele></trkpt>
+<trkpt lat="48.94037" lon="12.92199"><ele>737</ele></trkpt>
+<trkpt lat="48.94153" lon="12.92287"><ele>736</ele></trkpt>
+<trkpt lat="48.94254" lon="12.92422"><ele>725</ele></trkpt>
+<trkpt lat="48.94326" lon="12.92479"><ele>713</ele></trkpt>
+<trkpt lat="48.94399" lon="12.9248"><ele>706</ele></trkpt>
+<trkpt lat="48.94649" lon="12.92505"><ele>688</ele></trkpt>
+<trkpt lat="48.94806" lon="12.92535"><ele>682</ele></trkpt>
+<trkpt lat="48.94778" lon="12.92683"><ele>698</ele></trkpt>
+<trkpt lat="48.94971" lon="12.92871"><ele>727</ele></trkpt>
+<trkpt lat="48.951" lon="12.92982"><ele>746</ele></trkpt>
+<trkpt lat="48.95165" lon="12.93074"><ele>751</ele></trkpt>
+<trkpt lat="48.95205" lon="12.93161"><ele>763</ele></trkpt>
+<trkpt lat="48.95293" lon="12.93364"><ele>765</ele></trkpt>
+<trkpt lat="48.95325" lon="12.93457"><ele>755</ele></trkpt>
+<trkpt lat="48.95363" lon="12.93695"><ele>764</ele></trkpt>
+<trkpt lat="48.95373" lon="12.93778"><ele>770</ele></trkpt>
+<trkpt lat="48.95409" lon="12.9388"><ele>768</ele></trkpt>
+<trkpt lat="48.95421" lon="12.93978"><ele>766</ele></trkpt>
+<trkpt lat="48.95333" lon="12.94272"><ele>772</ele></trkpt>
+<trkpt lat="48.95287" lon="12.94381"><ele>778</ele></trkpt>
+<trkpt lat="48.95166" lon="12.94569"><ele>771</ele></trkpt>
+<trkpt lat="48.95085" lon="12.94711"><ele>755</ele></trkpt>
+<trkpt lat="48.95069" lon="12.94774"><ele>756</ele></trkpt>
+<trkpt lat="48.94897" lon="12.94937"><ele>780</ele></trkpt>
+<trkpt lat="48.94777" lon="12.9502"><ele>782</ele></trkpt>
+<trkpt lat="48.94704" lon="12.95051"><ele>790</ele></trkpt>
+<trkpt lat="48.94616" lon="12.95022"><ele>798</ele></trkpt>
+<trkpt lat="48.94468" lon="12.94958"><ele>820</ele></trkpt>
+<trkpt lat="48.94328" lon="12.94935"><ele>830</ele></trkpt>
+<trkpt lat="48.94309" lon="12.94904"><ele>835</ele></trkpt>
+<trkpt lat="48.94323" lon="12.94878"><ele>840</ele></trkpt>
+<trkpt lat="48.94334" lon="12.94869"><ele>843</ele></trkpt>
+<trkpt lat="48.9434" lon="12.94849"><ele>846</ele></trkpt>
+<trkpt lat="48.94336" lon="12.94829"><ele>849</ele></trkpt>
+<trkpt lat="48.94247" lon="12.94792"><ele>869</ele></trkpt>
+<trkpt lat="48.94183" lon="12.94734"><ele>888</ele></trkpt>
+<trkpt lat="48.94092" lon="12.94698"><ele>892</ele></trkpt>
+<trkpt lat="48.93981" lon="12.94647"><ele>895</ele></trkpt>
+<trkpt lat="48.93772" lon="12.94702"><ele>918</ele></trkpt>
+<trkpt lat="48.93636" lon="12.94835"><ele>936</ele></trkpt>
+<trkpt lat="48.93594" lon="12.94864"><ele>941</ele></trkpt>
+<trkpt lat="48.93509" lon="12.94865"><ele>951</ele></trkpt>
+<trkpt lat="48.93461" lon="12.94844"><ele>960</ele></trkpt>
+<trkpt lat="48.93395" lon="12.94792"><ele>971</ele></trkpt>
+<trkpt lat="48.93326" lon="12.94685"><ele>981</ele></trkpt>
+<trkpt lat="48.93279" lon="12.94598"><ele>992</ele></trkpt>
+<trkpt lat="48.93397" lon="12.94422"><ele>1011</ele></trkpt>
+<trkpt lat="48.93432" lon="12.94358"><ele>1011</ele></trkpt>
+<trkpt lat="48.93388" lon="12.94431"><ele>1009</ele></trkpt>
+<trkpt lat="48.93274" lon="12.94595"><ele>982</ele></trkpt>
+<trkpt lat="48.93182" lon="12.94519"><ele>975</ele></trkpt>
+<trkpt lat="48.9314" lon="12.94488"><ele>974</ele></trkpt>
+<trkpt lat="48.93071" lon="12.94476"><ele>977</ele></trkpt>
+<trkpt lat="48.92949" lon="12.94486"><ele>968</ele></trkpt>
+<trkpt lat="48.92918" lon="12.94487"><ele>965</ele></trkpt>
+<trkpt lat="48.92901" lon="12.94476"><ele>964</ele></trkpt>
+<trkpt lat="48.92889" lon="12.94442"><ele>962</ele></trkpt>
+<trkpt lat="48.92899" lon="12.94386"><ele>959</ele></trkpt>
+<trkpt lat="48.92905" lon="12.94346"><ele>958</ele></trkpt>
+<trkpt lat="48.9289" lon="12.94336"><ele>958</ele></trkpt>
+<trkpt lat="48.92905" lon="12.9434"><ele>957</ele></trkpt>
+<trkpt lat="48.92927" lon="12.94288"><ele>952</ele></trkpt>
+<trkpt lat="48.92955" lon="12.94163"><ele>930</ele></trkpt>
+<trkpt lat="48.92974" lon="12.94075"><ele>913</ele></trkpt>
+<trkpt lat="48.92998" lon="12.94033"><ele>910</ele></trkpt>
+<trkpt lat="48.93076" lon="12.93939"><ele>908</ele></trkpt>
+<trkpt lat="48.93303" lon="12.93671"><ele>879</ele></trkpt>
+<trkpt lat="48.93412" lon="12.93477"><ele>858</ele></trkpt>
+<trkpt lat="48.93482" lon="12.9341"><ele>846</ele></trkpt>
+<trkpt lat="48.93659" lon="12.93303"><ele>854</ele></trkpt>
+<trkpt lat="48.93768" lon="12.93124"><ele>831</ele></trkpt>
+<trkpt lat="48.93909" lon="12.92922"><ele>810</ele></trkpt>
+<trkpt lat="48.93997" lon="12.92735"><ele>782</ele></trkpt>
+<trkpt lat="48.94024" lon="12.92651"><ele>767</ele></trkpt>
+<trkpt lat="48.94054" lon="12.9248"><ele>744</ele></trkpt>
+<trkpt lat="48.9415" lon="12.92294"><ele>739</ele></trkpt>
+<trkpt lat="48.94037" lon="12.92202"><ele>739</ele></trkpt>
+<trkpt lat="48.93978" lon="12.92128"><ele>740</ele></trkpt>
+<trkpt lat="48.93978" lon="12.92128"><ele>740</ele></trkpt>
+<trkpt lat="48.93993" lon="12.92062"><ele>737</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

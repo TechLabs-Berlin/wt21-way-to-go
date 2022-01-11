@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Maria-Zill Panoramaweg Bernkastel-Kues]]></name>
+      <desc><![CDATA[
+	Der <strong><a href="http://www.bernkastel.de/erleben/wandern-im-mosel-ferienland/ferienlandwege/maria-zillpanoramaweg.html">Maria-Zill Panoramaweg</a></strong> führt von der Mosel aus auf rund 400 m NN zu dem Aussichtspunkt "Maria-Zill". Hier eröffnet sich dem Wanderer ein herrlicher Weitblick über das Moseltal. 
+
+	Schmale Pfade, ein Pranoramablick und Weinbergerge. Der Maria-Zill Panoramaweg bietet auf rund 6 Kilometern das, was Wanderer an der Natur- und Kulturlandschaft fasziniert. Eine gewisse Grundkondition sollte man schon mitbringen, da von der Mosel bis zum Punkt "Maria Zill" über 300 Höhenmeter am Stück zu erklimmen sind. Dafür wird man mit einem herrlichen Ausblick über das Moseltal bis nach Zeltingen-Rachtung in der einen Richtung und bis nach Brauneberg in der anderen belohnt. Zurück nach Bernkastel-Kues geht es durch die Weinberge.
+
+	(cloned from route 2329372)
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Maria-Zill Panoramaweg Bernkastel-Kues]]></name><desc><![CDATA[
+	Der <strong><a href="http://www.bernkastel.de/erleben/wandern-im-mosel-ferienland/ferienlandwege/maria-zillpanoramaweg.html">Maria-Zill Panoramaweg</a></strong> führt von der Mosel aus auf rund 400 m NN zu dem Aussichtspunkt "Maria-Zill". Hier eröffnet sich dem Wanderer ein herrlicher Weitblick über das Moseltal. 
+
+	Schmale Pfade, ein Pranoramablick und Weinbergerge. Der Maria-Zill Panoramaweg bietet auf rund 6 Kilometern das, was Wanderer an der Natur- und Kulturlandschaft fasziniert. Eine gewisse Grundkondition sollte man schon mitbringen, da von der Mosel bis zum Punkt "Maria Zill" über 300 Höhenmeter am Stück zu erklimmen sind. Dafür wird man mit einem herrlichen Ausblick über das Moseltal bis nach Zeltingen-Rachtung in der einen Richtung und bis nach Brauneberg in der anderen belohnt. Zurück nach Bernkastel-Kues geht es durch die Weinberge.
+
+	(cloned from route 2329372)
+]]></desc><trkseg>
+         <trkpt lat="49.91606" lon="7.07469"><ele>112</ele></trkpt>
+<trkpt lat="49.91598" lon="7.07515"><ele>113</ele></trkpt>
+<trkpt lat="49.916" lon="7.07575"><ele>116</ele></trkpt>
+<trkpt lat="49.91597" lon="7.07601"><ele>118</ele></trkpt>
+<trkpt lat="49.9158" lon="7.07593"><ele>120</ele></trkpt>
+<trkpt lat="49.91572" lon="7.07637"><ele>120</ele></trkpt>
+<trkpt lat="49.91528" lon="7.07753"><ele>124</ele></trkpt>
+<trkpt lat="49.91524" lon="7.07781"><ele>127</ele></trkpt>
+<trkpt lat="49.91546" lon="7.07896"><ele>142</ele></trkpt>
+<trkpt lat="49.91551" lon="7.07944"><ele>148</ele></trkpt>
+<trkpt lat="49.91564" lon="7.08016"><ele>167</ele></trkpt>
+<trkpt lat="49.91609" lon="7.08116"><ele>181</ele></trkpt>
+<trkpt lat="49.91616" lon="7.0816"><ele>181</ele></trkpt>
+<trkpt lat="49.91668" lon="7.08317"><ele>199</ele></trkpt>
+<trkpt lat="49.91609" lon="7.08251"><ele>186</ele></trkpt>
+<trkpt lat="49.91703" lon="7.08462"><ele>213</ele></trkpt>
+<trkpt lat="49.91733" lon="7.08525"><ele>225</ele></trkpt>
+<trkpt lat="49.91809" lon="7.08659"><ele>241</ele></trkpt>
+<trkpt lat="49.91828" lon="7.08687"><ele>253</ele></trkpt>
+<trkpt lat="49.9183" lon="7.08684"><ele>254</ele></trkpt>
+<trkpt lat="49.91832" lon="7.08734"><ele>262</ele></trkpt>
+<trkpt lat="49.91825" lon="7.08836"><ele>275</ele></trkpt>
+<trkpt lat="49.91809" lon="7.08885"><ele>280</ele></trkpt>
+<trkpt lat="49.91785" lon="7.08926"><ele>283</ele></trkpt>
+<trkpt lat="49.9175" lon="7.09006"><ele>293</ele></trkpt>
+<trkpt lat="49.9173" lon="7.09047"><ele>293</ele></trkpt>
+<trkpt lat="49.91692" lon="7.09092"><ele>296</ele></trkpt>
+<trkpt lat="49.91661" lon="7.09145"><ele>305</ele></trkpt>
+<trkpt lat="49.91631" lon="7.09182"><ele>312</ele></trkpt>
+<trkpt lat="49.9162" lon="7.09214"><ele>314</ele></trkpt>
+<trkpt lat="49.91629" lon="7.09239"><ele>315</ele></trkpt>
+<trkpt lat="49.91631" lon="7.09259"><ele>314</ele></trkpt>
+<trkpt lat="49.91654" lon="7.09221"><ele>313</ele></trkpt>
+<trkpt lat="49.91696" lon="7.09206"><ele>313</ele></trkpt>
+<trkpt lat="49.91736" lon="7.09199"><ele>326</ele></trkpt>
+<trkpt lat="49.91793" lon="7.09205"><ele>340</ele></trkpt>
+<trkpt lat="49.91833" lon="7.09202"><ele>349</ele></trkpt>
+<trkpt lat="49.91851" lon="7.09165"><ele>356</ele></trkpt>
+<trkpt lat="49.91859" lon="7.09115"><ele>350</ele></trkpt>
+<trkpt lat="49.91899" lon="7.09087"><ele>350</ele></trkpt>
+<trkpt lat="49.91949" lon="7.09094"><ele>358</ele></trkpt>
+<trkpt lat="49.91987" lon="7.0912"><ele>365</ele></trkpt>
+<trkpt lat="49.9202" lon="7.09147"><ele>376</ele></trkpt>
+<trkpt lat="49.92042" lon="7.0918"><ele>378</ele></trkpt>
+<trkpt lat="49.92056" lon="7.09185"><ele>378</ele></trkpt>
+<trkpt lat="49.92053" lon="7.0913"><ele>375</ele></trkpt>
+<trkpt lat="49.92055" lon="7.09031"><ele>372</ele></trkpt>
+<trkpt lat="49.92062" lon="7.09003"><ele>372</ele></trkpt>
+<trkpt lat="49.92068" lon="7.08972"><ele>371</ele></trkpt>
+<trkpt lat="49.92063" lon="7.08928"><ele>369</ele></trkpt>
+<trkpt lat="49.92071" lon="7.08823"><ele>367</ele></trkpt>
+<trkpt lat="49.92081" lon="7.08753"><ele>367</ele></trkpt>
+<trkpt lat="49.92093" lon="7.08692"><ele>361</ele></trkpt>
+<trkpt lat="49.92107" lon="7.08672"><ele>361</ele></trkpt>
+<trkpt lat="49.92115" lon="7.08667"><ele>363</ele></trkpt>
+<trkpt lat="49.92169" lon="7.08649"><ele>375</ele></trkpt>
+<trkpt lat="49.92175" lon="7.08643"><ele>376</ele></trkpt>
+<trkpt lat="49.92196" lon="7.08572"><ele>384</ele></trkpt>
+<trkpt lat="49.922" lon="7.08553"><ele>384</ele></trkpt>
+<trkpt lat="49.9221" lon="7.08479"><ele>386</ele></trkpt>
+<trkpt lat="49.92214" lon="7.08431"><ele>388</ele></trkpt>
+<trkpt lat="49.92217" lon="7.08253"><ele>389</ele></trkpt>
+<trkpt lat="49.92219" lon="7.08239"><ele>390</ele></trkpt>
+<trkpt lat="49.92223" lon="7.08255"><ele>390</ele></trkpt>
+<trkpt lat="49.92242" lon="7.08299"><ele>398</ele></trkpt>
+<trkpt lat="49.92263" lon="7.08333"><ele>407</ele></trkpt>
+<trkpt lat="49.92268" lon="7.08335"><ele>406</ele></trkpt>
+<trkpt lat="49.92271" lon="7.08334"><ele>405</ele></trkpt>
+<trkpt lat="49.92274" lon="7.08321"><ele>403</ele></trkpt>
+<trkpt lat="49.92277" lon="7.08284"><ele>397</ele></trkpt>
+<trkpt lat="49.92279" lon="7.08274"><ele>395</ele></trkpt>
+<trkpt lat="49.92281" lon="7.08271"><ele>395</ele></trkpt>
+<trkpt lat="49.92288" lon="7.08273"><ele>395</ele></trkpt>
+<trkpt lat="49.92296" lon="7.08284"><ele>396</ele></trkpt>
+<trkpt lat="49.92311" lon="7.08294"><ele>398</ele></trkpt>
+<trkpt lat="49.92468" lon="7.08281"><ele>402</ele></trkpt>
+<trkpt lat="49.92575" lon="7.08247"><ele>403</ele></trkpt>
+<trkpt lat="49.92596" lon="7.08241"><ele>402</ele></trkpt>
+<trkpt lat="49.92601" lon="7.08243"><ele>401</ele></trkpt>
+<trkpt lat="49.92608" lon="7.08232"><ele>400</ele></trkpt>
+<trkpt lat="49.92683" lon="7.08191"><ele>399</ele></trkpt>
+<trkpt lat="49.92722" lon="7.08177"><ele>391</ele></trkpt>
+<trkpt lat="49.9275" lon="7.08185"><ele>384</ele></trkpt>
+<trkpt lat="49.92774" lon="7.0814"><ele>376</ele></trkpt>
+<trkpt lat="49.92801" lon="7.08114"><ele>364</ele></trkpt>
+<trkpt lat="49.92813" lon="7.08131"><ele>357</ele></trkpt>
+<trkpt lat="49.92831" lon="7.08094"><ele>349</ele></trkpt>
+<trkpt lat="49.9285" lon="7.08094"><ele>345</ele></trkpt>
+<trkpt lat="49.92873" lon="7.08126"><ele>343</ele></trkpt>
+<trkpt lat="49.92882" lon="7.08169"><ele>345</ele></trkpt>
+<trkpt lat="49.92903" lon="7.08178"><ele>337</ele></trkpt>
+<trkpt lat="49.92907" lon="7.08144"><ele>323</ele></trkpt>
+<trkpt lat="49.92929" lon="7.08143"><ele>312</ele></trkpt>
+<trkpt lat="49.92949" lon="7.08149"><ele>312</ele></trkpt>
+<trkpt lat="49.9295" lon="7.0812"><ele>311</ele></trkpt>
+<trkpt lat="49.92938" lon="7.08064"><ele>300</ele></trkpt>
+<trkpt lat="49.92931" lon="7.08043"><ele>295</ele></trkpt>
+<trkpt lat="49.92926" lon="7.08014"><ele>289</ele></trkpt>
+<trkpt lat="49.92918" lon="7.07947"><ele>279</ele></trkpt>
+<trkpt lat="49.92909" lon="7.07904"><ele>274</ele></trkpt>
+<trkpt lat="49.92902" lon="7.07886"><ele>272</ele></trkpt>
+<trkpt lat="49.92896" lon="7.07881"><ele>271</ele></trkpt>
+<trkpt lat="49.92875" lon="7.07879"><ele>271</ele></trkpt>
+<trkpt lat="49.92855" lon="7.07864"><ele>271</ele></trkpt>
+<trkpt lat="49.92836" lon="7.07837"><ele>269</ele></trkpt>
+<trkpt lat="49.92826" lon="7.07836"><ele>267</ele></trkpt>
+<trkpt lat="49.92821" lon="7.07817"><ele>266</ele></trkpt>
+<trkpt lat="49.92792" lon="7.07784"><ele>261</ele></trkpt>
+<trkpt lat="49.92765" lon="7.07744"><ele>257</ele></trkpt>
+<trkpt lat="49.92754" lon="7.07714"><ele>255</ele></trkpt>
+<trkpt lat="49.92695" lon="7.07681"><ele>254</ele></trkpt>
+<trkpt lat="49.92648" lon="7.0766"><ele>247</ele></trkpt>
+<trkpt lat="49.92594" lon="7.07632"><ele>239</ele></trkpt>
+<trkpt lat="49.9256" lon="7.07612"><ele>237</ele></trkpt>
+<trkpt lat="49.9253" lon="7.07589"><ele>236</ele></trkpt>
+<trkpt lat="49.92505" lon="7.07578"><ele>226</ele></trkpt>
+<trkpt lat="49.92448" lon="7.07558"><ele>212</ele></trkpt>
+<trkpt lat="49.92423" lon="7.07554"><ele>208</ele></trkpt>
+<trkpt lat="49.92378" lon="7.07557"><ele>199</ele></trkpt>
+<trkpt lat="49.92369" lon="7.07556"><ele>199</ele></trkpt>
+<trkpt lat="49.9235" lon="7.07548"><ele>199</ele></trkpt>
+<trkpt lat="49.92334" lon="7.07535"><ele>199</ele></trkpt>
+<trkpt lat="49.92326" lon="7.07524"><ele>198</ele></trkpt>
+<trkpt lat="49.92287" lon="7.07456"><ele>189</ele></trkpt>
+<trkpt lat="49.92235" lon="7.07438"><ele>190</ele></trkpt>
+<trkpt lat="49.92215" lon="7.07441"><ele>191</ele></trkpt>
+<trkpt lat="49.92195" lon="7.07454"><ele>191</ele></trkpt>
+<trkpt lat="49.92174" lon="7.07484"><ele>189</ele></trkpt>
+<trkpt lat="49.92165" lon="7.07494"><ele>187</ele></trkpt>
+<trkpt lat="49.92149" lon="7.07507"><ele>185</ele></trkpt>
+<trkpt lat="49.92141" lon="7.0751"><ele>185</ele></trkpt>
+<trkpt lat="49.92063" lon="7.07485"><ele>176</ele></trkpt>
+<trkpt lat="49.92014" lon="7.07489"><ele>168</ele></trkpt>
+<trkpt lat="49.91972" lon="7.07482"><ele>162</ele></trkpt>
+<trkpt lat="49.91949" lon="7.07489"><ele>160</ele></trkpt>
+<trkpt lat="49.91934" lon="7.07489"><ele>156</ele></trkpt>
+<trkpt lat="49.91924" lon="7.07485"><ele>152</ele></trkpt>
+<trkpt lat="49.91906" lon="7.07466"><ele>143</ele></trkpt>
+<trkpt lat="49.91879" lon="7.07455"><ele>137</ele></trkpt>
+<trkpt lat="49.91837" lon="7.07467"><ele>136</ele></trkpt>
+<trkpt lat="49.91823" lon="7.07473"><ele>137</ele></trkpt>
+<trkpt lat="49.91756" lon="7.07517"><ele>133</ele></trkpt>
+<trkpt lat="49.91748" lon="7.07526"><ele>132</ele></trkpt>
+<trkpt lat="49.91723" lon="7.07563"><ele>131</ele></trkpt>
+<trkpt lat="49.91704" lon="7.07578"><ele>131</ele></trkpt>
+<trkpt lat="49.91691" lon="7.0758"><ele>128</ele></trkpt>
+<trkpt lat="49.91654" lon="7.07596"><ele>122</ele></trkpt>
+<trkpt lat="49.91617" lon="7.07607"><ele>122</ele></trkpt>
+<trkpt lat="49.91615" lon="7.07612"><ele>122</ele></trkpt>
+<trkpt lat="49.91617" lon="7.07607"><ele>122</ele></trkpt>
+<trkpt lat="49.91608" lon="7.07604"><ele>122</ele></trkpt>
+<trkpt lat="49.91595" lon="7.07595"><ele>120</ele></trkpt>
+<trkpt lat="49.91598" lon="7.07586"><ele>119</ele></trkpt>
+<trkpt lat="49.91601" lon="7.07567"><ele>117</ele></trkpt>
+<trkpt lat="49.91599" lon="7.0751"><ele>114</ele></trkpt>
+<trkpt lat="49.91602" lon="7.0749"><ele>114</ele></trkpt>
+<trkpt lat="49.91599" lon="7.0751"><ele>114</ele></trkpt>
+<trkpt lat="49.91582" lon="7.07506"><ele>113</ele></trkpt>
+<trkpt lat="49.91584" lon="7.07468"><ele>112</ele></trkpt>
+<trkpt lat="49.91605" lon="7.07465"><ele>111</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

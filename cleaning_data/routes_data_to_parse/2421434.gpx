@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Schneeschuhwanderung zur Kochelberg-Alm]]></name>
+      <desc><![CDATA[<p>
+	Eure Schneeschuhtour startet am &bdquo;Gesundheits-Eck&ldquo; (n&auml;he Richard-Strauss-Platz).</p>
+<p>
+	Hier bekommt ihr auch eure passende Ausr&uuml;stung.<br />
+	Der Start erfolgt entlang der Olympiastra&szlig;e, vorbei an der Talstation der Bayerischen Zugspitzbahn, Olympia Eisstadion und Alpspitz-Wellenbad.<br />
+	Der Weg f&uuml;hrt euch vorbei an den Weidefl&auml;chen bis zum Bahn&uuml;bergang der Bundes- und Zugspitzbahn. Am Einstieg der Hausberg-Langlaufloipen werden die Schneeschuhe genauer unter die Lupe genommen. Hier erhaltet ihr eine kurze Einf&uuml;hrung &uuml;ber die verschiedenen Techniken des Schneeschuhwanderns. &Uuml;ber die sanft geneigten Wiesen marschiert ihr in Richtung Anstieg zum Kochelberg auf ca. 850m Seeh&ouml;he. Von hier hat man eine atemberaubende Sicht auf die umliegenden Berge, wie Wettersteingebirge mit dem h&ouml;chsten Berg Deutschlands die Zugspitze, Kramer und Wank. Nach Erreichen des h&ouml;chsten Punktes schaut Ihr direkt auf die neue Olympia Skisprungschanze und den Ortsteil Partenkirchen mit der Wallfahrtskirche St. Anton. Nun geht es wieder bergab, Richtung S&uuml;d-West, zur Einkehrstation &quot;Kochelberg-Alm&quot;. Nach einer z&uuml;nftigen bayerischen Brotzeit mit einer k&uuml;hlen Ma&szlig; Bier, seit Ihr f&uuml;r den weiteren Abstieg gut ger&uuml;stet. Weiter geht es &uuml;ber ein leicht gewelltes Wiesental&nbsp;ca. 15min nach Norden. Linkshaltend marschiert Ihr &uuml;ber den Kochelberg, Richtung der Talstation Hausbergbahn und &uuml;ber die Wiese zur&uuml;ck zum Bahn&uuml;bergang. Von hier geht es zu Fu&szlig; weiter durch die Garmischer Fu&szlig;g&auml;ngerzone wieder zur&uuml;ck zum Ausgangspunkt &bdquo;Gesundheits-Eck&ldquo;.</p>
+<p>
+	Hier erwartet euch ein warmer &bdquo;Tee zum Geh&ldquo; und ein Eintrag ins Garmisch-Partenkirchner Tourenbuch.&nbsp;</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Schneeschuhwanderung zur Kochelberg-Alm]]></name><desc><![CDATA[<p>
+	Eure Schneeschuhtour startet am &bdquo;Gesundheits-Eck&ldquo; (n&auml;he Richard-Strauss-Platz).</p>
+<p>
+	Hier bekommt ihr auch eure passende Ausr&uuml;stung.<br />
+	Der Start erfolgt entlang der Olympiastra&szlig;e, vorbei an der Talstation der Bayerischen Zugspitzbahn, Olympia Eisstadion und Alpspitz-Wellenbad.<br />
+	Der Weg f&uuml;hrt euch vorbei an den Weidefl&auml;chen bis zum Bahn&uuml;bergang der Bundes- und Zugspitzbahn. Am Einstieg der Hausberg-Langlaufloipen werden die Schneeschuhe genauer unter die Lupe genommen. Hier erhaltet ihr eine kurze Einf&uuml;hrung &uuml;ber die verschiedenen Techniken des Schneeschuhwanderns. &Uuml;ber die sanft geneigten Wiesen marschiert ihr in Richtung Anstieg zum Kochelberg auf ca. 850m Seeh&ouml;he. Von hier hat man eine atemberaubende Sicht auf die umliegenden Berge, wie Wettersteingebirge mit dem h&ouml;chsten Berg Deutschlands die Zugspitze, Kramer und Wank. Nach Erreichen des h&ouml;chsten Punktes schaut Ihr direkt auf die neue Olympia Skisprungschanze und den Ortsteil Partenkirchen mit der Wallfahrtskirche St. Anton. Nun geht es wieder bergab, Richtung S&uuml;d-West, zur Einkehrstation &quot;Kochelberg-Alm&quot;. Nach einer z&uuml;nftigen bayerischen Brotzeit mit einer k&uuml;hlen Ma&szlig; Bier, seit Ihr f&uuml;r den weiteren Abstieg gut ger&uuml;stet. Weiter geht es &uuml;ber ein leicht gewelltes Wiesental&nbsp;ca. 15min nach Norden. Linkshaltend marschiert Ihr &uuml;ber den Kochelberg, Richtung der Talstation Hausbergbahn und &uuml;ber die Wiese zur&uuml;ck zum Bahn&uuml;bergang. Von hier geht es zu Fu&szlig; weiter durch die Garmischer Fu&szlig;g&auml;ngerzone wieder zur&uuml;ck zum Ausgangspunkt &bdquo;Gesundheits-Eck&ldquo;.</p>
+<p>
+	Hier erwartet euch ein warmer &bdquo;Tee zum Geh&ldquo; und ein Eintrag ins Garmisch-Partenkirchner Tourenbuch.&nbsp;</p>
+]]></desc><trkseg>
+         <trkpt lat="47.49471" lon="11.09221"><ele>698</ele></trkpt>
+<trkpt lat="47.4947" lon="11.09239"><ele>698</ele></trkpt>
+<trkpt lat="47.49457" lon="11.09245"><ele>698</ele></trkpt>
+<trkpt lat="47.49443" lon="11.09251"><ele>698</ele></trkpt>
+<trkpt lat="47.49428" lon="11.09257"><ele>698</ele></trkpt>
+<trkpt lat="47.49407" lon="11.09268"><ele>698</ele></trkpt>
+<trkpt lat="47.4938" lon="11.09282"><ele>698</ele></trkpt>
+<trkpt lat="47.49354" lon="11.09297"><ele>698</ele></trkpt>
+<trkpt lat="47.49328" lon="11.09313"><ele>699</ele></trkpt>
+<trkpt lat="47.49304" lon="11.09329"><ele>700</ele></trkpt>
+<trkpt lat="47.49279" lon="11.0935"><ele>700</ele></trkpt>
+<trkpt lat="47.49263" lon="11.09372"><ele>700</ele></trkpt>
+<trkpt lat="47.49244" lon="11.09396"><ele>700</ele></trkpt>
+<trkpt lat="47.49224" lon="11.09426"><ele>701</ele></trkpt>
+<trkpt lat="47.49201" lon="11.09455"><ele>701</ele></trkpt>
+<trkpt lat="47.49193" lon="11.09476"><ele>702</ele></trkpt>
+<trkpt lat="47.49176" lon="11.0949"><ele>702</ele></trkpt>
+<trkpt lat="47.4916" lon="11.095"><ele>702</ele></trkpt>
+<trkpt lat="47.4914" lon="11.09515"><ele>703</ele></trkpt>
+<trkpt lat="47.49112" lon="11.09532"><ele>704</ele></trkpt>
+<trkpt lat="47.49095" lon="11.09541"><ele>705</ele></trkpt>
+<trkpt lat="47.49075" lon="11.09555"><ele>705</ele></trkpt>
+<trkpt lat="47.49052" lon="11.09567"><ele>705</ele></trkpt>
+<trkpt lat="47.49041" lon="11.09571"><ele>706</ele></trkpt>
+<trkpt lat="47.49028" lon="11.09582"><ele>706</ele></trkpt>
+<trkpt lat="47.49016" lon="11.09593"><ele>706</ele></trkpt>
+<trkpt lat="47.48995" lon="11.09605"><ele>706</ele></trkpt>
+<trkpt lat="47.48985" lon="11.09613"><ele>706</ele></trkpt>
+<trkpt lat="47.48981" lon="11.09601"><ele>706</ele></trkpt>
+<trkpt lat="47.48973" lon="11.09571"><ele>706</ele></trkpt>
+<trkpt lat="47.48963" lon="11.09539"><ele>706</ele></trkpt>
+<trkpt lat="47.48951" lon="11.09509"><ele>706</ele></trkpt>
+<trkpt lat="47.48951" lon="11.09482"><ele>706</ele></trkpt>
+<trkpt lat="47.48949" lon="11.0945"><ele>705</ele></trkpt>
+<trkpt lat="47.48943" lon="11.09412"><ele>705</ele></trkpt>
+<trkpt lat="47.48934" lon="11.09386"><ele>705</ele></trkpt>
+<trkpt lat="47.48934" lon="11.09371"><ele>705</ele></trkpt>
+<trkpt lat="47.48931" lon="11.09352"><ele>705</ele></trkpt>
+<trkpt lat="47.48925" lon="11.09328"><ele>705</ele></trkpt>
+<trkpt lat="47.48921" lon="11.09297"><ele>705</ele></trkpt>
+<trkpt lat="47.48914" lon="11.09276"><ele>705</ele></trkpt>
+<trkpt lat="47.4891" lon="11.09265"><ele>705</ele></trkpt>
+<trkpt lat="47.4889" lon="11.09273"><ele>705</ele></trkpt>
+<trkpt lat="47.48876" lon="11.09283"><ele>705</ele></trkpt>
+<trkpt lat="47.48859" lon="11.09295"><ele>705</ele></trkpt>
+<trkpt lat="47.48837" lon="11.09309"><ele>706</ele></trkpt>
+<trkpt lat="47.48816" lon="11.09325"><ele>707</ele></trkpt>
+<trkpt lat="47.48783" lon="11.09349"><ele>708</ele></trkpt>
+<trkpt lat="47.48752" lon="11.09367"><ele>708</ele></trkpt>
+<trkpt lat="47.4873" lon="11.09373"><ele>709</ele></trkpt>
+<trkpt lat="47.48702" lon="11.09372"><ele>709</ele></trkpt>
+<trkpt lat="47.48681" lon="11.09366"><ele>710</ele></trkpt>
+<trkpt lat="47.48625" lon="11.09384"><ele>710</ele></trkpt>
+<trkpt lat="47.48597" lon="11.09401"><ele>712</ele></trkpt>
+<trkpt lat="47.48558" lon="11.09438"><ele>714</ele></trkpt>
+<trkpt lat="47.48535" lon="11.09454"><ele>715</ele></trkpt>
+<trkpt lat="47.48503" lon="11.09472"><ele>717</ele></trkpt>
+<trkpt lat="47.48454" lon="11.09493"><ele>719</ele></trkpt>
+<trkpt lat="47.48426" lon="11.09504"><ele>720</ele></trkpt>
+<trkpt lat="47.48417" lon="11.09514"><ele>720</ele></trkpt>
+<trkpt lat="47.48405" lon="11.09522"><ele>721</ele></trkpt>
+<trkpt lat="47.48404" lon="11.09531"><ele>722</ele></trkpt>
+<trkpt lat="47.48389" lon="11.09548"><ele>723</ele></trkpt>
+<trkpt lat="47.48366" lon="11.09594"><ele>723</ele></trkpt>
+<trkpt lat="47.48356" lon="11.09615"><ele>724</ele></trkpt>
+<trkpt lat="47.48339" lon="11.09648"><ele>724</ele></trkpt>
+<trkpt lat="47.48329" lon="11.09671"><ele>724</ele></trkpt>
+<trkpt lat="47.48308" lon="11.09716"><ele>725</ele></trkpt>
+<trkpt lat="47.483" lon="11.09737"><ele>725</ele></trkpt>
+<trkpt lat="47.48284" lon="11.09777"><ele>727</ele></trkpt>
+<trkpt lat="47.48278" lon="11.09819"><ele>728</ele></trkpt>
+<trkpt lat="47.48269" lon="11.09879"><ele>730</ele></trkpt>
+<trkpt lat="47.4826" lon="11.0991"><ele>731</ele></trkpt>
+<trkpt lat="47.48255" lon="11.09951"><ele>731</ele></trkpt>
+<trkpt lat="47.48246" lon="11.1002"><ele>731</ele></trkpt>
+<trkpt lat="47.48237" lon="11.1007"><ele>731</ele></trkpt>
+<trkpt lat="47.48232" lon="11.10115"><ele>735</ele></trkpt>
+<trkpt lat="47.48224" lon="11.10151"><ele>740</ele></trkpt>
+<trkpt lat="47.48216" lon="11.10197"><ele>754</ele></trkpt>
+<trkpt lat="47.48208" lon="11.10239"><ele>766</ele></trkpt>
+<trkpt lat="47.48199" lon="11.10281"><ele>779</ele></trkpt>
+<trkpt lat="47.48189" lon="11.10333"><ele>791</ele></trkpt>
+<trkpt lat="47.48179" lon="11.10391"><ele>802</ele></trkpt>
+<trkpt lat="47.4817" lon="11.10441"><ele>807</ele></trkpt>
+<trkpt lat="47.48149" lon="11.10497"><ele>810</ele></trkpt>
+<trkpt lat="47.48136" lon="11.1054"><ele>810</ele></trkpt>
+<trkpt lat="47.4812" lon="11.10582"><ele>811</ele></trkpt>
+<trkpt lat="47.48105" lon="11.10627"><ele>816</ele></trkpt>
+<trkpt lat="47.48088" lon="11.10679"><ele>825</ele></trkpt>
+<trkpt lat="47.48063" lon="11.10712"><ele>831</ele></trkpt>
+<trkpt lat="47.48057" lon="11.10744"><ele>834</ele></trkpt>
+<trkpt lat="47.4805" lon="11.10782"><ele>834</ele></trkpt>
+<trkpt lat="47.48038" lon="11.10839"><ele>831</ele></trkpt>
+<trkpt lat="47.48028" lon="11.10886"><ele>827</ele></trkpt>
+<trkpt lat="47.48019" lon="11.10924"><ele>823</ele></trkpt>
+<trkpt lat="47.4801" lon="11.10976"><ele>818</ele></trkpt>
+<trkpt lat="47.48" lon="11.11031"><ele>808</ele></trkpt>
+<trkpt lat="47.47997" lon="11.11073"><ele>799</ele></trkpt>
+<trkpt lat="47.47993" lon="11.11121"><ele>788</ele></trkpt>
+<trkpt lat="47.47983" lon="11.11136"><ele>785</ele></trkpt>
+<trkpt lat="47.47968" lon="11.11134"><ele>791</ele></trkpt>
+<trkpt lat="47.47959" lon="11.11123"><ele>795</ele></trkpt>
+<trkpt lat="47.47957" lon="11.11094"><ele>803</ele></trkpt>
+<trkpt lat="47.47952" lon="11.11058"><ele>814</ele></trkpt>
+<trkpt lat="47.47955" lon="11.11015"><ele>826</ele></trkpt>
+<trkpt lat="47.47956" lon="11.1098"><ele>834</ele></trkpt>
+<trkpt lat="47.47957" lon="11.10931"><ele>844</ele></trkpt>
+<trkpt lat="47.47966" lon="11.10854"><ele>848</ele></trkpt>
+<trkpt lat="47.4797" lon="11.10801"><ele>853</ele></trkpt>
+<trkpt lat="47.47986" lon="11.10737"><ele>857</ele></trkpt>
+<trkpt lat="47.47991" lon="11.10677"><ele>857</ele></trkpt>
+<trkpt lat="47.47993" lon="11.10644"><ele>854</ele></trkpt>
+<trkpt lat="47.47981" lon="11.10631"><ele>852</ele></trkpt>
+<trkpt lat="47.4796" lon="11.10619"><ele>849</ele></trkpt>
+<trkpt lat="47.47939" lon="11.10602"><ele>849</ele></trkpt>
+<trkpt lat="47.47917" lon="11.10597"><ele>849</ele></trkpt>
+<trkpt lat="47.47899" lon="11.10586"><ele>849</ele></trkpt>
+<trkpt lat="47.47887" lon="11.10572"><ele>849</ele></trkpt>
+<trkpt lat="47.4787" lon="11.10539"><ele>848</ele></trkpt>
+<trkpt lat="47.47859" lon="11.10515"><ele>845</ele></trkpt>
+<trkpt lat="47.47833" lon="11.10498"><ele>841</ele></trkpt>
+<trkpt lat="47.47813" lon="11.10474"><ele>835</ele></trkpt>
+<trkpt lat="47.4778" lon="11.10465"><ele>829</ele></trkpt>
+<trkpt lat="47.47769" lon="11.10468"><ele>829</ele></trkpt>
+<trkpt lat="47.47754" lon="11.10475"><ele>829</ele></trkpt>
+<trkpt lat="47.47738" lon="11.10488"><ele>829</ele></trkpt>
+<trkpt lat="47.4773" lon="11.1047"><ele>829</ele></trkpt>
+<trkpt lat="47.47709" lon="11.10471"><ele>829</ele></trkpt>
+<trkpt lat="47.47698" lon="11.10418"><ele>826</ele></trkpt>
+<trkpt lat="47.4771" lon="11.10371"><ele>820</ele></trkpt>
+<trkpt lat="47.47774" lon="11.10358"><ele>820</ele></trkpt>
+<trkpt lat="47.47844" lon="11.10357"><ele>821</ele></trkpt>
+<trkpt lat="47.47914" lon="11.10344"><ele>815</ele></trkpt>
+<trkpt lat="47.47984" lon="11.10334"><ele>803</ele></trkpt>
+<trkpt lat="47.47997" lon="11.10226"><ele>784</ele></trkpt>
+<trkpt lat="47.48002" lon="11.10168"><ele>771</ele></trkpt>
+<trkpt lat="47.48028" lon="11.10117"><ele>757</ele></trkpt>
+<trkpt lat="47.48045" lon="11.1004"><ele>745</ele></trkpt>
+<trkpt lat="47.48058" lon="11.09977"><ele>741</ele></trkpt>
+<trkpt lat="47.48101" lon="11.09908"><ele>740</ele></trkpt>
+<trkpt lat="47.4811" lon="11.09871"><ele>739</ele></trkpt>
+<trkpt lat="47.4812" lon="11.09827"><ele>738</ele></trkpt>
+<trkpt lat="47.48129" lon="11.09792"><ele>736</ele></trkpt>
+<trkpt lat="47.48154" lon="11.09749"><ele>734</ele></trkpt>
+<trkpt lat="47.48191" lon="11.09708"><ele>730</ele></trkpt>
+<trkpt lat="47.48236" lon="11.09666"><ele>727</ele></trkpt>
+<trkpt lat="47.48283" lon="11.09625"><ele>724</ele></trkpt>
+<trkpt lat="47.48313" lon="11.09583"><ele>723</ele></trkpt>
+<trkpt lat="47.48357" lon="11.0954"><ele>722</ele></trkpt>
+<trkpt lat="47.48414" lon="11.09505"><ele>719</ele></trkpt>
+<trkpt lat="47.48449" lon="11.09486"><ele>718</ele></trkpt>
+<trkpt lat="47.48481" lon="11.09474"><ele>717</ele></trkpt>
+<trkpt lat="47.48513" lon="11.09456"><ele>715</ele></trkpt>
+<trkpt lat="47.48547" lon="11.09436"><ele>713</ele></trkpt>
+<trkpt lat="47.48576" lon="11.09411"><ele>711</ele></trkpt>
+<trkpt lat="47.48609" lon="11.09387"><ele>709</ele></trkpt>
+<trkpt lat="47.48642" lon="11.09371"><ele>709</ele></trkpt>
+<trkpt lat="47.48679" lon="11.09356"><ele>709</ele></trkpt>
+<trkpt lat="47.48718" lon="11.0936"><ele>708</ele></trkpt>
+<trkpt lat="47.48763" lon="11.09357"><ele>708</ele></trkpt>
+<trkpt lat="47.48791" lon="11.09333"><ele>706</ele></trkpt>
+<trkpt lat="47.4883" lon="11.09306"><ele>706</ele></trkpt>
+<trkpt lat="47.4887" lon="11.0928"><ele>705</ele></trkpt>
+<trkpt lat="47.48926" lon="11.09249"><ele>703</ele></trkpt>
+<trkpt lat="47.49002" lon="11.09188"><ele>702</ele></trkpt>
+<trkpt lat="47.49037" lon="11.09159"><ele>701</ele></trkpt>
+<trkpt lat="47.49071" lon="11.0913"><ele>700</ele></trkpt>
+<trkpt lat="47.49095" lon="11.09108"><ele>700</ele></trkpt>
+<trkpt lat="47.49133" lon="11.09079"><ele>700</ele></trkpt>
+<trkpt lat="47.49161" lon="11.09049"><ele>699</ele></trkpt>
+<trkpt lat="47.49194" lon="11.09022"><ele>699</ele></trkpt>
+<trkpt lat="47.49233" lon="11.09007"><ele>699</ele></trkpt>
+<trkpt lat="47.49271" lon="11.08985"><ele>698</ele></trkpt>
+<trkpt lat="47.49301" lon="11.08963"><ele>698</ele></trkpt>
+<trkpt lat="47.49335" lon="11.08938"><ele>698</ele></trkpt>
+<trkpt lat="47.49361" lon="11.0896"><ele>698</ele></trkpt>
+<trkpt lat="47.4937" lon="11.0899"><ele>698</ele></trkpt>
+<trkpt lat="47.49388" lon="11.09027"><ele>697</ele></trkpt>
+<trkpt lat="47.49403" lon="11.09061"><ele>696</ele></trkpt>
+<trkpt lat="47.49409" lon="11.09097"><ele>696</ele></trkpt>
+<trkpt lat="47.49426" lon="11.09128"><ele>696</ele></trkpt>
+<trkpt lat="47.49445" lon="11.09161"><ele>698</ele></trkpt>
+<trkpt lat="47.49462" lon="11.0919"><ele>698</ele></trkpt>
+<trkpt lat="47.49464" lon="11.09233"><ele>698</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

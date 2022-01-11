@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[S-Grunewald - Friedhof der Namenlosen - Grunewaldturm]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[S-Grunewald - Friedhof der Namenlosen - Grunewaldturm]]></name><trkseg>
+         <trkpt lat="52.48924" lon="13.26022"><ele>51</ele></trkpt>
+<trkpt lat="52.48901" lon="13.25256"><ele>59</ele></trkpt>
+<trkpt lat="52.48951" lon="13.25028"><ele>58</ele></trkpt>
+<trkpt lat="52.49037" lon="13.2484"><ele>58</ele></trkpt>
+<trkpt lat="52.49018" lon="13.24365"><ele>49</ele></trkpt>
+<trkpt lat="52.49018" lon="13.2373"><ele>45</ele></trkpt>
+<trkpt lat="52.49018" lon="13.2373"><ele>45</ele></trkpt>
+<trkpt lat="52.48946" lon="13.23387"><ele>53</ele></trkpt>
+<trkpt lat="52.48972" lon="13.23213"><ele>52</ele></trkpt>
+<trkpt lat="52.49016" lon="13.22923"><ele>50</ele></trkpt>
+<trkpt lat="52.49035" lon="13.2267"><ele>50</ele></trkpt>
+<trkpt lat="52.48964" lon="13.22175"><ele>57</ele></trkpt>
+<trkpt lat="52.48963" lon="13.21911"><ele>63</ele></trkpt>
+<trkpt lat="52.49005" lon="13.21516"><ele>68</ele></trkpt>
+<trkpt lat="52.491" lon="13.21076"><ele>69</ele></trkpt>
+<trkpt lat="52.4912" lon="13.20977"><ele>69</ele></trkpt>
+<trkpt lat="52.49128" lon="13.2094"><ele>69</ele></trkpt>
+<trkpt lat="52.49181" lon="13.20943"><ele>69</ele></trkpt>
+<trkpt lat="52.49289" lon="13.21067"><ele>71</ele></trkpt>
+<trkpt lat="52.49135" lon="13.2088"><ele>69</ele></trkpt>
+<trkpt lat="52.49142" lon="13.20773"><ele>71</ele></trkpt>
+<trkpt lat="52.48935" lon="13.20514"><ele>71</ele></trkpt>
+<trkpt lat="52.48721" lon="13.2066"><ele>70</ele></trkpt>
+<trkpt lat="52.48226" lon="13.20617"><ele>69</ele></trkpt>
+<trkpt lat="52.48134" lon="13.20645"><ele>66</ele></trkpt>
+<trkpt lat="52.47998" lon="13.2073"><ele>63</ele></trkpt>
+<trkpt lat="52.48009" lon="13.20355"><ele>56</ele></trkpt>
+<trkpt lat="52.47991" lon="13.20117"><ele>74</ele></trkpt>
+<trkpt lat="52.4792" lon="13.19891"><ele>84</ele></trkpt>
+<trkpt lat="52.47827" lon="13.19707"><ele>80</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

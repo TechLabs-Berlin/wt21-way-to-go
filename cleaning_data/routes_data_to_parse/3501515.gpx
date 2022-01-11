@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Kohltour zum Ostenmoor]]></name>
+      <desc><![CDATA[<p>
+	Kohltour ab Berliner Weg zum Ostenmoor Steinhude</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Kohltour zum Ostenmoor]]></name><desc><![CDATA[<p>
+	Kohltour ab Berliner Weg zum Ostenmoor Steinhude</p>
+]]></desc><trkseg>
+         <trkpt lat="52.4664" lon="9.44994"><ele>45</ele></trkpt>
+<trkpt lat="52.46639" lon="9.44994"><ele>45</ele></trkpt>
+<trkpt lat="52.4664" lon="9.4484"><ele>46</ele></trkpt>
+<trkpt lat="52.46642" lon="9.4484"><ele>46</ele></trkpt>
+<trkpt lat="52.46642" lon="9.44841"><ele>46</ele></trkpt>
+<trkpt lat="52.46736" lon="9.44824"><ele>47</ele></trkpt>
+<trkpt lat="52.46736" lon="9.4482"><ele>47</ele></trkpt>
+<trkpt lat="52.46736" lon="9.4482"><ele>47</ele></trkpt>
+<trkpt lat="52.46738" lon="9.44733"><ele>48</ele></trkpt>
+<trkpt lat="52.4672" lon="9.44272"><ele>52</ele></trkpt>
+<trkpt lat="52.46706" lon="9.4396"><ele>53</ele></trkpt>
+<trkpt lat="52.46698" lon="9.43754"><ele>50</ele></trkpt>
+<trkpt lat="52.46698" lon="9.43754"><ele>50</ele></trkpt>
+<trkpt lat="52.46704" lon="9.43754"><ele>49</ele></trkpt>
+<trkpt lat="52.46707" lon="9.4375"><ele>49</ele></trkpt>
+<trkpt lat="52.46716" lon="9.43757"><ele>49</ele></trkpt>
+<trkpt lat="52.46729" lon="9.43738"><ele>48</ele></trkpt>
+<trkpt lat="52.46732" lon="9.43728"><ele>48</ele></trkpt>
+<trkpt lat="52.4673" lon="9.43719"><ele>48</ele></trkpt>
+<trkpt lat="52.46713" lon="9.43696"><ele>48</ele></trkpt>
+<trkpt lat="52.46711" lon="9.43686"><ele>48</ele></trkpt>
+<trkpt lat="52.46709" lon="9.43635"><ele>49</ele></trkpt>
+<trkpt lat="52.46709" lon="9.43635"><ele>49</ele></trkpt>
+<trkpt lat="52.46703" lon="9.43475"><ele>49</ele></trkpt>
+<trkpt lat="52.46689" lon="9.43211"><ele>47</ele></trkpt>
+<trkpt lat="52.46689" lon="9.43178"><ele>46</ele></trkpt>
+<trkpt lat="52.46689" lon="9.43178"><ele>46</ele></trkpt>
+<trkpt lat="52.46677" lon="9.4294"><ele>45</ele></trkpt>
+<trkpt lat="52.46668" lon="9.42818"><ele>43</ele></trkpt>
+<trkpt lat="52.46631" lon="9.42494"><ele>43</ele></trkpt>
+<trkpt lat="52.46598" lon="9.42224"><ele>45</ele></trkpt>
+<trkpt lat="52.46577" lon="9.4208"><ele>43</ele></trkpt>
+<trkpt lat="52.46552" lon="9.41939"><ele>44</ele></trkpt>
+<trkpt lat="52.46552" lon="9.41939"><ele>44</ele></trkpt>
+<trkpt lat="52.4655" lon="9.41929"><ele>44</ele></trkpt>
+<trkpt lat="52.46631" lon="9.41809"><ele>44</ele></trkpt>
+<trkpt lat="52.46639" lon="9.41786"><ele>44</ele></trkpt>
+<trkpt lat="52.46662" lon="9.41475"><ele>46</ele></trkpt>
+<trkpt lat="52.46663" lon="9.41475"><ele>46</ele></trkpt>
+<trkpt lat="52.46712" lon="9.40852"><ele>52</ele></trkpt>
+<trkpt lat="52.46712" lon="9.40852"><ele>52</ele></trkpt>
+<trkpt lat="52.46712" lon="9.40847"><ele>52</ele></trkpt>
+<trkpt lat="52.46825" lon="9.4048"><ele>48</ele></trkpt>
+<trkpt lat="52.46929" lon="9.40125"><ele>47</ele></trkpt>
+<trkpt lat="52.46929" lon="9.40125"><ele>47</ele></trkpt>
+<trkpt lat="52.46962" lon="9.40012"><ele>49</ele></trkpt>
+<trkpt lat="52.46969" lon="9.39904"><ele>51</ele></trkpt>
+<trkpt lat="52.46959" lon="9.39809"><ele>48</ele></trkpt>
+<trkpt lat="52.46903" lon="9.39517"><ele>47</ele></trkpt>
+<trkpt lat="52.46863" lon="9.39321"><ele>44</ele></trkpt>
+<trkpt lat="52.46843" lon="9.39261"><ele>43</ele></trkpt>
+<trkpt lat="52.46807" lon="9.39199"><ele>43</ele></trkpt>
+<trkpt lat="52.46805" lon="9.39188"><ele>43</ele></trkpt>
+<trkpt lat="52.46806" lon="9.39187"><ele>43</ele></trkpt>
+<trkpt lat="52.46805" lon="9.39184"><ele>43</ele></trkpt>
+<trkpt lat="52.46772" lon="9.39157"><ele>42</ele></trkpt>
+<trkpt lat="52.46702" lon="9.39108"><ele>42</ele></trkpt>
+<trkpt lat="52.46519" lon="9.38992"><ele>37</ele></trkpt>
+<trkpt lat="52.4652" lon="9.38991"><ele>37</ele></trkpt>
+<trkpt lat="52.46512" lon="9.38987"><ele>37</ele></trkpt>
+<trkpt lat="52.4657" lon="9.38922"><ele>36</ele></trkpt>
+<trkpt lat="52.46878" lon="9.38549"><ele>37</ele></trkpt>
+<trkpt lat="52.46914" lon="9.38511"><ele>37</ele></trkpt>
+<trkpt lat="52.46992" lon="9.38453"><ele>39</ele></trkpt>
+<trkpt lat="52.47109" lon="9.38371"><ele>40</ele></trkpt>
+<trkpt lat="52.47136" lon="9.38349"><ele>40</ele></trkpt>
+<trkpt lat="52.47146" lon="9.38345"><ele>40</ele></trkpt>
+<trkpt lat="52.47152" lon="9.38339"><ele>40</ele></trkpt>
+<trkpt lat="52.47158" lon="9.38339"><ele>40</ele></trkpt>
+<trkpt lat="52.47212" lon="9.38375"><ele>40</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

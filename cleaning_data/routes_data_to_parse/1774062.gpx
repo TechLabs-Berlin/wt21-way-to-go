@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Über die Nassfeldalm zur Hagener Hütte]]></name>
+      <desc><![CDATA[<p>Ausgangspunkt dieser Wanderung ist die Haltestelle Sportgastein	Kreuzkogelbahn. Wir gehen Richtung Süden, am Valeriehaus vorbei und wandern über das Naßfeld, den größten Almboden Gasteins. Beim Talschluss befindet sich auf der rechten Seite die Veitbauerhütte. Wir überqueren die Brücke links der Hütte über den Höllkarbach und folgen dann dem markierten Steig zur Hagener Hütte. Da die Wanderung über den Kulturwanderweg Römerstraße führt, ist sie auf diesem Teil der Strecke mit geschichtlichen Hinweis-Tafeln versehen. Dieser Übergang, der Niedere Tauern, wurde vor der Errichtung der Tauernbahn als Weg vom Gasteinertal nach Kärnten benützt und wird auch als Mallnitzer oder Gasteiner Tauern bezeichnet.</p>
+<p>Bei der Hagener Hütte machen wir Rast und genießen das gewaltige Rundum- Panorama, das urige Alpen-Feeling und die wohltuende Höhenluft. Nach einer ordentlichen Stärkung in der Hagener Hütte geht’s entweder dieselbe Strecke wieder zurück oder wir erweitern die Tour hinunter nach Mallnitz in Kärnten. Wer sich für diese Variante entscheidet, wandert entweder bis zur Jamnigalm (2.30 h) und lässt sich dann mit dem Taxi bis zum Bahnhof führen oder geht die gesamte Strecke bis zum Bahnhof selbst (4 h). Von hier können Sie dann mit dem Zug durch den Tauerntunnel zurück ins Gasteinertal fahren. Wer diese Variante meistern will, kann sich auch über Nacht in der Hagener Hütte einquartieren.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Über die Nassfeldalm zur Hagener Hütte]]></name><desc><![CDATA[<p>Ausgangspunkt dieser Wanderung ist die Haltestelle Sportgastein	Kreuzkogelbahn. Wir gehen Richtung Süden, am Valeriehaus vorbei und wandern über das Naßfeld, den größten Almboden Gasteins. Beim Talschluss befindet sich auf der rechten Seite die Veitbauerhütte. Wir überqueren die Brücke links der Hütte über den Höllkarbach und folgen dann dem markierten Steig zur Hagener Hütte. Da die Wanderung über den Kulturwanderweg Römerstraße führt, ist sie auf diesem Teil der Strecke mit geschichtlichen Hinweis-Tafeln versehen. Dieser Übergang, der Niedere Tauern, wurde vor der Errichtung der Tauernbahn als Weg vom Gasteinertal nach Kärnten benützt und wird auch als Mallnitzer oder Gasteiner Tauern bezeichnet.</p>
+<p>Bei der Hagener Hütte machen wir Rast und genießen das gewaltige Rundum- Panorama, das urige Alpen-Feeling und die wohltuende Höhenluft. Nach einer ordentlichen Stärkung in der Hagener Hütte geht’s entweder dieselbe Strecke wieder zurück oder wir erweitern die Tour hinunter nach Mallnitz in Kärnten. Wer sich für diese Variante entscheidet, wandert entweder bis zur Jamnigalm (2.30 h) und lässt sich dann mit dem Taxi bis zum Bahnhof führen oder geht die gesamte Strecke bis zum Bahnhof selbst (4 h). Von hier können Sie dann mit dem Zug durch den Tauerntunnel zurück ins Gasteinertal fahren. Wer diese Variante meistern will, kann sich auch über Nacht in der Hagener Hütte einquartieren.</p>]]></desc><trkseg>
+         <trkpt lat="47.06089" lon="13.05826"><ele>1577</ele></trkpt>
+<trkpt lat="47.05962" lon="13.05776"><ele>1580</ele></trkpt>
+<trkpt lat="47.05924" lon="13.05743"><ele>1579</ele></trkpt>
+<trkpt lat="47.05875" lon="13.05656"><ele>1579</ele></trkpt>
+<trkpt lat="47.0582" lon="13.05646"><ele>1580</ele></trkpt>
+<trkpt lat="47.05751" lon="13.05645"><ele>1581</ele></trkpt>
+<trkpt lat="47.05695" lon="13.05608"><ele>1581</ele></trkpt>
+<trkpt lat="47.05648" lon="13.05606"><ele>1585</ele></trkpt>
+<trkpt lat="47.05604" lon="13.05531"><ele>1589</ele></trkpt>
+<trkpt lat="47.05504" lon="13.055"><ele>1589</ele></trkpt>
+<trkpt lat="47.05417" lon="13.05549"><ele>1592</ele></trkpt>
+<trkpt lat="47.05256" lon="13.05686"><ele>1602</ele></trkpt>
+<trkpt lat="47.05191" lon="13.05731"><ele>1604</ele></trkpt>
+<trkpt lat="47.05081" lon="13.05758"><ele>1604</ele></trkpt>
+<trkpt lat="47.04991" lon="13.05773"><ele>1605</ele></trkpt>
+<trkpt lat="47.04916" lon="13.05803"><ele>1605</ele></trkpt>
+<trkpt lat="47.04872" lon="13.05863"><ele>1606</ele></trkpt>
+<trkpt lat="47.04796" lon="13.05939"><ele>1606</ele></trkpt>
+<trkpt lat="47.04716" lon="13.05996"><ele>1606</ele></trkpt>
+<trkpt lat="47.04638" lon="13.06095"><ele>1609</ele></trkpt>
+<trkpt lat="47.04551" lon="13.06222"><ele>1614</ele></trkpt>
+<trkpt lat="47.04447" lon="13.06322"><ele>1618</ele></trkpt>
+<trkpt lat="47.04348" lon="13.06376"><ele>1625</ele></trkpt>
+<trkpt lat="47.04282" lon="13.06397"><ele>1625</ele></trkpt>
+<trkpt lat="47.04223" lon="13.06476"><ele>1628</ele></trkpt>
+<trkpt lat="47.04155" lon="13.06506"><ele>1631</ele></trkpt>
+<trkpt lat="47.04091" lon="13.0662"><ele>1632</ele></trkpt>
+<trkpt lat="47.04013" lon="13.06677"><ele>1635</ele></trkpt>
+<trkpt lat="47.03994" lon="13.06793"><ele>1639</ele></trkpt>
+<trkpt lat="47.04008" lon="13.0704"><ele>1674</ele></trkpt>
+<trkpt lat="47.0401" lon="13.07163"><ele>1702</ele></trkpt>
+<trkpt lat="47.03959" lon="13.07226"><ele>1730</ele></trkpt>
+<trkpt lat="47.0401" lon="13.0729"><ele>1739</ele></trkpt>
+<trkpt lat="47.0403" lon="13.07394"><ele>1743</ele></trkpt>
+<trkpt lat="47.04015" lon="13.07437"><ele>1746</ele></trkpt>
+<trkpt lat="47.03983" lon="13.07418"><ele>1756</ele></trkpt>
+<trkpt lat="47.03938" lon="13.07381"><ele>1771</ele></trkpt>
+<trkpt lat="47.03948" lon="13.07497"><ele>1773</ele></trkpt>
+<trkpt lat="47.03919" lon="13.07502"><ele>1774</ele></trkpt>
+<trkpt lat="47.03874" lon="13.0748"><ele>1774</ele></trkpt>
+<trkpt lat="47.03896" lon="13.0756"><ele>1769</ele></trkpt>
+<trkpt lat="47.03892" lon="13.07645"><ele>1769</ele></trkpt>
+<trkpt lat="47.03859" lon="13.07697"><ele>1792</ele></trkpt>
+<trkpt lat="47.03819" lon="13.07683"><ele>1812</ele></trkpt>
+<trkpt lat="47.03768" lon="13.07642"><ele>1843</ele></trkpt>
+<trkpt lat="47.03734" lon="13.07628"><ele>1871</ele></trkpt>
+<trkpt lat="47.03718" lon="13.0773"><ele>1959</ele></trkpt>
+<trkpt lat="47.03666" lon="13.07786"><ele>2008</ele></trkpt>
+<trkpt lat="47.03616" lon="13.07803"><ele>2033</ele></trkpt>
+<trkpt lat="47.03523" lon="13.07749"><ele>2041</ele></trkpt>
+<trkpt lat="47.03462" lon="13.07716"><ele>2040</ele></trkpt>
+<trkpt lat="47.03425" lon="13.07718"><ele>2052</ele></trkpt>
+<trkpt lat="47.03404" lon="13.07734"><ele>2059</ele></trkpt>
+<trkpt lat="47.03434" lon="13.07791"><ele>2071</ele></trkpt>
+<trkpt lat="47.03493" lon="13.07858"><ele>2088</ele></trkpt>
+<trkpt lat="47.03512" lon="13.07907"><ele>2111</ele></trkpt>
+<trkpt lat="47.03513" lon="13.07977"><ele>2135</ele></trkpt>
+<trkpt lat="47.03504" lon="13.08031"><ele>2143</ele></trkpt>
+<trkpt lat="47.03473" lon="13.08086"><ele>2151</ele></trkpt>
+<trkpt lat="47.03423" lon="13.08088"><ele>2147</ele></trkpt>
+<trkpt lat="47.03383" lon="13.08082"><ele>2145</ele></trkpt>
+<trkpt lat="47.03339" lon="13.08083"><ele>2148</ele></trkpt>
+<trkpt lat="47.03395" lon="13.08131"><ele>2156</ele></trkpt>
+<trkpt lat="47.03474" lon="13.08155"><ele>2171</ele></trkpt>
+<trkpt lat="47.03511" lon="13.08166"><ele>2178</ele></trkpt>
+<trkpt lat="47.03528" lon="13.082"><ele>2182</ele></trkpt>
+<trkpt lat="47.0351" lon="13.08266"><ele>2192</ele></trkpt>
+<trkpt lat="47.03472" lon="13.08321"><ele>2203</ele></trkpt>
+<trkpt lat="47.03435" lon="13.08353"><ele>2210</ele></trkpt>
+<trkpt lat="47.03372" lon="13.08363"><ele>2220</ele></trkpt>
+<trkpt lat="47.03304" lon="13.0837"><ele>2233</ele></trkpt>
+<trkpt lat="47.03362" lon="13.08399"><ele>2239</ele></trkpt>
+<trkpt lat="47.03408" lon="13.08428"><ele>2245</ele></trkpt>
+<trkpt lat="47.03414" lon="13.0847"><ele>2248</ele></trkpt>
+<trkpt lat="47.03406" lon="13.08501"><ele>2251</ele></trkpt>
+<trkpt lat="47.03377" lon="13.0851"><ele>2260</ele></trkpt>
+<trkpt lat="47.03341" lon="13.08523"><ele>2281</ele></trkpt>
+<trkpt lat="47.03381" lon="13.08564"><ele>2302</ele></trkpt>
+<trkpt lat="47.03395" lon="13.08594"><ele>2302</ele></trkpt>
+<trkpt lat="47.03371" lon="13.08614"><ele>2302</ele></trkpt>
+<trkpt lat="47.03335" lon="13.08631"><ele>2298</ele></trkpt>
+<trkpt lat="47.03348" lon="13.08669"><ele>2291</ele></trkpt>
+<trkpt lat="47.03399" lon="13.08717"><ele>2283</ele></trkpt>
+<trkpt lat="47.03395" lon="13.08798"><ele>2312</ele></trkpt>
+<trkpt lat="47.03365" lon="13.08877"><ele>2325</ele></trkpt>
+<trkpt lat="47.03296" lon="13.08875"><ele>2331</ele></trkpt>
+<trkpt lat="47.03245" lon="13.08919"><ele>2354</ele></trkpt>
+<trkpt lat="47.03174" lon="13.08941"><ele>2361</ele></trkpt>
+<trkpt lat="47.03065" lon="13.08926"><ele>2376</ele></trkpt>
+<trkpt lat="47.03015" lon="13.08928"><ele>2383</ele></trkpt>
+<trkpt lat="47.0292" lon="13.09035"><ele>2409</ele></trkpt>
+<trkpt lat="47.02791" lon="13.09047"><ele>2418</ele></trkpt>
+<trkpt lat="47.02727" lon="13.09011"><ele>2432</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

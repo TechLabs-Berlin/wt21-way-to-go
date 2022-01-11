@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Blaue Route (kurz)]]></name>
+      <desc><![CDATA[<p>
+	Mein Atem, mein Weg.</p>
+<p>
+	COPD-Wandertag im Bürgerpark</p>
+<p>
+	Kurze Strecke (1,5 km)</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Blaue Route (kurz)]]></name><desc><![CDATA[<p>
+	Mein Atem, mein Weg.</p>
+<p>
+	COPD-Wandertag im Bürgerpark</p>
+<p>
+	Kurze Strecke (1,5 km)</p>
+]]></desc><trkseg>
+         <trkpt lat="52.56777" lon="13.3907"><ele>38</ele></trkpt>
+<trkpt lat="52.56814" lon="13.392"><ele>41</ele></trkpt>
+<trkpt lat="52.56834" lon="13.39201"><ele>40</ele></trkpt>
+<trkpt lat="52.56838" lon="13.39228"><ele>40</ele></trkpt>
+<trkpt lat="52.56845" lon="13.39278"><ele>41</ele></trkpt>
+<trkpt lat="52.56852" lon="13.39349"><ele>43</ele></trkpt>
+<trkpt lat="52.56861" lon="13.39454"><ele>43</ele></trkpt>
+<trkpt lat="52.56869" lon="13.39472"><ele>42</ele></trkpt>
+<trkpt lat="52.56883" lon="13.39598"><ele>42</ele></trkpt>
+<trkpt lat="52.56886" lon="13.39635"><ele>41</ele></trkpt>
+<trkpt lat="52.56893" lon="13.3966"><ele>41</ele></trkpt>
+<trkpt lat="52.56897" lon="13.39673"><ele>41</ele></trkpt>
+<trkpt lat="52.5692" lon="13.39694"><ele>41</ele></trkpt>
+<trkpt lat="52.56938" lon="13.39695"><ele>43</ele></trkpt>
+<trkpt lat="52.56972" lon="13.39699"><ele>45</ele></trkpt>
+<trkpt lat="52.56969" lon="13.39704"><ele>45</ele></trkpt>
+<trkpt lat="52.57028" lon="13.39802"><ele>44</ele></trkpt>
+<trkpt lat="52.57051" lon="13.39822"><ele>44</ele></trkpt>
+<trkpt lat="52.57055" lon="13.398"><ele>44</ele></trkpt>
+<trkpt lat="52.5705" lon="13.39739"><ele>45</ele></trkpt>
+<trkpt lat="52.57042" lon="13.3959"><ele>45</ele></trkpt>
+<trkpt lat="52.57069" lon="13.39587"><ele>44</ele></trkpt>
+<trkpt lat="52.57045" lon="13.39321"><ele>43</ele></trkpt>
+<trkpt lat="52.57028" lon="13.39209"><ele>43</ele></trkpt>
+<trkpt lat="52.57029" lon="13.39169"><ele>42</ele></trkpt>
+<trkpt lat="52.57016" lon="13.39178"><ele>42</ele></trkpt>
+<trkpt lat="52.56988" lon="13.39219"><ele>42</ele></trkpt>
+<trkpt lat="52.56979" lon="13.39221"><ele>42</ele></trkpt>
+<trkpt lat="52.56968" lon="13.39219"><ele>42</ele></trkpt>
+<trkpt lat="52.56955" lon="13.39211"><ele>42</ele></trkpt>
+<trkpt lat="52.56944" lon="13.39206"><ele>41</ele></trkpt>
+<trkpt lat="52.56899" lon="13.39203"><ele>40</ele></trkpt>
+<trkpt lat="52.56873" lon="13.39202"><ele>40</ele></trkpt>
+<trkpt lat="52.56834" lon="13.39198"><ele>41</ele></trkpt>
+<trkpt lat="52.5682" lon="13.39197"><ele>41</ele></trkpt>
+<trkpt lat="52.56793" lon="13.39104"><ele>39</ele></trkpt>
+<trkpt lat="52.56786" lon="13.39077"><ele>38</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

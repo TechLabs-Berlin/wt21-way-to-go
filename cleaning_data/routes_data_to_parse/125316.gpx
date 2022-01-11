@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Wingst W5 - Balkseeroute ]]></name>
+      <desc><![CDATA[<p>
+	Die Balkseeroute ist ausgeschildert mit weißen Schildern mit einem blauen Richtungspfeil. Als Startort bietet sich der kostenlose Zooparkplatz Am Olymp an. Von dort führen auch weitere Wanderwege durch die Wingst und nach Cadenberge, die sich gut kombinieren lassen.</p>
+<p>
+	Die 20 km lange Tour führrt durch den Kurpark in den Wingster Wald und führt am höchsten Punkt des Cuxlands, dem Silberberg vorbei zum Naturschutzgebiet "Balksee und Randmoore". Am Balksee gibt es eine Aussichtsplattform mit Picknickstation. Zurück geht es über Süderbusch wo ein sich Melkhus befindet. Der Bereich Süderbusch / Balkseestraße / Angelerstraße ist der einzige Bereich wo man auf kürzeren Strecken Asphaltwege nutzen muss.</p>
+<p>
+	Bis nach Westerhamm führt die Route über offene bis leicht bewalderte Flurgebiete in Waldnähe, bevor es von Westerhamm durch den Wald zurück zum Zooparkplatz geht.</p>
+<p>
+	Ein Bahnhof ist ca. 1 km vom Zooparkplatz entfernt. Die passende Wanderkarte hält die Tourismuszentrale Wingst, <a href="http://www.wingst.de">www.wingst.de</a> vor.</p>
+<p>
+	Diese Wandermapkarte erfasst leider nicht alle Waldwege der Wingst, Daher kann es bei der Datenübernahme zu kleineren Abweichungen im Vergelich zur offiziellen Wanderkarte kommen.</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Wingst W5 - Balkseeroute ]]></name><desc><![CDATA[<p>
+	Die Balkseeroute ist ausgeschildert mit weißen Schildern mit einem blauen Richtungspfeil. Als Startort bietet sich der kostenlose Zooparkplatz Am Olymp an. Von dort führen auch weitere Wanderwege durch die Wingst und nach Cadenberge, die sich gut kombinieren lassen.</p>
+<p>
+	Die 20 km lange Tour führrt durch den Kurpark in den Wingster Wald und führt am höchsten Punkt des Cuxlands, dem Silberberg vorbei zum Naturschutzgebiet "Balksee und Randmoore". Am Balksee gibt es eine Aussichtsplattform mit Picknickstation. Zurück geht es über Süderbusch wo ein sich Melkhus befindet. Der Bereich Süderbusch / Balkseestraße / Angelerstraße ist der einzige Bereich wo man auf kürzeren Strecken Asphaltwege nutzen muss.</p>
+<p>
+	Bis nach Westerhamm führt die Route über offene bis leicht bewalderte Flurgebiete in Waldnähe, bevor es von Westerhamm durch den Wald zurück zum Zooparkplatz geht.</p>
+<p>
+	Ein Bahnhof ist ca. 1 km vom Zooparkplatz entfernt. Die passende Wanderkarte hält die Tourismuszentrale Wingst, <a href="http://www.wingst.de">www.wingst.de</a> vor.</p>
+<p>
+	Diese Wandermapkarte erfasst leider nicht alle Waldwege der Wingst, Daher kann es bei der Datenübernahme zu kleineren Abweichungen im Vergelich zur offiziellen Wanderkarte kommen.</p>
+]]></desc><trkseg>
+         <trkpt lat="" lon=""><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Jagdhaus - Bad Berleburg]]></name>
+      <desc><![CDATA[<p>
+	Jagdhaus - Bad Berleburg</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Jagdhaus - Bad Berleburg]]></name><desc><![CDATA[<p>
+	Jagdhaus - Bad Berleburg</p>
+]]></desc><trkseg>
+         <trkpt lat="51.10328" lon="8.28318"><ele>669</ele></trkpt>
+<trkpt lat="51.10192" lon="8.28618"><ele>664</ele></trkpt>
+<trkpt lat="51.10151" lon="8.28753"><ele>666</ele></trkpt>
+<trkpt lat="51.10115" lon="8.29004"><ele>673</ele></trkpt>
+<trkpt lat="51.10076" lon="8.29131"><ele>676</ele></trkpt>
+<trkpt lat="51.10038" lon="8.2932"><ele>671</ele></trkpt>
+<trkpt lat="51.10026" lon="8.295"><ele>665</ele></trkpt>
+<trkpt lat="51.10042" lon="8.29627"><ele>666</ele></trkpt>
+<trkpt lat="51.10053" lon="8.29828"><ele>666</ele></trkpt>
+<trkpt lat="51.10015" lon="8.29963"><ele>664</ele></trkpt>
+<trkpt lat="51.09875" lon="8.30654"><ele>645</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

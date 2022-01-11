@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Zwölferhorn - Tiefbrunnau - Sausteigalm]]></name>
+      <desc><![CDATA[
+	
+		
+			
+				Anreise / Zufahrt
+		
+		
+			
+				Auf der Wolfgangsee Straße (B158) von Salzburg oder Bad Ischl kommend bis Hof, S-wärts abzweigen nach Faistenau, dort links abzweigen in die Tiefbrunnau und weiter bis zum Ende der Fahrmöglichkeit.
+		
+	
+
+
+	
+		
+			
+				Wegbeschreibung / Routenverlauf
+		
+		
+			
+				Aus der Tiefbrunnau gleich nach rechts über den Bach und über freies Gelände - an der Kühleithütte vorbei - in den Wald hinein, auf einem Fahrweg SW-wärts zur Mehlsackalm (1100m) und schräg aufwärts in den Sattel östlich des Ochsenwaldköpfls (1270m).
+				Nun flach bzw. leicht steigend SO-wärts, zunächst durch Wald, dann über Wiesen auf die Pillsteinhöhe (1478m). Am Verbindungskamm NO-wärts, kurz hinab in einen Sattel (ca. 1400m) und weiter auf das Zwölferhorn (1521m).
+		
+		
+			
+				Stützpunkt
+		
+		
+			
+				Gh. Bergstation Zwölferhorn (1490m, Tel.: +43/6227/7555)
+				Sausteigalm (1110m), Mittelstation der Zwölferkogelbahn
+		
+		
+			
+				Karten
+		
+		
+			
+				 
+		
+		
+			
+				Bemerkung
+		
+		
+			
+				Schöner Blick auf Fuschl-, Wolfgang- und Mondsee.
+				Das Zwölferhorn ist ein beliebter Startplatz für Paragleiter.
+		
+	
+
+<p>
+	(cloned from route 1842546)</p>
+
+
+(cloned from route 3471431)]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Zwölferhorn - Tiefbrunnau - Sausteigalm]]></name><desc><![CDATA[
+	
+		
+			
+				Anreise / Zufahrt
+		
+		
+			
+				Auf der Wolfgangsee Straße (B158) von Salzburg oder Bad Ischl kommend bis Hof, S-wärts abzweigen nach Faistenau, dort links abzweigen in die Tiefbrunnau und weiter bis zum Ende der Fahrmöglichkeit.
+		
+	
+
+
+	
+		
+			
+				Wegbeschreibung / Routenverlauf
+		
+		
+			
+				Aus der Tiefbrunnau gleich nach rechts über den Bach und über freies Gelände - an der Kühleithütte vorbei - in den Wald hinein, auf einem Fahrweg SW-wärts zur Mehlsackalm (1100m) und schräg aufwärts in den Sattel östlich des Ochsenwaldköpfls (1270m).
+				Nun flach bzw. leicht steigend SO-wärts, zunächst durch Wald, dann über Wiesen auf die Pillsteinhöhe (1478m). Am Verbindungskamm NO-wärts, kurz hinab in einen Sattel (ca. 1400m) und weiter auf das Zwölferhorn (1521m).
+		
+		
+			
+				Stützpunkt
+		
+		
+			
+				Gh. Bergstation Zwölferhorn (1490m, Tel.: +43/6227/7555)
+				Sausteigalm (1110m), Mittelstation der Zwölferkogelbahn
+		
+		
+			
+				Karten
+		
+		
+			
+				 
+		
+		
+			
+				Bemerkung
+		
+		
+			
+				Schöner Blick auf Fuschl-, Wolfgang- und Mondsee.
+				Das Zwölferhorn ist ein beliebter Startplatz für Paragleiter.
+		
+	
+
+<p>
+	(cloned from route 1842546)</p>
+
+
+(cloned from route 3471431)]]></desc><trkseg>
+         <trkpt lat="47.76073" lon="13.34175"><ele>851</ele></trkpt>
+<trkpt lat="47.76055" lon="13.34235"><ele>853</ele></trkpt>
+<trkpt lat="47.76042" lon="13.34254"><ele>854</ele></trkpt>
+<trkpt lat="47.76033" lon="13.34254"><ele>854</ele></trkpt>
+<trkpt lat="47.76024" lon="13.34247"><ele>854</ele></trkpt>
+<trkpt lat="47.76018" lon="13.34222"><ele>854</ele></trkpt>
+<trkpt lat="47.76027" lon="13.34168"><ele>854</ele></trkpt>
+<trkpt lat="47.76024" lon="13.34142"><ele>854</ele></trkpt>
+<trkpt lat="47.76009" lon="13.34128"><ele>857</ele></trkpt>
+<trkpt lat="47.75982" lon="13.34122"><ele>862</ele></trkpt>
+<trkpt lat="47.75952" lon="13.34128"><ele>868</ele></trkpt>
+<trkpt lat="47.7592" lon="13.34142"><ele>879</ele></trkpt>
+<trkpt lat="47.75866" lon="13.34162"><ele>900</ele></trkpt>
+<trkpt lat="47.75817" lon="13.34162"><ele>925</ele></trkpt>
+<trkpt lat="47.7579" lon="13.34142"><ele>938</ele></trkpt>
+<trkpt lat="47.75763" lon="13.34115"><ele>951</ele></trkpt>
+<trkpt lat="47.75754" lon="13.34081"><ele>961</ele></trkpt>
+<trkpt lat="47.75736" lon="13.34008"><ele>964</ele></trkpt>
+<trkpt lat="47.75727" lon="13.33995"><ele>965</ele></trkpt>
+<trkpt lat="47.75682" lon="13.33968"><ele>979</ele></trkpt>
+<trkpt lat="47.75588" lon="13.33934"><ele>1010</ele></trkpt>
+<trkpt lat="47.75543" lon="13.33901"><ele>1018</ele></trkpt>
+<trkpt lat="47.75502" lon="13.33867"><ele>1021</ele></trkpt>
+<trkpt lat="47.75471" lon="13.33854"><ele>1039</ele></trkpt>
+<trkpt lat="47.75402" lon="13.33841"><ele>1062</ele></trkpt>
+<trkpt lat="47.7539" lon="13.33821"><ele>1061</ele></trkpt>
+<trkpt lat="47.75381" lon="13.33774"><ele>1061</ele></trkpt>
+<trkpt lat="47.75357" lon="13.3376"><ele>1072</ele></trkpt>
+<trkpt lat="47.75327" lon="13.33754"><ele>1085</ele></trkpt>
+<trkpt lat="47.75308" lon="13.3372"><ele>1098</ele></trkpt>
+<trkpt lat="47.75285" lon="13.33707"><ele>1111</ele></trkpt>
+<trkpt lat="47.75254" lon="13.33707"><ele>1128</ele></trkpt>
+<trkpt lat="47.75232" lon="13.337"><ele>1136</ele></trkpt>
+<trkpt lat="47.75205" lon="13.33675"><ele>1143</ele></trkpt>
+<trkpt lat="47.75168" lon="13.33615"><ele>1153</ele></trkpt>
+<trkpt lat="47.75141" lon="13.33587"><ele>1157</ele></trkpt>
+<trkpt lat="47.75097" lon="13.33555"><ele>1158</ele></trkpt>
+<trkpt lat="47.75056" lon="13.33475"><ele>1155</ele></trkpt>
+<trkpt lat="47.75002" lon="13.33381"><ele>1146</ele></trkpt>
+<trkpt lat="47.74958" lon="13.33301"><ele>1133</ele></trkpt>
+<trkpt lat="47.74944" lon="13.33254"><ele>1129</ele></trkpt>
+<trkpt lat="47.74895" lon="13.33207"><ele>1131</ele></trkpt>
+<trkpt lat="47.74846" lon="13.33127"><ele>1145</ele></trkpt>
+<trkpt lat="47.74801" lon="13.33067"><ele>1159</ele></trkpt>
+<trkpt lat="47.7476" lon="13.33015"><ele>1171</ele></trkpt>
+<trkpt lat="47.74729" lon="13.32995"><ele>1179</ele></trkpt>
+<trkpt lat="47.74679" lon="13.32987"><ele>1192</ele></trkpt>
+<trkpt lat="47.74607" lon="13.32968"><ele>1210</ele></trkpt>
+<trkpt lat="47.74567" lon="13.3294"><ele>1215</ele></trkpt>
+<trkpt lat="47.74522" lon="13.32901"><ele>1222</ele></trkpt>
+<trkpt lat="47.74462" lon="13.32815"><ele>1237</ele></trkpt>
+<trkpt lat="47.74405" lon="13.32781"><ele>1256</ele></trkpt>
+<trkpt lat="47.74359" lon="13.32781"><ele>1268</ele></trkpt>
+<trkpt lat="47.74355" lon="13.32801"><ele>1272</ele></trkpt>
+<trkpt lat="47.74341" lon="13.32868"><ele>1281</ele></trkpt>
+<trkpt lat="47.74328" lon="13.32915"><ele>1287</ele></trkpt>
+<trkpt lat="47.74283" lon="13.3298"><ele>1302</ele></trkpt>
+<trkpt lat="47.74265" lon="13.33008"><ele>1306</ele></trkpt>
+<trkpt lat="47.7422" lon="13.33034"><ele>1309</ele></trkpt>
+<trkpt lat="47.74166" lon="13.33067"><ele>1309</ele></trkpt>
+<trkpt lat="47.74104" lon="13.3308"><ele>1310</ele></trkpt>
+<trkpt lat="47.74036" lon="13.33094"><ele>1323</ele></trkpt>
+<trkpt lat="47.73964" lon="13.3312"><ele>1350</ele></trkpt>
+<trkpt lat="47.73891" lon="13.33147"><ele>1376</ele></trkpt>
+<trkpt lat="47.73846" lon="13.33174"><ele>1391</ele></trkpt>
+<trkpt lat="47.73779" lon="13.33221"><ele>1400</ele></trkpt>
+<trkpt lat="47.73729" lon="13.33267"><ele>1403</ele></trkpt>
+<trkpt lat="47.73716" lon="13.33294"><ele>1403</ele></trkpt>
+<trkpt lat="47.73703" lon="13.33341"><ele>1403</ele></trkpt>
+<trkpt lat="47.73703" lon="13.33388"><ele>1403</ele></trkpt>
+<trkpt lat="47.73703" lon="13.33441"><ele>1402</ele></trkpt>
+<trkpt lat="47.73689" lon="13.33481"><ele>1402</ele></trkpt>
+<trkpt lat="47.73644" lon="13.33568"><ele>1410</ele></trkpt>
+<trkpt lat="47.73559" lon="13.33675"><ele>1425</ele></trkpt>
+<trkpt lat="47.73487" lon="13.33787"><ele>1445</ele></trkpt>
+<trkpt lat="47.73487" lon="13.33814"><ele>1450</ele></trkpt>
+<trkpt lat="47.73514" lon="13.33854"><ele>1458</ele></trkpt>
+<trkpt lat="47.73568" lon="13.33948"><ele>1449</ele></trkpt>
+<trkpt lat="47.73621" lon="13.34081"><ele>1440</ele></trkpt>
+<trkpt lat="47.73685" lon="13.34267"><ele>1418</ele></trkpt>
+<trkpt lat="47.73761" lon="13.34354"><ele>1404</ele></trkpt>
+<trkpt lat="47.73801" lon="13.34407"><ele>1400</ele></trkpt>
+<trkpt lat="47.73843" lon="13.34487"><ele>1399</ele></trkpt>
+<trkpt lat="47.73861" lon="13.34534"><ele>1399</ele></trkpt>
+<trkpt lat="47.73891" lon="13.34574"><ele>1400</ele></trkpt>
+<trkpt lat="47.73906" lon="13.34615"><ele>1400</ele></trkpt>
+<trkpt lat="47.73915" lon="13.34635"><ele>1400</ele></trkpt>
+<trkpt lat="47.73942" lon="13.34655"><ele>1400</ele></trkpt>
+<trkpt lat="47.73973" lon="13.34695"><ele>1400</ele></trkpt>
+<trkpt lat="47.74039" lon="13.34807"><ele>1413</ele></trkpt>
+<trkpt lat="47.7409" lon="13.3486"><ele>1430</ele></trkpt>
+<trkpt lat="47.74117" lon="13.34914"><ele>1446</ele></trkpt>
+<trkpt lat="47.74184" lon="13.3502"><ele>1479</ele></trkpt>
+<trkpt lat="47.7426" lon="13.35175"><ele>1510</ele></trkpt>
+<trkpt lat="47.74287" lon="13.35201"><ele>1510</ele></trkpt>
+<trkpt lat="47.74337" lon="13.35261"><ele>1482</ele></trkpt>
+<trkpt lat="47.74405" lon="13.35328"><ele>1430</ele></trkpt>
+<trkpt lat="47.74531" lon="13.35435"><ele>1352</ele></trkpt>
+<trkpt lat="47.74601" lon="13.35527"><ele>1301</ele></trkpt>
+<trkpt lat="47.74688" lon="13.35634"><ele>1227</ele></trkpt>
+<trkpt lat="47.74728" lon="13.35667"><ele>1196</ele></trkpt>
+<trkpt lat="47.74791" lon="13.35701"><ele>1171</ele></trkpt>
+<trkpt lat="47.7489" lon="13.35707"><ele>1141</ele></trkpt>
+<trkpt lat="47.7498" lon="13.35721"><ele>1127</ele></trkpt>
+<trkpt lat="47.75075" lon="13.35707"><ele>1115</ele></trkpt>
+<trkpt lat="47.7515" lon="13.35661"><ele>1094</ele></trkpt>
+<trkpt lat="47.75205" lon="13.35614"><ele>1076</ele></trkpt>
+<trkpt lat="47.75241" lon="13.35581"><ele>1067</ele></trkpt>
+<trkpt lat="47.75281" lon="13.35562"><ele>1062</ele></trkpt>
+<trkpt lat="47.75299" lon="13.35547"><ele>1059</ele></trkpt>
+<trkpt lat="47.7529" lon="13.35522"><ele>1057</ele></trkpt>
+<trkpt lat="47.75263" lon="13.35474"><ele>1051</ele></trkpt>
+<trkpt lat="47.75254" lon="13.35455"><ele>1049</ele></trkpt>
+<trkpt lat="47.75223" lon="13.35442"><ele>1036</ele></trkpt>
+<trkpt lat="47.75214" lon="13.35422"><ele>1029</ele></trkpt>
+<trkpt lat="47.75227" lon="13.35368"><ele>1015</ele></trkpt>
+<trkpt lat="47.75249" lon="13.35262"><ele>1002</ele></trkpt>
+<trkpt lat="47.75254" lon="13.35195"><ele>1007</ele></trkpt>
+<trkpt lat="47.75267" lon="13.35128"><ele>1011</ele></trkpt>
+<trkpt lat="47.75276" lon="13.35047"><ele>1016</ele></trkpt>
+<trkpt lat="47.75258" lon="13.35027"><ele>1023</ele></trkpt>
+<trkpt lat="47.75187" lon="13.34987"><ele>1036</ele></trkpt>
+<trkpt lat="47.75168" lon="13.34961"><ele>1034</ele></trkpt>
+<trkpt lat="47.75178" lon="13.34934"><ele>1033</ele></trkpt>
+<trkpt lat="47.75196" lon="13.34914"><ele>1028</ele></trkpt>
+<trkpt lat="47.75249" lon="13.34914"><ele>1017</ele></trkpt>
+<trkpt lat="47.75303" lon="13.34882"><ele>995</ele></trkpt>
+<trkpt lat="47.75366" lon="13.34902"><ele>980</ele></trkpt>
+<trkpt lat="47.75384" lon="13.34927"><ele>976</ele></trkpt>
+<trkpt lat="47.75402" lon="13.34981"><ele>967</ele></trkpt>
+<trkpt lat="47.75408" lon="13.35027"><ele>960</ele></trkpt>
+<trkpt lat="47.75411" lon="13.35054"><ele>957</ele></trkpt>
+<trkpt lat="47.75402" lon="13.35081"><ele>959</ele></trkpt>
+<trkpt lat="47.75399" lon="13.35101"><ele>960</ele></trkpt>
+<trkpt lat="47.75411" lon="13.35107"><ele>961</ele></trkpt>
+<trkpt lat="47.75429" lon="13.35094"><ele>963</ele></trkpt>
+<trkpt lat="47.75453" lon="13.35061"><ele>952</ele></trkpt>
+<trkpt lat="47.75469" lon="13.35014"><ele>937</ele></trkpt>
+<trkpt lat="47.75505" lon="13.34987"><ele>924</ele></trkpt>
+<trkpt lat="47.75538" lon="13.34947"><ele>911</ele></trkpt>
+<trkpt lat="47.75565" lon="13.34941"><ele>915</ele></trkpt>
+<trkpt lat="47.7561" lon="13.34941"><ele>926</ele></trkpt>
+<trkpt lat="47.7565" lon="13.34927"><ele>922</ele></trkpt>
+<trkpt lat="47.75659" lon="13.34914"><ele>920</ele></trkpt>
+<trkpt lat="47.75659" lon="13.34902"><ele>918</ele></trkpt>
+<trkpt lat="47.75623" lon="13.34895"><ele>911</ele></trkpt>
+<trkpt lat="47.75592" lon="13.34887"><ele>906</ele></trkpt>
+<trkpt lat="47.75592" lon="13.34875"><ele>904</ele></trkpt>
+<trkpt lat="47.75601" lon="13.34862"><ele>902</ele></trkpt>
+<trkpt lat="47.75632" lon="13.34842"><ele>900</ele></trkpt>
+<trkpt lat="47.75677" lon="13.34822"><ele>901</ele></trkpt>
+<trkpt lat="47.757" lon="13.34807"><ele>898</ele></trkpt>
+<trkpt lat="47.75718" lon="13.34768"><ele>892</ele></trkpt>
+<trkpt lat="47.75772" lon="13.34722"><ele>883</ele></trkpt>
+<trkpt lat="47.75834" lon="13.34648"><ele>870</ele></trkpt>
+<trkpt lat="47.75884" lon="13.34581"><ele>860</ele></trkpt>
+<trkpt lat="47.75938" lon="13.34501"><ele>859</ele></trkpt>
+<trkpt lat="47.75964" lon="13.34441"><ele>858</ele></trkpt>
+<trkpt lat="47.75997" lon="13.34374"><ele>857</ele></trkpt>
+<trkpt lat="47.76033" lon="13.34307"><ele>856</ele></trkpt>
+<trkpt lat="47.76042" lon="13.34282"><ele>855</ele></trkpt>
+<trkpt lat="47.76046" lon="13.34254"><ele>855</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

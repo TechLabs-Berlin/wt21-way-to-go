@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Hauptsmoorrunde]]></name>
+      <desc><![CDATA[<p>
+	P&ouml;deldorfer Str - Schildstr - am Malerviertel entlang - &uuml;ber Berliner Ring - Volkspark - Kleing&auml;rtner - Moosstr -&nbsp; Hauptsmoorwald - 1. Abzw rechts - Forstweg rechts - Abzw links - mit Forstweg hoch zur A 73 - ein St&uuml;ck daran entlang - wieder abw zum Forstweg - links und halblinks zur St 2276 (nach Geisfeld) - &uuml;ber A 73 bis zur Abzw rechts zum P - ger, links zum Hubertusbrunnen - vorbei am P&ouml;llnitzstein - wieder zur St2276 - &uuml;berqueren, links auf Radweg zur Oberj&auml;germarter - dort scharf rechts und mit Forstweg ger am Sendelbach entlang - Abzw rechts, abw zur Sendelbachfurt, &uuml;berqueren -&nbsp; leicht ansteigend geradeaus - zur Stromschneise, links zum M&ouml;stenbach - daran rechts entang zur St2210 - &uuml;berquer, hinter H&uuml;gelgr&auml;bern vorbei - 2 x rechts, ger, links in Forstweg+ aufw zum breiten Forstweg - diesem links zum Waldende folgen - abw Ri Melkendorf - Abzw links - Gab rechts, Querweg links - an der Salvatorkapelle links - &uuml;b St2210 - Danach Gab links, vorbei an Lagerplatz und rechts hoch Ri Naisa - davor links zum Wasserwerk - links zum und in Wald, Weg ger bis zur Kreuzung folgen - rechts zum Kunigundenweg von P&ouml;deldorf - links einbiegen und ger zur Kunigundenruh (Gastst&auml;tte), Kunigundenkiefer, und Kunigundenstein + -marter - auf Radweg abw&auml;rts, durch zwei Tunnel - durch Bischofsgraben geradeaus zur Armeestr - kurz links, dann rechts hinterm Stadion vorbei - vorm Stadionbad rechts zur und &uuml;ber die P&ouml;deldorfer Str - vorbei an Marter die Str stadteinw&auml;rts - &uuml;ber Berliner Ring zur Kreuzung Neuerbstr - Ende</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Hauptsmoorrunde]]></name><desc><![CDATA[<p>
+	P&ouml;deldorfer Str - Schildstr - am Malerviertel entlang - &uuml;ber Berliner Ring - Volkspark - Kleing&auml;rtner - Moosstr -&nbsp; Hauptsmoorwald - 1. Abzw rechts - Forstweg rechts - Abzw links - mit Forstweg hoch zur A 73 - ein St&uuml;ck daran entlang - wieder abw zum Forstweg - links und halblinks zur St 2276 (nach Geisfeld) - &uuml;ber A 73 bis zur Abzw rechts zum P - ger, links zum Hubertusbrunnen - vorbei am P&ouml;llnitzstein - wieder zur St2276 - &uuml;berqueren, links auf Radweg zur Oberj&auml;germarter - dort scharf rechts und mit Forstweg ger am Sendelbach entlang - Abzw rechts, abw zur Sendelbachfurt, &uuml;berqueren -&nbsp; leicht ansteigend geradeaus - zur Stromschneise, links zum M&ouml;stenbach - daran rechts entang zur St2210 - &uuml;berquer, hinter H&uuml;gelgr&auml;bern vorbei - 2 x rechts, ger, links in Forstweg+ aufw zum breiten Forstweg - diesem links zum Waldende folgen - abw Ri Melkendorf - Abzw links - Gab rechts, Querweg links - an der Salvatorkapelle links - &uuml;b St2210 - Danach Gab links, vorbei an Lagerplatz und rechts hoch Ri Naisa - davor links zum Wasserwerk - links zum und in Wald, Weg ger bis zur Kreuzung folgen - rechts zum Kunigundenweg von P&ouml;deldorf - links einbiegen und ger zur Kunigundenruh (Gastst&auml;tte), Kunigundenkiefer, und Kunigundenstein + -marter - auf Radweg abw&auml;rts, durch zwei Tunnel - durch Bischofsgraben geradeaus zur Armeestr - kurz links, dann rechts hinterm Stadion vorbei - vorm Stadionbad rechts zur und &uuml;ber die P&ouml;deldorfer Str - vorbei an Marter die Str stadteinw&auml;rts - &uuml;ber Berliner Ring zur Kreuzung Neuerbstr - Ende</p>
+]]></desc><trkseg>
+         <trkpt lat="49.90009" lon="10.90804"><ele>244</ele></trkpt>
+<trkpt lat="49.89987" lon="10.9082"><ele>244</ele></trkpt>
+<trkpt lat="49.89987" lon="10.9082"><ele>244</ele></trkpt>
+<trkpt lat="49.89939" lon="10.90848"><ele>244</ele></trkpt>
+<trkpt lat="49.89939" lon="10.90848"><ele>244</ele></trkpt>
+<trkpt lat="49.89891" lon="10.90872"><ele>243</ele></trkpt>
+<trkpt lat="49.89871" lon="10.90884"><ele>243</ele></trkpt>
+<trkpt lat="49.89725" lon="10.90937"><ele>244</ele></trkpt>
+<trkpt lat="49.89664" lon="10.90947"><ele>244</ele></trkpt>
+<trkpt lat="49.89674" lon="10.91065"><ele>244</ele></trkpt>
+<trkpt lat="49.89602" lon="10.91079"><ele>243</ele></trkpt>
+<trkpt lat="49.8961" lon="10.91199"><ele>243</ele></trkpt>
+<trkpt lat="49.89584" lon="10.91205"><ele>243</ele></trkpt>
+<trkpt lat="49.89591" lon="10.91322"><ele>243</ele></trkpt>
+<trkpt lat="49.89606" lon="10.91319"><ele>243</ele></trkpt>
+<trkpt lat="49.89629" lon="10.91476"><ele>242</ele></trkpt>
+<trkpt lat="49.89637" lon="10.91495"><ele>242</ele></trkpt>
+<trkpt lat="49.89642" lon="10.91551"><ele>244</ele></trkpt>
+<trkpt lat="49.89671" lon="10.91579"><ele>246</ele></trkpt>
+<trkpt lat="49.89688" lon="10.91583"><ele>247</ele></trkpt>
+<trkpt lat="49.89713" lon="10.91609"><ele>247</ele></trkpt>
+<trkpt lat="49.89741" lon="10.91791"><ele>248</ele></trkpt>
+<trkpt lat="49.89756" lon="10.91849"><ele>248</ele></trkpt>
+<trkpt lat="49.89801" lon="10.91904"><ele>248</ele></trkpt>
+<trkpt lat="49.8982" lon="10.91941"><ele>248</ele></trkpt>
+<trkpt lat="49.89829" lon="10.92008"><ele>248</ele></trkpt>
+<trkpt lat="49.89831" lon="10.92087"><ele>248</ele></trkpt>
+<trkpt lat="49.89832" lon="10.92158"><ele>249</ele></trkpt>
+<trkpt lat="49.89837" lon="10.92214"><ele>250</ele></trkpt>
+<trkpt lat="49.89837" lon="10.92262"><ele>250</ele></trkpt>
+<trkpt lat="49.89828" lon="10.92345"><ele>251</ele></trkpt>
+<trkpt lat="49.89832" lon="10.92383"><ele>251</ele></trkpt>
+<trkpt lat="49.8984" lon="10.92472"><ele>251</ele></trkpt>
+<trkpt lat="49.89852" lon="10.92662"><ele>257</ele></trkpt>
+<trkpt lat="49.89856" lon="10.92812"><ele>258</ele></trkpt>
+<trkpt lat="49.89742" lon="10.9283"><ele>257</ele></trkpt>
+<trkpt lat="49.89723" lon="10.92717"><ele>255</ele></trkpt>
+<trkpt lat="49.89648" lon="10.92742"><ele>254</ele></trkpt>
+<trkpt lat="49.8963" lon="10.9276"><ele>255</ele></trkpt>
+<trkpt lat="49.89515" lon="10.92782"><ele>252</ele></trkpt>
+<trkpt lat="49.89526" lon="10.93071"><ele>254</ele></trkpt>
+<trkpt lat="49.89541" lon="10.93282"><ele>270</ele></trkpt>
+<trkpt lat="49.89512" lon="10.93342"><ele>272</ele></trkpt>
+<trkpt lat="49.89491" lon="10.93406"><ele>272</ele></trkpt>
+<trkpt lat="49.89445" lon="10.93549"><ele>273</ele></trkpt>
+<trkpt lat="49.89339" lon="10.93589"><ele>273</ele></trkpt>
+<trkpt lat="49.89324" lon="10.93716"><ele>273</ele></trkpt>
+<trkpt lat="49.89331" lon="10.93775"><ele>274</ele></trkpt>
+<trkpt lat="49.89419" lon="10.94098"><ele>282</ele></trkpt>
+<trkpt lat="49.89487" lon="10.94346"><ele>284</ele></trkpt>
+<trkpt lat="49.89514" lon="10.94488"><ele>284</ele></trkpt>
+<trkpt lat="49.89492" lon="10.94629"><ele>284</ele></trkpt>
+<trkpt lat="49.89406" lon="10.94858"><ele>287</ele></trkpt>
+<trkpt lat="49.89102" lon="10.94891"><ele>291</ele></trkpt>
+<trkpt lat="49.89071" lon="10.94615"><ele>294</ele></trkpt>
+<trkpt lat="49.88988" lon="10.94667"><ele>295</ele></trkpt>
+<trkpt lat="49.88969" lon="10.9471"><ele>293</ele></trkpt>
+<trkpt lat="49.88924" lon="10.94775"><ele>291</ele></trkpt>
+<trkpt lat="49.88917" lon="10.94827"><ele>290</ele></trkpt>
+<trkpt lat="49.88863" lon="10.94913"><ele>285</ele></trkpt>
+<trkpt lat="49.88863" lon="10.94902"><ele>284</ele></trkpt>
+<trkpt lat="49.88927" lon="10.95416"><ele>291</ele></trkpt>
+<trkpt lat="49.88604" lon="10.95607"><ele>290</ele></trkpt>
+<trkpt lat="49.88561" lon="10.95658"><ele>292</ele></trkpt>
+<trkpt lat="49.8855" lon="10.95733"><ele>293</ele></trkpt>
+<trkpt lat="49.8858" lon="10.96017"><ele>295</ele></trkpt>
+<trkpt lat="49.88606" lon="10.962"><ele>292</ele></trkpt>
+<trkpt lat="49.8867" lon="10.96311"><ele>292</ele></trkpt>
+<trkpt lat="49.88828" lon="10.96461"><ele>293</ele></trkpt>
+<trkpt lat="49.88858" lon="10.96654"><ele>293</ele></trkpt>
+<trkpt lat="49.88916" lon="10.96835"><ele>294</ele></trkpt>
+<trkpt lat="49.88944" lon="10.9686"><ele>296</ele></trkpt>
+<trkpt lat="49.89" lon="10.9674"><ele>304</ele></trkpt>
+<trkpt lat="49.89057" lon="10.96594"><ele>304</ele></trkpt>
+<trkpt lat="49.8906" lon="10.96633"><ele>306</ele></trkpt>
+<trkpt lat="49.89029" lon="10.96963"><ele>308</ele></trkpt>
+<trkpt lat="49.88982" lon="10.97375"><ele>306</ele></trkpt>
+<trkpt lat="49.89008" lon="10.97682"><ele>301</ele></trkpt>
+<trkpt lat="49.89007" lon="10.97939"><ele>315</ele></trkpt>
+<trkpt lat="49.89039" lon="10.98121"><ele>316</ele></trkpt>
+<trkpt lat="49.89087" lon="10.98264"><ele>314</ele></trkpt>
+<trkpt lat="49.89206" lon="10.98478"><ele>318</ele></trkpt>
+<trkpt lat="49.89263" lon="10.98614"><ele>311</ele></trkpt>
+<trkpt lat="49.8927" lon="10.99156"><ele>309</ele></trkpt>
+<trkpt lat="49.89326" lon="10.99292"><ele>314</ele></trkpt>
+<trkpt lat="49.89333" lon="10.99378"><ele>316</ele></trkpt>
+<trkpt lat="49.89361" lon="10.99449"><ele>318</ele></trkpt>
+<trkpt lat="49.8943" lon="10.99547"><ele>319</ele></trkpt>
+<trkpt lat="49.89491" lon="10.99723"><ele>323</ele></trkpt>
+<trkpt lat="49.89582" lon="11.00044"><ele>323</ele></trkpt>
+<trkpt lat="49.89608" lon="11.00305"><ele>326</ele></trkpt>
+<trkpt lat="49.89711" lon="11.0033"><ele>312</ele></trkpt>
+<trkpt lat="49.89687" lon="11.00461"><ele>312</ele></trkpt>
+<trkpt lat="49.89678" lon="11.00815"><ele>317</ele></trkpt>
+<trkpt lat="49.89693" lon="11.00858"><ele>319</ele></trkpt>
+<trkpt lat="49.89727" lon="11.01021"><ele>320</ele></trkpt>
+<trkpt lat="49.89757" lon="11.01124"><ele>321</ele></trkpt>
+<trkpt lat="49.89716" lon="11.0124"><ele>334</ele></trkpt>
+<trkpt lat="49.89713" lon="11.01331"><ele>339</ele></trkpt>
+<trkpt lat="49.89685" lon="11.01367"><ele>341</ele></trkpt>
+<trkpt lat="49.89577" lon="11.01383"><ele>345</ele></trkpt>
+<trkpt lat="49.8945" lon="11.01327"><ele>338</ele></trkpt>
+<trkpt lat="49.89268" lon="11.01273"><ele>345</ele></trkpt>
+<trkpt lat="49.89007" lon="11.01847"><ele>369</ele></trkpt>
+<trkpt lat="49.88781" lon="11.01744"><ele>369</ele></trkpt>
+<trkpt lat="49.89278" lon="11.01963"><ele>367</ele></trkpt>
+<trkpt lat="49.89516" lon="11.02087"><ele>368</ele></trkpt>
+<trkpt lat="49.89635" lon="11.02457"><ele>361</ele></trkpt>
+<trkpt lat="49.89712" lon="11.02551"><ele>348</ele></trkpt>
+<trkpt lat="49.89798" lon="11.02405"><ele>338</ele></trkpt>
+<trkpt lat="49.89845" lon="11.02297"><ele>332</ele></trkpt>
+<trkpt lat="49.89846" lon="11.02143"><ele>330</ele></trkpt>
+<trkpt lat="49.89935" lon="11.02106"><ele>328</ele></trkpt>
+<trkpt lat="49.89988" lon="11.02135"><ele>327</ele></trkpt>
+<trkpt lat="49.90059" lon="11.02144"><ele>324</ele></trkpt>
+<trkpt lat="49.90074" lon="11.02079"><ele>322</ele></trkpt>
+<trkpt lat="49.90094" lon="11.01744"><ele>323</ele></trkpt>
+<trkpt lat="49.90074" lon="11.01628"><ele>323</ele></trkpt>
+<trkpt lat="49.89895" lon="11.01292"><ele>318</ele></trkpt>
+<trkpt lat="49.89906" lon="11.00923"><ele>316</ele></trkpt>
+<trkpt lat="49.89955" lon="11.00577"><ele>314</ele></trkpt>
+<trkpt lat="49.89881" lon="11.00373"><ele>313</ele></trkpt>
+<trkpt lat="49.89863" lon="11.00227"><ele>313</ele></trkpt>
+<trkpt lat="49.89844" lon="10.99918"><ele>314</ele></trkpt>
+<trkpt lat="49.90132" lon="10.99927"><ele>329</ele></trkpt>
+<trkpt lat="49.90412" lon="10.99967"><ele>331</ele></trkpt>
+<trkpt lat="49.90427" lon="10.99616"><ele>337</ele></trkpt>
+<trkpt lat="49.90457" lon="10.99414"><ele>341</ele></trkpt>
+<trkpt lat="49.90448" lon="10.99341"><ele>341</ele></trkpt>
+<trkpt lat="49.90293" lon="10.99289"><ele>337</ele></trkpt>
+<trkpt lat="49.90173" lon="10.9895"><ele>334</ele></trkpt>
+<trkpt lat="49.90082" lon="10.9863"><ele>326</ele></trkpt>
+<trkpt lat="49.89958" lon="10.98259"><ele>321</ele></trkpt>
+<trkpt lat="49.90475" lon="10.9795"><ele>328</ele></trkpt>
+<trkpt lat="49.90486" lon="10.97702"><ele>330</ele></trkpt>
+<trkpt lat="49.90481" lon="10.97071"><ele>337</ele></trkpt>
+<trkpt lat="49.90428" lon="10.96706"><ele>336</ele></trkpt>
+<trkpt lat="49.9037" lon="10.96509"><ele>332</ele></trkpt>
+<trkpt lat="49.90362" lon="10.9641"><ele>331</ele></trkpt>
+<trkpt lat="49.90378" lon="10.96066"><ele>325</ele></trkpt>
+<trkpt lat="49.90382" lon="10.95848"><ele>324</ele></trkpt>
+<trkpt lat="49.90345" lon="10.95749"><ele>325</ele></trkpt>
+<trkpt lat="49.9032" lon="10.95564"><ele>319</ele></trkpt>
+<trkpt lat="49.90378" lon="10.95174"><ele>301</ele></trkpt>
+<trkpt lat="49.90376" lon="10.94985"><ele>294</ele></trkpt>
+<trkpt lat="49.90362" lon="10.94886"><ele>290</ele></trkpt>
+<trkpt lat="49.90345" lon="10.94813"><ele>287</ele></trkpt>
+<trkpt lat="49.90268" lon="10.94702"><ele>284</ele></trkpt>
+<trkpt lat="49.90287" lon="10.94522"><ele>290</ele></trkpt>
+<trkpt lat="49.90287" lon="10.94243"><ele>287</ele></trkpt>
+<trkpt lat="49.90207" lon="10.94161"><ele>283</ele></trkpt>
+<trkpt lat="49.90207" lon="10.93869"><ele>274</ele></trkpt>
+<trkpt lat="49.90163" lon="10.93646"><ele>269</ele></trkpt>
+<trkpt lat="49.90135" lon="10.93449"><ele>271</ele></trkpt>
+<trkpt lat="49.90102" lon="10.93238"><ele>263</ele></trkpt>
+<trkpt lat="49.90099" lon="10.93144"><ele>260</ele></trkpt>
+<trkpt lat="49.8998" lon="10.93144"><ele>258</ele></trkpt>
+<trkpt lat="49.8998" lon="10.92981"><ele>256</ele></trkpt>
+<trkpt lat="49.89968" lon="10.92974"><ele>256</ele></trkpt>
+<trkpt lat="49.89955" lon="10.92794"><ele>255</ele></trkpt>
+<trkpt lat="49.89956" lon="10.92653"><ele>252</ele></trkpt>
+<trkpt lat="49.90047" lon="10.92642"><ele>253</ele></trkpt>
+<trkpt lat="49.9018" lon="10.92614"><ele>254</ele></trkpt>
+<trkpt lat="49.90155" lon="10.92002"><ele>250</ele></trkpt>
+<trkpt lat="49.90121" lon="10.91324"><ele>250</ele></trkpt>
+<trkpt lat="49.89997" lon="10.90826"><ele>244</ele></trkpt>
+<trkpt lat="49.90008" lon="10.90809"><ele>244</ele></trkpt>
+<trkpt lat="49.90009" lon="10.90804"><ele>243</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

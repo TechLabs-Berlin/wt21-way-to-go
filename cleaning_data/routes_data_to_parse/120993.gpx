@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Extratour Streuobstroute]]></name>
+      <desc><![CDATA[<p>Sehen, wo der Most wächst; Obstbäume unterschiedlichen Alters und unterschiedlicher Sorten- dazu lädt die Extratour Streuobstroute ein. Am idyllisch gelegenen Lautzebachweiher vorbei führt der Weg durch Steuobstwiesen und Wacholderheiden. In reizvollen Aussichten lässt sich die besonders schöne Landschaft um Dautphe entdecken. Streuobstwiesen und Wacholderheiden, Zeugnisse früherer Weidewirtschasft, sind wichtige Teile der Kulturlandschaft und Heimat einzigartiger Lebensgemeinschaften. Für den Artenschutz besitzen sie große Bedeutung.</p>
+<p>Der Wanderweg ist mit 69 Punkten nach dem Deutschen Wadersiegel bewertet und liegt damit in der deutschen Spitzengruppe.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Extratour Streuobstroute]]></name><desc><![CDATA[<p>Sehen, wo der Most wächst; Obstbäume unterschiedlichen Alters und unterschiedlicher Sorten- dazu lädt die Extratour Streuobstroute ein. Am idyllisch gelegenen Lautzebachweiher vorbei führt der Weg durch Steuobstwiesen und Wacholderheiden. In reizvollen Aussichten lässt sich die besonders schöne Landschaft um Dautphe entdecken. Streuobstwiesen und Wacholderheiden, Zeugnisse früherer Weidewirtschasft, sind wichtige Teile der Kulturlandschaft und Heimat einzigartiger Lebensgemeinschaften. Für den Artenschutz besitzen sie große Bedeutung.</p>
+<p>Der Wanderweg ist mit 69 Punkten nach dem Deutschen Wadersiegel bewertet und liegt damit in der deutschen Spitzengruppe.</p>]]></desc><trkseg>
+         <trkpt lat="" lon=""><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Der Bad Harzburger 3-Burgen-Weg Variante 1]]></name>
+      <desc><![CDATA[<p>
+	Beginnen Sie Ihre Wanderung am Berliner Platz (Einstieg rechts neben dem Parkplatz).</p>
+<p>
+	Folgen Sie dem Wegelogo am Ehrenmal der gefallenen Soldaten vorbei, nach rechts gehend in Richtung Kleiner / Großer Burgberg. Über die steile Treppe (nach ca. 100 Meter rechts)  kommen Sie auf den "Hurensteig".Weiter geht es zum Kleinen Burgberg. Von dort ca 50 Meter zurück zur abwärtsführenden Treppe auf den Laubenweg. Gehen Sie nach rechts, vorbei an der "Harzburg Höhle" zum Antoniusplatz. Dort rechts abbiegen zur "Großen Harzburg". Schauen Sie sich die Burgruine an (Infos auf den Stehlen), Genießen Sie den Ausblick von der Canossa Säule ins Harzvorland. Beschließen Sie Ihre Geschichtswanderung in der Gaststätte "Aussichtsreich".</p>
+<p>
+	Nun können Sie mit der Burgberg Seilbahn wieder zu Tal schweben.</p>
+<p>
+	Eine Fortsetzung der Wanderung finden Sie unter: Der Bad Harzburger 3-Burgen-Weg Variante 2.</p>
+<p>
+	Als Wegbegleitung empfehle ich die Infos auf der Seite:</p>
+<p>
+	<a href="http://www.die-harzburg.de/der-3-burgen-weg.html">http://www.die-harzburg.de/der-3-burgen-weg.html</a></p>
+<p>
+	oder das Begleitheft:Der Bad Harzburger 3 Burgen Weg.</p>
+<p>
+	Viel Spaß beim Wandern!</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Der Bad Harzburger 3-Burgen-Weg Variante 1]]></name><desc><![CDATA[<p>
+	Beginnen Sie Ihre Wanderung am Berliner Platz (Einstieg rechts neben dem Parkplatz).</p>
+<p>
+	Folgen Sie dem Wegelogo am Ehrenmal der gefallenen Soldaten vorbei, nach rechts gehend in Richtung Kleiner / Großer Burgberg. Über die steile Treppe (nach ca. 100 Meter rechts)  kommen Sie auf den "Hurensteig".Weiter geht es zum Kleinen Burgberg. Von dort ca 50 Meter zurück zur abwärtsführenden Treppe auf den Laubenweg. Gehen Sie nach rechts, vorbei an der "Harzburg Höhle" zum Antoniusplatz. Dort rechts abbiegen zur "Großen Harzburg". Schauen Sie sich die Burgruine an (Infos auf den Stehlen), Genießen Sie den Ausblick von der Canossa Säule ins Harzvorland. Beschließen Sie Ihre Geschichtswanderung in der Gaststätte "Aussichtsreich".</p>
+<p>
+	Nun können Sie mit der Burgberg Seilbahn wieder zu Tal schweben.</p>
+<p>
+	Eine Fortsetzung der Wanderung finden Sie unter: Der Bad Harzburger 3-Burgen-Weg Variante 2.</p>
+<p>
+	Als Wegbegleitung empfehle ich die Infos auf der Seite:</p>
+<p>
+	<a href="http://www.die-harzburg.de/der-3-burgen-weg.html">http://www.die-harzburg.de/der-3-burgen-weg.html</a></p>
+<p>
+	oder das Begleitheft:Der Bad Harzburger 3 Burgen Weg.</p>
+<p>
+	Viel Spaß beim Wandern!</p>
+]]></desc><trkseg>
+         <trkpt lat="51.87417" lon="10.56215"><ele>297</ele></trkpt>
+<trkpt lat="51.8742" lon="10.56216"><ele>298</ele></trkpt>
+<trkpt lat="51.87418" lon="10.5623"><ele>302</ele></trkpt>
+<trkpt lat="51.87423" lon="10.56241"><ele>305</ele></trkpt>
+<trkpt lat="51.87502" lon="10.56275"><ele>306</ele></trkpt>
+<trkpt lat="51.87534" lon="10.56304"><ele>307</ele></trkpt>
+<trkpt lat="51.87561" lon="10.56338"><ele>308</ele></trkpt>
+<trkpt lat="51.87609" lon="10.56388"><ele>307</ele></trkpt>
+<trkpt lat="51.87673" lon="10.56482"><ele>311</ele></trkpt>
+<trkpt lat="51.87702" lon="10.56539"><ele>317</ele></trkpt>
+<trkpt lat="51.8772" lon="10.56567"><ele>317</ele></trkpt>
+<trkpt lat="51.87728" lon="10.56585"><ele>317</ele></trkpt>
+<trkpt lat="51.87736" lon="10.56609"><ele>318</ele></trkpt>
+<trkpt lat="51.87735" lon="10.5661"><ele>318</ele></trkpt>
+<trkpt lat="51.87738" lon="10.56629"><ele>320</ele></trkpt>
+<trkpt lat="51.87728" lon="10.56695"><ele>329</ele></trkpt>
+<trkpt lat="51.87715" lon="10.56735"><ele>333</ele></trkpt>
+<trkpt lat="51.87705" lon="10.56757"><ele>335</ele></trkpt>
+<trkpt lat="51.8769" lon="10.56769"><ele>340</ele></trkpt>
+<trkpt lat="51.87652" lon="10.56791"><ele>354</ele></trkpt>
+<trkpt lat="51.87652" lon="10.56791"><ele>354</ele></trkpt>
+<trkpt lat="51.8765" lon="10.56775"><ele>359</ele></trkpt>
+<trkpt lat="51.87577" lon="10.56793"><ele>383</ele></trkpt>
+<trkpt lat="51.87521" lon="10.56823"><ele>392</ele></trkpt>
+<trkpt lat="51.8748" lon="10.56832"><ele>395</ele></trkpt>
+<trkpt lat="51.87448" lon="10.56816"><ele>398</ele></trkpt>
+<trkpt lat="51.87408" lon="10.56758"><ele>409</ele></trkpt>
+<trkpt lat="51.87367" lon="10.56682"><ele>420</ele></trkpt>
+<trkpt lat="51.87381" lon="10.56639"><ele>423</ele></trkpt>
+<trkpt lat="51.87383" lon="10.56599"><ele>422</ele></trkpt>
+<trkpt lat="51.8739" lon="10.56599"><ele>422</ele></trkpt>
+<trkpt lat="51.87398" lon="10.56612"><ele>423</ele></trkpt>
+<trkpt lat="51.87411" lon="10.56624"><ele>423</ele></trkpt>
+<trkpt lat="51.87427" lon="10.56624"><ele>424</ele></trkpt>
+<trkpt lat="51.87441" lon="10.56615"><ele>424</ele></trkpt>
+<trkpt lat="51.87452" lon="10.5661"><ele>424</ele></trkpt>
+<trkpt lat="51.87455" lon="10.56614"><ele>424</ele></trkpt>
+<trkpt lat="51.87456" lon="10.56613"><ele>424</ele></trkpt>
+<trkpt lat="51.87453" lon="10.56609"><ele>424</ele></trkpt>
+<trkpt lat="51.87442" lon="10.56614"><ele>424</ele></trkpt>
+<trkpt lat="51.87428" lon="10.56623"><ele>423</ele></trkpt>
+<trkpt lat="51.87412" lon="10.56623"><ele>422</ele></trkpt>
+<trkpt lat="51.87399" lon="10.56611"><ele>422</ele></trkpt>
+<trkpt lat="51.87391" lon="10.56598"><ele>422</ele></trkpt>
+<trkpt lat="51.8737" lon="10.56601"><ele>424</ele></trkpt>
+<trkpt lat="51.87333" lon="10.56594"><ele>431</ele></trkpt>
+<trkpt lat="51.87324" lon="10.56604"><ele>430</ele></trkpt>
+<trkpt lat="51.87337" lon="10.56627"><ele>427</ele></trkpt>
+<trkpt lat="51.87336" lon="10.56683"><ele>425</ele></trkpt>
+<trkpt lat="51.87329" lon="10.56684"><ele>427</ele></trkpt>
+<trkpt lat="51.87329" lon="10.56684"><ele>427</ele></trkpt>
+<trkpt lat="51.87323" lon="10.56684"><ele>429</ele></trkpt>
+<trkpt lat="51.87298" lon="10.56703"><ele>435</ele></trkpt>
+<trkpt lat="51.87249" lon="10.56796"><ele>446</ele></trkpt>
+<trkpt lat="51.87211" lon="10.56899"><ele>450</ele></trkpt>
+<trkpt lat="51.8719" lon="10.5694"><ele>453</ele></trkpt>
+<trkpt lat="51.87146" lon="10.56978"><ele>462</ele></trkpt>
+<trkpt lat="51.87079" lon="10.57028"><ele>461</ele></trkpt>
+<trkpt lat="51.87057" lon="10.57036"><ele>460</ele></trkpt>
+<trkpt lat="51.87063" lon="10.57027"><ele>460</ele></trkpt>
+<trkpt lat="51.87063" lon="10.57027"><ele>460</ele></trkpt>
+<trkpt lat="51.87057" lon="10.57036"><ele>460</ele></trkpt>
+<trkpt lat="51.87071" lon="10.56994"><ele>462</ele></trkpt>
+<trkpt lat="51.87078" lon="10.56951"><ele>466</ele></trkpt>
+<trkpt lat="51.87079" lon="10.56921"><ele>468</ele></trkpt>
+<trkpt lat="51.87078" lon="10.56856"><ele>469</ele></trkpt>
+<trkpt lat="51.87092" lon="10.56788"><ele>471</ele></trkpt>
+<trkpt lat="51.87104" lon="10.56746"><ele>470</ele></trkpt>
+<trkpt lat="51.871" lon="10.56743"><ele>469</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

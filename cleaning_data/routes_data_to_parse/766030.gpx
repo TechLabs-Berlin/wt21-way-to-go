@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Rund um den Haider See - familienwanderung]]></name>
+      <desc><![CDATA[<p><strong>Der Natursee Im Obervinschgau</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/10648/medium/haidersee06.jpg" /></p><p></p><p>Seespaziergang mit herrlichem Weitblick auf die umliegende Bergwelt</p><p></p><p><a href="http://sentres.com/suedtirol/tour/rund-um-den-haider-see">Weitere Informationen auf Sentres.com</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Rund um den Haider See - familienwanderung]]></name><desc><![CDATA[<p><strong>Der Natursee Im Obervinschgau</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/10648/medium/haidersee06.jpg" /></p><p></p><p>Seespaziergang mit herrlichem Weitblick auf die umliegende Bergwelt</p><p></p><p><a href="http://sentres.com/suedtirol/tour/rund-um-den-haider-see">Weitere Informationen auf Sentres.com</a></p>]]></desc><trkseg>
+         <trkpt lat="46.7642421791582" lon="10.5327116481794"><ele>1461</ele></trkpt>
+<trkpt lat="46.7642749851586" lon="10.5314765728301"><ele>1455</ele></trkpt>
+<trkpt lat="46.7637635104144" lon="10.531293360644"><ele>1455</ele></trkpt>
+<trkpt lat="46.763228011636" lon="10.5313671872752"><ele>1455</ele></trkpt>
+<trkpt lat="46.7628640112111" lon="10.531770802274"><ele>1452</ele></trkpt>
+<trkpt lat="46.7625814841091" lon="10.5324177348746"><ele>1450</ele></trkpt>
+<trkpt lat="46.7613009928912" lon="10.5334777694121"><ele>1445</ele></trkpt>
+<trkpt lat="46.7601387983795" lon="10.5347820423204"><ele>1447</ele></trkpt>
+<trkpt lat="46.7598844385588" lon="10.5354597966325"><ele>1446</ele></trkpt>
+<trkpt lat="46.7593157288404" lon="10.5360497060917"><ele>1451</ele></trkpt>
+<trkpt lat="46.7588730543083" lon="10.5364201922608"><ele>1450</ele></trkpt>
+<trkpt lat="46.7571814675422" lon="10.5363846569386"><ele>1448</ele></trkpt>
+<trkpt lat="46.7562080974316" lon="10.5359797024167"><ele>1447</ele></trkpt>
+<trkpt lat="46.7556788717593" lon="10.5361033301621"><ele>1448</ele></trkpt>
+<trkpt lat="46.7546058847255" lon="10.5357711409002"><ele>1450</ele></trkpt>
+<trkpt lat="46.7542608371654" lon="10.5357305283452"><ele>1451</ele></trkpt>
+<trkpt lat="46.7537013972869" lon="10.5355650440545"><ele>1452</ele></trkpt>
+<trkpt lat="46.7531441182362" lon="10.5355792271339"><ele>1453</ele></trkpt>
+<trkpt lat="46.7520770662456" lon="10.5350552437902"><ele>1445</ele></trkpt>
+<trkpt lat="46.7515014737798" lon="10.5349866423065"><ele>1446</ele></trkpt>
+<trkpt lat="46.750949114722" lon="10.5348466160054"><ele>1447</ele></trkpt>
+<trkpt lat="46.7504047585151" lon="10.5348427836847"><ele>1448</ele></trkpt>
+<trkpt lat="46.7498880157397" lon="10.535151142467"><ele>1448</ele></trkpt>
+<trkpt lat="46.749585245335" lon="10.5354145723935"><ele>1448</ele></trkpt>
+<trkpt lat="46.7491117393775" lon="10.5352137420437"><ele>1448</ele></trkpt>
+<trkpt lat="46.7483620822876" lon="10.5340637655647"><ele>1449</ele></trkpt>
+<trkpt lat="46.7473650985603" lon="10.5331707910273"><ele>1446</ele></trkpt>
+<trkpt lat="46.7469444436832" lon="10.5325725125979"><ele>1446</ele></trkpt>
+<trkpt lat="46.7465726814199" lon="10.5316845553879"><ele>1446</ele></trkpt>
+<trkpt lat="46.7460827548864" lon="10.531521132812"><ele>1447</ele></trkpt>
+<trkpt lat="46.7457037277843" lon="10.5311056496855"><ele>1447</ele></trkpt>
+<trkpt lat="46.7453589439765" lon="10.5304118048954"><ele>1463</ele></trkpt>
+<trkpt lat="46.7450090578744" lon="10.5298962139585"><ele>1477</ele></trkpt>
+<trkpt lat="46.7449816897597" lon="10.5296830963266"><ele>1477</ele></trkpt>
+<trkpt lat="46.744711676406" lon="10.5295830619055"><ele>1477</ele></trkpt>
+<trkpt lat="46.7448451199244" lon="10.529397532919"><ele>1477</ele></trkpt>
+<trkpt lat="46.7455189005714" lon="10.5292445175198"><ele>1469</ele></trkpt>
+<trkpt lat="46.7464078599741" lon="10.528471286539"><ele>1471</ele></trkpt>
+<trkpt lat="46.7472100057764" lon="10.5283794972124"><ele>1469</ele></trkpt>
+<trkpt lat="46.7477656563469" lon="10.5280872878615"><ele>1464</ele></trkpt>
+<trkpt lat="46.7490941240884" lon="10.5280460231998"><ele>1459</ele></trkpt>
+<trkpt lat="46.7498372323753" lon="10.5278885616785"><ele>1470</ele></trkpt>
+<trkpt lat="46.7502827475537" lon="10.5274835082271"><ele>1481</ele></trkpt>
+<trkpt lat="46.7515903682024" lon="10.5267738986084"><ele>1475</ele></trkpt>
+<trkpt lat="46.7521129975732" lon="10.5266446755894"><ele>1474</ele></trkpt>
+<trkpt lat="46.7526182577093" lon="10.5267914352945"><ele>1479</ele></trkpt>
+<trkpt lat="46.7532252180633" lon="10.5266515962438"><ele>1465</ele></trkpt>
+<trkpt lat="46.7543921116396" lon="10.5281487702616"><ele>1471</ele></trkpt>
+<trkpt lat="46.7544122024234" lon="10.5282370278373"><ele>1472</ele></trkpt>
+<trkpt lat="46.7548566746229" lon="10.5284559995452"><ele>1477</ele></trkpt>
+<trkpt lat="46.755306299852" lon="10.5285181068988"><ele>1469</ele></trkpt>
+<trkpt lat="46.7555374835198" lon="10.5278866155712"><ele>1461</ele></trkpt>
+<trkpt lat="46.7560198377752" lon="10.5281036942581"><ele>1456</ele></trkpt>
+<trkpt lat="46.7565268342316" lon="10.5285239700409"><ele>1455</ele></trkpt>
+<trkpt lat="46.7570405275431" lon="10.5286801570791"><ele>1459</ele></trkpt>
+<trkpt lat="46.7575373231644" lon="10.5287251135099"><ele>1455</ele></trkpt>
+<trkpt lat="46.7580570589339" lon="10.5286762989202"><ele>1450</ele></trkpt>
+<trkpt lat="46.758959481515" lon="10.5291920370192"><ele>1456</ele></trkpt>
+<trkpt lat="46.7600088673048" lon="10.5294913782906"><ele>1461</ele></trkpt>
+<trkpt lat="46.7610336306864" lon="10.5294166651504"><ele>1456</ele></trkpt>
+<trkpt lat="46.7614937271028" lon="10.5296660512868"><ele>1451</ele></trkpt>
+<trkpt lat="46.7619779446627" lon="10.529781757896"><ele>1460</ele></trkpt>
+<trkpt lat="46.7624324904856" lon="10.5301936832754"><ele>1467</ele></trkpt>
+<trkpt lat="46.7629039534866" lon="10.5304455513054"><ele>1469</ele></trkpt>
+<trkpt lat="46.763634293856" lon="10.5305239192276"><ele>1463</ele></trkpt>
+<trkpt lat="46.7641520387217" lon="10.5304972164937"><ele>1458</ele></trkpt>
+<trkpt lat="46.7643475973542" lon="10.5306483493994"><ele>1457</ele></trkpt>
+<trkpt lat="46.7642400127752" lon="10.5327135707898"><ele>1460</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

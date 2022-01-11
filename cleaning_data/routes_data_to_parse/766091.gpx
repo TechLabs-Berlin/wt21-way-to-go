@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Von Wengen nach St. Barbara  - familienwanderung]]></name>
+      <desc><![CDATA[<p><strong>Weiler und Kirchlein mit Bergkulisse</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/10912/medium/suedtirol-spazierwege-promenaden-148.jpg" /></p><p></p><p>In idyllischer Umgebung zum Kirchlein St. Barbara</p><p></p><p><a href="http://sentres.com/suedtirol/tour/von-wengen-nach-st-barbara">Weitere Informationen auf Sentres.com</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Von Wengen nach St. Barbara  - familienwanderung]]></name><desc><![CDATA[<p><strong>Weiler und Kirchlein mit Bergkulisse</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/10912/medium/suedtirol-spazierwege-promenaden-148.jpg" /></p><p></p><p>In idyllischer Umgebung zum Kirchlein St. Barbara</p><p></p><p><a href="http://sentres.com/suedtirol/tour/von-wengen-nach-st-barbara">Weitere Informationen auf Sentres.com</a></p>]]></desc><trkseg>
+         <trkpt lat="46.6575617149843" lon="11.9241191061985"><ele>1347</ele></trkpt>
+<trkpt lat="46.6576401676795" lon="11.9238726875635"><ele>1349</ele></trkpt>
+<trkpt lat="46.6578536023718" lon="11.9239038457693"><ele>1353</ele></trkpt>
+<trkpt lat="46.6583724157767" lon="11.9237736453554"><ele>1361</ele></trkpt>
+<trkpt lat="46.6584012481478" lon="11.9245405234639"><ele>1367</ele></trkpt>
+<trkpt lat="46.6585871531171" lon="11.925097798031"><ele>1375</ele></trkpt>
+<trkpt lat="46.6589142106575" lon="11.9250447148515"><ele>1385</ele></trkpt>
+<trkpt lat="46.6592023579942" lon="11.9248579093942"><ele>1395</ele></trkpt>
+<trkpt lat="46.6594010214996" lon="11.9242312442684"><ele>1411</ele></trkpt>
+<trkpt lat="46.6596271949287" lon="11.9238030213965"><ele>1422</ele></trkpt>
+<trkpt lat="46.6596502981852" lon="11.9248606743669"><ele>1407</ele></trkpt>
+<trkpt lat="46.6593840627832" lon="11.9255669396502"><ele>1412</ele></trkpt>
+<trkpt lat="46.659078031648" lon="11.9261579412798"><ele>1436</ele></trkpt>
+<trkpt lat="46.6589015503139" lon="11.9268817527878"><ele>1450</ele></trkpt>
+<trkpt lat="46.6586420034789" lon="11.9273442192584"><ele>1459</ele></trkpt>
+<trkpt lat="46.6588767895757" lon="11.9272171869958"><ele>1460</ele></trkpt>
+<trkpt lat="46.6590726591978" lon="11.92718121518"><ele>1460</ele></trkpt>
+<trkpt lat="46.6591084183018" lon="11.9272193536959"><ele>1460</ele></trkpt>
+<trkpt lat="46.6590449422526" lon="11.9278498270545"><ele>1461</ele></trkpt>
+<trkpt lat="46.6595420208502" lon="11.9289508434266"><ele>1486</ele></trkpt>
+<trkpt lat="46.659825750266" lon="11.9293721837599"><ele>1497</ele></trkpt>
+<trkpt lat="46.6598537136424" lon="11.9299665510004"><ele>1508</ele></trkpt>
+<trkpt lat="46.6595685246877" lon="11.9304229089478"><ele>1508</ele></trkpt>
+<trkpt lat="46.6594496102808" lon="11.9307455381824"><ele>1508</ele></trkpt>
+<trkpt lat="46.6598538229093" lon="11.929964350585"><ele>1495</ele></trkpt>
+<trkpt lat="46.6598227289577" lon="11.9293679262345"><ele>1484</ele></trkpt>
+<trkpt lat="46.6595122884991" lon="11.928886236558"><ele>1471</ele></trkpt>
+<trkpt lat="46.6590369955426" lon="11.9278535507699"><ele>1442</ele></trkpt>
+<trkpt lat="46.6591002003244" lon="11.9272024886956"><ele>1425</ele></trkpt>
+<trkpt lat="46.6588531393643" lon="11.9272199299544"><ele>1429</ele></trkpt>
+<trkpt lat="46.6586473329449" lon="11.9273510491082"><ele>1434</ele></trkpt>
+<trkpt lat="46.6586235019638" lon="11.9273050654602"><ele>1434</ele></trkpt>
+<trkpt lat="46.659001605241" lon="11.9267424861446"><ele>1431</ele></trkpt>
+<trkpt lat="46.6591360358704" lon="11.9259983476473"><ele>1405</ele></trkpt>
+<trkpt lat="46.6594581567461" lon="11.9254061184365"><ele>1410</ele></trkpt>
+<trkpt lat="46.6596738204226" lon="11.924672581008"><ele>1426</ele></trkpt>
+<trkpt lat="46.6596333981189" lon="11.9238270411151"><ele>1417</ele></trkpt>
+<trkpt lat="46.6600844403878" lon="11.9227603171057"><ele>1406</ele></trkpt>
+<trkpt lat="46.6599087068493" lon="11.9219219056211"><ele>1404</ele></trkpt>
+<trkpt lat="46.6597817212106" lon="11.9206182827973"><ele>1389</ele></trkpt>
+<trkpt lat="46.6597234573882" lon="11.9205806336776"><ele>1386</ele></trkpt>
+<trkpt lat="46.6596534602072" lon="11.9217535194151"><ele>1370</ele></trkpt>
+<trkpt lat="46.6592613255806" lon="11.9223958832987"><ele>1373</ele></trkpt>
+<trkpt lat="46.6586794746469" lon="11.922758582046"><ele>1363</ele></trkpt>
+<trkpt lat="46.6585540337112" lon="11.9227157529089"><ele>1361</ele></trkpt>
+<trkpt lat="46.6584520142007" lon="11.9227343713518"><ele>1359</ele></trkpt>
+<trkpt lat="46.6583313135079" lon="11.9237965329769"><ele>1347</ele></trkpt>
+<trkpt lat="46.6578547728287" lon="11.9239060681"><ele>1347</ele></trkpt>
+<trkpt lat="46.6576377261399" lon="11.9238773011468"><ele>1347</ele></trkpt>
+<trkpt lat="46.6575495691261" lon="11.9241878294701"><ele>1346</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

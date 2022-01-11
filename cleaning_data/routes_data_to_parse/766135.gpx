@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Auf das Weißhorn am Jochgrimm - wandertour]]></name>
+      <desc><![CDATA[<p><strong></strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/11137/medium/suedtirol-wandern-landschaft-37.jpg" /></p><p></p><p>Leichte Bergwanderung mit wenig Höhenunterschied</p><p></p><p><a href="http://sentres.com/suedtirol/tour/auf-das-weisshorn-am-jochgrimm">Weitere Informationen auf Sentres.com</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Auf das Weißhorn am Jochgrimm - wandertour]]></name><desc><![CDATA[<p><strong></strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/11137/medium/suedtirol-wandern-landschaft-37.jpg" /></p><p></p><p>Leichte Bergwanderung mit wenig Höhenunterschied</p><p></p><p><a href="http://sentres.com/suedtirol/tour/auf-das-weisshorn-am-jochgrimm">Weitere Informationen auf Sentres.com</a></p>]]></desc><trkseg>
+         <trkpt lat="46.3472576241911" lon="11.4511374584017"><ele>1993</ele></trkpt>
+<trkpt lat="46.3470274050831" lon="11.4501210283646"><ele>1996</ele></trkpt>
+<trkpt lat="46.3477255305285" lon="11.4494376261764"><ele>2000</ele></trkpt>
+<trkpt lat="46.3482558902152" lon="11.4484239495787"><ele>2025</ele></trkpt>
+<trkpt lat="46.3490494165087" lon="11.4466410933492"><ele>2075</ele></trkpt>
+<trkpt lat="46.3493651446578" lon="11.4456151032439"><ele>2089</ele></trkpt>
+<trkpt lat="46.3496656355149" lon="11.4452599280562"><ele>2104</ele></trkpt>
+<trkpt lat="46.3500494977614" lon="11.4449985443426"><ele>2116</ele></trkpt>
+<trkpt lat="46.3504857642154" lon="11.4451532922825"><ele>2126</ele></trkpt>
+<trkpt lat="46.3511492376126" lon="11.44561839146"><ele>2147</ele></trkpt>
+<trkpt lat="46.3514986577967" lon="11.4456655236513"><ele>2158</ele></trkpt>
+<trkpt lat="46.3514481642023" lon="11.4450982214178"><ele>2172</ele></trkpt>
+<trkpt lat="46.3515325252455" lon="11.4435417600658"><ele>2193</ele></trkpt>
+<trkpt lat="46.3517462189589" lon="11.4431394175107"><ele>2197</ele></trkpt>
+<trkpt lat="46.3520529321885" lon="11.4429183635952"><ele>2206</ele></trkpt>
+<trkpt lat="46.352263725876" lon="11.4433469875901"><ele>2216</ele></trkpt>
+<trkpt lat="46.3526216351052" lon="11.4437121301621"><ele>2224</ele></trkpt>
+<trkpt lat="46.3524643507398" lon="11.4441109977797"><ele>2229</ele></trkpt>
+<trkpt lat="46.3527800408645" lon="11.4442382528814"><ele>2237</ele></trkpt>
+<trkpt lat="46.3531336170313" lon="11.4442772681667"><ele>2250</ele></trkpt>
+<trkpt lat="46.3535085052741" lon="11.4441916787689"><ele>2263</ele></trkpt>
+<trkpt lat="46.3539325220032" lon="11.444253826765"><ele>2275</ele></trkpt>
+<trkpt lat="46.3542877653454" lon="11.4439769021835"><ele>2287</ele></trkpt>
+<trkpt lat="46.3543653611634" lon="11.4437576311351"><ele>2285</ele></trkpt>
+<trkpt lat="46.3543343499964" lon="11.4438717671642"><ele>2283</ele></trkpt>
+<trkpt lat="46.3540300309038" lon="11.4442058390702"><ele>2272</ele></trkpt>
+<trkpt lat="46.3537837728647" lon="11.4442580296462"><ele>2265</ele></trkpt>
+<trkpt lat="46.3536984821526" lon="11.4442370751816"><ele>2262</ele></trkpt>
+<trkpt lat="46.3537104448334" lon="11.4441069914961"><ele>2259</ele></trkpt>
+<trkpt lat="46.3533696209575" lon="11.4442309406602"><ele>2246</ele></trkpt>
+<trkpt lat="46.3529923313313" lon="11.4442946903271"><ele>2233</ele></trkpt>
+<trkpt lat="46.3526787370896" lon="11.4442239337443"><ele>2227</ele></trkpt>
+<trkpt lat="46.3524668359581" lon="11.4441116495384"><ele>2223</ele></trkpt>
+<trkpt lat="46.3525276106507" lon="11.4435923365563"><ele>2217</ele></trkpt>
+<trkpt lat="46.3522114815717" lon="11.4432177347647"><ele>2201</ele></trkpt>
+<trkpt lat="46.3520534654082" lon="11.4429192454369"><ele>2191</ele></trkpt>
+<trkpt lat="46.3519744997569" lon="11.4424693918302"><ele>2179</ele></trkpt>
+<trkpt lat="46.3517229606031" lon="11.4420901475321"><ele>2167</ele></trkpt>
+<trkpt lat="46.3513811654481" lon="11.4411513066664"><ele>2141</ele></trkpt>
+<trkpt lat="46.3508945356494" lon="11.4402745101467"><ele>2112</ele></trkpt>
+<trkpt lat="46.3505256126294" lon="11.4402814023135"><ele>2102</ele></trkpt>
+<trkpt lat="46.3501932229188" lon="11.4400988164866"><ele>2093</ele></trkpt>
+<trkpt lat="46.3500439862438" lon="11.4398181001104"><ele>2089</ele></trkpt>
+<trkpt lat="46.3500255634979" lon="11.439090726799"><ele>2082</ele></trkpt>
+<trkpt lat="46.3501464340244" lon="11.4384059551538"><ele>2076</ele></trkpt>
+<trkpt lat="46.3500868117225" lon="11.4377630462334"><ele>2071</ele></trkpt>
+<trkpt lat="46.3498243915656" lon="11.4372013965032"><ele>2054</ele></trkpt>
+<trkpt lat="46.3490119662875" lon="11.4367132281107"><ele>2028</ele></trkpt>
+<trkpt lat="46.3490987189888" lon="11.4359881472436"><ele>2013</ele></trkpt>
+<trkpt lat="46.3485453710637" lon="11.4351206415042"><ele>1975</ele></trkpt>
+<trkpt lat="46.3483224124643" lon="11.4345661514327"><ele>1966</ele></trkpt>
+<trkpt lat="46.3479862025035" lon="11.4340789134275"><ele>1960</ele></trkpt>
+<trkpt lat="46.347779290207" lon="11.4335896731995"><ele>1966</ele></trkpt>
+<trkpt lat="46.3473875745368" lon="11.4366923740853"><ele>1989</ele></trkpt>
+<trkpt lat="46.3467085909812" lon="11.4391026384264"><ele>1985</ele></trkpt>
+<trkpt lat="46.3466699790366" lon="11.4398672510354"><ele>1985</ele></trkpt>
+<trkpt lat="46.3467250480942" lon="11.4413571205135"><ele>1977</ele></trkpt>
+<trkpt lat="46.3469193925011" lon="11.4428613919837"><ele>1975</ele></trkpt>
+<trkpt lat="46.3469689406267" lon="11.4443443271608"><ele>1999</ele></trkpt>
+<trkpt lat="46.3471169225229" lon="11.4450479232913"><ele>1986</ele></trkpt>
+<trkpt lat="46.3469398669773" lon="11.4465472788637"><ele>1982</ele></trkpt>
+<trkpt lat="46.3469434993511" lon="11.4473357886998"><ele>1982</ele></trkpt>
+<trkpt lat="46.3468248222481" lon="11.4488039474946"><ele>1982</ele></trkpt>
+<trkpt lat="46.3469380120823" lon="11.4497949699565"><ele>1982</ele></trkpt>
+<trkpt lat="46.347080013398" lon="11.4502480004728"><ele>1981</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

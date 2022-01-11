@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Rund um den Durnholzer See - promenade]]></name>
+      <desc><![CDATA[<p><strong>Uferspaziergang</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/2976/medium/suedtirol-spazierwege-promenaden-78.jpg" /></p><p></p><p>Umrundung eines idyllischen Bergsees</p><p></p><p><a href="http://sentres.com/suedtirol/tour/rund-um-den-durnholzer-see--2">Weitere Informationen auf Sentres.com</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Rund um den Durnholzer See - promenade]]></name><desc><![CDATA[<p><strong>Uferspaziergang</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/2976/medium/suedtirol-spazierwege-promenaden-78.jpg" /></p><p></p><p>Umrundung eines idyllischen Bergsees</p><p></p><p><a href="http://sentres.com/suedtirol/tour/rund-um-den-durnholzer-see--2">Weitere Informationen auf Sentres.com</a></p>]]></desc><trkseg>
+         <trkpt lat="46.7364246549353" lon="11.4360315513546"><ele>1510</ele></trkpt>
+<trkpt lat="46.7373287236271" lon="11.4367443851117"><ele>1524</ele></trkpt>
+<trkpt lat="46.737714001699" lon="11.4372047911135"><ele>1533</ele></trkpt>
+<trkpt lat="46.738057585494" lon="11.4378753004229"><ele>1541</ele></trkpt>
+<trkpt lat="46.7388263550261" lon="11.4389053269667"><ele>1551</ele></trkpt>
+<trkpt lat="46.7391114702498" lon="11.4394885918865"><ele>1554</ele></trkpt>
+<trkpt lat="46.7392455078251" lon="11.4396061716207"><ele>1553</ele></trkpt>
+<trkpt lat="46.7396140041623" lon="11.440120685312"><ele>1550</ele></trkpt>
+<trkpt lat="46.7400891464865" lon="11.4403200696742"><ele>1549</ele></trkpt>
+<trkpt lat="46.7405352306135" lon="11.440622953894"><ele>1549</ele></trkpt>
+<trkpt lat="46.7412453021487" lon="11.4415636544125"><ele>1565</ele></trkpt>
+<trkpt lat="46.7418482455802" lon="11.4427245979594"><ele>1554</ele></trkpt>
+<trkpt lat="46.7422541653777" lon="11.4432386719408"><ele>1560</ele></trkpt>
+<trkpt lat="46.742713127576" lon="11.4436991758603"><ele>1561</ele></trkpt>
+<trkpt lat="46.7431999164583" lon="11.4440959430062"><ele>1556</ele></trkpt>
+<trkpt lat="46.7449583525546" lon="11.4452010372462"><ele>1556</ele></trkpt>
+<trkpt lat="46.7453221579264" lon="11.4457609178306"><ele>1548</ele></trkpt>
+<trkpt lat="46.7454760453913" lon="11.4464694495472"><ele>1546</ele></trkpt>
+<trkpt lat="46.7453678004523" lon="11.4469759819599"><ele>1551</ele></trkpt>
+<trkpt lat="46.7449083732924" lon="11.4472740437226"><ele>1554</ele></trkpt>
+<trkpt lat="46.7443998387453" lon="11.4475189225368"><ele>1546</ele></trkpt>
+<trkpt lat="46.7440171057799" lon="11.4480306159441"><ele>1542</ele></trkpt>
+<trkpt lat="46.7435872591916" lon="11.4493368941567"><ele>1545</ele></trkpt>
+<trkpt lat="46.7432874153525" lon="11.449861310541"><ele>1553</ele></trkpt>
+<trkpt lat="46.7430849218721" lon="11.4505421736026"><ele>1561</ele></trkpt>
+<trkpt lat="46.7429711606888" lon="11.4512328302926"><ele>1568</ele></trkpt>
+<trkpt lat="46.7427119421326" lon="11.4514358453622"><ele>1571</ele></trkpt>
+<trkpt lat="46.7428057739442" lon="11.4508099946274"><ele>1575</ele></trkpt>
+<trkpt lat="46.7427380230065" lon="11.4493122761966"><ele>1564</ele></trkpt>
+<trkpt lat="46.742327803222" lon="11.4479089678868"><ele>1553</ele></trkpt>
+<trkpt lat="46.7422791704117" lon="11.4471299817334"><ele>1547</ele></trkpt>
+<trkpt lat="46.7421510412687" lon="11.4464677533413"><ele>1556</ele></trkpt>
+<trkpt lat="46.7416695881798" lon="11.4453260283459"><ele>1562</ele></trkpt>
+<trkpt lat="46.7415710825588" lon="11.4446361250247"><ele>1547</ele></trkpt>
+<trkpt lat="46.7413218555002" lon="11.444066233702"><ele>1553</ele></trkpt>
+<trkpt lat="46.7410435588868" lon="11.4434797492855"><ele>1562</ele></trkpt>
+<trkpt lat="46.7403357343073" lon="11.4424805967994"><ele>1572</ele></trkpt>
+<trkpt lat="46.7400138297135" lon="11.4419242116229"><ele>1562</ele></trkpt>
+<trkpt lat="46.7398209244717" lon="11.4412695890506"><ele>1557</ele></trkpt>
+<trkpt lat="46.7393274823546" lon="11.4399972142985"><ele>1559</ele></trkpt>
+<trkpt lat="46.7388227019849" lon="11.43890041757"><ele>1552</ele></trkpt>
+<trkpt lat="46.7380560895031" lon="11.4378776330784"><ele>1543</ele></trkpt>
+<trkpt lat="46.7377158133198" lon="11.4372046488927"><ele>1536</ele></trkpt>
+<trkpt lat="46.7373328296168" lon="11.4367381648679"><ele>1526</ele></trkpt>
+<trkpt lat="46.7364174796965" lon="11.4360332019277"><ele>1511</ele></trkpt>
+<trkpt lat="46.7362904206787" lon="11.4360995985706"><ele>1510</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

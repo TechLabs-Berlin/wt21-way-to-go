@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Bridgend burn add trail]]></name>
+      <desc><![CDATA[<p>
+	This trail goes uphill most of the time in the forest but when you exit the forest the trail becomes very straight and the trail slopes uphill with stunning views you can see the whole village of kilmichael glassary bridgend. But then the trail goes downhill until it goes by the river add and it brings you back to the start the entrance of the trail has a causeway on the river this is</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Bridgend burn add trail]]></name><desc><![CDATA[<p>
+	This trail goes uphill most of the time in the forest but when you exit the forest the trail becomes very straight and the trail slopes uphill with stunning views you can see the whole village of kilmichael glassary bridgend. But then the trail goes downhill until it goes by the river add and it brings you back to the start the entrance of the trail has a causeway on the river this is</p>
+]]></desc><trkseg>
+         <trkpt lat="56.07692" lon="-5.45149"><ele>11</ele></trkpt>
+<trkpt lat="56.07686" lon="-5.45141"><ele>12</ele></trkpt>
+<trkpt lat="56.07679" lon="-5.45127"><ele>13</ele></trkpt>
+<trkpt lat="56.07682" lon="-5.45101"><ele>14</ele></trkpt>
+<trkpt lat="56.07677" lon="-5.45088"><ele>15</ele></trkpt>
+<trkpt lat="56.0767" lon="-5.45073"><ele>16</ele></trkpt>
+<trkpt lat="56.07666" lon="-5.45054"><ele>17</ele></trkpt>
+<trkpt lat="56.07663" lon="-5.4503"><ele>18</ele></trkpt>
+<trkpt lat="56.0766" lon="-5.45021"><ele>20</ele></trkpt>
+<trkpt lat="56.07653" lon="-5.45015"><ele>21</ele></trkpt>
+<trkpt lat="56.07643" lon="-5.45003"><ele>23</ele></trkpt>
+<trkpt lat="56.07642" lon="-5.44981"><ele>24</ele></trkpt>
+<trkpt lat="56.07645" lon="-5.44959"><ele>25</ele></trkpt>
+<trkpt lat="56.07647" lon="-5.4493"><ele>26</ele></trkpt>
+<trkpt lat="56.07647" lon="-5.44903"><ele>28</ele></trkpt>
+<trkpt lat="56.07619" lon="-5.44881"><ele>31</ele></trkpt>
+<trkpt lat="56.07598" lon="-5.44852"><ele>33</ele></trkpt>
+<trkpt lat="56.07577" lon="-5.44806"><ele>36</ele></trkpt>
+<trkpt lat="56.07556" lon="-5.44754"><ele>39</ele></trkpt>
+<trkpt lat="56.07532" lon="-5.44711"><ele>45</ele></trkpt>
+<trkpt lat="56.07522" lon="-5.44657"><ele>50</ele></trkpt>
+<trkpt lat="56.07499" lon="-5.44623"><ele>55</ele></trkpt>
+<trkpt lat="56.07488" lon="-5.44584"><ele>59</ele></trkpt>
+<trkpt lat="56.07473" lon="-5.44551"><ele>61</ele></trkpt>
+<trkpt lat="56.07444" lon="-5.44473"><ele>68</ele></trkpt>
+<trkpt lat="56.07435" lon="-5.44456"><ele>70</ele></trkpt>
+<trkpt lat="56.07434" lon="-5.44441"><ele>71</ele></trkpt>
+<trkpt lat="56.07436" lon="-5.44426"><ele>72</ele></trkpt>
+<trkpt lat="56.07441" lon="-5.44409"><ele>72</ele></trkpt>
+<trkpt lat="56.07449" lon="-5.44392"><ele>71</ele></trkpt>
+<trkpt lat="56.07464" lon="-5.44381"><ele>70</ele></trkpt>
+<trkpt lat="56.07483" lon="-5.44382"><ele>68</ele></trkpt>
+<trkpt lat="56.07532" lon="-5.44395"><ele>62</ele></trkpt>
+<trkpt lat="56.0758" lon="-5.44404"><ele>53</ele></trkpt>
+<trkpt lat="56.07619" lon="-5.44387"><ele>49</ele></trkpt>
+<trkpt lat="56.07663" lon="-5.44295"><ele>46</ele></trkpt>
+<trkpt lat="56.07695" lon="-5.44192"><ele>46</ele></trkpt>
+<trkpt lat="56.07708" lon="-5.44102"><ele>49</ele></trkpt>
+<trkpt lat="56.0772" lon="-5.44007"><ele>54</ele></trkpt>
+<trkpt lat="56.07774" lon="-5.43932"><ele>45</ele></trkpt>
+<trkpt lat="56.0785" lon="-5.43932"><ele>27</ele></trkpt>
+<trkpt lat="56.07907" lon="-5.43986"><ele>14</ele></trkpt>
+<trkpt lat="56.07895" lon="-5.44027"><ele>14</ele></trkpt>
+<trkpt lat="56.07876" lon="-5.4407"><ele>13</ele></trkpt>
+<trkpt lat="56.07869" lon="-5.44147"><ele>11</ele></trkpt>
+<trkpt lat="56.07892" lon="-5.4431"><ele>10</ele></trkpt>
+<trkpt lat="56.0793" lon="-5.44436"><ele>8</ele></trkpt>
+<trkpt lat="56.0795" lon="-5.44544"><ele>7</ele></trkpt>
+<trkpt lat="56.07904" lon="-5.44608"><ele>7</ele></trkpt>
+<trkpt lat="56.07852" lon="-5.447"><ele>8</ele></trkpt>
+<trkpt lat="56.0782" lon="-5.44885"><ele>6</ele></trkpt>
+<trkpt lat="56.07811" lon="-5.4508"><ele>7</ele></trkpt>
+<trkpt lat="56.07804" lon="-5.45138"><ele>7</ele></trkpt>
+<trkpt lat="56.07726" lon="-5.45093"><ele>10</ele></trkpt>
+<trkpt lat="56.07706" lon="-5.45078"><ele>10</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

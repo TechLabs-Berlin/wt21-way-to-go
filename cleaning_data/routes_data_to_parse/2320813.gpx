@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Rundweg "Dicke Berta"]]></name>
+      <desc><![CDATA[<p>
+	Start ist am &quot;Europapplatz&quot; in Oesbern. Von dort &uuml;ber den Viehrost in das sog. &quot;Historische Wildgatter&quot; des Freiherren Ketteler-Boeselager. Gleich rechts der A6 &uuml;ber die Holzbr&uuml;cke folgen. Achtung Wildschweine! Auch Mufflons kann man sehen. Spannender Wanderweg &uuml;ber Wildschweinsuhle und Rastm&ouml;glichkeit an der &quot;Dicken Berta&quot;. Sehr erholsam, da wenig frequentiert. Dem Weg weiter bergan folgen und auf dem Kopf rechts zum &Uuml;bergang aus dem Wildgatter heraus. Dem sch&ouml;nen Waldweg folgen. Am Ende rechts an der Wegschranke vorbei. Gleich danach kurz (!) den Asphaltweg entlang und rechts in den Wiesenweg einbiegen. Diesem am Waldrand entlang folgen und durch den Wald - &uuml;ber einige kleine Holz&uuml;berg&auml;nge aus dem Wald heraus und rechts zum Europaplatz zur&uuml;ck.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Rundweg "Dicke Berta"]]></name><desc><![CDATA[<p>
+	Start ist am &quot;Europapplatz&quot; in Oesbern. Von dort &uuml;ber den Viehrost in das sog. &quot;Historische Wildgatter&quot; des Freiherren Ketteler-Boeselager. Gleich rechts der A6 &uuml;ber die Holzbr&uuml;cke folgen. Achtung Wildschweine! Auch Mufflons kann man sehen. Spannender Wanderweg &uuml;ber Wildschweinsuhle und Rastm&ouml;glichkeit an der &quot;Dicken Berta&quot;. Sehr erholsam, da wenig frequentiert. Dem Weg weiter bergan folgen und auf dem Kopf rechts zum &Uuml;bergang aus dem Wildgatter heraus. Dem sch&ouml;nen Waldweg folgen. Am Ende rechts an der Wegschranke vorbei. Gleich danach kurz (!) den Asphaltweg entlang und rechts in den Wiesenweg einbiegen. Diesem am Waldrand entlang folgen und durch den Wald - &uuml;ber einige kleine Holz&uuml;berg&auml;nge aus dem Wald heraus und rechts zum Europaplatz zur&uuml;ck.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+]]></desc><trkseg>
+         <trkpt lat="51.44197" lon="7.86093"><ele>251</ele></trkpt>
+<trkpt lat="51.44198" lon="7.8611"><ele>251</ele></trkpt>
+<trkpt lat="51.44199" lon="7.86147"><ele>254</ele></trkpt>
+<trkpt lat="51.44199" lon="7.86163"><ele>256</ele></trkpt>
+<trkpt lat="51.44174" lon="7.86199"><ele>260</ele></trkpt>
+<trkpt lat="51.44165" lon="7.86229"><ele>260</ele></trkpt>
+<trkpt lat="51.44124" lon="7.86291"><ele>263</ele></trkpt>
+<trkpt lat="51.44108" lon="7.86327"><ele>265</ele></trkpt>
+<trkpt lat="51.4406" lon="7.86354"><ele>264</ele></trkpt>
+<trkpt lat="51.44055" lon="7.86367"><ele>264</ele></trkpt>
+<trkpt lat="51.44042" lon="7.86393"><ele>263</ele></trkpt>
+<trkpt lat="51.44026" lon="7.8643"><ele>261</ele></trkpt>
+<trkpt lat="51.44014" lon="7.86472"><ele>255</ele></trkpt>
+<trkpt lat="51.44005" lon="7.86495"><ele>250</ele></trkpt>
+<trkpt lat="51.43995" lon="7.86519"><ele>249</ele></trkpt>
+<trkpt lat="51.43949" lon="7.86517"><ele>247</ele></trkpt>
+<trkpt lat="51.43925" lon="7.86533"><ele>241</ele></trkpt>
+<trkpt lat="51.43906" lon="7.86562"><ele>240</ele></trkpt>
+<trkpt lat="51.43893" lon="7.86586"><ele>242</ele></trkpt>
+<trkpt lat="51.43887" lon="7.86637"><ele>242</ele></trkpt>
+<trkpt lat="51.4387" lon="7.86673"><ele>244</ele></trkpt>
+<trkpt lat="51.43856" lon="7.8669"><ele>245</ele></trkpt>
+<trkpt lat="51.43837" lon="7.86693"><ele>247</ele></trkpt>
+<trkpt lat="51.43823" lon="7.86697"><ele>247</ele></trkpt>
+<trkpt lat="51.43803" lon="7.86706"><ele>248</ele></trkpt>
+<trkpt lat="51.43789" lon="7.86716"><ele>248</ele></trkpt>
+<trkpt lat="51.43772" lon="7.86717"><ele>250</ele></trkpt>
+<trkpt lat="51.43758" lon="7.86725"><ele>255</ele></trkpt>
+<trkpt lat="51.4374" lon="7.86736"><ele>259</ele></trkpt>
+<trkpt lat="51.43725" lon="7.86749"><ele>261</ele></trkpt>
+<trkpt lat="51.4371" lon="7.86756"><ele>261</ele></trkpt>
+<trkpt lat="51.43687" lon="7.86785"><ele>262</ele></trkpt>
+<trkpt lat="51.43673" lon="7.86802"><ele>264</ele></trkpt>
+<trkpt lat="51.43651" lon="7.86828"><ele>268</ele></trkpt>
+<trkpt lat="51.43635" lon="7.86854"><ele>270</ele></trkpt>
+<trkpt lat="51.4362" lon="7.86868"><ele>270</ele></trkpt>
+<trkpt lat="51.43621" lon="7.86834"><ele>267</ele></trkpt>
+<trkpt lat="51.43619" lon="7.86782"><ele>265</ele></trkpt>
+<trkpt lat="51.43619" lon="7.86752"><ele>263</ele></trkpt>
+<trkpt lat="51.43619" lon="7.86721"><ele>260</ele></trkpt>
+<trkpt lat="51.43637" lon="7.86631"><ele>257</ele></trkpt>
+<trkpt lat="51.43636" lon="7.8659"><ele>256</ele></trkpt>
+<trkpt lat="51.43627" lon="7.86522"><ele>255</ele></trkpt>
+<trkpt lat="51.43628" lon="7.8647"><ele>252</ele></trkpt>
+<trkpt lat="51.43608" lon="7.86314"><ele>243</ele></trkpt>
+<trkpt lat="51.43627" lon="7.86223"><ele>236</ele></trkpt>
+<trkpt lat="51.43618" lon="7.86182"><ele>235</ele></trkpt>
+<trkpt lat="51.43598" lon="7.86117"><ele>226</ele></trkpt>
+<trkpt lat="51.43581" lon="7.86084"><ele>221</ele></trkpt>
+<trkpt lat="51.43561" lon="7.86025"><ele>219</ele></trkpt>
+<trkpt lat="51.43584" lon="7.85962"><ele>214</ele></trkpt>
+<trkpt lat="51.43628" lon="7.85927"><ele>213</ele></trkpt>
+<trkpt lat="51.43661" lon="7.85899"><ele>213</ele></trkpt>
+<trkpt lat="51.43683" lon="7.85928"><ele>218</ele></trkpt>
+<trkpt lat="51.43863" lon="7.85984"><ele>246</ele></trkpt>
+<trkpt lat="51.43922" lon="7.8601"><ele>251</ele></trkpt>
+<trkpt lat="51.43967" lon="7.86008"><ele>255</ele></trkpt>
+<trkpt lat="51.44012" lon="7.86011"><ele>251</ele></trkpt>
+<trkpt lat="51.44071" lon="7.86059"><ele>251</ele></trkpt>
+<trkpt lat="51.44124" lon="7.86083"><ele>251</ele></trkpt>
+<trkpt lat="51.44179" lon="7.86081"><ele>251</ele></trkpt>
+<trkpt lat="51.44197" lon="7.86093"><ele>250</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Psalmenweg | Rohrbach-Berg | Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Psalmenweg </strong></p>
+<p>
+	Entlang des Weges erwarten Sie 11 Stationen mit Psalmenversen die zum Meditieren anregen sollen, und natürlich die Wallfahrtskirche Maria Trost. Schöne Aussichten, bei klarem Wetter wirkt sogar das Alpenpanorama mit dem Dachstein zum greifen nah. Ausgangspunkt dieser Wanderung ist beim Dreispitz am Beginn des Kreuzweges zu Wallfahrtskirche Maria Trost in Rohrbach-Berg.</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000386/psalmenweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Psalmenweg | Rohrbach-Berg | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Psalmenweg </strong></p>
+<p>
+	Entlang des Weges erwarten Sie 11 Stationen mit Psalmenversen die zum Meditieren anregen sollen, und natürlich die Wallfahrtskirche Maria Trost. Schöne Aussichten, bei klarem Wetter wirkt sogar das Alpenpanorama mit dem Dachstein zum greifen nah. Ausgangspunkt dieser Wanderung ist beim Dreispitz am Beginn des Kreuzweges zu Wallfahrtskirche Maria Trost in Rohrbach-Berg.</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000386/psalmenweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.57586" lon="13.99957"><ele>657</ele></trkpt>
+<trkpt lat="48.57578" lon="13.9989"><ele>659</ele></trkpt>
+<trkpt lat="48.57585" lon="13.99831"><ele>661</ele></trkpt>
+<trkpt lat="48.57617" lon="13.99784"><ele>657</ele></trkpt>
+<trkpt lat="48.57637" lon="13.99724"><ele>653</ele></trkpt>
+<trkpt lat="48.57658" lon="13.99663"><ele>654</ele></trkpt>
+<trkpt lat="48.57678" lon="13.99603"><ele>656</ele></trkpt>
+<trkpt lat="48.57705" lon="13.99555"><ele>654</ele></trkpt>
+<trkpt lat="48.57749" lon="13.99541"><ele>652</ele></trkpt>
+<trkpt lat="48.57788" lon="13.99512"><ele>650</ele></trkpt>
+<trkpt lat="48.5782" lon="13.99465"><ele>648</ele></trkpt>
+<trkpt lat="48.57853" lon="13.99419"><ele>644</ele></trkpt>
+<trkpt lat="48.57875" lon="13.9936"><ele>639</ele></trkpt>
+<trkpt lat="48.57895" lon="13.99299"><ele>639</ele></trkpt>
+<trkpt lat="48.57914" lon="13.99238"><ele>638</ele></trkpt>
+<trkpt lat="48.57934" lon="13.99177"><ele>635</ele></trkpt>
+<trkpt lat="48.57963" lon="13.9915"><ele>633</ele></trkpt>
+<trkpt lat="48.58006" lon="13.9917"><ele>632</ele></trkpt>
+<trkpt lat="48.58049" lon="13.99192"><ele>632</ele></trkpt>
+<trkpt lat="48.58071" lon="13.99238"><ele>625</ele></trkpt>
+<trkpt lat="48.58106" lon="13.99281"><ele>616</ele></trkpt>
+<trkpt lat="48.5814" lon="13.99324"><ele>613</ele></trkpt>
+<trkpt lat="48.58119" lon="13.99363"><ele>612</ele></trkpt>
+<trkpt lat="48.58075" lon="13.9938"><ele>612</ele></trkpt>
+<trkpt lat="48.58035" lon="13.99404"><ele>612</ele></trkpt>
+<trkpt lat="48.5801" lon="13.9946"><ele>616</ele></trkpt>
+<trkpt lat="48.57985" lon="13.99516"><ele>622</ele></trkpt>
+<trkpt lat="48.5796" lon="13.99573"><ele>619</ele></trkpt>
+<trkpt lat="48.57935" lon="13.99629"><ele>609</ele></trkpt>
+<trkpt lat="48.5791" lon="13.99685"><ele>603</ele></trkpt>
+<trkpt lat="48.57896" lon="13.99748"><ele>600</ele></trkpt>
+<trkpt lat="48.57887" lon="13.99814"><ele>601</ele></trkpt>
+<trkpt lat="48.57873" lon="13.99877"><ele>604</ele></trkpt>
+<trkpt lat="48.57843" lon="13.99927"><ele>609</ele></trkpt>
+<trkpt lat="48.57813" lon="13.99977"><ele>614</ele></trkpt>
+<trkpt lat="48.57782" lon="14.00027"><ele>618</ele></trkpt>
+<trkpt lat="48.57752" lon="14.00078"><ele>621</ele></trkpt>
+<trkpt lat="48.57709" lon="14.00087"><ele>618</ele></trkpt>
+<trkpt lat="48.57672" lon="14.00123"><ele>614</ele></trkpt>
+<trkpt lat="48.57641" lon="14.00172"><ele>623</ele></trkpt>
+<trkpt lat="48.5761" lon="14.00221"><ele>636</ele></trkpt>
+<trkpt lat="48.57576" lon="14.00266"><ele>645</ele></trkpt>
+<trkpt lat="48.57541" lon="14.00309"><ele>653</ele></trkpt>
+<trkpt lat="48.57507" lon="14.00352"><ele>653</ele></trkpt>
+<trkpt lat="48.57472" lon="14.00395"><ele>652</ele></trkpt>
+<trkpt lat="48.57435" lon="14.00431"><ele>655</ele></trkpt>
+<trkpt lat="48.57399" lon="14.00421"><ele>658</ele></trkpt>
+<trkpt lat="48.57391" lon="14.00356"><ele>661</ele></trkpt>
+<trkpt lat="48.57385" lon="14.00292"><ele>664</ele></trkpt>
+<trkpt lat="48.5735" lon="14.00252"><ele>666</ele></trkpt>
+<trkpt lat="48.5731" lon="14.00242"><ele>668</ele></trkpt>
+<trkpt lat="48.57271" lon="14.00274"><ele>665</ele></trkpt>
+<trkpt lat="48.57231" lon="14.00307"><ele>660</ele></trkpt>
+<trkpt lat="48.57193" lon="14.00311"><ele>662</ele></trkpt>
+<trkpt lat="48.57206" lon="14.00253"><ele>670</ele></trkpt>
+<trkpt lat="48.57236" lon="14.00203"><ele>679</ele></trkpt>
+<trkpt lat="48.57274" lon="14.00167"><ele>689</ele></trkpt>
+<trkpt lat="48.57312" lon="14.00131"><ele>694</ele></trkpt>
+<trkpt lat="48.5735" lon="14.00095"><ele>694</ele></trkpt>
+<trkpt lat="48.57388" lon="14.00059"><ele>692</ele></trkpt>
+<trkpt lat="48.57386" lon="14.00041"><ele>691</ele></trkpt>
+<trkpt lat="48.57413" lon="13.99987"><ele>688</ele></trkpt>
+<trkpt lat="48.57441" lon="13.99934"><ele>678</ele></trkpt>
+<trkpt lat="48.57482" lon="13.99906"><ele>666</ele></trkpt>
+<trkpt lat="48.57523" lon="13.99877"><ele>663</ele></trkpt>
+<trkpt lat="48.57563" lon="13.99849"><ele>662</ele></trkpt>
+<trkpt lat="48.57569" lon="13.99845"><ele>661</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

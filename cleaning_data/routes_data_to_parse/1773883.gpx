@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Filbling und Filblingsee]]></name>
+      <desc><![CDATA[<p>Wir starten bei der Postbushaltestelle Fuschl Strand und folgen der Austraße ein Stück in Richtung Nordwesten. Rechts zwischen den Häusern und dem Strand gelangen wir auf einem Wanderweg in den Ortsteil Wesenau. Wir treffen erneut auf die Austraße, der wir links bis zur Wolfgangsee Bundesstraße folgen. Auf dieser gehen wir ein Stück nach rechts und biegen dann links auf einen Waldweg, der an einer Schottergrube vorbei in Richtung Süden führt.</p>
+<p>Der Forstweg leitet uns in einer weiten Rechtskehre ständig ansteigend hinauf zum Filblingsee. Auf diesem knapp 2 km langen, Streckenabschnitt überwinden wir knapp 400 Höhenmeter. Wir umwandern den See an seiner rechten Seite und steigen in einer Linkskehre hinauf zum Südostrücken des Filblings. Wir stoßen auf den Weg Nr. 40 dem wir nach rechts folgen. Es geht wiederum recht steil hinauf zum Gipfelkamm, der bereits baumfrei ist. Nun haben wir das Gröbste hinter uns und können nahezu eben hinüber zum höchsten Punkt mit Gipfelkreuz marschieren. Nachdem wir unser Gipfelglück genossen haben, wandern wir auf derselben Route wieder retour zu unserem Ausgangspunkt.</p>
+<p><strong>Variante</strong>: Es ist auch möglich vom Gipfel des Filbling weiter am Kamm entlang über den markierten Steig Nr. 40 in Richtung Hof zu wandern, wo wir mit Postbus unsere Heimreise antreten können.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Filbling und Filblingsee]]></name><desc><![CDATA[<p>Wir starten bei der Postbushaltestelle Fuschl Strand und folgen der Austraße ein Stück in Richtung Nordwesten. Rechts zwischen den Häusern und dem Strand gelangen wir auf einem Wanderweg in den Ortsteil Wesenau. Wir treffen erneut auf die Austraße, der wir links bis zur Wolfgangsee Bundesstraße folgen. Auf dieser gehen wir ein Stück nach rechts und biegen dann links auf einen Waldweg, der an einer Schottergrube vorbei in Richtung Süden führt.</p>
+<p>Der Forstweg leitet uns in einer weiten Rechtskehre ständig ansteigend hinauf zum Filblingsee. Auf diesem knapp 2 km langen, Streckenabschnitt überwinden wir knapp 400 Höhenmeter. Wir umwandern den See an seiner rechten Seite und steigen in einer Linkskehre hinauf zum Südostrücken des Filblings. Wir stoßen auf den Weg Nr. 40 dem wir nach rechts folgen. Es geht wiederum recht steil hinauf zum Gipfelkamm, der bereits baumfrei ist. Nun haben wir das Gröbste hinter uns und können nahezu eben hinüber zum höchsten Punkt mit Gipfelkreuz marschieren. Nachdem wir unser Gipfelglück genossen haben, wandern wir auf derselben Route wieder retour zu unserem Ausgangspunkt.</p>
+<p><strong>Variante</strong>: Es ist auch möglich vom Gipfel des Filbling weiter am Kamm entlang über den markierten Steig Nr. 40 in Richtung Hof zu wandern, wo wir mit Postbus unsere Heimreise antreten können.</p>]]></desc><trkseg>
+         <trkpt lat="47.79191" lon="13.29424"><ele>681</ele></trkpt>
+<trkpt lat="47.79182" lon="13.29366"><ele>681</ele></trkpt>
+<trkpt lat="47.7921" lon="13.29298"><ele>681</ele></trkpt>
+<trkpt lat="47.79236" lon="13.29239"><ele>674</ele></trkpt>
+<trkpt lat="47.79238" lon="13.29192"><ele>669</ele></trkpt>
+<trkpt lat="47.79277" lon="13.29159"><ele>667</ele></trkpt>
+<trkpt lat="47.79297" lon="13.29124"><ele>666</ele></trkpt>
+<trkpt lat="47.79307" lon="13.29068"><ele>667</ele></trkpt>
+<trkpt lat="47.79398" lon="13.29003"><ele>673</ele></trkpt>
+<trkpt lat="47.79424" lon="13.28947"><ele>670</ele></trkpt>
+<trkpt lat="47.79424" lon="13.28822"><ele>675</ele></trkpt>
+<trkpt lat="47.794" lon="13.28745"><ele>679</ele></trkpt>
+<trkpt lat="47.79352" lon="13.28715"><ele>683</ele></trkpt>
+<trkpt lat="47.79338" lon="13.28672"><ele>685</ele></trkpt>
+<trkpt lat="47.79334" lon="13.28586"><ele>686</ele></trkpt>
+<trkpt lat="47.79301" lon="13.28517"><ele>697</ele></trkpt>
+<trkpt lat="47.79262" lon="13.28507"><ele>703</ele></trkpt>
+<trkpt lat="47.79263" lon="13.28436"><ele>708</ele></trkpt>
+<trkpt lat="47.7927" lon="13.28369"><ele>713</ele></trkpt>
+<trkpt lat="47.79258" lon="13.28276"><ele>720</ele></trkpt>
+<trkpt lat="47.7917" lon="13.28341"><ele>736</ele></trkpt>
+<trkpt lat="47.7907" lon="13.28407"><ele>764</ele></trkpt>
+<trkpt lat="47.79015" lon="13.28397"><ele>787</ele></trkpt>
+<trkpt lat="47.78962" lon="13.2836"><ele>805</ele></trkpt>
+<trkpt lat="47.78924" lon="13.28307"><ele>819</ele></trkpt>
+<trkpt lat="47.78908" lon="13.2828"><ele>820</ele></trkpt>
+<trkpt lat="47.78895" lon="13.28339"><ele>820</ele></trkpt>
+<trkpt lat="47.78862" lon="13.28391"><ele>834</ele></trkpt>
+<trkpt lat="47.78822" lon="13.284"><ele>858</ele></trkpt>
+<trkpt lat="47.78793" lon="13.28397"><ele>873</ele></trkpt>
+<trkpt lat="47.78775" lon="13.28413"><ele>871</ele></trkpt>
+<trkpt lat="47.78776" lon="13.28483"><ele>867</ele></trkpt>
+<trkpt lat="47.78755" lon="13.28496"><ele>866</ele></trkpt>
+<trkpt lat="47.78724" lon="13.28532"><ele>874</ele></trkpt>
+<trkpt lat="47.78683" lon="13.28596"><ele>884</ele></trkpt>
+<trkpt lat="47.78641" lon="13.28613"><ele>890</ele></trkpt>
+<trkpt lat="47.78609" lon="13.28583"><ele>894</ele></trkpt>
+<trkpt lat="47.78551" lon="13.28593"><ele>895</ele></trkpt>
+<trkpt lat="47.78482" lon="13.28513"><ele>944</ele></trkpt>
+<trkpt lat="47.78476" lon="13.28478"><ele>963</ele></trkpt>
+<trkpt lat="47.78514" lon="13.28422"><ele>987</ele></trkpt>
+<trkpt lat="47.7855" lon="13.28335"><ele>1000</ele></trkpt>
+<trkpt lat="47.78567" lon="13.28217"><ele>1012</ele></trkpt>
+<trkpt lat="47.78561" lon="13.28166"><ele>1043</ele></trkpt>
+<trkpt lat="47.78526" lon="13.28108"><ele>1077</ele></trkpt>
+<trkpt lat="47.78516" lon="13.27988"><ele>1090</ele></trkpt>
+<trkpt lat="47.78507" lon="13.27714"><ele>1080</ele></trkpt>
+<trkpt lat="47.78515" lon="13.27573"><ele>1106</ele></trkpt>
+<trkpt lat="47.78535" lon="13.27502"><ele>1121</ele></trkpt>
+<trkpt lat="47.78537" lon="13.27451"><ele>1133</ele></trkpt>
+<trkpt lat="47.7852" lon="13.27397"><ele>1150</ele></trkpt>
+<trkpt lat="47.78491" lon="13.27371"><ele>1164</ele></trkpt>
+<trkpt lat="47.78441" lon="13.27364"><ele>1165</ele></trkpt>
+<trkpt lat="47.78368" lon="13.27406"><ele>1150</ele></trkpt>
+<trkpt lat="47.78316" lon="13.27501"><ele>1131</ele></trkpt>
+<trkpt lat="47.7828" lon="13.27518"><ele>1133</ele></trkpt>
+<trkpt lat="47.78317" lon="13.274"><ele>1153</ele></trkpt>
+<trkpt lat="47.78376" lon="13.27284"><ele>1189</ele></trkpt>
+<trkpt lat="47.78462" lon="13.27207"><ele>1225</ele></trkpt>
+<trkpt lat="47.78525" lon="13.27186"><ele>1242</ele></trkpt>
+<trkpt lat="47.78622" lon="13.27111"><ele>1280</ele></trkpt>
+<trkpt lat="47.78673" lon="13.27"><ele>1287</ele></trkpt>
+<trkpt lat="47.78739" lon="13.26877"><ele>1289</ele></trkpt>
+<trkpt lat="47.78788" lon="13.26781"><ele>1276</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

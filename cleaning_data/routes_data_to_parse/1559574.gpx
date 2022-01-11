@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Wanderung an der Mirna Buzet-Kotli und zurück]]></name>
+      <desc><![CDATA[<p>
+	Landschaftlich reizvolle Strecke, besonders im Tal der Draga, hier teilweise mit Seilsicherung. Insgesamt aber gefahrlos. Fahrzeug kann an der Startposition abgestellt werden. Gesamtzeit ca. 5:30 h. Pause in Kotli in der dortigen Konoba.</p>
+<p>
+	Bericht mit Bildern zu dieser Tour sind zu finden unter:</p>
+<p>
+	&nbsp;</p>
+<p class="MsoNormal">
+	<a href="http://www.adriaforum.com/kroatien/mai-wanderung-von-buzet-nach-kotli-t70202/">http://www.adriaforum.com/kroatien/mai-wanderung-von-buzet-nach-kotli-t70202/</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Wanderung an der Mirna Buzet-Kotli und zurück]]></name><desc><![CDATA[<p>
+	Landschaftlich reizvolle Strecke, besonders im Tal der Draga, hier teilweise mit Seilsicherung. Insgesamt aber gefahrlos. Fahrzeug kann an der Startposition abgestellt werden. Gesamtzeit ca. 5:30 h. Pause in Kotli in der dortigen Konoba.</p>
+<p>
+	Bericht mit Bildern zu dieser Tour sind zu finden unter:</p>
+<p>
+	&nbsp;</p>
+<p class="MsoNormal">
+	<a href="http://www.adriaforum.com/kroatien/mai-wanderung-von-buzet-nach-kotli-t70202/">http://www.adriaforum.com/kroatien/mai-wanderung-von-buzet-nach-kotli-t70202/</a></p>
+]]></desc><trkseg>
+         <trkpt lat="" lon=""><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

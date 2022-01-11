@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Ecosse : JOUR 4 Fort William - Ben Nevis ou Glen Nevis.]]></name>
+      <desc><![CDATA[
+	5h de marche 15 km +1350 m -1350 m Ben Nevis.
+
+	3h de marche 16 km +130 m -130 m Glen Nevis.
+
+	Vous randonnerez aujourd’hui à proximité de Fort William, véritable camp de base pour les expéditions dans les Highlands, au
+
+	programme le Ben Nevis, sommet de l’Ecosse si vos jambes le permettent, ou une randonnée plus accessible vers le Glen Nevis, offrant de somptueuses vues sur ces cascades, au coeur d’une vallée d’altitude.
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Ecosse : JOUR 4 Fort William - Ben Nevis ou Glen Nevis.]]></name><desc><![CDATA[
+	5h de marche 15 km +1350 m -1350 m Ben Nevis.
+
+	3h de marche 16 km +130 m -130 m Glen Nevis.
+
+	Vous randonnerez aujourd’hui à proximité de Fort William, véritable camp de base pour les expéditions dans les Highlands, au
+
+	programme le Ben Nevis, sommet de l’Ecosse si vos jambes le permettent, ou une randonnée plus accessible vers le Glen Nevis, offrant de somptueuses vues sur ces cascades, au coeur d’une vallée d’altitude.
+]]></desc><trkseg>
+         <trkpt lat="56.77" lon="-5.04193"><ele>63</ele></trkpt>
+<trkpt lat="56.77003" lon="-5.04193"><ele>62</ele></trkpt>
+<trkpt lat="56.77001" lon="-5.04124"><ele>58</ele></trkpt>
+<trkpt lat="56.77002" lon="-5.04078"><ele>55</ele></trkpt>
+<trkpt lat="56.77016" lon="-5.03987"><ele>52</ele></trkpt>
+<trkpt lat="56.77017" lon="-5.03961"><ele>52</ele></trkpt>
+<trkpt lat="56.77014" lon="-5.03895"><ele>52</ele></trkpt>
+<trkpt lat="56.77007" lon="-5.03841"><ele>53</ele></trkpt>
+<trkpt lat="56.76998" lon="-5.03792"><ele>54</ele></trkpt>
+<trkpt lat="56.7698" lon="-5.03726"><ele>55</ele></trkpt>
+<trkpt lat="56.76971" lon="-5.03686"><ele>55</ele></trkpt>
+<trkpt lat="56.76971" lon="-5.03671"><ele>55</ele></trkpt>
+<trkpt lat="56.76975" lon="-5.03658"><ele>56</ele></trkpt>
+<trkpt lat="56.76977" lon="-5.03657"><ele>56</ele></trkpt>
+<trkpt lat="56.76976" lon="-5.03657"><ele>56</ele></trkpt>
+<trkpt lat="56.76985" lon="-5.03651"><ele>57</ele></trkpt>
+<trkpt lat="56.76994" lon="-5.03651"><ele>57</ele></trkpt>
+<trkpt lat="56.77028" lon="-5.03672"><ele>56</ele></trkpt>
+<trkpt lat="56.77045" lon="-5.03686"><ele>56</ele></trkpt>
+<trkpt lat="56.77053" lon="-5.03684"><ele>56</ele></trkpt>
+<trkpt lat="56.77058" lon="-5.03676"><ele>56</ele></trkpt>
+<trkpt lat="56.77063" lon="-5.03662"><ele>57</ele></trkpt>
+<trkpt lat="56.77075" lon="-5.03591"><ele>58</ele></trkpt>
+<trkpt lat="56.77077" lon="-5.03577"><ele>58</ele></trkpt>
+<trkpt lat="56.77077" lon="-5.03578"><ele>58</ele></trkpt>
+<trkpt lat="56.77078" lon="-5.0354"><ele>59</ele></trkpt>
+<trkpt lat="56.77073" lon="-5.0338"><ele>61</ele></trkpt>
+<trkpt lat="56.77074" lon="-5.03276"><ele>63</ele></trkpt>
+<trkpt lat="56.77081" lon="-5.03072"><ele>65</ele></trkpt>
+<trkpt lat="56.77077" lon="-5.02956"><ele>66</ele></trkpt>
+<trkpt lat="56.77076" lon="-5.02825"><ele>65</ele></trkpt>
+<trkpt lat="56.77079" lon="-5.0279"><ele>65</ele></trkpt>
+<trkpt lat="56.77094" lon="-5.02718"><ele>74</ele></trkpt>
+<trkpt lat="56.77094" lon="-5.02719"><ele>74</ele></trkpt>
+<trkpt lat="56.7713" lon="-5.02502"><ele>87</ele></trkpt>
+<trkpt lat="56.77133" lon="-5.02469"><ele>87</ele></trkpt>
+<trkpt lat="56.77135" lon="-5.02413"><ele>87</ele></trkpt>
+<trkpt lat="56.77139" lon="-5.02382"><ele>87</ele></trkpt>
+<trkpt lat="56.77147" lon="-5.02338"><ele>86</ele></trkpt>
+<trkpt lat="56.77158" lon="-5.02289"><ele>85</ele></trkpt>
+<trkpt lat="56.77159" lon="-5.02274"><ele>85</ele></trkpt>
+<trkpt lat="56.77157" lon="-5.02259"><ele>85</ele></trkpt>
+<trkpt lat="56.77148" lon="-5.02235"><ele>86</ele></trkpt>
+<trkpt lat="56.77147" lon="-5.0221"><ele>86</ele></trkpt>
+<trkpt lat="56.77144" lon="-5.02192"><ele>86</ele></trkpt>
+<trkpt lat="56.77139" lon="-5.02173"><ele>86</ele></trkpt>
+<trkpt lat="56.7713" lon="-5.0215"><ele>86</ele></trkpt>
+<trkpt lat="56.7712" lon="-5.02139"><ele>86</ele></trkpt>
+<trkpt lat="56.77061" lon="-5.02092"><ele>85</ele></trkpt>
+<trkpt lat="56.77057" lon="-5.02086"><ele>86</ele></trkpt>
+<trkpt lat="56.77054" lon="-5.02078"><ele>87</ele></trkpt>
+<trkpt lat="56.77052" lon="-5.0207"><ele>88</ele></trkpt>
+<trkpt lat="56.77061" lon="-5.02"><ele>98</ele></trkpt>
+<trkpt lat="56.77073" lon="-5.01892"><ele>98</ele></trkpt>
+<trkpt lat="56.77086" lon="-5.01834"><ele>102</ele></trkpt>
+<trkpt lat="56.77097" lon="-5.01773"><ele>112</ele></trkpt>
+<trkpt lat="56.77101" lon="-5.0174"><ele>114</ele></trkpt>
+<trkpt lat="56.77102" lon="-5.01717"><ele>114</ele></trkpt>
+<trkpt lat="56.77102" lon="-5.01689"><ele>110</ele></trkpt>
+<trkpt lat="56.77094" lon="-5.01628"><ele>103</ele></trkpt>
+<trkpt lat="56.77093" lon="-5.01582"><ele>105</ele></trkpt>
+<trkpt lat="56.77103" lon="-5.01535"><ele>113</ele></trkpt>
+<trkpt lat="56.77123" lon="-5.01468"><ele>116</ele></trkpt>
+<trkpt lat="56.77141" lon="-5.01427"><ele>110</ele></trkpt>
+<trkpt lat="56.7719" lon="-5.01352"><ele>120</ele></trkpt>
+<trkpt lat="56.77213" lon="-5.01288"><ele>117</ele></trkpt>
+<trkpt lat="56.7722" lon="-5.01276"><ele>116</ele></trkpt>
+<trkpt lat="56.77266" lon="-5.01222"><ele>123</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

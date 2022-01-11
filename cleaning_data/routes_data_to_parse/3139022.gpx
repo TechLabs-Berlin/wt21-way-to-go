@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Ladenberg-Bergalm Juli 2015]]></name>
+      <desc><![CDATA[<p>
+	Am 10.Juli 2015 Fahrt über Hof Faistenau zum Parkplatz beim Naturdenkmal Satzstein in Hintersee.Von dort Wanderung entlang des Ladenbaches zur Ladenbergalm (1254m).Weiter über einen Sattel zur Bergalm (1256m).Herrliches Wetter und traumhaftes Panorama.Rückweg über die Forststraße zum Parkplatz.Gehzeit ca.4 Std.</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Ladenberg-Bergalm Juli 2015]]></name><desc><![CDATA[<p>
+	Am 10.Juli 2015 Fahrt über Hof Faistenau zum Parkplatz beim Naturdenkmal Satzstein in Hintersee.Von dort Wanderung entlang des Ladenbaches zur Ladenbergalm (1254m).Weiter über einen Sattel zur Bergalm (1256m).Herrliches Wetter und traumhaftes Panorama.Rückweg über die Forststraße zum Parkplatz.Gehzeit ca.4 Std.</p>
+]]></desc><trkseg>
+         <trkpt lat="" lon=""><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Lucknerhaus - Lucknerhütte]]></name>
+      <desc><![CDATA[<p>
+	None (cloned from route 1183528)</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Lucknerhaus - Lucknerhütte]]></name><desc><![CDATA[<p>
+	None (cloned from route 1183528)</p>
+]]></desc><trkseg>
+         <trkpt lat="47.02119" lon="12.6882"><ele>1919</ele></trkpt>
+<trkpt lat="47.02177" lon="12.68857"><ele>1924</ele></trkpt>
+<trkpt lat="47.023" lon="12.68857"><ele>1937</ele></trkpt>
+<trkpt lat="47.02431" lon="12.68917"><ele>1950</ele></trkpt>
+<trkpt lat="47.02488" lon="12.68951"><ele>1959</ele></trkpt>
+<trkpt lat="47.02587" lon="12.68987"><ele>1976</ele></trkpt>
+<trkpt lat="47.02603" lon="12.68981"><ele>1980</ele></trkpt>
+<trkpt lat="47.02611" lon="12.6896"><ele>1984</ele></trkpt>
+<trkpt lat="47.02635" lon="12.68857"><ele>1998</ele></trkpt>
+<trkpt lat="47.02643" lon="12.68847"><ele>2001</ele></trkpt>
+<trkpt lat="47.02651" lon="12.68847"><ele>2004</ele></trkpt>
+<trkpt lat="47.02662" lon="12.68863"><ele>2007</ele></trkpt>
+<trkpt lat="47.02679" lon="12.68874"><ele>2009</ele></trkpt>
+<trkpt lat="47.02755" lon="12.68911"><ele>2015</ele></trkpt>
+<trkpt lat="47.02812" lon="12.68905"><ele>2025</ele></trkpt>
+<trkpt lat="47.02868" lon="12.68939"><ele>2029</ele></trkpt>
+<trkpt lat="47.02918" lon="12.68949"><ele>2032</ele></trkpt>
+<trkpt lat="47.02953" lon="12.68965"><ele>2034</ele></trkpt>
+<trkpt lat="47.02971" lon="12.68964"><ele>2036</ele></trkpt>
+<trkpt lat="47.02994" lon="12.68979"><ele>2036</ele></trkpt>
+<trkpt lat="47.031" lon="12.69013"><ele>2040</ele></trkpt>
+<trkpt lat="47.03153" lon="12.69023"><ele>2048</ele></trkpt>
+<trkpt lat="47.03199" lon="12.69045"><ele>2052</ele></trkpt>
+<trkpt lat="47.03392" lon="12.69084"><ele>2062</ele></trkpt>
+<trkpt lat="47.03518" lon="12.69174"><ele>2089</ele></trkpt>
+<trkpt lat="47.03501" lon="12.69281"><ele>2104</ele></trkpt>
+<trkpt lat="47.0365" lon="12.6929"><ele>2166</ele></trkpt>
+<trkpt lat="47.03796" lon="12.692"><ele>2213</ele></trkpt>
+<trkpt lat="47.03895" lon="12.69097"><ele>2239</ele></trkpt>
+<trkpt lat="47.04015" lon="12.69037"><ele>2243</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

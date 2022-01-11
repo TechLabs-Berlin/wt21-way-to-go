@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Lichtenberg]]></name>
+      <desc><![CDATA[<p>
+	Trail</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Lichtenberg]]></name><desc><![CDATA[<p>
+	Trail</p>
+]]></desc><trkseg>
+         <trkpt lat="52.51619" lon="13.49367"><ele>53</ele></trkpt>
+<trkpt lat="52.51619" lon="13.49368"><ele>53</ele></trkpt>
+<trkpt lat="52.51631" lon="13.49368"><ele>53</ele></trkpt>
+<trkpt lat="52.51732" lon="13.49396"><ele>51</ele></trkpt>
+<trkpt lat="52.51738" lon="13.49411"><ele>51</ele></trkpt>
+<trkpt lat="52.51731" lon="13.49477"><ele>51</ele></trkpt>
+<trkpt lat="52.51734" lon="13.49486"><ele>51</ele></trkpt>
+<trkpt lat="52.51822" lon="13.49509"><ele>51</ele></trkpt>
+<trkpt lat="52.51822" lon="13.49518"><ele>51</ele></trkpt>
+<trkpt lat="52.51822" lon="13.49518"><ele>51</ele></trkpt>
+<trkpt lat="52.51822" lon="13.4963"><ele>53</ele></trkpt>
+<trkpt lat="52.5193" lon="13.49638"><ele>51</ele></trkpt>
+<trkpt lat="52.5193" lon="13.49642"><ele>51</ele></trkpt>
+<trkpt lat="52.51943" lon="13.49657"><ele>51</ele></trkpt>
+<trkpt lat="52.52035" lon="13.49655"><ele>53</ele></trkpt>
+<trkpt lat="52.52036" lon="13.49654"><ele>53</ele></trkpt>
+<trkpt lat="52.52041" lon="13.49654"><ele>52</ele></trkpt>
+<trkpt lat="52.52046" lon="13.49484"><ele>50</ele></trkpt>
+<trkpt lat="52.52051" lon="13.49484"><ele>50</ele></trkpt>
+<trkpt lat="52.52141" lon="13.4949"><ele>49</ele></trkpt>
+<trkpt lat="52.52143" lon="13.49558"><ele>49</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

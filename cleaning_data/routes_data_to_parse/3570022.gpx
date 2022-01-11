@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Wanderung zum Waldspielplatz]]></name>
+      <desc><![CDATA[<p>
+	Waldspielplatz</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Wanderung zum Waldspielplatz]]></name><desc><![CDATA[<p>
+	Waldspielplatz</p>
+]]></desc><trkseg>
+         <trkpt lat="52.60839" lon="13.25954"><ele>41</ele></trkpt>
+<trkpt lat="52.60842" lon="13.25947"><ele>41</ele></trkpt>
+<trkpt lat="52.60854" lon="13.25962"><ele>41</ele></trkpt>
+<trkpt lat="52.6086" lon="13.25974"><ele>42</ele></trkpt>
+<trkpt lat="52.60881" lon="13.26002"><ele>45</ele></trkpt>
+<trkpt lat="52.60906" lon="13.26017"><ele>48</ele></trkpt>
+<trkpt lat="52.60952" lon="13.26028"><ele>51</ele></trkpt>
+<trkpt lat="52.60965" lon="13.26034"><ele>52</ele></trkpt>
+<trkpt lat="52.60989" lon="13.26067"><ele>52</ele></trkpt>
+<trkpt lat="52.60992" lon="13.26073"><ele>52</ele></trkpt>
+<trkpt lat="52.60992" lon="13.26073"><ele>52</ele></trkpt>
+<trkpt lat="52.61094" lon="13.26309"><ele>55</ele></trkpt>
+<trkpt lat="52.61107" lon="13.26361"><ele>55</ele></trkpt>
+<trkpt lat="52.61107" lon="13.2636"><ele>55</ele></trkpt>
+<trkpt lat="52.61101" lon="13.2634"><ele>55</ele></trkpt>
+<trkpt lat="52.61098" lon="13.26453"><ele>58</ele></trkpt>
+<trkpt lat="52.61076" lon="13.26578"><ele>60</ele></trkpt>
+<trkpt lat="52.6099" lon="13.269"><ele>56</ele></trkpt>
+<trkpt lat="52.60907" lon="13.2712"><ele>54</ele></trkpt>
+<trkpt lat="52.60866" lon="13.27237"><ele>55</ele></trkpt>
+<trkpt lat="52.60846" lon="13.27388"><ele>53</ele></trkpt>
+<trkpt lat="52.6083" lon="13.27589"><ele>48</ele></trkpt>
+<trkpt lat="52.60843" lon="13.27823"><ele>51</ele></trkpt>
+<trkpt lat="52.60867" lon="13.28064"><ele>54</ele></trkpt>
+<trkpt lat="52.60874" lon="13.28124"><ele>55</ele></trkpt>
+<trkpt lat="52.60881" lon="13.28305"><ele>52</ele></trkpt>
+<trkpt lat="52.60883" lon="13.28395"><ele>52</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

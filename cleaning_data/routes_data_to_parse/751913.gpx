@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Marientalrunde | Schwarzenberg am Böhmerwald | Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Marientalrunde</strong></p>
+<p>
+	Gemütlicher Spazierweg durch den Klosterwald, mit dem Kinderwagen befahrbar!</p>
+<p>
+	Ausgangspunkt dieser Wanderung ist beim Gemeindeamt Schwarzenberg.</p>
+<p>
+	Weg Nr. 60</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000392/marientalrunde.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Marientalrunde | Schwarzenberg am Böhmerwald | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Marientalrunde</strong></p>
+<p>
+	Gemütlicher Spazierweg durch den Klosterwald, mit dem Kinderwagen befahrbar!</p>
+<p>
+	Ausgangspunkt dieser Wanderung ist beim Gemeindeamt Schwarzenberg.</p>
+<p>
+	Weg Nr. 60</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000392/marientalrunde.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.73168" lon="13.83462"><ele>741</ele></trkpt>
+<trkpt lat="48.73248" lon="13.83408"><ele>729</ele></trkpt>
+<trkpt lat="48.73278" lon="13.83365"><ele>729</ele></trkpt>
+<trkpt lat="48.73276" lon="13.8325"><ele>731</ele></trkpt>
+<trkpt lat="48.73252" lon="13.83159"><ele>731</ele></trkpt>
+<trkpt lat="48.73243" lon="13.83029"><ele>724</ele></trkpt>
+<trkpt lat="48.73153" lon="13.82765"><ele>712</ele></trkpt>
+<trkpt lat="48.73136" lon="13.82657"><ele>707</ele></trkpt>
+<trkpt lat="48.73055" lon="13.82533"><ele>697</ele></trkpt>
+<trkpt lat="48.73065" lon="13.82453"><ele>690</ele></trkpt>
+<trkpt lat="48.7305" lon="13.82402"><ele>691</ele></trkpt>
+<trkpt lat="48.72986" lon="13.8226"><ele>694</ele></trkpt>
+<trkpt lat="48.72967" lon="13.82205"><ele>693</ele></trkpt>
+<trkpt lat="48.72926" lon="13.8229"><ele>691</ele></trkpt>
+<trkpt lat="48.72885" lon="13.82325"><ele>688</ele></trkpt>
+<trkpt lat="48.72831" lon="13.82338"><ele>686</ele></trkpt>
+<trkpt lat="48.72763" lon="13.8228"><ele>686</ele></trkpt>
+<trkpt lat="48.72735" lon="13.82237"><ele>685</ele></trkpt>
+<trkpt lat="48.72688" lon="13.82205"><ele>683</ele></trkpt>
+<trkpt lat="48.72638" lon="13.82198"><ele>681</ele></trkpt>
+<trkpt lat="48.72612" lon="13.82177"><ele>681</ele></trkpt>
+<trkpt lat="48.72572" lon="13.82149"><ele>679</ele></trkpt>
+<trkpt lat="48.72561" lon="13.8214"><ele>679</ele></trkpt>
+<trkpt lat="48.72531" lon="13.82125"><ele>678</ele></trkpt>
+<trkpt lat="48.72469" lon="13.82087"><ele>677</ele></trkpt>
+<trkpt lat="48.72355" lon="13.81986"><ele>677</ele></trkpt>
+<trkpt lat="48.72235" lon="13.81951"><ele>678</ele></trkpt>
+<trkpt lat="48.72183" lon="13.81932"><ele>680</ele></trkpt>
+<trkpt lat="48.72085" lon="13.81906"><ele>680</ele></trkpt>
+<trkpt lat="48.72027" lon="13.81885"><ele>676</ele></trkpt>
+<trkpt lat="48.71947" lon="13.81945"><ele>676</ele></trkpt>
+<trkpt lat="48.71939" lon="13.81958"><ele>676</ele></trkpt>
+<trkpt lat="48.71928" lon="13.82153"><ele>676</ele></trkpt>
+<trkpt lat="48.71928" lon="13.82271"><ele>669</ele></trkpt>
+<trkpt lat="48.71934" lon="13.82361"><ele>658</ele></trkpt>
+<trkpt lat="48.71937" lon="13.82368"><ele>658</ele></trkpt>
+<trkpt lat="48.71947" lon="13.82505"><ele>655</ele></trkpt>
+<trkpt lat="48.71945" lon="13.8261"><ele>641</ele></trkpt>
+<trkpt lat="48.71919" lon="13.82687"><ele>639</ele></trkpt>
+<trkpt lat="48.71907" lon="13.82707"><ele>639</ele></trkpt>
+<trkpt lat="48.71891" lon="13.82739"><ele>640</ele></trkpt>
+<trkpt lat="48.71879" lon="13.82788"><ele>644</ele></trkpt>
+<trkpt lat="48.71904" lon="13.82792"><ele>647</ele></trkpt>
+<trkpt lat="48.71937" lon="13.82775"><ele>650</ele></trkpt>
+<trkpt lat="48.72046" lon="13.82728"><ele>643</ele></trkpt>
+<trkpt lat="48.72089" lon="13.82689"><ele>642</ele></trkpt>
+<trkpt lat="48.72115" lon="13.82638"><ele>645</ele></trkpt>
+<trkpt lat="48.72143" lon="13.82593"><ele>649</ele></trkpt>
+<trkpt lat="48.72188" lon="13.82556"><ele>650</ele></trkpt>
+<trkpt lat="48.7222" lon="13.82554"><ele>651</ele></trkpt>
+<trkpt lat="48.72258" lon="13.82599"><ele>654</ele></trkpt>
+<trkpt lat="48.72269" lon="13.82623"><ele>656</ele></trkpt>
+<trkpt lat="48.72319" lon="13.8276"><ele>661</ele></trkpt>
+<trkpt lat="48.72383" lon="13.82838"><ele>673</ele></trkpt>
+<trkpt lat="48.72394" lon="13.82846"><ele>675</ele></trkpt>
+<trkpt lat="48.72445" lon="13.82906"><ele>681</ele></trkpt>
+<trkpt lat="48.72437" lon="13.82962"><ele>682</ele></trkpt>
+<trkpt lat="48.72415" lon="13.83061"><ele>691</ele></trkpt>
+<trkpt lat="48.72415" lon="13.83099"><ele>695</ele></trkpt>
+<trkpt lat="48.72419" lon="13.83213"><ele>701</ele></trkpt>
+<trkpt lat="48.72441" lon="13.83271"><ele>705</ele></trkpt>
+<trkpt lat="48.72479" lon="13.83318"><ele>710</ele></trkpt>
+<trkpt lat="48.72488" lon="13.83331"><ele>711</ele></trkpt>
+<trkpt lat="48.72509" lon="13.83387"><ele>715</ele></trkpt>
+<trkpt lat="48.7254" lon="13.83453"><ele>719</ele></trkpt>
+<trkpt lat="48.72587" lon="13.83462"><ele>722</ele></trkpt>
+<trkpt lat="48.72666" lon="13.83355"><ele>730</ele></trkpt>
+<trkpt lat="48.72705" lon="13.83327"><ele>732</ele></trkpt>
+<trkpt lat="48.7278" lon="13.8334"><ele>734</ele></trkpt>
+<trkpt lat="48.72868" lon="13.83359"><ele>734</ele></trkpt>
+<trkpt lat="48.72921" lon="13.8337"><ele>737</ele></trkpt>
+<trkpt lat="48.72936" lon="13.83376"><ele>737</ele></trkpt>
+<trkpt lat="48.72956" lon="13.83378"><ele>738</ele></trkpt>
+<trkpt lat="48.73022" lon="13.8341"><ele>738</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

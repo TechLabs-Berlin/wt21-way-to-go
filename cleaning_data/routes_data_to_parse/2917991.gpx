@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Bergen: Floyen - Ulriken]]></name>
+      <desc><![CDATA[<p>
+	Von Bergen in die Stille des Hinterlandes, traumhaft sch&ouml;ne Wanderung.</p>
+<p>
+	Zun&auml;chst von Bergen-City mit der Floybanen hinauf zum Aussichtspunkt Floyen. Toller Blick auf Bergen.<br />
+	Nach zun&auml;chst asphaltierten Weg geht es sp&auml;ter auf Pfaden weiter. Immer wieder weite Aussicht &uuml;ber runde, felsige Berglandschaft.</p>
+<p>
+	Am Ulriken geht es mit der Seilbahn wieder hinunter. Von der Talstation gelant man mit einem Bus ins Zentrum von Bergen zur&uuml;ck.<br />
+	<br />
+	Die Route sind wir Ende Mai gewandert. Wir haben die Route &quot;Bruckmanns Wanderf&uuml;hrer&quot; entnommen (Die 40 sch&ouml;nsten Touren Norwegen).</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Bergen: Floyen - Ulriken]]></name><desc><![CDATA[<p>
+	Von Bergen in die Stille des Hinterlandes, traumhaft sch&ouml;ne Wanderung.</p>
+<p>
+	Zun&auml;chst von Bergen-City mit der Floybanen hinauf zum Aussichtspunkt Floyen. Toller Blick auf Bergen.<br />
+	Nach zun&auml;chst asphaltierten Weg geht es sp&auml;ter auf Pfaden weiter. Immer wieder weite Aussicht &uuml;ber runde, felsige Berglandschaft.</p>
+<p>
+	Am Ulriken geht es mit der Seilbahn wieder hinunter. Von der Talstation gelant man mit einem Bus ins Zentrum von Bergen zur&uuml;ck.<br />
+	<br />
+	Die Route sind wir Ende Mai gewandert. Wir haben die Route &quot;Bruckmanns Wanderf&uuml;hrer&quot; entnommen (Die 40 sch&ouml;nsten Touren Norwegen).</p>
+]]></desc><trkseg>
+         <trkpt lat="" lon=""><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

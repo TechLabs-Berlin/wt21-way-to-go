@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Thayatalweg]]></name>
+      <desc><![CDATA[<p>Wir beginnen unsere Wanderung bei der POSTBUS-Haltestelle Hardegg Burg. Wir gehen zur Grenzbrücke und folgen dann dem Gabrielensteig steil bergauf. Der Thayatalweg führt nun abwärts zur Thaya. Ordentliche Schuhe und Trittsicherheit sind hier unabdingbar, wir steigen immer wieder über Felsblöcke. Wichtig: Sollte der Fluss gerade Hochwasser führen, kann nicht am Ufer gewandert werden. Dann gibt‘s jedoch alternative Steige, die immer wieder abzweigen und uns höher hinauf bringen. Weiter geht‘s entlang der Thaya, bis wir zu den ersten Fischerhütten gelangen. Hier teilt sich der Weg. Alle Aussichtshungrigen nehmen die Strecke rechts bergauf zum Überstieg. Es geht auf den 400 m hohen Umlaufberg, eine fast völlig von einer Flussschlinge umflossene Erhebung. Der Überstieg ist ein beeindruckender Aussichtspunkt. Von hier aus sieht man auf der tschechischen Seite die Ruine Neuhäusel. Gemütlicher ist der Weg, der entlang des Flusses rund um den Umlaufberg weiterführt. Unterhaltb des Überstiegs treffen die beiden Wege dann wieder aufeinander. Wir kehren der Thaya den Rücken und wandern durch den Graben des Kajabachs zur Ruine Kaja. Über eine Forststraße geht’s an der Ruine vorbei und auf dem Kajaweg 5 nach Merkersdorf. Neben der Hauptstraße treffen wir schließlich auf die POSTBUS-Haltestelle Merkersdorf b. Hardegg Ortsmitte.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Thayatalweg]]></name><desc><![CDATA[<p>Wir beginnen unsere Wanderung bei der POSTBUS-Haltestelle Hardegg Burg. Wir gehen zur Grenzbrücke und folgen dann dem Gabrielensteig steil bergauf. Der Thayatalweg führt nun abwärts zur Thaya. Ordentliche Schuhe und Trittsicherheit sind hier unabdingbar, wir steigen immer wieder über Felsblöcke. Wichtig: Sollte der Fluss gerade Hochwasser führen, kann nicht am Ufer gewandert werden. Dann gibt‘s jedoch alternative Steige, die immer wieder abzweigen und uns höher hinauf bringen. Weiter geht‘s entlang der Thaya, bis wir zu den ersten Fischerhütten gelangen. Hier teilt sich der Weg. Alle Aussichtshungrigen nehmen die Strecke rechts bergauf zum Überstieg. Es geht auf den 400 m hohen Umlaufberg, eine fast völlig von einer Flussschlinge umflossene Erhebung. Der Überstieg ist ein beeindruckender Aussichtspunkt. Von hier aus sieht man auf der tschechischen Seite die Ruine Neuhäusel. Gemütlicher ist der Weg, der entlang des Flusses rund um den Umlaufberg weiterführt. Unterhaltb des Überstiegs treffen die beiden Wege dann wieder aufeinander. Wir kehren der Thaya den Rücken und wandern durch den Graben des Kajabachs zur Ruine Kaja. Über eine Forststraße geht’s an der Ruine vorbei und auf dem Kajaweg 5 nach Merkersdorf. Neben der Hauptstraße treffen wir schließlich auf die POSTBUS-Haltestelle Merkersdorf b. Hardegg Ortsmitte.</p>]]></desc><trkseg>
+         <trkpt lat="48.85266" lon="15.86005"><ele>310</ele></trkpt>
+<trkpt lat="48.85227" lon="15.86071"><ele>303</ele></trkpt>
+<trkpt lat="48.85214" lon="15.86163"><ele>295</ele></trkpt>
+<trkpt lat="48.8523" lon="15.86216"><ele>289</ele></trkpt>
+<trkpt lat="48.85248" lon="15.86274"><ele>296</ele></trkpt>
+<trkpt lat="48.85203" lon="15.86345"><ele>328</ele></trkpt>
+<trkpt lat="48.85206" lon="15.86427"><ele>332</ele></trkpt>
+<trkpt lat="48.85168" lon="15.86436"><ele>333</ele></trkpt>
+<trkpt lat="48.8522" lon="15.86629"><ele>332</ele></trkpt>
+<trkpt lat="48.85235" lon="15.86778"><ele>316</ele></trkpt>
+<trkpt lat="48.85228" lon="15.86831"><ele>320</ele></trkpt>
+<trkpt lat="48.85243" lon="15.86923"><ele>326</ele></trkpt>
+<trkpt lat="48.85198" lon="15.87095"><ele>373</ele></trkpt>
+<trkpt lat="48.85203" lon="15.87254"><ele>377</ele></trkpt>
+<trkpt lat="48.85296" lon="15.87501"><ele>372</ele></trkpt>
+<trkpt lat="48.85289" lon="15.87582"><ele>368</ele></trkpt>
+<trkpt lat="48.85237" lon="15.87721"><ele>345</ele></trkpt>
+<trkpt lat="48.85167" lon="15.87782"><ele>336</ele></trkpt>
+<trkpt lat="48.85103" lon="15.87906"><ele>291</ele></trkpt>
+<trkpt lat="48.84994" lon="15.87995"><ele>286</ele></trkpt>
+<trkpt lat="48.84896" lon="15.87955"><ele>287</ele></trkpt>
+<trkpt lat="48.84867" lon="15.87974"><ele>289</ele></trkpt>
+<trkpt lat="48.84826" lon="15.87949"><ele>307</ele></trkpt>
+<trkpt lat="48.84791" lon="15.87958"><ele>321</ele></trkpt>
+<trkpt lat="48.84651" lon="15.88023"><ele>317</ele></trkpt>
+<trkpt lat="48.8446" lon="15.88121"><ele>303</ele></trkpt>
+<trkpt lat="48.84364" lon="15.8822"><ele>318</ele></trkpt>
+<trkpt lat="48.84323" lon="15.88243"><ele>319</ele></trkpt>
+<trkpt lat="48.84255" lon="15.88324"><ele>310</ele></trkpt>
+<trkpt lat="48.84168" lon="15.8849"><ele>315</ele></trkpt>
+<trkpt lat="48.84151" lon="15.88682"><ele>310</ele></trkpt>
+<trkpt lat="48.84163" lon="15.88846"><ele>316</ele></trkpt>
+<trkpt lat="48.84212" lon="15.88986"><ele>304</ele></trkpt>
+<trkpt lat="48.84266" lon="15.89069"><ele>299</ele></trkpt>
+<trkpt lat="48.84332" lon="15.89118"><ele>296</ele></trkpt>
+<trkpt lat="48.84382" lon="15.89153"><ele>297</ele></trkpt>
+<trkpt lat="48.84464" lon="15.89236"><ele>306</ele></trkpt>
+<trkpt lat="48.84625" lon="15.89301"><ele>302</ele></trkpt>
+<trkpt lat="48.8473" lon="15.89327"><ele>310</ele></trkpt>
+<trkpt lat="48.84818" lon="15.89425"><ele>299</ele></trkpt>
+<trkpt lat="48.84855" lon="15.89512"><ele>289</ele></trkpt>
+<trkpt lat="48.84842" lon="15.89671"><ele>286</ele></trkpt>
+<trkpt lat="48.84803" lon="15.89771"><ele>284</ele></trkpt>
+<trkpt lat="48.84697" lon="15.8987"><ele>283</ele></trkpt>
+<trkpt lat="48.84582" lon="15.90012"><ele>290</ele></trkpt>
+<trkpt lat="48.84534" lon="15.90016"><ele>297</ele></trkpt>
+<trkpt lat="48.84429" lon="15.90125"><ele>297</ele></trkpt>
+<trkpt lat="48.84295" lon="15.90185"><ele>304</ele></trkpt>
+<trkpt lat="48.84221" lon="15.90318"><ele>282</ele></trkpt>
+<trkpt lat="48.84132" lon="15.90389"><ele>283</ele></trkpt>
+<trkpt lat="48.8408" lon="15.90436"><ele>280</ele></trkpt>
+<trkpt lat="48.83937" lon="15.90481"><ele>284</ele></trkpt>
+<trkpt lat="48.83886" lon="15.90485"><ele>283</ele></trkpt>
+<trkpt lat="48.83799" lon="15.90363"><ele>285</ele></trkpt>
+<trkpt lat="48.83784" lon="15.90233"><ele>285</ele></trkpt>
+<trkpt lat="48.83807" lon="15.90094"><ele>283</ele></trkpt>
+<trkpt lat="48.83857" lon="15.89817"><ele>277</ele></trkpt>
+<trkpt lat="48.83886" lon="15.89745"><ele>277</ele></trkpt>
+<trkpt lat="48.83966" lon="15.89703"><ele>277</ele></trkpt>
+<trkpt lat="48.84119" lon="15.89523"><ele>275</ele></trkpt>
+<trkpt lat="48.8424" lon="15.89492"><ele>278</ele></trkpt>
+<trkpt lat="48.84332" lon="15.89469"><ele>281</ele></trkpt>
+<trkpt lat="48.84374" lon="15.89355"><ele>280</ele></trkpt>
+<trkpt lat="48.84321" lon="15.89267"><ele>281</ele></trkpt>
+<trkpt lat="48.84274" lon="15.89175"><ele>283</ele></trkpt>
+<trkpt lat="48.84142" lon="15.89096"><ele>298</ele></trkpt>
+<trkpt lat="48.83983" lon="15.89074"><ele>286</ele></trkpt>
+<trkpt lat="48.83847" lon="15.89062"><ele>287</ele></trkpt>
+<trkpt lat="48.83694" lon="15.89126"><ele>299</ele></trkpt>
+<trkpt lat="48.83538" lon="15.89186"><ele>313</ele></trkpt>
+<trkpt lat="48.83439" lon="15.89304"><ele>317</ele></trkpt>
+<trkpt lat="48.83371" lon="15.89385"><ele>335</ele></trkpt>
+<trkpt lat="48.83334" lon="15.89682"><ele>321</ele></trkpt>
+<trkpt lat="48.83306" lon="15.89677"><ele>326</ele></trkpt>
+<trkpt lat="48.83237" lon="15.89608"><ele>317</ele></trkpt>
+<trkpt lat="48.83173" lon="15.89602"><ele>310</ele></trkpt>
+<trkpt lat="48.83091" lon="15.89582"><ele>318</ele></trkpt>
+<trkpt lat="48.83035" lon="15.89403"><ele>332</ele></trkpt>
+<trkpt lat="48.82914" lon="15.89352"><ele>349</ele></trkpt>
+<trkpt lat="48.82889" lon="15.89279"><ele>355</ele></trkpt>
+<trkpt lat="48.82845" lon="15.8924"><ele>354</ele></trkpt>
+<trkpt lat="48.82777" lon="15.89037"><ele>344</ele></trkpt>
+<trkpt lat="48.82759" lon="15.88892"><ele>346</ele></trkpt>
+<trkpt lat="48.82702" lon="15.88886"><ele>348</ele></trkpt>
+<trkpt lat="48.82648" lon="15.88919"><ele>351</ele></trkpt>
+<trkpt lat="48.82622" lon="15.88904"><ele>353</ele></trkpt>
+<trkpt lat="48.82655" lon="15.88737"><ele>353</ele></trkpt>
+<trkpt lat="48.82659" lon="15.88689"><ele>353</ele></trkpt>
+<trkpt lat="48.82697" lon="15.88651"><ele>354</ele></trkpt>
+<trkpt lat="48.82676" lon="15.88588"><ele>361</ele></trkpt>
+<trkpt lat="48.82638" lon="15.8853"><ele>373</ele></trkpt>
+<trkpt lat="48.82616" lon="15.88515"><ele>375</ele></trkpt>
+<trkpt lat="48.82645" lon="15.88405"><ele>369</ele></trkpt>
+<trkpt lat="48.82605" lon="15.88318"><ele>366</ele></trkpt>
+<trkpt lat="48.82622" lon="15.88169"><ele>381</ele></trkpt>
+<trkpt lat="48.8267" lon="15.88059"><ele>381</ele></trkpt>
+<trkpt lat="48.82708" lon="15.88017"><ele>382</ele></trkpt>
+<trkpt lat="48.8275" lon="15.87974"><ele>384</ele></trkpt>
+<trkpt lat="48.8277" lon="15.8783"><ele>384</ele></trkpt>
+<trkpt lat="48.82794" lon="15.87668"><ele>390</ele></trkpt>
+<trkpt lat="48.82793" lon="15.87393"><ele>397</ele></trkpt>
+<trkpt lat="48.82869" lon="15.87323"><ele>397</ele></trkpt>
+<trkpt lat="48.82914" lon="15.87251"><ele>400</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

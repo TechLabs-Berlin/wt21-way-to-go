@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Ahorner Rundweg | Ahorn | Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Ahorner Rundweg</strong> Ausgangspunkt ist bei der Naturfabrik Ahorn neben dem Ziegelstadel, der eines der ältesten Gebäude der Gegend und jetzt ein Gastronomiebetrieb ist. Höhepunkte dieses Wanderweges sind die Burg Piberstein, die auch als Ausgangspunkt gewählt werden kann, sowie immer wiederkehrende herrliche Ausblicke in die Mühlviertler Hügelwelt. Weg-Nr. 88</p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie hier: <a href="http://www.boehmerwald.at/oesterreich/tour/430000283/ahorner-rundweg.html">www.boehmerwald.at</a></p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Ahorner Rundweg | Ahorn | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Ahorner Rundweg</strong> Ausgangspunkt ist bei der Naturfabrik Ahorn neben dem Ziegelstadel, der eines der ältesten Gebäude der Gegend und jetzt ein Gastronomiebetrieb ist. Höhepunkte dieses Wanderweges sind die Burg Piberstein, die auch als Ausgangspunkt gewählt werden kann, sowie immer wiederkehrende herrliche Ausblicke in die Mühlviertler Hügelwelt. Weg-Nr. 88</p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie hier: <a href="http://www.boehmerwald.at/oesterreich/tour/430000283/ahorner-rundweg.html">www.boehmerwald.at</a></p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.52424" lon="14.17659"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17592"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17528"><ele>0</ele></trkpt>
+<trkpt lat="48.52411" lon="14.1747"><ele>0</ele></trkpt>
+<trkpt lat="48.52388" lon="14.1741"><ele>0</ele></trkpt>
+<trkpt lat="48.52366" lon="14.17351"><ele>0</ele></trkpt>
+<trkpt lat="48.52344" lon="14.17293"><ele>0</ele></trkpt>
+<trkpt lat="48.52321" lon="14.17233"><ele>0</ele></trkpt>
+<trkpt lat="48.52299" lon="14.17175"><ele>0</ele></trkpt>
+<trkpt lat="48.52293" lon="14.17108"><ele>0</ele></trkpt>
+<trkpt lat="48.52285" lon="14.17042"><ele>0</ele></trkpt>
+<trkpt lat="48.52274" lon="14.16978"><ele>0</ele></trkpt>
+<trkpt lat="48.52247" lon="14.16922"><ele>0</ele></trkpt>
+<trkpt lat="48.5222" lon="14.16868"><ele>0</ele></trkpt>
+<trkpt lat="48.52195" lon="14.16814"><ele>0</ele></trkpt>
+<trkpt lat="48.52168" lon="14.16758"><ele>0</ele></trkpt>
+<trkpt lat="48.52164" lon="14.16692"><ele>0</ele></trkpt>
+<trkpt lat="48.52158" lon="14.16624"><ele>0</ele></trkpt>
+<trkpt lat="48.52141" lon="14.16562"><ele>0</ele></trkpt>
+<trkpt lat="48.52142" lon="14.16498"><ele>0</ele></trkpt>
+<trkpt lat="48.52146" lon="14.16432"><ele>0</ele></trkpt>
+<trkpt lat="48.52135" lon="14.16368"><ele>0</ele></trkpt>
+<trkpt lat="48.52169" lon="14.16325"><ele>0</ele></trkpt>
+<trkpt lat="48.52202" lon="14.16281"><ele>0</ele></trkpt>
+<trkpt lat="48.52236" lon="14.16235"><ele>0</ele></trkpt>
+<trkpt lat="48.52271" lon="14.16191"><ele>0</ele></trkpt>
+<trkpt lat="48.52304" lon="14.16147"><ele>0</ele></trkpt>
+<trkpt lat="48.52339" lon="14.16103"><ele>0</ele></trkpt>
+<trkpt lat="48.52368" lon="14.16119"><ele>0</ele></trkpt>
+<trkpt lat="48.52402" lon="14.16151"><ele>0</ele></trkpt>
+<trkpt lat="48.52447" lon="14.1615"><ele>0</ele></trkpt>
+<trkpt lat="48.52492" lon="14.16147"><ele>0</ele></trkpt>
+<trkpt lat="48.52537" lon="14.16144"><ele>0</ele></trkpt>
+<trkpt lat="48.52583" lon="14.16143"><ele>0</ele></trkpt>
+<trkpt lat="48.52617" lon="14.16109"><ele>0</ele></trkpt>
+<trkpt lat="48.52642" lon="14.16053"><ele>0</ele></trkpt>
+<trkpt lat="48.52675" lon="14.1601"><ele>0</ele></trkpt>
+<trkpt lat="48.52716" lon="14.1598"><ele>0</ele></trkpt>
+<trkpt lat="48.5276" lon="14.15972"><ele>0</ele></trkpt>
+<trkpt lat="48.52805" lon="14.15968"><ele>0</ele></trkpt>
+<trkpt lat="48.52848" lon="14.15976"><ele>0</ele></trkpt>
+<trkpt lat="48.52893" lon="14.15986"><ele>0</ele></trkpt>
+<trkpt lat="48.52934" lon="14.16017"><ele>0</ele></trkpt>
+<trkpt lat="48.52942" lon="14.15976"><ele>0</ele></trkpt>
+<trkpt lat="48.52938" lon="14.15909"><ele>0</ele></trkpt>
+<trkpt lat="48.52935" lon="14.15842"><ele>0</ele></trkpt>
+<trkpt lat="48.52956" lon="14.15841"><ele>0</ele></trkpt>
+<trkpt lat="48.5299" lon="14.15831"><ele>0</ele></trkpt>
+<trkpt lat="48.52999" lon="14.15764"><ele>0</ele></trkpt>
+<trkpt lat="48.53016" lon="14.15704"><ele>0</ele></trkpt>
+<trkpt lat="48.53043" lon="14.1565"><ele>0</ele></trkpt>
+<trkpt lat="48.53032" lon="14.15687"><ele>0</ele></trkpt>
+<trkpt lat="48.5301" lon="14.15747"><ele>0</ele></trkpt>
+<trkpt lat="48.52987" lon="14.15805"><ele>0</ele></trkpt>
+<trkpt lat="48.52966" lon="14.15858"><ele>0</ele></trkpt>
+<trkpt lat="48.52936" lon="14.15832"><ele>0</ele></trkpt>
+<trkpt lat="48.5294" lon="14.15899"><ele>0</ele></trkpt>
+<trkpt lat="48.52943" lon="14.15968"><ele>0</ele></trkpt>
+<trkpt lat="48.52947" lon="14.16034"><ele>0</ele></trkpt>
+<trkpt lat="48.52951" lon="14.16103"><ele>0</ele></trkpt>
+<trkpt lat="48.52915" lon="14.1614"><ele>0</ele></trkpt>
+<trkpt lat="48.52877" lon="14.16177"><ele>0</ele></trkpt>
+<trkpt lat="48.52839" lon="14.16214"><ele>0</ele></trkpt>
+<trkpt lat="48.52801" lon="14.1625"><ele>0</ele></trkpt>
+<trkpt lat="48.52763" lon="14.16287"><ele>0</ele></trkpt>
+<trkpt lat="48.52752" lon="14.1635"><ele>0</ele></trkpt>
+<trkpt lat="48.52745" lon="14.16415"><ele>0</ele></trkpt>
+<trkpt lat="48.52731" lon="14.16479"><ele>0</ele></trkpt>
+<trkpt lat="48.52716" lon="14.16543"><ele>0</ele></trkpt>
+<trkpt lat="48.52702" lon="14.16607"><ele>0</ele></trkpt>
+<trkpt lat="48.52688" lon="14.16672"><ele>0</ele></trkpt>
+<trkpt lat="48.52671" lon="14.16734"><ele>0</ele></trkpt>
+<trkpt lat="48.52653" lon="14.16797"><ele>0</ele></trkpt>
+<trkpt lat="48.52635" lon="14.16858"><ele>0</ele></trkpt>
+<trkpt lat="48.52617" lon="14.16921"><ele>0</ele></trkpt>
+<trkpt lat="48.52599" lon="14.16984"><ele>0</ele></trkpt>
+<trkpt lat="48.52588" lon="14.17048"><ele>0</ele></trkpt>
+<trkpt lat="48.52581" lon="14.17115"><ele>0</ele></trkpt>
+<trkpt lat="48.52577" lon="14.17183"><ele>0</ele></trkpt>
+<trkpt lat="48.52552" lon="14.17232"><ele>0</ele></trkpt>
+<trkpt lat="48.52516" lon="14.17271"><ele>0</ele></trkpt>
+<trkpt lat="48.52478" lon="14.17311"><ele>0</ele></trkpt>
+<trkpt lat="48.52438" lon="14.1734"><ele>0</ele></trkpt>
+<trkpt lat="48.52397" lon="14.17364"><ele>0</ele></trkpt>
+<trkpt lat="48.52397" lon="14.17414"><ele>0</ele></trkpt>
+<trkpt lat="48.52415" lon="14.17477"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17538"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17607"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17662"><ele>0</ele></trkpt>
+      </trkseg></trk>
+    
+      <trk><name><![CDATA[Ahorner Rundweg | Ahorn | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Ahorner Rundweg</strong> Ausgangspunkt ist bei der Naturfabrik Ahorn neben dem Ziegelstadel, der eines der ältesten Gebäude der Gegend und jetzt ein Gastronomiebetrieb ist. Höhepunkte dieses Wanderweges sind die Burg Piberstein, die auch als Ausgangspunkt gewählt werden kann, sowie immer wiederkehrende herrliche Ausblicke in die Mühlviertler Hügelwelt. Weg-Nr. 88</p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie hier: <a href="http://www.boehmerwald.at/oesterreich/tour/430000283/ahorner-rundweg.html">www.boehmerwald.at</a></p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.52425" lon="14.17659"><ele>0</ele></trkpt>
+<trkpt lat="48.52434" lon="14.17592"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17528"><ele>0</ele></trkpt>
+<trkpt lat="48.5241" lon="14.17469"><ele>0</ele></trkpt>
+<trkpt lat="48.52388" lon="14.1741"><ele>0</ele></trkpt>
+<trkpt lat="48.52366" lon="14.17352"><ele>0</ele></trkpt>
+<trkpt lat="48.52329" lon="14.17277"><ele>0</ele></trkpt>
+<trkpt lat="48.523" lon="14.17175"><ele>0</ele></trkpt>
+<trkpt lat="48.52293" lon="14.17108"><ele>0</ele></trkpt>
+<trkpt lat="48.52286" lon="14.17041"><ele>0</ele></trkpt>
+<trkpt lat="48.52273" lon="14.16978"><ele>0</ele></trkpt>
+<trkpt lat="48.52247" lon="14.16923"><ele>0</ele></trkpt>
+<trkpt lat="48.52213" lon="14.16874"><ele>0</ele></trkpt>
+<trkpt lat="48.52194" lon="14.16813"><ele>0</ele></trkpt>
+<trkpt lat="48.52168" lon="14.16758"><ele>0</ele></trkpt>
+<trkpt lat="48.52164" lon="14.16691"><ele>0</ele></trkpt>
+<trkpt lat="48.52157" lon="14.16625"><ele>0</ele></trkpt>
+<trkpt lat="48.52141" lon="14.16562"><ele>0</ele></trkpt>
+<trkpt lat="48.5215" lon="14.16479"><ele>0</ele></trkpt>
+<trkpt lat="48.52147" lon="14.16432"><ele>0</ele></trkpt>
+<trkpt lat="48.52135" lon="14.16369"><ele>0</ele></trkpt>
+<trkpt lat="48.52169" lon="14.16324"><ele>0</ele></trkpt>
+<trkpt lat="48.52203" lon="14.1628"><ele>0</ele></trkpt>
+<trkpt lat="48.52237" lon="14.16236"><ele>0</ele></trkpt>
+<trkpt lat="48.52271" lon="14.16191"><ele>0</ele></trkpt>
+<trkpt lat="48.52305" lon="14.16158"><ele>0</ele></trkpt>
+<trkpt lat="48.52339" lon="14.16151"><ele>0</ele></trkpt>
+<trkpt lat="48.52368" lon="14.16151"><ele>0</ele></trkpt>
+<trkpt lat="48.52403" lon="14.16151"><ele>0</ele></trkpt>
+<trkpt lat="48.52448" lon="14.16149"><ele>0</ele></trkpt>
+<trkpt lat="48.52492" lon="14.16147"><ele>0</ele></trkpt>
+<trkpt lat="48.52537" lon="14.16145"><ele>0</ele></trkpt>
+<trkpt lat="48.52582" lon="14.16142"><ele>0</ele></trkpt>
+<trkpt lat="48.52622" lon="14.16117"><ele>0</ele></trkpt>
+<trkpt lat="48.52643" lon="14.16054"><ele>0</ele></trkpt>
+<trkpt lat="48.52675" lon="14.1601"><ele>0</ele></trkpt>
+<trkpt lat="48.52715" lon="14.1598"><ele>0</ele></trkpt>
+<trkpt lat="48.5276" lon="14.15972"><ele>0</ele></trkpt>
+<trkpt lat="48.52799" lon="14.15988"><ele>0</ele></trkpt>
+<trkpt lat="48.52848" lon="14.15999"><ele>0</ele></trkpt>
+<trkpt lat="48.52941" lon="14.16035"><ele>0</ele></trkpt>
+<trkpt lat="48.52938" lon="14.15909"><ele>0</ele></trkpt>
+<trkpt lat="48.5294" lon="14.15825"><ele>0</ele></trkpt>
+<trkpt lat="48.52955" lon="14.1584"><ele>0</ele></trkpt>
+<trkpt lat="48.52974" lon="14.15857"><ele>0</ele></trkpt>
+<trkpt lat="48.5299" lon="14.1583"><ele>0</ele></trkpt>
+<trkpt lat="48.52999" lon="14.15764"><ele>0</ele></trkpt>
+<trkpt lat="48.53016" lon="14.15703"><ele>0</ele></trkpt>
+<trkpt lat="48.53043" lon="14.1565"><ele>0</ele></trkpt>
+<trkpt lat="48.53032" lon="14.15687"><ele>0</ele></trkpt>
+<trkpt lat="48.5301" lon="14.15746"><ele>0</ele></trkpt>
+<trkpt lat="48.52988" lon="14.15805"><ele>0</ele></trkpt>
+<trkpt lat="48.52982" lon="14.15851"><ele>0</ele></trkpt>
+<trkpt lat="48.52965" lon="14.15858"><ele>0</ele></trkpt>
+<trkpt lat="48.52938" lon="14.15812"><ele>0</ele></trkpt>
+<trkpt lat="48.5294" lon="14.159"><ele>0</ele></trkpt>
+<trkpt lat="48.52943" lon="14.15967"><ele>0</ele></trkpt>
+<trkpt lat="48.52947" lon="14.16035"><ele>0</ele></trkpt>
+<trkpt lat="48.5295" lon="14.16102"><ele>0</ele></trkpt>
+<trkpt lat="48.52914" lon="14.1614"><ele>0</ele></trkpt>
+<trkpt lat="48.52876" lon="14.16177"><ele>0</ele></trkpt>
+<trkpt lat="48.52838" lon="14.16213"><ele>0</ele></trkpt>
+<trkpt lat="48.52801" lon="14.1625"><ele>0</ele></trkpt>
+<trkpt lat="48.52766" lon="14.16313"><ele>0</ele></trkpt>
+<trkpt lat="48.5276" lon="14.16362"><ele>0</ele></trkpt>
+<trkpt lat="48.52745" lon="14.16416"><ele>0</ele></trkpt>
+<trkpt lat="48.52731" lon="14.1648"><ele>0</ele></trkpt>
+<trkpt lat="48.52716" lon="14.16544"><ele>0</ele></trkpt>
+<trkpt lat="48.52702" lon="14.16608"><ele>0</ele></trkpt>
+<trkpt lat="48.52688" lon="14.16672"><ele>0</ele></trkpt>
+<trkpt lat="48.5267" lon="14.16734"><ele>0</ele></trkpt>
+<trkpt lat="48.52652" lon="14.16797"><ele>0</ele></trkpt>
+<trkpt lat="48.52635" lon="14.16859"><ele>0</ele></trkpt>
+<trkpt lat="48.52617" lon="14.16921"><ele>0</ele></trkpt>
+<trkpt lat="48.52599" lon="14.16983"><ele>0</ele></trkpt>
+<trkpt lat="48.52587" lon="14.17048"><ele>0</ele></trkpt>
+<trkpt lat="48.52582" lon="14.17115"><ele>0</ele></trkpt>
+<trkpt lat="48.52577" lon="14.17182"><ele>0</ele></trkpt>
+<trkpt lat="48.52571" lon="14.17215"><ele>0</ele></trkpt>
+<trkpt lat="48.52515" lon="14.17278"><ele>0</ele></trkpt>
+<trkpt lat="48.52479" lon="14.17312"><ele>0</ele></trkpt>
+<trkpt lat="48.52438" lon="14.17339"><ele>0</ele></trkpt>
+<trkpt lat="48.52385" lon="14.17371"><ele>0</ele></trkpt>
+<trkpt lat="48.52397" lon="14.17415"><ele>0</ele></trkpt>
+<trkpt lat="48.52415" lon="14.17477"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17538"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17606"><ele>0</ele></trkpt>
+<trkpt lat="48.52433" lon="14.17663"><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

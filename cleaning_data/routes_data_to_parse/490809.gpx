@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Rüdersdorf]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[Rüdersdorf]]></name><trkseg>
+         <trkpt lat="52.475" lon="13.77726"><ele>47</ele></trkpt>
+<trkpt lat="52.477" lon="13.7799"><ele>37</ele></trkpt>
+<trkpt lat="52.47839" lon="13.78072"><ele>42</ele></trkpt>
+<trkpt lat="52.47975" lon="13.78059"><ele>42</ele></trkpt>
+<trkpt lat="52.48038" lon="13.78175"><ele>46</ele></trkpt>
+<trkpt lat="52.48134" lon="13.78308"><ele>47</ele></trkpt>
+<trkpt lat="52.48155" lon="13.78703"><ele>54</ele></trkpt>
+<trkpt lat="52.48241" lon="13.79029"><ele>45</ele></trkpt>
+<trkpt lat="52.48315" lon="13.79265"><ele>43</ele></trkpt>
+<trkpt lat="52.48469" lon="13.79325"><ele>39</ele></trkpt>
+<trkpt lat="52.48581" lon="13.7969"><ele>37</ele></trkpt>
+<trkpt lat="52.4855" lon="13.79951"><ele>39</ele></trkpt>
+<trkpt lat="52.48495" lon="13.80389"><ele>37</ele></trkpt>
+<trkpt lat="52.48714" lon="13.80471"><ele>46</ele></trkpt>
+<trkpt lat="52.48775" lon="13.81114"><ele>59</ele></trkpt>
+<trkpt lat="52.48777" lon="13.81235"><ele>57</ele></trkpt>
+<trkpt lat="52.48673" lon="13.81402"><ele>57</ele></trkpt>
+<trkpt lat="52.48628" lon="13.81595"><ele>62</ele></trkpt>
+<trkpt lat="52.48581" lon="13.81651"><ele>63</ele></trkpt>
+<trkpt lat="52.48552" lon="13.82415"><ele>50</ele></trkpt>
+<trkpt lat="52.48474" lon="13.82732"><ele>47</ele></trkpt>
+<trkpt lat="52.48411" lon="13.83149"><ele>46</ele></trkpt>
+<trkpt lat="52.48309" lon="13.83346"><ele>46</ele></trkpt>
+<trkpt lat="52.48038" lon="13.83385"><ele>46</ele></trkpt>
+<trkpt lat="52.47964" lon="13.83101"><ele>43</ele></trkpt>
+<trkpt lat="52.48057" lon="13.83375"><ele>46</ele></trkpt>
+<trkpt lat="52.47904" lon="13.81986"><ele>33</ele></trkpt>
+<trkpt lat="52.47818" lon="13.81526"><ele>50</ele></trkpt>
+<trkpt lat="52.47747" lon="13.80763"><ele>66</ele></trkpt>
+<trkpt lat="52.47724" lon="13.79982"><ele>44</ele></trkpt>
+<trkpt lat="52.47716" lon="13.79728"><ele>38</ele></trkpt>
+<trkpt lat="52.47421" lon="13.79016"><ele>51</ele></trkpt>
+<trkpt lat="52.47413" lon="13.78415"><ele>55</ele></trkpt>
+<trkpt lat="52.47423" lon="13.7802"><ele>53</ele></trkpt>
+<trkpt lat="52.47512" lon="13.77896"><ele>51</ele></trkpt>
+<trkpt lat="52.4764" lon="13.78007"><ele>37</ele></trkpt>
+<trkpt lat="52.47693" lon="13.77956"><ele>39</ele></trkpt>
+<trkpt lat="52.47353" lon="13.77587"><ele>43</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

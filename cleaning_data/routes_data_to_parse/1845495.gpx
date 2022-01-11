@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Schnellerstr - S-Betriebsbahnhof Rummelsburg]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[Schnellerstr - S-Betriebsbahnhof Rummelsburg]]></name><trkseg>
+         <trkpt lat="52.45223" lon="13.52934"><ele>32</ele></trkpt>
+<trkpt lat="52.45227" lon="13.52823"><ele>32</ele></trkpt>
+<trkpt lat="52.45338" lon="13.52293"><ele>37</ele></trkpt>
+<trkpt lat="52.45381" lon="13.52299"><ele>36</ele></trkpt>
+<trkpt lat="52.45422" lon="13.5222"><ele>35</ele></trkpt>
+<trkpt lat="52.45479" lon="13.52132"><ele>34</ele></trkpt>
+<trkpt lat="52.45539" lon="13.5208"><ele>34</ele></trkpt>
+<trkpt lat="52.45605" lon="13.52026"><ele>35</ele></trkpt>
+<trkpt lat="52.45677" lon="13.51979"><ele>34</ele></trkpt>
+<trkpt lat="52.4572" lon="13.51896"><ele>36</ele></trkpt>
+<trkpt lat="52.45703" lon="13.51868"><ele>36</ele></trkpt>
+<trkpt lat="52.45869" lon="13.52041"><ele>34</ele></trkpt>
+<trkpt lat="52.4597" lon="13.51964"><ele>34</ele></trkpt>
+<trkpt lat="52.46103" lon="13.52035"><ele>34</ele></trkpt>
+<trkpt lat="52.46235" lon="13.51475"><ele>36</ele></trkpt>
+<trkpt lat="52.4629" lon="13.51524"><ele>36</ele></trkpt>
+<trkpt lat="52.46317" lon="13.51548"><ele>36</ele></trkpt>
+<trkpt lat="52.46383" lon="13.51481"><ele>38</ele></trkpt>
+<trkpt lat="52.46463" lon="13.51469"><ele>37</ele></trkpt>
+<trkpt lat="52.4649" lon="13.51529"><ele>37</ele></trkpt>
+<trkpt lat="52.46832" lon="13.51456"><ele>36</ele></trkpt>
+<trkpt lat="52.46873" lon="13.51406"><ele>35</ele></trkpt>
+<trkpt lat="52.46919" lon="13.51451"><ele>35</ele></trkpt>
+<trkpt lat="52.46989" lon="13.51476"><ele>37</ele></trkpt>
+<trkpt lat="52.47144" lon="13.51321"><ele>39</ele></trkpt>
+<trkpt lat="52.47175" lon="13.51338"><ele>39</ele></trkpt>
+<trkpt lat="52.47289" lon="13.51458"><ele>37</ele></trkpt>
+<trkpt lat="52.47329" lon="13.51528"><ele>37</ele></trkpt>
+<trkpt lat="52.47342" lon="13.51533"><ele>37</ele></trkpt>
+<trkpt lat="52.47374" lon="13.51573"><ele>39</ele></trkpt>
+<trkpt lat="52.47419" lon="13.51483"><ele>40</ele></trkpt>
+<trkpt lat="52.47474" lon="13.51548"><ele>39</ele></trkpt>
+<trkpt lat="52.47512" lon="13.5148"><ele>38</ele></trkpt>
+<trkpt lat="52.47591" lon="13.51558"><ele>37</ele></trkpt>
+<trkpt lat="52.47626" lon="13.51574"><ele>36</ele></trkpt>
+<trkpt lat="52.47689" lon="13.51617"><ele>36</ele></trkpt>
+<trkpt lat="52.4796" lon="13.51472"><ele>37</ele></trkpt>
+<trkpt lat="52.4797" lon="13.51461"><ele>37</ele></trkpt>
+<trkpt lat="52.47991" lon="13.5148"><ele>37</ele></trkpt>
+<trkpt lat="52.48107" lon="13.51211"><ele>35</ele></trkpt>
+<trkpt lat="52.48494" lon="13.51375"><ele>35</ele></trkpt>
+<trkpt lat="52.48525" lon="13.51456"><ele>36</ele></trkpt>
+<trkpt lat="52.48517" lon="13.51486"><ele>37</ele></trkpt>
+<trkpt lat="52.48567" lon="13.51598"><ele>37</ele></trkpt>
+<trkpt lat="52.48592" lon="13.51617"><ele>37</ele></trkpt>
+<trkpt lat="52.48623" lon="13.5169"><ele>38</ele></trkpt>
+<trkpt lat="52.48682" lon="13.51632"><ele>36</ele></trkpt>
+<trkpt lat="52.48726" lon="13.51552"><ele>36</ele></trkpt>
+<trkpt lat="52.49097" lon="13.50699"><ele>34</ele></trkpt>
+<trkpt lat="52.49119" lon="13.50586"><ele>34</ele></trkpt>
+<trkpt lat="52.4913" lon="13.50574"><ele>34</ele></trkpt>
+<trkpt lat="52.49204" lon="13.50612"><ele>36</ele></trkpt>
+<trkpt lat="52.49349" lon="13.49979"><ele>36</ele></trkpt>
+<trkpt lat="52.4934" lon="13.49929"><ele>36</ele></trkpt>
+<trkpt lat="52.49336" lon="13.49906"><ele>36</ele></trkpt>
+<trkpt lat="52.4932" lon="13.49883"><ele>36</ele></trkpt>
+<trkpt lat="52.49334" lon="13.49861"><ele>36</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

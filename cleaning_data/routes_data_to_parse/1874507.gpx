@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Zwischen Kotti und Schlesi]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[Zwischen Kotti und Schlesi]]></name><trkseg>
+         <trkpt lat="52.49963" lon="13.41808"><ele>41</ele></trkpt>
+<trkpt lat="52.49527" lon="13.41508"><ele>38</ele></trkpt>
+<trkpt lat="52.49457" lon="13.41508"><ele>37</ele></trkpt>
+<trkpt lat="52.49305" lon="13.42212"><ele>40</ele></trkpt>
+<trkpt lat="52.49349" lon="13.42808"><ele>44</ele></trkpt>
+<trkpt lat="52.49736" lon="13.43194"><ele>36</ele></trkpt>
+<trkpt lat="52.49734" lon="13.43834"><ele>39</ele></trkpt>
+<trkpt lat="52.50084" lon="13.44186"><ele>38</ele></trkpt>
+<trkpt lat="52.50115" lon="13.44491"><ele>35</ele></trkpt>
+<trkpt lat="52.50196" lon="13.44293"><ele>38</ele></trkpt>
+<trkpt lat="52.50073" lon="13.44104"><ele>39</ele></trkpt>
+<trkpt lat="52.49929" lon="13.4313"><ele>38</ele></trkpt>
+<trkpt lat="52.49924" lon="13.42632"><ele>39</ele></trkpt>
+<trkpt lat="52.50026" lon="13.42306"><ele>40</ele></trkpt>
+<trkpt lat="52.50392" lon="13.42607"><ele>39</ele></trkpt>
+<trkpt lat="52.50434" lon="13.42358"><ele>39</ele></trkpt>
+<trkpt lat="52.5028" lon="13.42207"><ele>37</ele></trkpt>
+<trkpt lat="52.50426" lon="13.41705"><ele>37</ele></trkpt>
+<trkpt lat="52.5023" lon="13.41577"><ele>41</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

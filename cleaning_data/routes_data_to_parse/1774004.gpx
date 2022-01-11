@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Gletscherweg Pasterze Gamsgrubenweg]]></name>
+      <desc><![CDATA[<p>Vom Glocknerhaus wandern wir in Richtung Westen zum Margaritzenstausee. Beim See angekommen gehen wir nach links und wandern am Ostufer entlang. Wir umgehen den südlichen Zipfel des Stausees und erreichen unseren nächsten Etappenpunkt, den „Steinzeichenplatz“. Jetzt ist es nicht mehr weit zum Sandersee, den wir über eine Hängebrücke erreichen. Wir umwandern den verlandeten See über sein Nordufer und kommen zu einem der spektakulärsten Punkte dieser Wanderung, zum Gletschertor! Nun folgt ein fordernder Anstieg, der uns zur Kaiser Franz Josefs Höhe führt. An der Pasterze vorbei schlängelt sich der Weg über Steinstufen recht steil hinauf zum Parkplatz. Für diesen Wegabschnitt kann man auch die Gletscherbahn benutzen.</p>
+<p>Nach einer Rast machen wir uns auf, den Gamsgrubenweg in Angriff zu nehmen. Dieser führt oberhalb der Pasterze mitten in die Hochgebirgswelt des Großglockners. Auf diesem Streckenabschnitt durchwandern wir den Gamsgrubentunnel, der uns mit Installationen aus Stein, Licht, Ton und Malereien die mystische Welt des Berges erleben lässt und gelangen danach auf den eigentlichen Gamsgrubenweg. Dieser zieht sich bis zum Wasserfallwinkel hinauf. Anschließend geht es auf demselben Weg wieder retour zur Kaiser Franz Josefs Höhe, wo wir mit Postbus bequem wieder ins Tal gelangen.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Gletscherweg Pasterze Gamsgrubenweg]]></name><desc><![CDATA[<p>Vom Glocknerhaus wandern wir in Richtung Westen zum Margaritzenstausee. Beim See angekommen gehen wir nach links und wandern am Ostufer entlang. Wir umgehen den südlichen Zipfel des Stausees und erreichen unseren nächsten Etappenpunkt, den „Steinzeichenplatz“. Jetzt ist es nicht mehr weit zum Sandersee, den wir über eine Hängebrücke erreichen. Wir umwandern den verlandeten See über sein Nordufer und kommen zu einem der spektakulärsten Punkte dieser Wanderung, zum Gletschertor! Nun folgt ein fordernder Anstieg, der uns zur Kaiser Franz Josefs Höhe führt. An der Pasterze vorbei schlängelt sich der Weg über Steinstufen recht steil hinauf zum Parkplatz. Für diesen Wegabschnitt kann man auch die Gletscherbahn benutzen.</p>
+<p>Nach einer Rast machen wir uns auf, den Gamsgrubenweg in Angriff zu nehmen. Dieser führt oberhalb der Pasterze mitten in die Hochgebirgswelt des Großglockners. Auf diesem Streckenabschnitt durchwandern wir den Gamsgrubentunnel, der uns mit Installationen aus Stein, Licht, Ton und Malereien die mystische Welt des Berges erleben lässt und gelangen danach auf den eigentlichen Gamsgrubenweg. Dieser zieht sich bis zum Wasserfallwinkel hinauf. Anschließend geht es auf demselben Weg wieder retour zur Kaiser Franz Josefs Höhe, wo wir mit Postbus bequem wieder ins Tal gelangen.</p>]]></desc><trkseg>
+         <trkpt lat="47.06965" lon="12.76852"><ele>2136</ele></trkpt>
+<trkpt lat="47.06943" lon="12.76777"><ele>2114</ele></trkpt>
+<trkpt lat="47.06929" lon="12.76761"><ele>2107</ele></trkpt>
+<trkpt lat="47.06891" lon="12.76763"><ele>2093</ele></trkpt>
+<trkpt lat="47.06893" lon="12.7672"><ele>2082</ele></trkpt>
+<trkpt lat="47.06923" lon="12.76682"><ele>2068</ele></trkpt>
+<trkpt lat="47.0697" lon="12.76664"><ele>2052</ele></trkpt>
+<trkpt lat="47.07003" lon="12.76633"><ele>2040</ele></trkpt>
+<trkpt lat="47.07004" lon="12.7656"><ele>2031</ele></trkpt>
+<trkpt lat="47.06985" lon="12.76515"><ele>2024</ele></trkpt>
+<trkpt lat="47.07" lon="12.76468"><ele>2014</ele></trkpt>
+<trkpt lat="47.06966" lon="12.76456"><ele>2005</ele></trkpt>
+<trkpt lat="47.0694" lon="12.76523"><ele>2009</ele></trkpt>
+<trkpt lat="47.06916" lon="12.76554"><ele>2018</ele></trkpt>
+<trkpt lat="47.06779" lon="12.76566"><ele>1986</ele></trkpt>
+<trkpt lat="47.06763" lon="12.76528"><ele>1971</ele></trkpt>
+<trkpt lat="47.06742" lon="12.76486"><ele>1954</ele></trkpt>
+<trkpt lat="47.06708" lon="12.76484"><ele>1968</ele></trkpt>
+<trkpt lat="47.06681" lon="12.76508"><ele>1981</ele></trkpt>
+<trkpt lat="47.06602" lon="12.76498"><ele>1998</ele></trkpt>
+<trkpt lat="47.06489" lon="12.76552"><ele>1991</ele></trkpt>
+<trkpt lat="47.06454" lon="12.76498"><ele>1984</ele></trkpt>
+<trkpt lat="47.06353" lon="12.76502"><ele>1991</ele></trkpt>
+<trkpt lat="47.06269" lon="12.76489"><ele>2001</ele></trkpt>
+<trkpt lat="47.06141" lon="12.76511"><ele>2008</ele></trkpt>
+<trkpt lat="47.06125" lon="12.7659"><ele>2023</ele></trkpt>
+<trkpt lat="47.06098" lon="12.76595"><ele>2030</ele></trkpt>
+<trkpt lat="47.06064" lon="12.76561"><ele>2023</ele></trkpt>
+<trkpt lat="47.06093" lon="12.76467"><ele>2009</ele></trkpt>
+<trkpt lat="47.06119" lon="12.76423"><ele>2001</ele></trkpt>
+<trkpt lat="47.0614" lon="12.76324"><ele>2002</ele></trkpt>
+<trkpt lat="47.0619" lon="12.76223"><ele>2015</ele></trkpt>
+<trkpt lat="47.06288" lon="12.76179"><ele>2014</ele></trkpt>
+<trkpt lat="47.06332" lon="12.76135"><ele>2022</ele></trkpt>
+<trkpt lat="47.06346" lon="12.76045"><ele>2061</ele></trkpt>
+<trkpt lat="47.06368" lon="12.75925"><ele>2099</ele></trkpt>
+<trkpt lat="47.06389" lon="12.75836"><ele>2111</ele></trkpt>
+<trkpt lat="47.06426" lon="12.75755"><ele>2118</ele></trkpt>
+<trkpt lat="47.06456" lon="12.75701"><ele>2123</ele></trkpt>
+<trkpt lat="47.0653" lon="12.75678"><ele>2123</ele></trkpt>
+<trkpt lat="47.06584" lon="12.75693"><ele>2117</ele></trkpt>
+<trkpt lat="47.06598" lon="12.75675"><ele>2114</ele></trkpt>
+<trkpt lat="47.06603" lon="12.75615"><ele>2107</ele></trkpt>
+<trkpt lat="47.06605" lon="12.75573"><ele>2102</ele></trkpt>
+<trkpt lat="47.06642" lon="12.75541"><ele>2094</ele></trkpt>
+<trkpt lat="47.06699" lon="12.75565"><ele>2081</ele></trkpt>
+<trkpt lat="47.0677" lon="12.75513"><ele>2074</ele></trkpt>
+<trkpt lat="47.06848" lon="12.75483"><ele>2080</ele></trkpt>
+<trkpt lat="47.06887" lon="12.75396"><ele>2079</ele></trkpt>
+<trkpt lat="47.06896" lon="12.753"><ele>2078</ele></trkpt>
+<trkpt lat="47.06921" lon="12.75224"><ele>2078</ele></trkpt>
+<trkpt lat="47.06929" lon="12.75142"><ele>2077</ele></trkpt>
+<trkpt lat="47.06924" lon="12.75112"><ele>2076</ele></trkpt>
+<trkpt lat="47.0681" lon="12.75038"><ele>2080</ele></trkpt>
+<trkpt lat="47.06746" lon="12.74998"><ele>2082</ele></trkpt>
+<trkpt lat="47.06752" lon="12.74942"><ele>2082</ele></trkpt>
+<trkpt lat="47.06834" lon="12.74876"><ele>2085</ele></trkpt>
+<trkpt lat="47.06888" lon="12.74887"><ele>2101</ele></trkpt>
+<trkpt lat="47.06967" lon="12.7489"><ele>2104</ele></trkpt>
+<trkpt lat="47.07014" lon="12.7499"><ele>2118</ele></trkpt>
+<trkpt lat="47.07038" lon="12.75098"><ele>2139</ele></trkpt>
+<trkpt lat="47.07079" lon="12.75119"><ele>2139</ele></trkpt>
+<trkpt lat="47.07103" lon="12.75082"><ele>2148</ele></trkpt>
+<trkpt lat="47.07133" lon="12.75113"><ele>2166</ele></trkpt>
+<trkpt lat="47.07162" lon="12.75089"><ele>2182</ele></trkpt>
+<trkpt lat="47.07214" lon="12.75113"><ele>2202</ele></trkpt>
+<trkpt lat="47.07269" lon="12.75058"><ele>2215</ele></trkpt>
+<trkpt lat="47.07315" lon="12.75013"><ele>2218</ele></trkpt>
+<trkpt lat="47.07392" lon="12.75027"><ele>2253</ele></trkpt>
+<trkpt lat="47.07437" lon="12.75025"><ele>2288</ele></trkpt>
+<trkpt lat="47.07438" lon="12.75087"><ele>2324</ele></trkpt>
+<trkpt lat="47.07484" lon="12.75089"><ele>2349</ele></trkpt>
+<trkpt lat="47.07585" lon="12.75114"><ele>2384</ele></trkpt>
+<trkpt lat="47.07695" lon="12.75096"><ele>2416</ele></trkpt>
+<trkpt lat="47.07764" lon="12.7506"><ele>2383</ele></trkpt>
+<trkpt lat="47.07907" lon="12.74982"><ele>2364</ele></trkpt>
+<trkpt lat="47.07993" lon="12.74893"><ele>2385</ele></trkpt>
+<trkpt lat="47.08078" lon="12.74764"><ele>2347</ele></trkpt>
+<trkpt lat="47.08102" lon="12.74727"><ele>2349</ele></trkpt>
+<trkpt lat="47.08171" lon="12.74674"><ele>2373</ele></trkpt>
+<trkpt lat="47.08201" lon="12.74604"><ele>2397</ele></trkpt>
+<trkpt lat="47.08254" lon="12.74546"><ele>2396</ele></trkpt>
+<trkpt lat="47.08285" lon="12.74423"><ele>2404</ele></trkpt>
+<trkpt lat="47.08313" lon="12.74375"><ele>2420</ele></trkpt>
+<trkpt lat="47.08369" lon="12.74333"><ele>2434</ele></trkpt>
+<trkpt lat="47.084" lon="12.74299"><ele>2441</ele></trkpt>
+<trkpt lat="47.08491" lon="12.74163"><ele>2466</ele></trkpt>
+<trkpt lat="47.08573" lon="12.74078"><ele>2463</ele></trkpt>
+<trkpt lat="47.08616" lon="12.7397"><ele>2474</ele></trkpt>
+<trkpt lat="47.08661" lon="12.73848"><ele>2506</ele></trkpt>
+<trkpt lat="47.08687" lon="12.73798"><ele>2508</ele></trkpt>
+<trkpt lat="47.08775" lon="12.73692"><ele>2499</ele></trkpt>
+<trkpt lat="47.08801" lon="12.73681"><ele>2504</ele></trkpt>
+<trkpt lat="47.08837" lon="12.73663"><ele>2508</ele></trkpt>
+<trkpt lat="47.08867" lon="12.73592"><ele>2508</ele></trkpt>
+<trkpt lat="47.08859" lon="12.7354"><ele>2515</ele></trkpt>
+<trkpt lat="47.08882" lon="12.73417"><ele>2533</ele></trkpt>
+<trkpt lat="47.08879" lon="12.73378"><ele>2532</ele></trkpt>
+<trkpt lat="47.08898" lon="12.73338"><ele>2532</ele></trkpt>
+<trkpt lat="47.08897" lon="12.73285"><ele>2527</ele></trkpt>
+<trkpt lat="47.08937" lon="12.7323"><ele>2519</ele></trkpt>
+<trkpt lat="47.08931" lon="12.73158"><ele>2531</ele></trkpt>
+<trkpt lat="47.08997" lon="12.73093"><ele>2542</ele></trkpt>
+<trkpt lat="47.09041" lon="12.73038"><ele>2545</ele></trkpt>
+<trkpt lat="47.09091" lon="12.7296"><ele>2556</ele></trkpt>
+<trkpt lat="47.09205" lon="12.72936"><ele>2577</ele></trkpt>
+<trkpt lat="47.09369" lon="12.72919"><ele>2606</ele></trkpt>
+<trkpt lat="47.09501" lon="12.72903"><ele>2611</ele></trkpt>
+<trkpt lat="47.0954" lon="12.72908"><ele>2608</ele></trkpt>
+<trkpt lat="47.09562" lon="12.72871"><ele>2608</ele></trkpt>
+<trkpt lat="47.09584" lon="12.72857"><ele>2608</ele></trkpt>
+<trkpt lat="47.09582" lon="12.72748"><ele>2609</ele></trkpt>
+<trkpt lat="47.09582" lon="12.72748"><ele>2609</ele></trkpt>
+<trkpt lat="47.09628" lon="12.72727"><ele>2609</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

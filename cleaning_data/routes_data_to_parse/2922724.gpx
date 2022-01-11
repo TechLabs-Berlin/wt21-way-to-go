@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Wanderung zur Gleiwitzerhütte]]></name>
+      <desc><![CDATA[<p>
+	<span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; line-height: 15px;">Startpunkt der Tour ist der sch&ouml;ne Ort Fusch an der Glocknerstrasse (813 m). Der Weg Nr. 725 f&uuml;hrt direkt nach Westen in Serpentinen bergan. Zuerst bewegt man sich auf der linken Talseite am Hang, noch vor der Hirzbachalm &uuml;berquert man aber den Hirzbach und der Weg verl&auml;uft an der rechten Talseite. Es geht vorbei an der Hirzbachalm (1715 m) und der Weg dreht nach S&uuml;den um kurz danach direkt nach Westen und &uuml;ber viele Serpentinen die Gleiwitzer H&uuml;tte (2174 m) zu erreichen.</span></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Wanderung zur Gleiwitzerhütte]]></name><desc><![CDATA[<p>
+	<span style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; line-height: 15px;">Startpunkt der Tour ist der sch&ouml;ne Ort Fusch an der Glocknerstrasse (813 m). Der Weg Nr. 725 f&uuml;hrt direkt nach Westen in Serpentinen bergan. Zuerst bewegt man sich auf der linken Talseite am Hang, noch vor der Hirzbachalm &uuml;berquert man aber den Hirzbach und der Weg verl&auml;uft an der rechten Talseite. Es geht vorbei an der Hirzbachalm (1715 m) und der Weg dreht nach S&uuml;den um kurz danach direkt nach Westen und &uuml;ber viele Serpentinen die Gleiwitzer H&uuml;tte (2174 m) zu erreichen.</span></p>
+]]></desc><trkseg>
+         <trkpt lat="47.22504" lon="12.8264"><ele>817</ele></trkpt>
+<trkpt lat="47.22461" lon="12.82323"><ele>830</ele></trkpt>
+<trkpt lat="47.2235" lon="12.82168"><ele>854</ele></trkpt>
+<trkpt lat="47.22251" lon="12.82224"><ele>889</ele></trkpt>
+<trkpt lat="47.22137" lon="12.82173"><ele>918</ele></trkpt>
+<trkpt lat="47.21983" lon="12.82207"><ele>950</ele></trkpt>
+<trkpt lat="47.22181" lon="12.81937"><ele>1008</ele></trkpt>
+<trkpt lat="47.22286" lon="12.81765"><ele>1052</ele></trkpt>
+<trkpt lat="47.22192" lon="12.81804"><ele>1063</ele></trkpt>
+<trkpt lat="47.22303" lon="12.81696"><ele>1096</ele></trkpt>
+<trkpt lat="47.22146" lon="12.81752"><ele>1127</ele></trkpt>
+<trkpt lat="47.22271" lon="12.81143"><ele>1225</ele></trkpt>
+<trkpt lat="47.2221" lon="12.8128"><ele>1247</ele></trkpt>
+<trkpt lat="47.22117" lon="12.81327"><ele>1274</ele></trkpt>
+<trkpt lat="47.22122" lon="12.81035"><ele>1322</ele></trkpt>
+<trkpt lat="47.22096" lon="12.80791"><ele>1355</ele></trkpt>
+<trkpt lat="47.22114" lon="12.80538"><ele>1386</ele></trkpt>
+<trkpt lat="47.22082" lon="12.8034"><ele>1427</ele></trkpt>
+<trkpt lat="47.22035" lon="12.80336"><ele>1453</ele></trkpt>
+<trkpt lat="47.22108" lon="12.80126"><ele>1500</ele></trkpt>
+<trkpt lat="47.22204" lon="12.79864"><ele>1547</ele></trkpt>
+<trkpt lat="47.2228" lon="12.79795"><ele>1525</ele></trkpt>
+<trkpt lat="47.22239" lon="12.7952"><ele>1600</ele></trkpt>
+<trkpt lat="47.22309" lon="12.79628"><ele>1602</ele></trkpt>
+<trkpt lat="47.22254" lon="12.79289"><ele>1656</ele></trkpt>
+<trkpt lat="47.22271" lon="12.79014"><ele>1673</ele></trkpt>
+<trkpt lat="47.22222" lon="12.78722"><ele>1711</ele></trkpt>
+<trkpt lat="47.2214" lon="12.78465"><ele>1721</ele></trkpt>
+<trkpt lat="47.22058" lon="12.7813"><ele>1735</ele></trkpt>
+<trkpt lat="47.21997" lon="12.7786"><ele>1778</ele></trkpt>
+<trkpt lat="47.21898" lon="12.77731"><ele>1808</ele></trkpt>
+<trkpt lat="47.2179" lon="12.77679"><ele>1836</ele></trkpt>
+<trkpt lat="47.21647" lon="12.77735"><ele>1856</ele></trkpt>
+<trkpt lat="47.21612" lon="12.77662"><ele>1909</ele></trkpt>
+<trkpt lat="47.21644" lon="12.77589"><ele>1944</ele></trkpt>
+<trkpt lat="47.21636" lon="12.77495"><ele>1986</ele></trkpt>
+<trkpt lat="47.21694" lon="12.77426"><ele>2004</ele></trkpt>
+<trkpt lat="47.21627" lon="12.77396"><ele>2025</ele></trkpt>
+<trkpt lat="47.21685" lon="12.77323"><ele>2035</ele></trkpt>
+<trkpt lat="47.21609" lon="12.77323"><ele>2055</ele></trkpt>
+<trkpt lat="47.21618" lon="12.77216"><ele>2072</ele></trkpt>
+<trkpt lat="47.21642" lon="12.77122"><ele>2098</ele></trkpt>
+<trkpt lat="47.21749" lon="12.77036"><ele>2114</ele></trkpt>
+<trkpt lat="47.21802" lon="12.77134"><ele>2105</ele></trkpt>
+<trkpt lat="47.21837" lon="12.76997"><ele>2152</ele></trkpt>
+<trkpt lat="47.21819" lon="12.76894"><ele>2180</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

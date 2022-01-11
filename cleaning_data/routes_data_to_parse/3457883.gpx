@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Korswandt - Wolgastsee - Swinemünde auf Usedom]]></name>
+      <desc><![CDATA[<p>
+	<span style="font-size: 12px;">Die Wanderung beginnt in Korswandt, hierher kommst du per Bus Nr. 201 von Heringsdorf oder Anklam (Bahnlinie Berlin-Stralsund) Von Korswandt f&uuml;hrt die Route zun&auml;chst am s&uuml;dlichen Uferweg des Wolgaster Sees entlang. Durch eine vielf&auml;ltige Landschaft aus Buchenw&auml;ldern, eiszeitlichen Erhebungen, Mooren, Erlenbruchw&auml;ldern und kleinen Seen kommst du &uuml;ber die gr&uuml;ne Grenze nach Polen. Du kommst zu einem abgesperrten Milit&auml;rgel&auml;nde, wo du an der westlichen (linken) Seite entlang weiter geradeaus bis zur Bahnlinie gehst. Etwa 1 km in &ouml;stlicher Richtung ist der Bahn&uuml;bergang. Nach Norden &uuml;berquerst du auf dem Weg zum Strand die Hauptstra&szlig;e (mit dem &bdquo;Polenmarkt&ldquo;) und mehrere Nebenstra&szlig;en.</span></p>
+<p>
+	Auf der befestigten Strandweg auf den D&uuml;nen mit sch&ouml;ner Aussicht gehst du bis 900 m bis zum Ende, dann rechts zur Promenade zur&uuml;ck und durch den restaurierten Stadtpark zu alten Befestigungsbauwerken am Ufer der Swine. Weiter durch den park kommst du zum alten Stadtkern. Am Fischerei- und Meeresmuseum sind alte und neue Stadtansichten gegen&uuml;bergestellt. Am Swinem&uuml;nder Hafen endet die Wanderung, von hier kannst du z.B. mit dem Schnellboot in 75 Minuten nach Stettin kommen (Anmeldung in Dtl. unter Tel 01805-123344)</p>
+
+
+(cloned from route 1391756)]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Korswandt - Wolgastsee - Swinemünde auf Usedom]]></name><desc><![CDATA[<p>
+	<span style="font-size: 12px;">Die Wanderung beginnt in Korswandt, hierher kommst du per Bus Nr. 201 von Heringsdorf oder Anklam (Bahnlinie Berlin-Stralsund) Von Korswandt f&uuml;hrt die Route zun&auml;chst am s&uuml;dlichen Uferweg des Wolgaster Sees entlang. Durch eine vielf&auml;ltige Landschaft aus Buchenw&auml;ldern, eiszeitlichen Erhebungen, Mooren, Erlenbruchw&auml;ldern und kleinen Seen kommst du &uuml;ber die gr&uuml;ne Grenze nach Polen. Du kommst zu einem abgesperrten Milit&auml;rgel&auml;nde, wo du an der westlichen (linken) Seite entlang weiter geradeaus bis zur Bahnlinie gehst. Etwa 1 km in &ouml;stlicher Richtung ist der Bahn&uuml;bergang. Nach Norden &uuml;berquerst du auf dem Weg zum Strand die Hauptstra&szlig;e (mit dem &bdquo;Polenmarkt&ldquo;) und mehrere Nebenstra&szlig;en.</span></p>
+<p>
+	Auf der befestigten Strandweg auf den D&uuml;nen mit sch&ouml;ner Aussicht gehst du bis 900 m bis zum Ende, dann rechts zur Promenade zur&uuml;ck und durch den restaurierten Stadtpark zu alten Befestigungsbauwerken am Ufer der Swine. Weiter durch den park kommst du zum alten Stadtkern. Am Fischerei- und Meeresmuseum sind alte und neue Stadtansichten gegen&uuml;bergestellt. Am Swinem&uuml;nder Hafen endet die Wanderung, von hier kannst du z.B. mit dem Schnellboot in 75 Minuten nach Stettin kommen (Anmeldung in Dtl. unter Tel 01805-123344)</p>
+
+
+(cloned from route 1391756)]]></desc><trkseg>
+         <trkpt lat="53.91877" lon="14.16467"><ele>11</ele></trkpt>
+<trkpt lat="53.91811" lon="14.16382"><ele>4</ele></trkpt>
+<trkpt lat="53.91791" lon="14.1644"><ele>5</ele></trkpt>
+<trkpt lat="53.91765" lon="14.16511"><ele>6</ele></trkpt>
+<trkpt lat="53.91744" lon="14.16567"><ele>4</ele></trkpt>
+<trkpt lat="53.91729" lon="14.16615"><ele>2</ele></trkpt>
+<trkpt lat="53.91715" lon="14.167"><ele>1</ele></trkpt>
+<trkpt lat="53.91702" lon="14.16892"><ele>0</ele></trkpt>
+<trkpt lat="53.91695" lon="14.17057"><ele>0</ele></trkpt>
+<trkpt lat="53.91684" lon="14.171"><ele>0</ele></trkpt>
+<trkpt lat="53.91674" lon="14.17126"><ele>0</ele></trkpt>
+<trkpt lat="53.91646" lon="14.17158"><ele>0</ele></trkpt>
+<trkpt lat="53.91616" lon="14.17208"><ele>0</ele></trkpt>
+<trkpt lat="53.91585" lon="14.17281"><ele>1</ele></trkpt>
+<trkpt lat="53.91549" lon="14.17429"><ele>1</ele></trkpt>
+<trkpt lat="53.91545" lon="14.17459"><ele>1</ele></trkpt>
+<trkpt lat="53.91523" lon="14.17529"><ele>2</ele></trkpt>
+<trkpt lat="53.91495" lon="14.1759"><ele>4</ele></trkpt>
+<trkpt lat="53.91458" lon="14.17644"><ele>4</ele></trkpt>
+<trkpt lat="53.91425" lon="14.17712"><ele>3</ele></trkpt>
+<trkpt lat="53.91391" lon="14.17755"><ele>5</ele></trkpt>
+<trkpt lat="53.91362" lon="14.17787"><ele>7</ele></trkpt>
+<trkpt lat="53.91335" lon="14.17826"><ele>7</ele></trkpt>
+<trkpt lat="53.91316" lon="14.1789"><ele>6</ele></trkpt>
+<trkpt lat="53.91306" lon="14.17915"><ele>6</ele></trkpt>
+<trkpt lat="53.9128" lon="14.17925"><ele>8</ele></trkpt>
+<trkpt lat="53.91248" lon="14.17922"><ele>13</ele></trkpt>
+<trkpt lat="53.9123" lon="14.17928"><ele>15</ele></trkpt>
+<trkpt lat="53.91211" lon="14.1797"><ele>15</ele></trkpt>
+<trkpt lat="53.91173" lon="14.18127"><ele>3</ele></trkpt>
+<trkpt lat="53.91154" lon="14.18228"><ele>5</ele></trkpt>
+<trkpt lat="53.91152" lon="14.18283"><ele>7</ele></trkpt>
+<trkpt lat="53.91139" lon="14.18347"><ele>8</ele></trkpt>
+<trkpt lat="53.91142" lon="14.18369"><ele>8</ele></trkpt>
+<trkpt lat="53.91068" lon="14.18464"><ele>14</ele></trkpt>
+<trkpt lat="53.90995" lon="14.18502"><ele>12</ele></trkpt>
+<trkpt lat="53.90904" lon="14.18597"><ele>13</ele></trkpt>
+<trkpt lat="53.90851" lon="14.18721"><ele>13</ele></trkpt>
+<trkpt lat="53.90778" lon="14.18824"><ele>19</ele></trkpt>
+<trkpt lat="53.90783" lon="14.18983"><ele>22</ele></trkpt>
+<trkpt lat="53.90785" lon="14.1912"><ele>26</ele></trkpt>
+<trkpt lat="53.90795" lon="14.19369"><ele>32</ele></trkpt>
+<trkpt lat="53.90821" lon="14.19554"><ele>36</ele></trkpt>
+<trkpt lat="53.90773" lon="14.19609"><ele>31</ele></trkpt>
+<trkpt lat="53.90688" lon="14.19605"><ele>26</ele></trkpt>
+<trkpt lat="53.90659" lon="14.19685"><ele>23</ele></trkpt>
+<trkpt lat="53.90621" lon="14.19747"><ele>19</ele></trkpt>
+<trkpt lat="53.90569" lon="14.19767"><ele>15</ele></trkpt>
+<trkpt lat="53.90549" lon="14.19807"><ele>12</ele></trkpt>
+<trkpt lat="53.90593" lon="14.19887"><ele>9</ele></trkpt>
+<trkpt lat="53.90642" lon="14.19949"><ele>6</ele></trkpt>
+<trkpt lat="53.90664" lon="14.19986"><ele>6</ele></trkpt>
+<trkpt lat="53.90705" lon="14.20006"><ele>6</ele></trkpt>
+<trkpt lat="53.90732" lon="14.20034"><ele>6</ele></trkpt>
+<trkpt lat="53.90736" lon="14.20135"><ele>6</ele></trkpt>
+<trkpt lat="53.90756" lon="14.20189"><ele>8</ele></trkpt>
+<trkpt lat="53.90808" lon="14.20339"><ele>16</ele></trkpt>
+<trkpt lat="53.90874" lon="14.20484"><ele>21</ele></trkpt>
+<trkpt lat="53.90921" lon="14.20547"><ele>22</ele></trkpt>
+<trkpt lat="53.90955" lon="14.2068"><ele>20</ele></trkpt>
+<trkpt lat="53.90963" lon="14.20785"><ele>17</ele></trkpt>
+<trkpt lat="53.90992" lon="14.20883"><ele>17</ele></trkpt>
+<trkpt lat="53.90991" lon="14.20924"><ele>17</ele></trkpt>
+<trkpt lat="53.91036" lon="14.20975"><ele>18</ele></trkpt>
+<trkpt lat="53.91135" lon="14.21065"><ele>16</ele></trkpt>
+<trkpt lat="53.91209" lon="14.21123"><ele>16</ele></trkpt>
+<trkpt lat="53.91269" lon="14.21158"><ele>15</ele></trkpt>
+<trkpt lat="53.91305" lon="14.21156"><ele>14</ele></trkpt>
+<trkpt lat="53.91315" lon="14.21205"><ele>13</ele></trkpt>
+<trkpt lat="53.91333" lon="14.21182"><ele>13</ele></trkpt>
+<trkpt lat="53.91401" lon="14.21257"><ele>11</ele></trkpt>
+<trkpt lat="53.91449" lon="14.21329"><ele>11</ele></trkpt>
+<trkpt lat="53.91637" lon="14.21623"><ele>12</ele></trkpt>
+<trkpt lat="53.91917" lon="14.2207"><ele>10</ele></trkpt>
+<trkpt lat="53.91839" lon="14.22263"><ele>8</ele></trkpt>
+<trkpt lat="53.917" lon="14.22606"><ele>9</ele></trkpt>
+<trkpt lat="53.91536" lon="14.23028"><ele>8</ele></trkpt>
+<trkpt lat="53.91614" lon="14.23131"><ele>4</ele></trkpt>
+<trkpt lat="53.91651" lon="14.23157"><ele>3</ele></trkpt>
+<trkpt lat="53.91816" lon="14.23358"><ele>5</ele></trkpt>
+<trkpt lat="53.91799" lon="14.23419"><ele>8</ele></trkpt>
+<trkpt lat="53.91868" lon="14.23542"><ele>16</ele></trkpt>
+<trkpt lat="53.91918" lon="14.23611"><ele>15</ele></trkpt>
+<trkpt lat="53.91929" lon="14.23649"><ele>14</ele></trkpt>
+<trkpt lat="53.92047" lon="14.23754"><ele>11</ele></trkpt>
+<trkpt lat="53.92233" lon="14.23891"><ele>4</ele></trkpt>
+<trkpt lat="53.9211" lon="14.24326"><ele>4</ele></trkpt>
+<trkpt lat="53.92302" lon="14.24418"><ele>0</ele></trkpt>
+<trkpt lat="53.92256" lon="14.24605"><ele>0</ele></trkpt>
+<trkpt lat="53.92235" lon="14.24734"><ele>0</ele></trkpt>
+<trkpt lat="53.92188" lon="14.24992"><ele>0</ele></trkpt>
+<trkpt lat="53.92155" lon="14.25348"><ele>0</ele></trkpt>
+<trkpt lat="53.92125" lon="14.25354"><ele>0</ele></trkpt>
+<trkpt lat="53.91968" lon="14.25282"><ele>5</ele></trkpt>
+<trkpt lat="53.91895" lon="14.25932"><ele>4</ele></trkpt>
+<trkpt lat="53.91778" lon="14.25891"><ele>5</ele></trkpt>
+<trkpt lat="53.91553" lon="14.25792"><ele>6</ele></trkpt>
+<trkpt lat="53.91545" lon="14.26226"><ele>6</ele></trkpt>
+<trkpt lat="53.91535" lon="14.26726"><ele>13</ele></trkpt>
+<trkpt lat="53.91548" lon="14.27016"><ele>12</ele></trkpt>
+<trkpt lat="53.91572" lon="14.27101"><ele>11</ele></trkpt>
+<trkpt lat="53.91617" lon="14.27218"><ele>11</ele></trkpt>
+<trkpt lat="53.9162" lon="14.27313"><ele>9</ele></trkpt>
+<trkpt lat="53.91621" lon="14.27418"><ele>7</ele></trkpt>
+<trkpt lat="53.91617" lon="14.27476"><ele>5</ele></trkpt>
+<trkpt lat="53.9161" lon="14.27533"><ele>4</ele></trkpt>
+<trkpt lat="53.916" lon="14.27569"><ele>3</ele></trkpt>
+<trkpt lat="53.91574" lon="14.27574"><ele>3</ele></trkpt>
+<trkpt lat="53.9146" lon="14.2748"><ele>7</ele></trkpt>
+<trkpt lat="53.91442" lon="14.27443"><ele>8</ele></trkpt>
+<trkpt lat="53.91405" lon="14.2725"><ele>7</ele></trkpt>
+<trkpt lat="53.91382" lon="14.27119"><ele>3</ele></trkpt>
+<trkpt lat="53.91318" lon="14.26949"><ele>3</ele></trkpt>
+<trkpt lat="53.91331" lon="14.2694"><ele>3</ele></trkpt>
+<trkpt lat="53.91294" lon="14.26819"><ele>3</ele></trkpt>
+<trkpt lat="53.91285" lon="14.26612"><ele>2</ele></trkpt>
+<trkpt lat="53.91262" lon="14.26099"><ele>11</ele></trkpt>
+<trkpt lat="53.91149" lon="14.2586"><ele>5</ele></trkpt>
+<trkpt lat="53.91029" lon="14.25587"><ele>2</ele></trkpt>
+<trkpt lat="53.91037" lon="14.25366"><ele>4</ele></trkpt>
+<trkpt lat="53.91042" lon="14.25309"><ele>4</ele></trkpt>
+<trkpt lat="53.90813" lon="14.25194"><ele>3</ele></trkpt>
+<trkpt lat="53.9087" lon="14.24939"><ele>2</ele></trkpt>
+<trkpt lat="53.90826" lon="14.24831"><ele>3</ele></trkpt>
+<trkpt lat="53.90794" lon="14.24774"><ele>2</ele></trkpt>
+<trkpt lat="53.90732" lon="14.24869"><ele>2</ele></trkpt>
+<trkpt lat="53.90721" lon="14.2488"><ele>2</ele></trkpt>
+<trkpt lat="53.90735" lon="14.24927"><ele>2</ele></trkpt>
+<trkpt lat="53.9074" lon="14.24926"><ele>1</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Mühlviertler Wandergolfweg | Rohrbach-Berg| Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Mühlviertler Wandergolfweg</strong></p>
+<p>
+	Mit "Wandergolfstock", Golfball und einer Karte zum eintragen der gemachten Schläge machen Sie sich auf den Weg. Entlang der Strecke erwarten Sie zahlreiche kreative Golfstationen wie: Pilz-Kegelbahn, Labyrinth, Achterbahn und vieles mehr. Beginn dieser Wanderung ist beim Gasthaus Kollonödt in Reith bei Rohrbach-Berg. Weg Nr. 55</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000385/muehlviertler-wandergolfweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100  </p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Mühlviertler Wandergolfweg | Rohrbach-Berg| Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Mühlviertler Wandergolfweg</strong></p>
+<p>
+	Mit "Wandergolfstock", Golfball und einer Karte zum eintragen der gemachten Schläge machen Sie sich auf den Weg. Entlang der Strecke erwarten Sie zahlreiche kreative Golfstationen wie: Pilz-Kegelbahn, Labyrinth, Achterbahn und vieles mehr. Beginn dieser Wanderung ist beim Gasthaus Kollonödt in Reith bei Rohrbach-Berg. Weg Nr. 55</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000385/muehlviertler-wandergolfweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100  </p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.61337" lon="13.9851"><ele>637</ele></trkpt>
+<trkpt lat="48.61324" lon="13.98445"><ele>632</ele></trkpt>
+<trkpt lat="48.61311" lon="13.9838"><ele>628</ele></trkpt>
+<trkpt lat="48.6132" lon="13.98314"><ele>624</ele></trkpt>
+<trkpt lat="48.6133" lon="13.98248"><ele>620</ele></trkpt>
+<trkpt lat="48.61321" lon="13.98183"><ele>620</ele></trkpt>
+<trkpt lat="48.61296" lon="13.98128"><ele>621</ele></trkpt>
+<trkpt lat="48.61266" lon="13.98078"><ele>621</ele></trkpt>
+<trkpt lat="48.61227" lon="13.9805"><ele>621</ele></trkpt>
+<trkpt lat="48.61187" lon="13.98023"><ele>633</ele></trkpt>
+<trkpt lat="48.61148" lon="13.98002"><ele>646</ele></trkpt>
+<trkpt lat="48.61103" lon="13.9801"><ele>656</ele></trkpt>
+<trkpt lat="48.61058" lon="13.98017"><ele>666</ele></trkpt>
+<trkpt lat="48.61013" lon="13.98024"><ele>671</ele></trkpt>
+<trkpt lat="48.60969" lon="13.98031"><ele>676</ele></trkpt>
+<trkpt lat="48.60924" lon="13.98038"><ele>674</ele></trkpt>
+<trkpt lat="48.60879" lon="13.98045"><ele>673</ele></trkpt>
+<trkpt lat="48.60836" lon="13.98034"><ele>673</ele></trkpt>
+<trkpt lat="48.60816" lon="13.97979"><ele>673</ele></trkpt>
+<trkpt lat="48.60848" lon="13.9793"><ele>680</ele></trkpt>
+<trkpt lat="48.60883" lon="13.97891"><ele>687</ele></trkpt>
+<trkpt lat="48.60925" lon="13.97867"><ele>694</ele></trkpt>
+<trkpt lat="48.60962" lon="13.97828"><ele>700</ele></trkpt>
+<trkpt lat="48.60997" lon="13.97786"><ele>712</ele></trkpt>
+<trkpt lat="48.61006" lon="13.97724"><ele>722</ele></trkpt>
+<trkpt lat="48.60991" lon="13.97661"><ele>731</ele></trkpt>
+<trkpt lat="48.6095" lon="13.97632"><ele>740</ele></trkpt>
+<trkpt lat="48.60936" lon="13.97608"><ele>738</ele></trkpt>
+<trkpt lat="48.60978" lon="13.97586"><ele>732</ele></trkpt>
+<trkpt lat="48.6101" lon="13.9754"><ele>727</ele></trkpt>
+<trkpt lat="48.61032" lon="13.97481"><ele>721</ele></trkpt>
+<trkpt lat="48.61069" lon="13.97448"><ele>714</ele></trkpt>
+<trkpt lat="48.61111" lon="13.97422"><ele>705</ele></trkpt>
+<trkpt lat="48.61155" lon="13.97409"><ele>699</ele></trkpt>
+<trkpt lat="48.61181" lon="13.97456"><ele>697</ele></trkpt>
+<trkpt lat="48.61187" lon="13.97519"><ele>694</ele></trkpt>
+<trkpt lat="48.61182" lon="13.97587"><ele>686</ele></trkpt>
+<trkpt lat="48.61184" lon="13.97651"><ele>680</ele></trkpt>
+<trkpt lat="48.61207" lon="13.9771"><ele>678</ele></trkpt>
+<trkpt lat="48.61218" lon="13.97765"><ele>675</ele></trkpt>
+<trkpt lat="48.6119" lon="13.97815"><ele>667</ele></trkpt>
+<trkpt lat="48.61175" lon="13.97879"><ele>658</ele></trkpt>
+<trkpt lat="48.61161" lon="13.97943"><ele>652</ele></trkpt>
+<trkpt lat="48.6115" lon="13.98005"><ele>645</ele></trkpt>
+<trkpt lat="48.61193" lon="13.98027"><ele>631</ele></trkpt>
+<trkpt lat="48.61235" lon="13.98049"><ele>620</ele></trkpt>
+<trkpt lat="48.61271" lon="13.98086"><ele>616</ele></trkpt>
+<trkpt lat="48.61301" lon="13.98137"><ele>614</ele></trkpt>
+<trkpt lat="48.61324" lon="13.98194"><ele>617</ele></trkpt>
+<trkpt lat="48.61328" lon="13.98259"><ele>621</ele></trkpt>
+<trkpt lat="48.61319" lon="13.98325"><ele>628</ele></trkpt>
+<trkpt lat="48.61313" lon="13.98391"><ele>635</ele></trkpt>
+<trkpt lat="48.61326" lon="13.98456"><ele>636</ele></trkpt>
+<trkpt lat="48.61337" lon="13.9851"><ele>637</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

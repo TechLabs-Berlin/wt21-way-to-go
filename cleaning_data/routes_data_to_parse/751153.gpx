@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Naturerlebnisweg | Haslach an der Mühl | Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Naturerlebnisweg</strong></p>
+<p>
+	Entlang des Weges sind verschiedene Stationen aufgebaut, die den Besucher mit allen Sinnen ansprechen - nicht nur sehen, sondern auch tasten fühlen und riechen. Neben den Stationen mit Wissensvermittlung gibt es auch solche die Spaß machen oder Geschicklichkeitsübungen bieten. Der Spielplatz am Ende des Weges lädt zum Rasten ein und im Sommer kann auch in der Steinernen Mühl gebadet werden. Ausgangspunkt dieser Wanderung ist am Marktplatz in Haslach an der Mühl. Weg Nr. 79</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000265/naturerlebnisweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Naturerlebnisweg | Haslach an der Mühl | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Naturerlebnisweg</strong></p>
+<p>
+	Entlang des Weges sind verschiedene Stationen aufgebaut, die den Besucher mit allen Sinnen ansprechen - nicht nur sehen, sondern auch tasten fühlen und riechen. Neben den Stationen mit Wissensvermittlung gibt es auch solche die Spaß machen oder Geschicklichkeitsübungen bieten. Der Spielplatz am Ende des Weges lädt zum Rasten ein und im Sommer kann auch in der Steinernen Mühl gebadet werden. Ausgangspunkt dieser Wanderung ist am Marktplatz in Haslach an der Mühl. Weg Nr. 79</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000265/naturerlebnisweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.57189" lon="14.05325"><ele>522</ele></trkpt>
+<trkpt lat="48.57153" lon="14.05283"><ele>520</ele></trkpt>
+<trkpt lat="48.57112" lon="14.0528"><ele>520</ele></trkpt>
+<trkpt lat="48.57067" lon="14.05292"><ele>526</ele></trkpt>
+<trkpt lat="48.57028" lon="14.05312"><ele>532</ele></trkpt>
+<trkpt lat="48.57013" lon="14.05376"><ele>527</ele></trkpt>
+<trkpt lat="48.56998" lon="14.05439"><ele>521</ele></trkpt>
+<trkpt lat="48.57005" lon="14.05506"><ele>522</ele></trkpt>
+<trkpt lat="48.5701" lon="14.05573"><ele>524</ele></trkpt>
+<trkpt lat="48.57002" lon="14.0564"><ele>525</ele></trkpt>
+<trkpt lat="48.56974" lon="14.05688"><ele>525</ele></trkpt>
+<trkpt lat="48.56929" lon="14.05682"><ele>529</ele></trkpt>
+<trkpt lat="48.56885" lon="14.05678"><ele>533</ele></trkpt>
+<trkpt lat="48.56846" lon="14.05712"><ele>532</ele></trkpt>
+<trkpt lat="48.56822" lon="14.05768"><ele>530</ele></trkpt>
+<trkpt lat="48.56817" lon="14.05835"><ele>527</ele></trkpt>
+<trkpt lat="48.56814" lon="14.05902"><ele>525</ele></trkpt>
+<trkpt lat="48.56823" lon="14.05969"><ele>523</ele></trkpt>
+<trkpt lat="48.56857" lon="14.06012"><ele>521</ele></trkpt>
+<trkpt lat="48.56876" lon="14.06043"><ele>521</ele></trkpt>
+<trkpt lat="48.56862" lon="14.06107"><ele>521</ele></trkpt>
+<trkpt lat="48.56853" lon="14.06172"><ele>521</ele></trkpt>
+<trkpt lat="48.5686" lon="14.06239"><ele>521</ele></trkpt>
+<trkpt lat="48.56863" lon="14.06306"><ele>520</ele></trkpt>
+<trkpt lat="48.56856" lon="14.06373"><ele>518</ele></trkpt>
+<trkpt lat="48.56849" lon="14.0644"><ele>518</ele></trkpt>
+<trkpt lat="48.56812" lon="14.06466"><ele>518</ele></trkpt>
+<trkpt lat="48.56767" lon="14.06463"><ele>517</ele></trkpt>
+<trkpt lat="48.56722" lon="14.06462"><ele>513</ele></trkpt>
+<trkpt lat="48.56679" lon="14.06481"><ele>512</ele></trkpt>
+<trkpt lat="48.56636" lon="14.06495"><ele>512</ele></trkpt>
+<trkpt lat="48.56591" lon="14.06485"><ele>512</ele></trkpt>
+<trkpt lat="48.56547" lon="14.06476"><ele>512</ele></trkpt>
+<trkpt lat="48.56502" lon="14.06473"><ele>514</ele></trkpt>
+<trkpt lat="48.56459" lon="14.06488"><ele>517</ele></trkpt>
+<trkpt lat="48.56415" lon="14.06503"><ele>518</ele></trkpt>
+<trkpt lat="48.56373" lon="14.06525"><ele>516</ele></trkpt>
+<trkpt lat="48.56335" lon="14.06561"><ele>516</ele></trkpt>
+<trkpt lat="48.5638" lon="14.06561"><ele>516</ele></trkpt>
+<trkpt lat="48.56421" lon="14.06582"><ele>519</ele></trkpt>
+<trkpt lat="48.56438" lon="14.06635"><ele>522</ele></trkpt>
+<trkpt lat="48.56425" lon="14.067"><ele>525</ele></trkpt>
+<trkpt lat="48.56469" lon="14.06702"><ele>525</ele></trkpt>
+<trkpt lat="48.56514" lon="14.06704"><ele>525</ele></trkpt>
+<trkpt lat="48.56559" lon="14.06704"><ele>523</ele></trkpt>
+<trkpt lat="48.56603" lon="14.06693"><ele>522</ele></trkpt>
+<trkpt lat="48.56648" lon="14.06682"><ele>522</ele></trkpt>
+<trkpt lat="48.56692" lon="14.06672"><ele>519</ele></trkpt>
+<trkpt lat="48.56736" lon="14.06661"><ele>515</ele></trkpt>
+<trkpt lat="48.5676" lon="14.06606"><ele>513</ele></trkpt>
+<trkpt lat="48.5679" lon="14.0656"><ele>515</ele></trkpt>
+<trkpt lat="48.56832" lon="14.06539"><ele>517</ele></trkpt>
+<trkpt lat="48.56875" lon="14.06518"><ele>519</ele></trkpt>
+<trkpt lat="48.56891" lon="14.06461"><ele>520</ele></trkpt>
+<trkpt lat="48.5691" lon="14.06403"><ele>518</ele></trkpt>
+<trkpt lat="48.56935" lon="14.06348"><ele>518</ele></trkpt>
+<trkpt lat="48.56947" lon="14.06283"><ele>521</ele></trkpt>
+<trkpt lat="48.5696" lon="14.06219"><ele>523</ele></trkpt>
+<trkpt lat="48.56984" lon="14.06161"><ele>525</ele></trkpt>
+<trkpt lat="48.57008" lon="14.06104"><ele>525</ele></trkpt>
+<trkpt lat="48.56982" lon="14.06064"><ele>524</ele></trkpt>
+<trkpt lat="48.56943" lon="14.0603"><ele>524</ele></trkpt>
+<trkpt lat="48.56922" lon="14.05972"><ele>529</ele></trkpt>
+<trkpt lat="48.56902" lon="14.05911"><ele>532</ele></trkpt>
+<trkpt lat="48.56883" lon="14.0585"><ele>529</ele></trkpt>
+<trkpt lat="48.56883" lon="14.05785"><ele>528</ele></trkpt>
+<trkpt lat="48.56924" lon="14.05764"><ele>534</ele></trkpt>
+<trkpt lat="48.56969" lon="14.05758"><ele>537</ele></trkpt>
+<trkpt lat="48.57004" lon="14.05732"><ele>531</ele></trkpt>
+<trkpt lat="48.57022" lon="14.0567"><ele>525</ele></trkpt>
+<trkpt lat="48.5704" lon="14.05607"><ele>527</ele></trkpt>
+<trkpt lat="48.57057" lon="14.05545"><ele>528</ele></trkpt>
+<trkpt lat="48.57063" lon="14.05479"><ele>525</ele></trkpt>
+<trkpt lat="48.57064" lon="14.05411"><ele>522</ele></trkpt>
+<trkpt lat="48.57086" lon="14.05357"><ele>520</ele></trkpt>
+<trkpt lat="48.57118" lon="14.0531"><ele>518</ele></trkpt>
+<trkpt lat="48.57151" lon="14.0528"><ele>519</ele></trkpt>
+<trkpt lat="48.57186" lon="14.05322"><ele>521</ele></trkpt>
+<trkpt lat="48.57189" lon="14.05325"><ele>521</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

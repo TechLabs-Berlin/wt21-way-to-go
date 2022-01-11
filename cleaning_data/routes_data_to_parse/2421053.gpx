@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Durch den Gryzynski-Landschaftspark im Lebuser Land]]></name>
+      <desc><![CDATA[<p>
+	Der 1996 beschlossene Gryzynski Landschaftspark&nbsp;ist durch eine eiszeitliche Gletschermulde gepr&auml;gt. Hindurch flie&szlig;t als &Uuml;berbleibsel davon der Gryżynski Protok (Grieselbach), der weiter s&uuml;dlich in die Oder m&uuml;ndet. Das wenig ber&uuml;hrte und abseits der Verkehrsrouten gelegene Natur-Areal (mit Pufferzone ca. 20.000 ha) ist heute von Wald, mehren Seen und Flie&szlig;gew&auml;ssern sowie einem sehr abwechlungsreichen Gel&auml;nde gepr&auml;gt. Wegen seiner Bedeutung f&uuml;r die Tier- und Pflanzenwelt (u.a. Seeadler, Fischadler, Schwarzstorch, Eisvogel, Biber) wurde das Gebiet in die NATURA-2000-Liste aufgenommen. Im zentral gelegenen Dorf Grabin ist rund um das Schlo&szlig; ein Landschaftspark zu besichtigen, zu dem eine beeindruckende Eichenallee f&uuml;hrt.</p>
+<p>
+	Der n&auml;chste Verkehrsverbindung f&uuml;r Wanderer ist im S&uuml;den des Landschaftsparks der Bahnhof Radnika, gelegen an der Bahnlinie Zielona Gora - Frankfurt(Oder).</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Durch den Gryzynski-Landschaftspark im Lebuser Land]]></name><desc><![CDATA[<p>
+	Der 1996 beschlossene Gryzynski Landschaftspark&nbsp;ist durch eine eiszeitliche Gletschermulde gepr&auml;gt. Hindurch flie&szlig;t als &Uuml;berbleibsel davon der Gryżynski Protok (Grieselbach), der weiter s&uuml;dlich in die Oder m&uuml;ndet. Das wenig ber&uuml;hrte und abseits der Verkehrsrouten gelegene Natur-Areal (mit Pufferzone ca. 20.000 ha) ist heute von Wald, mehren Seen und Flie&szlig;gew&auml;ssern sowie einem sehr abwechlungsreichen Gel&auml;nde gepr&auml;gt. Wegen seiner Bedeutung f&uuml;r die Tier- und Pflanzenwelt (u.a. Seeadler, Fischadler, Schwarzstorch, Eisvogel, Biber) wurde das Gebiet in die NATURA-2000-Liste aufgenommen. Im zentral gelegenen Dorf Grabin ist rund um das Schlo&szlig; ein Landschaftspark zu besichtigen, zu dem eine beeindruckende Eichenallee f&uuml;hrt.</p>
+<p>
+	Der n&auml;chste Verkehrsverbindung f&uuml;r Wanderer ist im S&uuml;den des Landschaftsparks der Bahnhof Radnika, gelegen an der Bahnlinie Zielona Gora - Frankfurt(Oder).</p>
+]]></desc><trkseg>
+         <trkpt lat="52.09004" lon="15.2693"><ele>50</ele></trkpt>
+<trkpt lat="52.08924" lon="15.27123"><ele>49</ele></trkpt>
+<trkpt lat="52.08959" lon="15.27226"><ele>49</ele></trkpt>
+<trkpt lat="52.0899" lon="15.27325"><ele>48</ele></trkpt>
+<trkpt lat="52.08994" lon="15.27375"><ele>47</ele></trkpt>
+<trkpt lat="52.0904" lon="15.27287"><ele>47</ele></trkpt>
+<trkpt lat="52.09119" lon="15.27225"><ele>49</ele></trkpt>
+<trkpt lat="52.09146" lon="15.2729"><ele>49</ele></trkpt>
+<trkpt lat="52.09163" lon="15.27295"><ele>49</ele></trkpt>
+<trkpt lat="52.09169" lon="15.27321"><ele>49</ele></trkpt>
+<trkpt lat="52.09214" lon="15.27344"><ele>49</ele></trkpt>
+<trkpt lat="52.09209" lon="15.27303"><ele>49</ele></trkpt>
+<trkpt lat="52.09342" lon="15.27259"><ele>54</ele></trkpt>
+<trkpt lat="52.09374" lon="15.2721"><ele>56</ele></trkpt>
+<trkpt lat="52.09434" lon="15.27236"><ele>54</ele></trkpt>
+<trkpt lat="52.0954" lon="15.27225"><ele>55</ele></trkpt>
+<trkpt lat="52.09661" lon="15.27622"><ele>52</ele></trkpt>
+<trkpt lat="52.09658" lon="15.27718"><ele>51</ele></trkpt>
+<trkpt lat="52.09664" lon="15.27841"><ele>52</ele></trkpt>
+<trkpt lat="52.0976" lon="15.27851"><ele>55</ele></trkpt>
+<trkpt lat="52.09823" lon="15.2791"><ele>56</ele></trkpt>
+<trkpt lat="52.09848" lon="15.2799"><ele>57</ele></trkpt>
+<trkpt lat="52.09898" lon="15.27995"><ele>59</ele></trkpt>
+<trkpt lat="52.09972" lon="15.28016"><ele>58</ele></trkpt>
+<trkpt lat="52.09988" lon="15.2805"><ele>58</ele></trkpt>
+<trkpt lat="52.1017" lon="15.28111"><ele>57</ele></trkpt>
+<trkpt lat="52.10281" lon="15.28168"><ele>56</ele></trkpt>
+<trkpt lat="52.10361" lon="15.28197"><ele>56</ele></trkpt>
+<trkpt lat="52.10452" lon="15.28172"><ele>52</ele></trkpt>
+<trkpt lat="52.10494" lon="15.28192"><ele>54</ele></trkpt>
+<trkpt lat="52.10494" lon="15.28278"><ele>57</ele></trkpt>
+<trkpt lat="52.10525" lon="15.28328"><ele>59</ele></trkpt>
+<trkpt lat="52.10658" lon="15.28341"><ele>59</ele></trkpt>
+<trkpt lat="52.10778" lon="15.28351"><ele>56</ele></trkpt>
+<trkpt lat="52.10829" lon="15.28363"><ele>56</ele></trkpt>
+<trkpt lat="52.10867" lon="15.28401"><ele>56</ele></trkpt>
+<trkpt lat="52.1095" lon="15.28443"><ele>58</ele></trkpt>
+<trkpt lat="52.10995" lon="15.28464"><ele>62</ele></trkpt>
+<trkpt lat="52.1102" lon="15.2846"><ele>62</ele></trkpt>
+<trkpt lat="52.11096" lon="15.284"><ele>58</ele></trkpt>
+<trkpt lat="52.11146" lon="15.28366"><ele>57</ele></trkpt>
+<trkpt lat="52.11179" lon="15.28337"><ele>57</ele></trkpt>
+<trkpt lat="52.11238" lon="15.28383"><ele>58</ele></trkpt>
+<trkpt lat="52.11336" lon="15.28374"><ele>60</ele></trkpt>
+<trkpt lat="52.11407" lon="15.28347"><ele>58</ele></trkpt>
+<trkpt lat="52.11401" lon="15.28255"><ele>57</ele></trkpt>
+<trkpt lat="52.11431" lon="15.28196"><ele>57</ele></trkpt>
+<trkpt lat="52.11498" lon="15.28141"><ele>57</ele></trkpt>
+<trkpt lat="52.11553" lon="15.28125"><ele>59</ele></trkpt>
+<trkpt lat="52.11643" lon="15.28166"><ele>61</ele></trkpt>
+<trkpt lat="52.11686" lon="15.28213"><ele>61</ele></trkpt>
+<trkpt lat="52.11729" lon="15.28332"><ele>66</ele></trkpt>
+<trkpt lat="52.11733" lon="15.28451"><ele>65</ele></trkpt>
+<trkpt lat="52.11898" lon="15.28482"><ele>61</ele></trkpt>
+<trkpt lat="52.12063" lon="15.28513"><ele>60</ele></trkpt>
+<trkpt lat="52.12113" lon="15.28525"><ele>57</ele></trkpt>
+<trkpt lat="52.12108" lon="15.28491"><ele>55</ele></trkpt>
+<trkpt lat="52.12071" lon="15.28101"><ele>47</ele></trkpt>
+<trkpt lat="52.12258" lon="15.27753"><ele>51</ele></trkpt>
+<trkpt lat="52.12269" lon="15.27717"><ele>52</ele></trkpt>
+<trkpt lat="52.12348" lon="15.27705"><ele>56</ele></trkpt>
+<trkpt lat="52.12446" lon="15.27705"><ele>58</ele></trkpt>
+<trkpt lat="52.12496" lon="15.2761"><ele>56</ele></trkpt>
+<trkpt lat="52.12519" lon="15.27565"><ele>55</ele></trkpt>
+<trkpt lat="52.12535" lon="15.27553"><ele>54</ele></trkpt>
+<trkpt lat="52.12537" lon="15.27728"><ele>55</ele></trkpt>
+<trkpt lat="52.12541" lon="15.2784"><ele>55</ele></trkpt>
+<trkpt lat="52.12559" lon="15.27886"><ele>56</ele></trkpt>
+<trkpt lat="52.12595" lon="15.27923"><ele>56</ele></trkpt>
+<trkpt lat="52.12604" lon="15.27962"><ele>57</ele></trkpt>
+<trkpt lat="52.12695" lon="15.2802"><ele>62</ele></trkpt>
+<trkpt lat="52.1276" lon="15.28035"><ele>68</ele></trkpt>
+<trkpt lat="52.12814" lon="15.28049"><ele>76</ele></trkpt>
+<trkpt lat="52.12883" lon="15.28021"><ele>83</ele></trkpt>
+<trkpt lat="52.12943" lon="15.28048"><ele>83</ele></trkpt>
+<trkpt lat="52.13027" lon="15.28117"><ele>83</ele></trkpt>
+<trkpt lat="52.13094" lon="15.28137"><ele>86</ele></trkpt>
+<trkpt lat="52.13157" lon="15.28148"><ele>87</ele></trkpt>
+<trkpt lat="52.13228" lon="15.28154"><ele>88</ele></trkpt>
+<trkpt lat="52.13286" lon="15.2813"><ele>90</ele></trkpt>
+<trkpt lat="52.13459" lon="15.28087"><ele>92</ele></trkpt>
+<trkpt lat="52.13593" lon="15.28038"><ele>91</ele></trkpt>
+<trkpt lat="52.13652" lon="15.28074"><ele>90</ele></trkpt>
+<trkpt lat="52.13698" lon="15.28086"><ele>88</ele></trkpt>
+<trkpt lat="52.13721" lon="15.28077"><ele>87</ele></trkpt>
+<trkpt lat="52.13818" lon="15.27984"><ele>86</ele></trkpt>
+<trkpt lat="52.13849" lon="15.27933"><ele>83</ele></trkpt>
+<trkpt lat="52.13865" lon="15.2786"><ele>82</ele></trkpt>
+<trkpt lat="52.13898" lon="15.27788"><ele>82</ele></trkpt>
+<trkpt lat="52.13941" lon="15.27695"><ele>78</ele></trkpt>
+<trkpt lat="52.14049" lon="15.27627"><ele>63</ele></trkpt>
+<trkpt lat="52.14102" lon="15.27545"><ele>64</ele></trkpt>
+<trkpt lat="52.14124" lon="15.27452"><ele>69</ele></trkpt>
+<trkpt lat="52.14169" lon="15.27412"><ele>73</ele></trkpt>
+<trkpt lat="52.14253" lon="15.27356"><ele>74</ele></trkpt>
+<trkpt lat="52.14376" lon="15.27306"><ele>72</ele></trkpt>
+<trkpt lat="52.14473" lon="15.27243"><ele>71</ele></trkpt>
+<trkpt lat="52.1458" lon="15.27212"><ele>74</ele></trkpt>
+<trkpt lat="52.14711" lon="15.27235"><ele>73</ele></trkpt>
+<trkpt lat="52.14787" lon="15.27252"><ele>68</ele></trkpt>
+<trkpt lat="52.14847" lon="15.27322"><ele>61</ele></trkpt>
+<trkpt lat="52.1491" lon="15.27392"><ele>62</ele></trkpt>
+<trkpt lat="52.14968" lon="15.27372"><ele>63</ele></trkpt>
+<trkpt lat="52.15007" lon="15.27368"><ele>63</ele></trkpt>
+<trkpt lat="52.15038" lon="15.27363"><ele>66</ele></trkpt>
+<trkpt lat="52.15102" lon="15.273"><ele>74</ele></trkpt>
+<trkpt lat="52.1515" lon="15.27278"><ele>77</ele></trkpt>
+<trkpt lat="52.15217" lon="15.27255"><ele>77</ele></trkpt>
+<trkpt lat="52.15255" lon="15.27253"><ele>75</ele></trkpt>
+<trkpt lat="52.15283" lon="15.27346"><ele>71</ele></trkpt>
+<trkpt lat="52.15315" lon="15.27409"><ele>68</ele></trkpt>
+<trkpt lat="52.15367" lon="15.27388"><ele>68</ele></trkpt>
+<trkpt lat="52.1539" lon="15.27418"><ele>68</ele></trkpt>
+<trkpt lat="52.15481" lon="15.27444"><ele>70</ele></trkpt>
+<trkpt lat="52.15534" lon="15.27493"><ele>67</ele></trkpt>
+<trkpt lat="52.15567" lon="15.27609"><ele>68</ele></trkpt>
+<trkpt lat="52.15572" lon="15.27764"><ele>70</ele></trkpt>
+<trkpt lat="52.15666" lon="15.2782"><ele>70</ele></trkpt>
+<trkpt lat="52.15769" lon="15.27858"><ele>71</ele></trkpt>
+<trkpt lat="52.15829" lon="15.27754"><ele>79</ele></trkpt>
+<trkpt lat="52.15904" lon="15.27752"><ele>80</ele></trkpt>
+<trkpt lat="52.15981" lon="15.27839"><ele>79</ele></trkpt>
+<trkpt lat="52.1608" lon="15.27875"><ele>77</ele></trkpt>
+<trkpt lat="52.16147" lon="15.27889"><ele>73</ele></trkpt>
+<trkpt lat="52.16192" lon="15.27879"><ele>75</ele></trkpt>
+<trkpt lat="52.16196" lon="15.27764"><ele>87</ele></trkpt>
+<trkpt lat="52.16201" lon="15.2767"><ele>91</ele></trkpt>
+<trkpt lat="52.16207" lon="15.27534"><ele>95</ele></trkpt>
+<trkpt lat="52.16209" lon="15.27452"><ele>97</ele></trkpt>
+<trkpt lat="52.1626" lon="15.27442"><ele>98</ele></trkpt>
+<trkpt lat="52.16475" lon="15.27481"><ele>99</ele></trkpt>
+<trkpt lat="52.16636" lon="15.27372"><ele>94</ele></trkpt>
+<trkpt lat="52.16688" lon="15.27415"><ele>94</ele></trkpt>
+<trkpt lat="52.16906" lon="15.27463"><ele>93</ele></trkpt>
+<trkpt lat="52.16965" lon="15.278"><ele>90</ele></trkpt>
+<trkpt lat="52.17027" lon="15.28138"><ele>83</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Trail Moni für Bobby]]></name>
+      <desc><![CDATA[<p>
+	Alter Trail für Bobby 700 m</p>
+<p>
+	(cloned from route 3538368)</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Trail Moni für Bobby]]></name><desc><![CDATA[<p>
+	Alter Trail für Bobby 700 m</p>
+<p>
+	(cloned from route 3538368)</p>
+]]></desc><trkseg>
+         <trkpt lat="52.57567" lon="13.29112"><ele>35</ele></trkpt>
+<trkpt lat="52.57567" lon="13.29112"><ele>35</ele></trkpt>
+<trkpt lat="52.57586" lon="13.29115"><ele>36</ele></trkpt>
+<trkpt lat="52.57589" lon="13.29069"><ele>36</ele></trkpt>
+<trkpt lat="52.57589" lon="13.29069"><ele>36</ele></trkpt>
+<trkpt lat="52.5759" lon="13.2906"><ele>36</ele></trkpt>
+<trkpt lat="52.57592" lon="13.29056"><ele>36</ele></trkpt>
+<trkpt lat="52.57638" lon="13.29042"><ele>38</ele></trkpt>
+<trkpt lat="52.57646" lon="13.29044"><ele>38</ele></trkpt>
+<trkpt lat="52.5764" lon="13.29016"><ele>38</ele></trkpt>
+<trkpt lat="52.57637" lon="13.28951"><ele>38</ele></trkpt>
+<trkpt lat="52.57637" lon="13.28871"><ele>38</ele></trkpt>
+<trkpt lat="52.5764" lon="13.28833"><ele>37</ele></trkpt>
+<trkpt lat="52.57641" lon="13.28834"><ele>37</ele></trkpt>
+<trkpt lat="52.57641" lon="13.28823"><ele>37</ele></trkpt>
+<trkpt lat="52.57704" lon="13.28822"><ele>37</ele></trkpt>
+<trkpt lat="52.57713" lon="13.28816"><ele>37</ele></trkpt>
+<trkpt lat="52.57739" lon="13.28807"><ele>37</ele></trkpt>
+<trkpt lat="52.5779" lon="13.28807"><ele>35</ele></trkpt>
+<trkpt lat="52.57802" lon="13.28804"><ele>36</ele></trkpt>
+<trkpt lat="52.57807" lon="13.28799"><ele>36</ele></trkpt>
+<trkpt lat="52.57835" lon="13.2879"><ele>36</ele></trkpt>
+<trkpt lat="52.57863" lon="13.28792"><ele>36</ele></trkpt>
+<trkpt lat="52.57862" lon="13.28792"><ele>36</ele></trkpt>
+<trkpt lat="52.57866" lon="13.28792"><ele>36</ele></trkpt>
+<trkpt lat="52.57863" lon="13.2853"><ele>39</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

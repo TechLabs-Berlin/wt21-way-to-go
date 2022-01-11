@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Eine Empfehlung: Die Luis-Trenker-Promenade in Gröden - promenade]]></name>
+      <desc><![CDATA[<p><strong>Promenade der Heimat</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/10869/medium/suedtirol-spazierwege-promenaden-118.jpg" /></p><p></p><p>Eine Erlebnispromenade benannt nach dem bekannten Grödner Bergsteiger und Filmstar</p><p></p><p><a href="http://sentres.com/suedtirol/tour/eine-empfehlung-die-luis-trenker-promenade-in-groeden">Weitere Informationen auf Sentres.com</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Eine Empfehlung: Die Luis-Trenker-Promenade in Gröden - promenade]]></name><desc><![CDATA[<p><strong>Promenade der Heimat</strong></p><p></p><p><img src="http://sentres.com/system/attachments/explore_area_photos/binaries/10869/medium/suedtirol-spazierwege-promenaden-118.jpg" /></p><p></p><p>Eine Erlebnispromenade benannt nach dem bekannten Grödner Bergsteiger und Filmstar</p><p></p><p><a href="http://sentres.com/suedtirol/tour/eine-empfehlung-die-luis-trenker-promenade-in-groeden">Weitere Informationen auf Sentres.com</a></p>]]></desc><trkseg>
+         <trkpt lat="46.5753919050916" lon="11.671692393321"><ele>1234</ele></trkpt>
+<trkpt lat="46.5753571336998" lon="11.6716247962713"><ele>1234</ele></trkpt>
+<trkpt lat="46.5747583288311" lon="11.6746453947816"><ele>1236</ele></trkpt>
+<trkpt lat="46.5741284431184" lon="11.6757052331578"><ele>1230</ele></trkpt>
+<trkpt lat="46.5737124834261" lon="11.6760771281508"><ele>1235</ele></trkpt>
+<trkpt lat="46.5733331479419" lon="11.6766082728038"><ele>1246</ele></trkpt>
+<trkpt lat="46.572806832625" lon="11.6779358603594"><ele>1245</ele></trkpt>
+<trkpt lat="46.5727416173659" lon="11.6786374852165"><ele>1249</ele></trkpt>
+<trkpt lat="46.5721413212621" lon="11.6804924058031"><ele>1258</ele></trkpt>
+<trkpt lat="46.5719523376496" lon="11.6808450809062"><ele>1258</ele></trkpt>
+<trkpt lat="46.5715403244879" lon="11.6811435596546"><ele>1258</ele></trkpt>
+<trkpt lat="46.5704493473766" lon="11.6824718480055"><ele>1255</ele></trkpt>
+<trkpt lat="46.5715422725225" lon="11.6811409970681"><ele>1259</ele></trkpt>
+<trkpt lat="46.5719526780439" lon="11.6808443337123"><ele>1264</ele></trkpt>
+<trkpt lat="46.5722150907113" lon="11.6802716924666"><ele>1264</ele></trkpt>
+<trkpt lat="46.5727188539493" lon="11.6787990124989"><ele>1245</ele></trkpt>
+<trkpt lat="46.5727825111691" lon="11.6781111103934"><ele>1237</ele></trkpt>
+<trkpt lat="46.5733318297654" lon="11.6766034883519"><ele>1250</ele></trkpt>
+<trkpt lat="46.5736846779894" lon="11.6760892132629"><ele>1249</ele></trkpt>
+<trkpt lat="46.5740884326143" lon="11.6757572095473"><ele>1239</ele></trkpt>
+<trkpt lat="46.5747208042091" lon="11.6747526372181"><ele>1234</ele></trkpt>
+<trkpt lat="46.5753400430454" lon="11.6716865614216"><ele>1233</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

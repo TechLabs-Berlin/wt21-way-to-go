@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Saubergerweg | Rohrbach-Berg | Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Saubergerweg</strong></p>
+<p>
+	Entlang des Weges erwarten den Wanderer immer wieder schöne Ausblicke über das Obere Mühlviertel und die Stadt Rohrbach-Berg.</p>
+<p>
+	Ausgangspunkt dieser Wanderung ist am Hanriederparkplatz, Rohrbach-Berg.</p>
+<p>
+	Weg Nr. 59</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000391/saubergerweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Saubergerweg | Rohrbach-Berg | Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Saubergerweg</strong></p>
+<p>
+	Entlang des Weges erwarten den Wanderer immer wieder schöne Ausblicke über das Obere Mühlviertel und die Stadt Rohrbach-Berg.</p>
+<p>
+	Ausgangspunkt dieser Wanderung ist am Hanriederparkplatz, Rohrbach-Berg.</p>
+<p>
+	Weg Nr. 59</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430000391/saubergerweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 5 7890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+]]></desc><trkseg>
+         <trkpt lat="48.56695" lon="13.98079"><ele>577</ele></trkpt>
+<trkpt lat="48.56704" lon="13.98045"><ele>577</ele></trkpt>
+<trkpt lat="48.56676" lon="13.97987"><ele>577</ele></trkpt>
+<trkpt lat="48.56654" lon="13.97969"><ele>578</ele></trkpt>
+<trkpt lat="48.56581" lon="13.97916"><ele>582</ele></trkpt>
+<trkpt lat="48.56554" lon="13.97869"><ele>584</ele></trkpt>
+<trkpt lat="48.56526" lon="13.97802"><ele>587</ele></trkpt>
+<trkpt lat="48.56506" lon="13.97673"><ele>595</ele></trkpt>
+<trkpt lat="48.56466" lon="13.97605"><ele>597</ele></trkpt>
+<trkpt lat="48.5639" lon="13.97542"><ele>596</ele></trkpt>
+<trkpt lat="48.5635" lon="13.97515"><ele>595</ele></trkpt>
+<trkpt lat="48.56116" lon="13.97409"><ele>598</ele></trkpt>
+<trkpt lat="48.56047" lon="13.97349"><ele>606</ele></trkpt>
+<trkpt lat="48.55976" lon="13.97255"><ele>604</ele></trkpt>
+<trkpt lat="48.55955" lon="13.97182"><ele>610</ele></trkpt>
+<trkpt lat="48.55946" lon="13.97171"><ele>612</ele></trkpt>
+<trkpt lat="48.5591" lon="13.97259"><ele>620</ele></trkpt>
+<trkpt lat="48.55903" lon="13.97302"><ele>622</ele></trkpt>
+<trkpt lat="48.55891" lon="13.97306"><ele>622</ele></trkpt>
+<trkpt lat="48.55848" lon="13.9733"><ele>624</ele></trkpt>
+<trkpt lat="48.55815" lon="13.97345"><ele>624</ele></trkpt>
+<trkpt lat="48.55697" lon="13.97285"><ele>622</ele></trkpt>
+<trkpt lat="48.55616" lon="13.97311"><ele>641</ele></trkpt>
+<trkpt lat="48.55558" lon="13.97274"><ele>639</ele></trkpt>
+<trkpt lat="48.55511" lon="13.97238"><ele>642</ele></trkpt>
+<trkpt lat="48.5547" lon="13.97233"><ele>649</ele></trkpt>
+<trkpt lat="48.55324" lon="13.97227"><ele>643</ele></trkpt>
+<trkpt lat="48.5527" lon="13.97214"><ele>625</ele></trkpt>
+<trkpt lat="48.5526" lon="13.97212"><ele>623</ele></trkpt>
+<trkpt lat="48.55202" lon="13.97214"><ele>613</ele></trkpt>
+<trkpt lat="48.55114" lon="13.97223"><ele>614</ele></trkpt>
+<trkpt lat="48.5509" lon="13.97246"><ele>615</ele></trkpt>
+<trkpt lat="48.55004" lon="13.97439"><ele>622</ele></trkpt>
+<trkpt lat="48.54976" lon="13.97495"><ele>624</ele></trkpt>
+<trkpt lat="48.54831" lon="13.97545"><ele>641</ele></trkpt>
+<trkpt lat="48.54809" lon="13.9757"><ele>642</ele></trkpt>
+<trkpt lat="48.5473" lon="13.97725"><ele>649</ele></trkpt>
+<trkpt lat="48.54717" lon="13.97869"><ele>652</ele></trkpt>
+<trkpt lat="48.54728" lon="13.97899"><ele>653</ele></trkpt>
+<trkpt lat="48.54725" lon="13.97897"><ele>653</ele></trkpt>
+<trkpt lat="48.54794" lon="13.97916"><ele>653</ele></trkpt>
+<trkpt lat="48.54824" lon="13.97873"><ele>653</ele></trkpt>
+<trkpt lat="48.5485" lon="13.97877"><ele>652</ele></trkpt>
+<trkpt lat="48.5491" lon="13.97914"><ele>649</ele></trkpt>
+<trkpt lat="48.54994" lon="13.98004"><ele>643</ele></trkpt>
+<trkpt lat="48.55069" lon="13.98079"><ele>648</ele></trkpt>
+<trkpt lat="48.55137" lon="13.98096"><ele>655</ele></trkpt>
+<trkpt lat="48.55187" lon="13.98118"><ele>653</ele></trkpt>
+<trkpt lat="48.55206" lon="13.98111"><ele>653</ele></trkpt>
+<trkpt lat="48.55251" lon="13.9806"><ele>661</ele></trkpt>
+<trkpt lat="48.55255" lon="13.98051"><ele>662</ele></trkpt>
+<trkpt lat="48.55258" lon="13.98045"><ele>663</ele></trkpt>
+<trkpt lat="48.55298" lon="13.97969"><ele>655</ele></trkpt>
+<trkpt lat="48.55305" lon="13.97961"><ele>653</ele></trkpt>
+<trkpt lat="48.55305" lon="13.97959"><ele>653</ele></trkpt>
+<trkpt lat="48.55322" lon="13.97929"><ele>648</ele></trkpt>
+<trkpt lat="48.55429" lon="13.97845"><ele>643</ele></trkpt>
+<trkpt lat="48.55481" lon="13.97787"><ele>631</ele></trkpt>
+<trkpt lat="48.55504" lon="13.97772"><ele>627</ele></trkpt>
+<trkpt lat="48.55549" lon="13.9774"><ele>618</ele></trkpt>
+<trkpt lat="48.55558" lon="13.97738"><ele>617</ele></trkpt>
+<trkpt lat="48.55571" lon="13.97733"><ele>616</ele></trkpt>
+<trkpt lat="48.55639" lon="13.9774"><ele>612</ele></trkpt>
+<trkpt lat="48.55674" lon="13.97774"><ele>607</ele></trkpt>
+<trkpt lat="48.55689" lon="13.97811"><ele>603</ele></trkpt>
+<trkpt lat="48.55715" lon="13.97862"><ele>598</ele></trkpt>
+<trkpt lat="48.55747" lon="13.97869"><ele>597</ele></trkpt>
+<trkpt lat="48.55794" lon="13.97869"><ele>595</ele></trkpt>
+<trkpt lat="48.55882" lon="13.97882"><ele>594</ele></trkpt>
+<trkpt lat="48.55942" lon="13.9792"><ele>596</ele></trkpt>
+<trkpt lat="48.56015" lon="13.97959"><ele>593</ele></trkpt>
+<trkpt lat="48.56034" lon="13.97946"><ele>592</ele></trkpt>
+<trkpt lat="48.5606" lon="13.97965"><ele>591</ele></trkpt>
+<trkpt lat="48.56036" lon="13.97946"><ele>592</ele></trkpt>
+<trkpt lat="48.56036" lon="13.97944"><ele>592</ele></trkpt>
+<trkpt lat="48.56036" lon="13.97942"><ele>592</ele></trkpt>
+<trkpt lat="48.56039" lon="13.97944"><ele>592</ele></trkpt>
+<trkpt lat="48.56043" lon="13.9795"><ele>592</ele></trkpt>
+<trkpt lat="48.56058" lon="13.97961"><ele>593</ele></trkpt>
+<trkpt lat="48.56064" lon="13.97965"><ele>593</ele></trkpt>
+<trkpt lat="48.56069" lon="13.97963"><ele>593</ele></trkpt>
+<trkpt lat="48.56071" lon="13.97961"><ele>593</ele></trkpt>
+<trkpt lat="48.56071" lon="13.97959"><ele>593</ele></trkpt>
+<trkpt lat="48.56073" lon="13.97957"><ele>593</ele></trkpt>
+<trkpt lat="48.56094" lon="13.97939"><ele>591</ele></trkpt>
+<trkpt lat="48.56099" lon="13.97939"><ele>590</ele></trkpt>
+<trkpt lat="48.56157" lon="13.97924"><ele>584</ele></trkpt>
+<trkpt lat="48.56208" lon="13.97903"><ele>580</ele></trkpt>
+<trkpt lat="48.56236" lon="13.97871"><ele>577</ele></trkpt>
+<trkpt lat="48.56326" lon="13.97937"><ele>581</ele></trkpt>
+<trkpt lat="48.56386" lon="13.97952"><ele>584</ele></trkpt>
+<trkpt lat="48.5644" lon="13.97939"><ele>585</ele></trkpt>
+<trkpt lat="48.56524" lon="13.97845"><ele>584</ele></trkpt>
+<trkpt lat="48.56562" lon="13.97922"><ele>581</ele></trkpt>
+<trkpt lat="48.56637" lon="13.97978"><ele>577</ele></trkpt>
+<trkpt lat="48.56693" lon="13.98049"><ele>577</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

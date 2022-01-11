@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Westerzg. Nr. 62 Floßgrabenwanderung zum Rechenhaus]]></name>
+      <desc><![CDATA[<p>Ausführliche Beschreibung von drei Varianten, insbesondere kürzerer Straßenanteil als bei Nr. 62, unter</p>
+<p>http://www.wolf-klepzig.de/hp/wandg/Erzengel-Flossgrabenwandg.pdf.</p>
+<p><span style="font-size: 8pt; font-family: Arial;">Beim Hochladen der 
+GPX-Dateien auf Wandermap werden die Wegpunkte mit
+Hinweisen, z. B. zu Wanderwegweisern, nicht mit übernommen. Die 
+GPX-Dateien mit
+den Wegpunkten sind unter http://www.wolf-klepzig.de/hp/wandg/{xxx}.gpx
+abgelegt.  Hinweise zum Herunterladen und Öffnen der GPX-Dateien sowie 
+Beschreibungen, oft mit Anfahrt- und Parkmöglichkeiten (Koordinaten), 
+unter <a href="http://www.wolf-klepzig.de/hp/wandg/wanderrouten.pdf">http://www.wolf-klepzig.de/hp/wandern.htm</a>.</span></p>
+<p></p>
+<p>Nr. 62: Geparkt in Aue, Mozartstr. &gt;</p>
+<p>Wanderwegzeichen rot-weiß: Brünnelweg &gt; Parkstr. &gt; an Schutzhütte am Weg Am Eichert lks. &gt; Kreuzung "Grüner Platz".</p>
+<p>Rechts,  Wanderwegzeichen grün-weiß auf Erzengelweg &gt; Nach ersten Häusern rts. Wegweiser am Stein "Bockau", kein Wanderwegzeichen, links. bergab nach Bockau (Auer Weg). Hauptstr. (Bahnhofstr.) überqueren. Am ersten Abzweig scharf rechts (Schneeberger Str.) und immer auf dieser Str. bleiben, bis nach Rechts-Links-Kurve Muldenbrücke erreicht wird. Nach Brückenüberquerung links Gasthof Rechenhaus. Von dort auf Floßgrabenweg bis Ricarda-Huch-Str. Dieser rechts bergab folgen bis zum Hammerplatz. Rechtskurve &gt; Muldenstr. &gt; links über Muldenbrücke &gt; Brückenstr.</p>
+<p>Entweder links auf B283 bis zu einem Pfad nach rechts durch kleine Bahnunterführung (auf Karte nicht erkennbar) &gt; Zwitterweg</p>
+<p>oder B283 überqueren &gt; Kohlweg &gt; links auf Wiesenweg &gt; links auf Bockauer Str., vorbei an Einmündung Zwitterweg &gt; scharf rechts an Kreuzung auf Parkweg &gt; halblinks auf Mozartstr.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Westerzg. Nr. 62 Floßgrabenwanderung zum Rechenhaus]]></name><desc><![CDATA[<p>Ausführliche Beschreibung von drei Varianten, insbesondere kürzerer Straßenanteil als bei Nr. 62, unter</p>
+<p>http://www.wolf-klepzig.de/hp/wandg/Erzengel-Flossgrabenwandg.pdf.</p>
+<p><span style="font-size: 8pt; font-family: Arial;">Beim Hochladen der 
+GPX-Dateien auf Wandermap werden die Wegpunkte mit
+Hinweisen, z. B. zu Wanderwegweisern, nicht mit übernommen. Die 
+GPX-Dateien mit
+den Wegpunkten sind unter http://www.wolf-klepzig.de/hp/wandg/{xxx}.gpx
+abgelegt.  Hinweise zum Herunterladen und Öffnen der GPX-Dateien sowie 
+Beschreibungen, oft mit Anfahrt- und Parkmöglichkeiten (Koordinaten), 
+unter <a href="http://www.wolf-klepzig.de/hp/wandg/wanderrouten.pdf">http://www.wolf-klepzig.de/hp/wandern.htm</a>.</span></p>
+<p></p>
+<p>Nr. 62: Geparkt in Aue, Mozartstr. &gt;</p>
+<p>Wanderwegzeichen rot-weiß: Brünnelweg &gt; Parkstr. &gt; an Schutzhütte am Weg Am Eichert lks. &gt; Kreuzung "Grüner Platz".</p>
+<p>Rechts,  Wanderwegzeichen grün-weiß auf Erzengelweg &gt; Nach ersten Häusern rts. Wegweiser am Stein "Bockau", kein Wanderwegzeichen, links. bergab nach Bockau (Auer Weg). Hauptstr. (Bahnhofstr.) überqueren. Am ersten Abzweig scharf rechts (Schneeberger Str.) und immer auf dieser Str. bleiben, bis nach Rechts-Links-Kurve Muldenbrücke erreicht wird. Nach Brückenüberquerung links Gasthof Rechenhaus. Von dort auf Floßgrabenweg bis Ricarda-Huch-Str. Dieser rechts bergab folgen bis zum Hammerplatz. Rechtskurve &gt; Muldenstr. &gt; links über Muldenbrücke &gt; Brückenstr.</p>
+<p>Entweder links auf B283 bis zu einem Pfad nach rechts durch kleine Bahnunterführung (auf Karte nicht erkennbar) &gt; Zwitterweg</p>
+<p>oder B283 überqueren &gt; Kohlweg &gt; links auf Wiesenweg &gt; links auf Bockauer Str., vorbei an Einmündung Zwitterweg &gt; scharf rechts an Kreuzung auf Parkweg &gt; halblinks auf Mozartstr.</p>]]></desc><trkseg>
+         <trkpt lat="50.58288" lon="12.7055"><ele>417</ele></trkpt>
+<trkpt lat="50.58261" lon="12.70659"><ele>412</ele></trkpt>
+<trkpt lat="50.58238" lon="12.70661"><ele>413</ele></trkpt>
+<trkpt lat="50.5822" lon="12.70704"><ele>418</ele></trkpt>
+<trkpt lat="50.58119" lon="12.70788"><ele>429</ele></trkpt>
+<trkpt lat="50.58059" lon="12.70828"><ele>437</ele></trkpt>
+<trkpt lat="50.58002" lon="12.70875"><ele>447</ele></trkpt>
+<trkpt lat="50.5793" lon="12.70896"><ele>452</ele></trkpt>
+<trkpt lat="50.5785" lon="12.70887"><ele>473</ele></trkpt>
+<trkpt lat="50.57812" lon="12.70859"><ele>479</ele></trkpt>
+<trkpt lat="50.57751" lon="12.70827"><ele>486</ele></trkpt>
+<trkpt lat="50.57677" lon="12.70838"><ele>501</ele></trkpt>
+<trkpt lat="50.57628" lon="12.70852"><ele>510</ele></trkpt>
+<trkpt lat="50.57561" lon="12.70887"><ele>519</ele></trkpt>
+<trkpt lat="50.57507" lon="12.70911"><ele>522</ele></trkpt>
+<trkpt lat="50.57453" lon="12.70929"><ele>528</ele></trkpt>
+<trkpt lat="50.57405" lon="12.70952"><ele>534</ele></trkpt>
+<trkpt lat="50.57367" lon="12.70986"><ele>535</ele></trkpt>
+<trkpt lat="50.57311" lon="12.71044"><ele>536</ele></trkpt>
+<trkpt lat="50.57279" lon="12.71069"><ele>536</ele></trkpt>
+<trkpt lat="50.57205" lon="12.71045"><ele>543</ele></trkpt>
+<trkpt lat="50.57151" lon="12.71045"><ele>551</ele></trkpt>
+<trkpt lat="50.57102" lon="12.70993"><ele>548</ele></trkpt>
+<trkpt lat="50.57036" lon="12.70924"><ele>547</ele></trkpt>
+<trkpt lat="50.56987" lon="12.71002"><ele>550</ele></trkpt>
+<trkpt lat="50.56943" lon="12.71036"><ele>555</ele></trkpt>
+<trkpt lat="50.5689" lon="12.70912"><ele>552</ele></trkpt>
+<trkpt lat="50.5686" lon="12.70788"><ele>549</ele></trkpt>
+<trkpt lat="50.5683" lon="12.70736"><ele>550</ele></trkpt>
+<trkpt lat="50.56801" lon="12.70692"><ele>552</ele></trkpt>
+<trkpt lat="50.56752" lon="12.70649"><ele>547</ele></trkpt>
+<trkpt lat="50.56714" lon="12.7058"><ele>542</ele></trkpt>
+<trkpt lat="50.56654" lon="12.70537"><ele>539</ele></trkpt>
+<trkpt lat="50.56588" lon="12.70503"><ele>544</ele></trkpt>
+<trkpt lat="50.565" lon="12.70436"><ele>551</ele></trkpt>
+<trkpt lat="50.56506" lon="12.70296"><ele>546</ele></trkpt>
+<trkpt lat="50.56495" lon="12.70167"><ele>537</ele></trkpt>
+<trkpt lat="50.56473" lon="12.70038"><ele>542</ele></trkpt>
+<trkpt lat="50.56446" lon="12.699"><ele>536</ele></trkpt>
+<trkpt lat="50.56424" lon="12.69856"><ele>530</ele></trkpt>
+<trkpt lat="50.56359" lon="12.69877"><ele>538</ele></trkpt>
+<trkpt lat="50.56289" lon="12.6991"><ele>541</ele></trkpt>
+<trkpt lat="50.56223" lon="12.69908"><ele>538</ele></trkpt>
+<trkpt lat="50.56159" lon="12.69858"><ele>530</ele></trkpt>
+<trkpt lat="50.56152" lon="12.69783"><ele>526</ele></trkpt>
+<trkpt lat="50.56125" lon="12.69709"><ele>522</ele></trkpt>
+<trkpt lat="50.56179" lon="12.69481"><ele>517</ele></trkpt>
+<trkpt lat="50.56078" lon="12.69387"><ele>523</ele></trkpt>
+<trkpt lat="50.56042" lon="12.6934"><ele>520</ele></trkpt>
+<trkpt lat="50.56005" lon="12.69335"><ele>517</ele></trkpt>
+<trkpt lat="50.5597" lon="12.69341"><ele>514</ele></trkpt>
+<trkpt lat="50.55907" lon="12.69375"><ele>511</ele></trkpt>
+<trkpt lat="50.55835" lon="12.69358"><ele>514</ele></trkpt>
+<trkpt lat="50.55764" lon="12.69322"><ele>524</ele></trkpt>
+<trkpt lat="50.55727" lon="12.69297"><ele>530</ele></trkpt>
+<trkpt lat="50.5568" lon="12.69302"><ele>538</ele></trkpt>
+<trkpt lat="50.55615" lon="12.6922"><ele>522</ele></trkpt>
+<trkpt lat="50.55545" lon="12.69097"><ele>505</ele></trkpt>
+<trkpt lat="50.55509" lon="12.69059"><ele>510</ele></trkpt>
+<trkpt lat="50.55445" lon="12.68928"><ele>514</ele></trkpt>
+<trkpt lat="50.55369" lon="12.68885"><ele>510</ele></trkpt>
+<trkpt lat="50.55314" lon="12.68945"><ele>508</ele></trkpt>
+<trkpt lat="50.55258" lon="12.68964"><ele>509</ele></trkpt>
+<trkpt lat="50.55209" lon="12.68902"><ele>519</ele></trkpt>
+<trkpt lat="50.55177" lon="12.68767"><ele>513</ele></trkpt>
+<trkpt lat="50.55134" lon="12.68729"><ele>509</ele></trkpt>
+<trkpt lat="50.55089" lon="12.68674"><ele>509</ele></trkpt>
+<trkpt lat="50.55036" lon="12.68565"><ele>507</ele></trkpt>
+<trkpt lat="50.54997" lon="12.68483"><ele>509</ele></trkpt>
+<trkpt lat="50.54952" lon="12.6845"><ele>510</ele></trkpt>
+<trkpt lat="50.54939" lon="12.68402"><ele>507</ele></trkpt>
+<trkpt lat="50.54937" lon="12.68336"><ele>505</ele></trkpt>
+<trkpt lat="50.54918" lon="12.68294"><ele>499</ele></trkpt>
+<trkpt lat="50.54875" lon="12.68329"><ele>492</ele></trkpt>
+<trkpt lat="50.54753" lon="12.68483"><ele>489</ele></trkpt>
+<trkpt lat="50.54712" lon="12.68521"><ele>485</ele></trkpt>
+<trkpt lat="50.54669" lon="12.68584"><ele>486</ele></trkpt>
+<trkpt lat="50.54648" lon="12.68589"><ele>487</ele></trkpt>
+<trkpt lat="50.54609" lon="12.68573"><ele>490</ele></trkpt>
+<trkpt lat="50.54542" lon="12.68579"><ele>493</ele></trkpt>
+<trkpt lat="50.5459" lon="12.6852"><ele>495</ele></trkpt>
+<trkpt lat="50.54613" lon="12.68477"><ele>492</ele></trkpt>
+<trkpt lat="50.54668" lon="12.68439"><ele>486</ele></trkpt>
+<trkpt lat="50.54706" lon="12.68328"><ele>478</ele></trkpt>
+<trkpt lat="50.54743" lon="12.68233"><ele>477</ele></trkpt>
+<trkpt lat="50.54736" lon="12.6816"><ele>477</ele></trkpt>
+<trkpt lat="50.54751" lon="12.68021"><ele>480</ele></trkpt>
+<trkpt lat="50.54781" lon="12.67915"><ele>478</ele></trkpt>
+<trkpt lat="50.54795" lon="12.67814"><ele>471</ele></trkpt>
+<trkpt lat="50.54747" lon="12.67689"><ele>461</ele></trkpt>
+<trkpt lat="50.54724" lon="12.67585"><ele>455</ele></trkpt>
+<trkpt lat="50.54661" lon="12.67434"><ele>452</ele></trkpt>
+<trkpt lat="50.54628" lon="12.67318"><ele>461</ele></trkpt>
+<trkpt lat="50.54607" lon="12.67158"><ele>462</ele></trkpt>
+<trkpt lat="50.54636" lon="12.67078"><ele>451</ele></trkpt>
+<trkpt lat="50.54653" lon="12.6699"><ele>444</ele></trkpt>
+<trkpt lat="50.54625" lon="12.66957"><ele>446</ele></trkpt>
+<trkpt lat="50.54578" lon="12.66935"><ele>447</ele></trkpt>
+<trkpt lat="50.54571" lon="12.66906"><ele>446</ele></trkpt>
+<trkpt lat="50.54607" lon="12.66888"><ele>444</ele></trkpt>
+<trkpt lat="50.54664" lon="12.66811"><ele>443</ele></trkpt>
+<trkpt lat="50.54652" lon="12.66762"><ele>443</ele></trkpt>
+<trkpt lat="50.54636" lon="12.66768"><ele>441</ele></trkpt>
+<trkpt lat="50.54643" lon="12.66809"><ele>440</ele></trkpt>
+<trkpt lat="50.54729" lon="12.66854"><ele>440</ele></trkpt>
+<trkpt lat="50.54844" lon="12.66794"><ele>444</ele></trkpt>
+<trkpt lat="50.54926" lon="12.66837"><ele>455</ele></trkpt>
+<trkpt lat="50.5503" lon="12.66888"><ele>450</ele></trkpt>
+<trkpt lat="50.55128" lon="12.66957"><ele>451</ele></trkpt>
+<trkpt lat="50.55259" lon="12.67017"><ele>449</ele></trkpt>
+<trkpt lat="50.55358" lon="12.67052"><ele>440</ele></trkpt>
+<trkpt lat="50.55462" lon="12.67009"><ele>436</ele></trkpt>
+<trkpt lat="50.55533" lon="12.67103"><ele>436</ele></trkpt>
+<trkpt lat="50.55577" lon="12.67189"><ele>445</ele></trkpt>
+<trkpt lat="50.55577" lon="12.67276"><ele>444</ele></trkpt>
+<trkpt lat="50.55598" lon="12.67387"><ele>439</ele></trkpt>
+<trkpt lat="50.55659" lon="12.67559"><ele>434</ele></trkpt>
+<trkpt lat="50.55724" lon="12.67714"><ele>451</ele></trkpt>
+<trkpt lat="50.55762" lon="12.67878"><ele>450</ele></trkpt>
+<trkpt lat="50.55686" lon="12.68024"><ele>444</ele></trkpt>
+<trkpt lat="50.55593" lon="12.68076"><ele>442</ele></trkpt>
+<trkpt lat="50.55511" lon="12.6811"><ele>441</ele></trkpt>
+<trkpt lat="50.5544" lon="12.68119"><ele>439</ele></trkpt>
+<trkpt lat="50.55358" lon="12.68102"><ele>441</ele></trkpt>
+<trkpt lat="50.55281" lon="12.68127"><ele>443</ele></trkpt>
+<trkpt lat="50.55298" lon="12.68205"><ele>445</ele></trkpt>
+<trkpt lat="50.55358" lon="12.68325"><ele>440</ele></trkpt>
+<trkpt lat="50.55489" lon="12.68308"><ele>447</ele></trkpt>
+<trkpt lat="50.55626" lon="12.683"><ele>461</ele></trkpt>
+<trkpt lat="50.55664" lon="12.68334"><ele>466</ele></trkpt>
+<trkpt lat="50.55724" lon="12.68403"><ele>469</ele></trkpt>
+<trkpt lat="50.55773" lon="12.68489"><ele>455</ele></trkpt>
+<trkpt lat="50.5579" lon="12.68627"><ele>449</ele></trkpt>
+<trkpt lat="50.55812" lon="12.68704"><ele>459</ele></trkpt>
+<trkpt lat="50.55812" lon="12.68773"><ele>465</ele></trkpt>
+<trkpt lat="50.55833" lon="12.68842"><ele>456</ele></trkpt>
+<trkpt lat="50.55915" lon="12.68842"><ele>453</ele></trkpt>
+<trkpt lat="50.56019" lon="12.68816"><ele>449</ele></trkpt>
+<trkpt lat="50.56096" lon="12.6879"><ele>451</ele></trkpt>
+<trkpt lat="50.56156" lon="12.68773"><ele>454</ele></trkpt>
+<trkpt lat="50.5626" lon="12.68782"><ele>454</ele></trkpt>
+<trkpt lat="50.56342" lon="12.68816"><ele>453</ele></trkpt>
+<trkpt lat="50.56451" lon="12.6885"><ele>457</ele></trkpt>
+<trkpt lat="50.56577" lon="12.68885"><ele>450</ele></trkpt>
+<trkpt lat="50.56692" lon="12.68928"><ele>449</ele></trkpt>
+<trkpt lat="50.56774" lon="12.6898"><ele>450</ele></trkpt>
+<trkpt lat="50.56889" lon="12.69031"><ele>443</ele></trkpt>
+<trkpt lat="50.56938" lon="12.68971"><ele>442</ele></trkpt>
+<trkpt lat="50.57009" lon="12.6885"><ele>437</ele></trkpt>
+<trkpt lat="50.57102" lon="12.68764"><ele>439</ele></trkpt>
+<trkpt lat="50.57195" lon="12.68713"><ele>458</ele></trkpt>
+<trkpt lat="50.57309" lon="12.68704"><ele>454</ele></trkpt>
+<trkpt lat="50.5743" lon="12.68739"><ele>437</ele></trkpt>
+<trkpt lat="50.57539" lon="12.68739"><ele>436</ele></trkpt>
+<trkpt lat="50.57654" lon="12.68618"><ele>441</ele></trkpt>
+<trkpt lat="50.57736" lon="12.68497"><ele>452</ele></trkpt>
+<trkpt lat="50.57829" lon="12.68369"><ele>436</ele></trkpt>
+<trkpt lat="50.57905" lon="12.68291"><ele>429</ele></trkpt>
+<trkpt lat="50.57965" lon="12.68239"><ele>425</ele></trkpt>
+<trkpt lat="50.58058" lon="12.68102"><ele>422</ele></trkpt>
+<trkpt lat="50.58069" lon="12.68247"><ele>406</ele></trkpt>
+<trkpt lat="50.5807" lon="12.68365"><ele>395</ele></trkpt>
+<trkpt lat="50.58056" lon="12.68509"><ele>388</ele></trkpt>
+<trkpt lat="50.58095" lon="12.68608"><ele>376</ele></trkpt>
+<trkpt lat="50.58142" lon="12.68699"><ele>370</ele></trkpt>
+<trkpt lat="50.58145" lon="12.68749"><ele>369</ele></trkpt>
+<trkpt lat="50.58125" lon="12.68769"><ele>369</ele></trkpt>
+<trkpt lat="50.58033" lon="12.68708"><ele>370</ele></trkpt>
+<trkpt lat="50.57997" lon="12.6867"><ele>373</ele></trkpt>
+<trkpt lat="50.57972" lon="12.68742"><ele>371</ele></trkpt>
+<trkpt lat="50.58016" lon="12.69032"><ele>365</ele></trkpt>
+<trkpt lat="50.58003" lon="12.69059"><ele>365</ele></trkpt>
+<trkpt lat="50.57936" lon="12.69028"><ele>371</ele></trkpt>
+<trkpt lat="50.57914" lon="12.69025"><ele>374</ele></trkpt>
+<trkpt lat="50.57875" lon="12.69117"><ele>377</ele></trkpt>
+<trkpt lat="50.57918" lon="12.69347"><ele>401</ele></trkpt>
+<trkpt lat="50.57946" lon="12.69446"><ele>404</ele></trkpt>
+<trkpt lat="50.57948" lon="12.69559"><ele>409</ele></trkpt>
+<trkpt lat="50.5791" lon="12.69584"><ele>411</ele></trkpt>
+<trkpt lat="50.57911" lon="12.69677"><ele>411</ele></trkpt>
+<trkpt lat="50.5793" lon="12.69718"><ele>412</ele></trkpt>
+<trkpt lat="50.57978" lon="12.69719"><ele>414</ele></trkpt>
+<trkpt lat="50.57983" lon="12.69734"><ele>414</ele></trkpt>
+<trkpt lat="50.58051" lon="12.69736"><ele>395</ele></trkpt>
+<trkpt lat="50.58072" lon="12.69778"><ele>387</ele></trkpt>
+<trkpt lat="50.58105" lon="12.69955"><ele>390</ele></trkpt>
+<trkpt lat="50.58178" lon="12.7012"><ele>385</ele></trkpt>
+<trkpt lat="50.5823" lon="12.70213"><ele>382</ele></trkpt>
+<trkpt lat="50.58347" lon="12.70374"><ele>364</ele></trkpt>
+<trkpt lat="50.58371" lon="12.70378"><ele>364</ele></trkpt>
+<trkpt lat="50.58456" lon="12.70489"><ele>370</ele></trkpt>
+<trkpt lat="50.58424" lon="12.70489"><ele>375</ele></trkpt>
+<trkpt lat="50.5836" lon="12.70477"><ele>388</ele></trkpt>
+<trkpt lat="50.58329" lon="12.70487"><ele>398</ele></trkpt>
+<trkpt lat="50.583" lon="12.70495"><ele>407</ele></trkpt>
+<trkpt lat="50.5829" lon="12.70542"><ele>416</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

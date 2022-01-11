@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[WINTERWANDERWEG Glashüttenweg | Schwarzenberg am Böhmerwald]]></name>
+      <desc><![CDATA[<p>
+	<strong>Glashüttenweg</strong></p>
+<p>
+	Gewalzte, autofreie Wege, wenig befahrene Straßenstücke, wechseln sonnig und schattig. 5,4 km, Gehzeit ca. 1 ¾ Std.</p>
+<p>
+	Ausgangspunkt: Gasthaus Dreiländereck, Oberschwarzenberg, Weg Nr. 63</p>
+<p>
+	Vom Gasthaus Dreiländereck führt der Wanderweg entlang des Güterweges Oberschwarzenberg bis zum Parkplatz, wo er links abbiegt und beim Grenzbach die Staatsgrenze überquert. Er führt abwärts durch den Wald zur Streusiedlung Lackenhäuser, am Rosenberger Gut vorbei, dann Abzweigung links zum Eingang Campingparks. Entlang des Parks, hinter dem Gasthaus Zitherwirt mündet der Weg in den Wald. Über die „Grablbrücke“ geht es zurück über den „Zinngießer Hof“. Danach bergwärts weiter nach Oberschwarzenberg zum Ausgangspunkt.</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430002092/winterwanderweg-glashuettenweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 57890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+<p>
+	 </p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[WINTERWANDERWEG Glashüttenweg | Schwarzenberg am Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Glashüttenweg</strong></p>
+<p>
+	Gewalzte, autofreie Wege, wenig befahrene Straßenstücke, wechseln sonnig und schattig. 5,4 km, Gehzeit ca. 1 ¾ Std.</p>
+<p>
+	Ausgangspunkt: Gasthaus Dreiländereck, Oberschwarzenberg, Weg Nr. 63</p>
+<p>
+	Vom Gasthaus Dreiländereck führt der Wanderweg entlang des Güterweges Oberschwarzenberg bis zum Parkplatz, wo er links abbiegt und beim Grenzbach die Staatsgrenze überquert. Er führt abwärts durch den Wald zur Streusiedlung Lackenhäuser, am Rosenberger Gut vorbei, dann Abzweigung links zum Eingang Campingparks. Entlang des Parks, hinter dem Gasthaus Zitherwirt mündet der Weg in den Wald. Über die „Grablbrücke“ geht es zurück über den „Zinngießer Hof“. Danach bergwärts weiter nach Oberschwarzenberg zum Ausgangspunkt.</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430002092/winterwanderweg-glashuettenweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 57890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+<p>
+	 </p>
+]]></desc><trkseg>
+         <trkpt lat="48.74501" lon="13.82474"><ele>0</ele></trkpt>
+<trkpt lat="48.74495" lon="13.82541"><ele>0</ele></trkpt>
+<trkpt lat="48.74489" lon="13.8261"><ele>0</ele></trkpt>
+<trkpt lat="48.74488" lon="13.82677"><ele>0</ele></trkpt>
+<trkpt lat="48.74504" lon="13.8274"><ele>0</ele></trkpt>
+<trkpt lat="48.74522" lon="13.82802"><ele>0</ele></trkpt>
+<trkpt lat="48.74526" lon="13.82868"><ele>0</ele></trkpt>
+<trkpt lat="48.74522" lon="13.82936"><ele>0</ele></trkpt>
+<trkpt lat="48.74533" lon="13.83002"><ele>0</ele></trkpt>
+<trkpt lat="48.74544" lon="13.83066"><ele>0</ele></trkpt>
+<trkpt lat="48.74543" lon="13.83134"><ele>0</ele></trkpt>
+<trkpt lat="48.7452" lon="13.8319"><ele>0</ele></trkpt>
+<trkpt lat="48.74494" lon="13.83245"><ele>0</ele></trkpt>
+<trkpt lat="48.74483" lon="13.83311"><ele>0</ele></trkpt>
+<trkpt lat="48.74485" lon="13.83375"><ele>0</ele></trkpt>
+<trkpt lat="48.7452" lon="13.83411"><ele>0</ele></trkpt>
+<trkpt lat="48.74562" lon="13.83435"><ele>0</ele></trkpt>
+<trkpt lat="48.74591" lon="13.83485"><ele>0</ele></trkpt>
+<trkpt lat="48.74621" lon="13.83535"><ele>0</ele></trkpt>
+<trkpt lat="48.74656" lon="13.83579"><ele>0</ele></trkpt>
+<trkpt lat="48.74683" lon="13.83632"><ele>0</ele></trkpt>
+<trkpt lat="48.74708" lon="13.83689"><ele>0</ele></trkpt>
+<trkpt lat="48.74733" lon="13.83743"><ele>0</ele></trkpt>
+<trkpt lat="48.74764" lon="13.83716"><ele>0</ele></trkpt>
+<trkpt lat="48.74786" lon="13.83656"><ele>0</ele></trkpt>
+<trkpt lat="48.74807" lon="13.83596"><ele>0</ele></trkpt>
+<trkpt lat="48.74829" lon="13.83536"><ele>0</ele></trkpt>
+<trkpt lat="48.74849" lon="13.83476"><ele>0</ele></trkpt>
+<trkpt lat="48.74871" lon="13.83417"><ele>0</ele></trkpt>
+<trkpt lat="48.74893" lon="13.83358"><ele>0</ele></trkpt>
+<trkpt lat="48.74909" lon="13.83295"><ele>0</ele></trkpt>
+<trkpt lat="48.74912" lon="13.83227"><ele>0</ele></trkpt>
+<trkpt lat="48.74927" lon="13.83166"><ele>0</ele></trkpt>
+<trkpt lat="48.74965" lon="13.83129"><ele>0</ele></trkpt>
+<trkpt lat="48.75004" lon="13.83094"><ele>0</ele></trkpt>
+<trkpt lat="48.75042" lon="13.83062"><ele>0</ele></trkpt>
+<trkpt lat="48.75082" lon="13.83028"><ele>0</ele></trkpt>
+<trkpt lat="48.7512" lon="13.82993"><ele>0</ele></trkpt>
+<trkpt lat="48.7516" lon="13.82959"><ele>0</ele></trkpt>
+<trkpt lat="48.75199" lon="13.82925"><ele>0</ele></trkpt>
+<trkpt lat="48.75239" lon="13.82898"><ele>0</ele></trkpt>
+<trkpt lat="48.7528" lon="13.82874"><ele>0</ele></trkpt>
+<trkpt lat="48.75324" lon="13.82851"><ele>0</ele></trkpt>
+<trkpt lat="48.75365" lon="13.82828"><ele>0</ele></trkpt>
+<trkpt lat="48.75401" lon="13.82787"><ele>0</ele></trkpt>
+<trkpt lat="48.75436" lon="13.82744"><ele>0</ele></trkpt>
+<trkpt lat="48.75472" lon="13.82703"><ele>0</ele></trkpt>
+<trkpt lat="48.75514" lon="13.8269"><ele>0</ele></trkpt>
+<trkpt lat="48.75557" lon="13.82708"><ele>0</ele></trkpt>
+<trkpt lat="48.75598" lon="13.82731"><ele>0</ele></trkpt>
+<trkpt lat="48.75642" lon="13.82754"><ele>0</ele></trkpt>
+<trkpt lat="48.75685" lon="13.82751"><ele>0</ele></trkpt>
+<trkpt lat="48.75731" lon="13.82744"><ele>0</ele></trkpt>
+<trkpt lat="48.75775" lon="13.82738"><ele>0</ele></trkpt>
+<trkpt lat="48.7582" lon="13.8273"><ele>0</ele></trkpt>
+<trkpt lat="48.75827" lon="13.82734"><ele>0</ele></trkpt>
+<trkpt lat="48.75852" lon="13.82695"><ele>0</ele></trkpt>
+<trkpt lat="48.75835" lon="13.82633"><ele>0</ele></trkpt>
+<trkpt lat="48.75815" lon="13.82573"><ele>0</ele></trkpt>
+<trkpt lat="48.75786" lon="13.8252"><ele>0</ele></trkpt>
+<trkpt lat="48.7576" lon="13.82466"><ele>0</ele></trkpt>
+<trkpt lat="48.75732" lon="13.82413"><ele>0</ele></trkpt>
+<trkpt lat="48.7571" lon="13.82352"><ele>0</ele></trkpt>
+<trkpt lat="48.75688" lon="13.82293"><ele>0</ele></trkpt>
+<trkpt lat="48.75667" lon="13.82234"><ele>0</ele></trkpt>
+<trkpt lat="48.75636" lon="13.82188"><ele>0</ele></trkpt>
+<trkpt lat="48.75597" lon="13.82155"><ele>0</ele></trkpt>
+<trkpt lat="48.75557" lon="13.82124"><ele>0</ele></trkpt>
+<trkpt lat="48.75517" lon="13.82093"><ele>0</ele></trkpt>
+<trkpt lat="48.75477" lon="13.82061"><ele>0</ele></trkpt>
+<trkpt lat="48.75437" lon="13.8203"><ele>0</ele></trkpt>
+<trkpt lat="48.75397" lon="13.81997"><ele>0</ele></trkpt>
+<trkpt lat="48.7536" lon="13.81961"><ele>0</ele></trkpt>
+<trkpt lat="48.75324" lon="13.81922"><ele>0</ele></trkpt>
+<trkpt lat="48.75286" lon="13.81883"><ele>0</ele></trkpt>
+<trkpt lat="48.7525" lon="13.81843"><ele>0</ele></trkpt>
+<trkpt lat="48.75213" lon="13.81803"><ele>0</ele></trkpt>
+<trkpt lat="48.75208" lon="13.81736"><ele>0</ele></trkpt>
+<trkpt lat="48.7519" lon="13.81679"><ele>0</ele></trkpt>
+<trkpt lat="48.75156" lon="13.81635"><ele>0</ele></trkpt>
+<trkpt lat="48.7512" lon="13.81591"><ele>0</ele></trkpt>
+<trkpt lat="48.75083" lon="13.81554"><ele>0</ele></trkpt>
+<trkpt lat="48.75046" lon="13.81518"><ele>0</ele></trkpt>
+<trkpt lat="48.75008" lon="13.81481"><ele>0</ele></trkpt>
+<trkpt lat="48.7497" lon="13.81445"><ele>0</ele></trkpt>
+<trkpt lat="48.74932" lon="13.8141"><ele>0</ele></trkpt>
+<trkpt lat="48.74912" lon="13.81447"><ele>0</ele></trkpt>
+<trkpt lat="48.74901" lon="13.81512"><ele>0</ele></trkpt>
+<trkpt lat="48.74889" lon="13.81578"><ele>0</ele></trkpt>
+<trkpt lat="48.74878" lon="13.81645"><ele>0</ele></trkpt>
+<trkpt lat="48.7486" lon="13.81705"><ele>0</ele></trkpt>
+<trkpt lat="48.74833" lon="13.81759"><ele>0</ele></trkpt>
+<trkpt lat="48.74804" lon="13.81813"><ele>0</ele></trkpt>
+<trkpt lat="48.74778" lon="13.81866"><ele>0</ele></trkpt>
+<trkpt lat="48.74791" lon="13.81931"><ele>0</ele></trkpt>
+<trkpt lat="48.74818" lon="13.81984"><ele>0</ele></trkpt>
+<trkpt lat="48.74847" lon="13.82036"><ele>0</ele></trkpt>
+<trkpt lat="48.74862" lon="13.82101"><ele>0</ele></trkpt>
+<trkpt lat="48.74856" lon="13.8212"><ele>0</ele></trkpt>
+<trkpt lat="48.74842" lon="13.82185"><ele>0</ele></trkpt>
+<trkpt lat="48.74813" lon="13.82238"><ele>0</ele></trkpt>
+<trkpt lat="48.74782" lon="13.82282"><ele>0</ele></trkpt>
+<trkpt lat="48.74739" lon="13.82305"><ele>0</ele></trkpt>
+<trkpt lat="48.74697" lon="13.82329"><ele>0</ele></trkpt>
+<trkpt lat="48.74659" lon="13.82362"><ele>0</ele></trkpt>
+<trkpt lat="48.74636" lon="13.82419"><ele>0</ele></trkpt>
+<trkpt lat="48.74602" lon="13.82447"><ele>0</ele></trkpt>
+<trkpt lat="48.74557" lon="13.82456"><ele>0</ele></trkpt>
+<trkpt lat="48.74512" lon="13.82464"><ele>0</ele></trkpt>
+<trkpt lat="48.74494" lon="13.82469"><ele>0</ele></trkpt>
+      </trkseg></trk>
+    
+      <trk><name><![CDATA[WINTERWANDERWEG Glashüttenweg | Schwarzenberg am Böhmerwald]]></name><desc><![CDATA[<p>
+	<strong>Glashüttenweg</strong></p>
+<p>
+	Gewalzte, autofreie Wege, wenig befahrene Straßenstücke, wechseln sonnig und schattig. 5,4 km, Gehzeit ca. 1 ¾ Std.</p>
+<p>
+	Ausgangspunkt: Gasthaus Dreiländereck, Oberschwarzenberg, Weg Nr. 63</p>
+<p>
+	Vom Gasthaus Dreiländereck führt der Wanderweg entlang des Güterweges Oberschwarzenberg bis zum Parkplatz, wo er links abbiegt und beim Grenzbach die Staatsgrenze überquert. Er führt abwärts durch den Wald zur Streusiedlung Lackenhäuser, am Rosenberger Gut vorbei, dann Abzweigung links zum Eingang Campingparks. Entlang des Parks, hinter dem Gasthaus Zitherwirt mündet der Weg in den Wald. Über die „Grablbrücke“ geht es zurück über den „Zinngießer Hof“. Danach bergwärts weiter nach Oberschwarzenberg zum Ausgangspunkt.</p>
+<p>
+	Eine detaillierte Beschreibung inkl. Höhendiagramm finden Sie unter: <a href="http://www.boehmerwald.at/oesterreich/tour/430002092/winterwanderweg-glashuettenweg.html">www.boehmerwald.at</a></p>
+<p>
+	Infotelefon: +43 57890 100</p>
+<p>
+	Fordern Sie hier die Wanderkarte der Ferienregion Böhmerwald um EUR 3,00 an: <a href="mailto:info@boehmerwald.at">info@boehmerwald.at</a></p>
+<p>
+	 </p>
+]]></desc><trkseg>
+         <trkpt lat="48.745" lon="13.82474"><ele>0</ele></trkpt>
+<trkpt lat="48.74495" lon="13.82542"><ele>0</ele></trkpt>
+<trkpt lat="48.7449" lon="13.82609"><ele>0</ele></trkpt>
+<trkpt lat="48.74488" lon="13.82676"><ele>0</ele></trkpt>
+<trkpt lat="48.74505" lon="13.82739"><ele>0</ele></trkpt>
+<trkpt lat="48.74522" lon="13.82802"><ele>0</ele></trkpt>
+<trkpt lat="48.74526" lon="13.82868"><ele>0</ele></trkpt>
+<trkpt lat="48.74522" lon="13.82936"><ele>0</ele></trkpt>
+<trkpt lat="48.74533" lon="13.83001"><ele>0</ele></trkpt>
+<trkpt lat="48.74545" lon="13.83067"><ele>0</ele></trkpt>
+<trkpt lat="48.74543" lon="13.83135"><ele>0</ele></trkpt>
+<trkpt lat="48.74519" lon="13.83191"><ele>0</ele></trkpt>
+<trkpt lat="48.74493" lon="13.83245"><ele>0</ele></trkpt>
+<trkpt lat="48.74483" lon="13.83311"><ele>0</ele></trkpt>
+<trkpt lat="48.74484" lon="13.83376"><ele>0</ele></trkpt>
+<trkpt lat="48.7452" lon="13.83411"><ele>0</ele></trkpt>
+<trkpt lat="48.74562" lon="13.83436"><ele>0</ele></trkpt>
+<trkpt lat="48.74591" lon="13.83486"><ele>0</ele></trkpt>
+<trkpt lat="48.74621" lon="13.83536"><ele>0</ele></trkpt>
+<trkpt lat="48.74656" lon="13.83578"><ele>0</ele></trkpt>
+<trkpt lat="48.74683" lon="13.83632"><ele>0</ele></trkpt>
+<trkpt lat="48.74708" lon="13.83688"><ele>0</ele></trkpt>
+<trkpt lat="48.74734" lon="13.83743"><ele>0</ele></trkpt>
+<trkpt lat="48.74764" lon="13.83716"><ele>0</ele></trkpt>
+<trkpt lat="48.74785" lon="13.83656"><ele>0</ele></trkpt>
+<trkpt lat="48.74807" lon="13.83596"><ele>0</ele></trkpt>
+<trkpt lat="48.74828" lon="13.83536"><ele>0</ele></trkpt>
+<trkpt lat="48.74849" lon="13.83477"><ele>0</ele></trkpt>
+<trkpt lat="48.74871" lon="13.83417"><ele>0</ele></trkpt>
+<trkpt lat="48.74892" lon="13.83357"><ele>0</ele></trkpt>
+<trkpt lat="48.74909" lon="13.83295"><ele>0</ele></trkpt>
+<trkpt lat="48.74911" lon="13.83227"><ele>0</ele></trkpt>
+<trkpt lat="48.74927" lon="13.83165"><ele>0</ele></trkpt>
+<trkpt lat="48.74964" lon="13.83129"><ele>0</ele></trkpt>
+<trkpt lat="48.75003" lon="13.83095"><ele>0</ele></trkpt>
+<trkpt lat="48.75042" lon="13.83061"><ele>0</ele></trkpt>
+<trkpt lat="48.75081" lon="13.83027"><ele>0</ele></trkpt>
+<trkpt lat="48.7512" lon="13.82994"><ele>0</ele></trkpt>
+<trkpt lat="48.75159" lon="13.8296"><ele>0</ele></trkpt>
+<trkpt lat="48.75198" lon="13.82926"><ele>0</ele></trkpt>
+<trkpt lat="48.75239" lon="13.82897"><ele>0</ele></trkpt>
+<trkpt lat="48.75281" lon="13.82874"><ele>0</ele></trkpt>
+<trkpt lat="48.75323" lon="13.82851"><ele>0</ele></trkpt>
+<trkpt lat="48.75365" lon="13.82827"><ele>0</ele></trkpt>
+<trkpt lat="48.75401" lon="13.82786"><ele>0</ele></trkpt>
+<trkpt lat="48.75436" lon="13.82744"><ele>0</ele></trkpt>
+<trkpt lat="48.75472" lon="13.82702"><ele>0</ele></trkpt>
+<trkpt lat="48.75514" lon="13.82689"><ele>0</ele></trkpt>
+<trkpt lat="48.75557" lon="13.82707"><ele>0</ele></trkpt>
+<trkpt lat="48.75599" lon="13.82731"><ele>0</ele></trkpt>
+<trkpt lat="48.75641" lon="13.82754"><ele>0</ele></trkpt>
+<trkpt lat="48.75685" lon="13.82752"><ele>0</ele></trkpt>
+<trkpt lat="48.7573" lon="13.82744"><ele>0</ele></trkpt>
+<trkpt lat="48.75775" lon="13.82737"><ele>0</ele></trkpt>
+<trkpt lat="48.7582" lon="13.8273"><ele>0</ele></trkpt>
+<trkpt lat="48.75827" lon="13.82733"><ele>0</ele></trkpt>
+<trkpt lat="48.75852" lon="13.82696"><ele>0</ele></trkpt>
+<trkpt lat="48.75835" lon="13.82633"><ele>0</ele></trkpt>
+<trkpt lat="48.75815" lon="13.82573"><ele>0</ele></trkpt>
+<trkpt lat="48.75787" lon="13.82519"><ele>0</ele></trkpt>
+<trkpt lat="48.75759" lon="13.82466"><ele>0</ele></trkpt>
+<trkpt lat="48.75731" lon="13.82413"><ele>0</ele></trkpt>
+<trkpt lat="48.7571" lon="13.82353"><ele>0</ele></trkpt>
+<trkpt lat="48.75688" lon="13.82293"><ele>0</ele></trkpt>
+<trkpt lat="48.75667" lon="13.82233"><ele>0</ele></trkpt>
+<trkpt lat="48.75636" lon="13.82188"><ele>0</ele></trkpt>
+<trkpt lat="48.75597" lon="13.82156"><ele>0</ele></trkpt>
+<trkpt lat="48.75557" lon="13.82124"><ele>0</ele></trkpt>
+<trkpt lat="48.75517" lon="13.82093"><ele>0</ele></trkpt>
+<trkpt lat="48.75477" lon="13.82061"><ele>0</ele></trkpt>
+<trkpt lat="48.75437" lon="13.82029"><ele>0</ele></trkpt>
+<trkpt lat="48.75398" lon="13.81997"><ele>0</ele></trkpt>
+<trkpt lat="48.7536" lon="13.81961"><ele>0</ele></trkpt>
+<trkpt lat="48.75323" lon="13.81922"><ele>0</ele></trkpt>
+<trkpt lat="48.75287" lon="13.81882"><ele>0</ele></trkpt>
+<trkpt lat="48.7525" lon="13.81843"><ele>0</ele></trkpt>
+<trkpt lat="48.75213" lon="13.81803"><ele>0</ele></trkpt>
+<trkpt lat="48.75207" lon="13.81736"><ele>0</ele></trkpt>
+<trkpt lat="48.75189" lon="13.81679"><ele>0</ele></trkpt>
+<trkpt lat="48.75155" lon="13.81635"><ele>0</ele></trkpt>
+<trkpt lat="48.75121" lon="13.81591"><ele>0</ele></trkpt>
+<trkpt lat="48.75084" lon="13.81553"><ele>0</ele></trkpt>
+<trkpt lat="48.75046" lon="13.81517"><ele>0</ele></trkpt>
+<trkpt lat="48.75007" lon="13.81481"><ele>0</ele></trkpt>
+<trkpt lat="48.74969" lon="13.81445"><ele>0</ele></trkpt>
+<trkpt lat="48.74931" lon="13.81409"><ele>0</ele></trkpt>
+<trkpt lat="48.74912" lon="13.81447"><ele>0</ele></trkpt>
+<trkpt lat="48.74901" lon="13.81513"><ele>0</ele></trkpt>
+<trkpt lat="48.74889" lon="13.81578"><ele>0</ele></trkpt>
+<trkpt lat="48.74877" lon="13.81644"><ele>0</ele></trkpt>
+<trkpt lat="48.7486" lon="13.81706"><ele>0</ele></trkpt>
+<trkpt lat="48.74832" lon="13.81759"><ele>0</ele></trkpt>
+<trkpt lat="48.74805" lon="13.81813"><ele>0</ele></trkpt>
+<trkpt lat="48.74777" lon="13.81867"><ele>0</ele></trkpt>
+<trkpt lat="48.7479" lon="13.81932"><ele>0</ele></trkpt>
+<trkpt lat="48.74818" lon="13.81984"><ele>0</ele></trkpt>
+<trkpt lat="48.74847" lon="13.82036"><ele>0</ele></trkpt>
+<trkpt lat="48.74862" lon="13.821"><ele>0</ele></trkpt>
+<trkpt lat="48.74855" lon="13.82119"><ele>0</ele></trkpt>
+<trkpt lat="48.74842" lon="13.82184"><ele>0</ele></trkpt>
+<trkpt lat="48.74814" lon="13.82237"><ele>0</ele></trkpt>
+<trkpt lat="48.74782" lon="13.82283"><ele>0</ele></trkpt>
+<trkpt lat="48.7474" lon="13.82306"><ele>0</ele></trkpt>
+<trkpt lat="48.74697" lon="13.82329"><ele>0</ele></trkpt>
+<trkpt lat="48.74659" lon="13.82362"><ele>0</ele></trkpt>
+<trkpt lat="48.74636" lon="13.82419"><ele>0</ele></trkpt>
+<trkpt lat="48.74601" lon="13.82447"><ele>0</ele></trkpt>
+<trkpt lat="48.74557" lon="13.82456"><ele>0</ele></trkpt>
+<trkpt lat="48.74512" lon="13.82465"><ele>0</ele></trkpt>
+<trkpt lat="48.74494" lon="13.82468"><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

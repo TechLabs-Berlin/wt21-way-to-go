@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Heinsdf_V4_16_5km: Oberheinsdorf_Rollbock-KaltesFeld-Muehlteich-Bungalows-Hauptmannsgruen-AltePoststr-Rollbock]]></name>
+      <desc><![CDATA[<p>Wanderungen Heinsdorfergrund (Unterheinsdorf, Oberheinsdorf, Hauptmannsgrün)</p>
+<p><a href="http://www.heinsdorfergrund-vogtland.de/inhalte/gemeinde_heinsdorfergrund/_inhalt/unsere_gemeinde/unsere_gemeinde">http://www.heinsdorfergrund-vogtland.de/inhalte/gemeinde_heinsdorfergrund/_inhalt/unsere_gemeinde/unsere_gemeinde</a></p>
+<p></p>
+<p><span style="font-size: 8pt; font-family: Arial;">Beim Hochladen der 
+GPX-Dateien auf Wandermap werden die Wegpunkte mit
+Hinweisen, z. B. zu Wanderwegweisern, nicht mit übernommen. Die 
+GPX-Dateien mit
+den Wegpunkten sind unter http://www.wolf-klepzig.de/hp/wandg/{xxx}.gpx
+abgelegt.  Hinweise zum Herunterladen und Öffnen der GPX-Dateien sowie 
+Beschreibungen, oft mit Anfahrt- und Parkmöglichkeiten (Koordinaten), 
+unter <a href="http://www.wolf-klepzig.de/hp/wandg/wanderrouten.pdf">http://www.wolf-klepzig.de/hp/wandern.htm</a>.</span></p>
+<p></p>
+<p>V4_16_6km: Oberheinsdorf_Rollbock-KaltesFeld-Muehlteich-Bungalows-Hauptmannsgruen-AltePoststr-Rollbock</p>
+<p>(Wege abgelaufen Nov. 2008, Kilometerangaben „Km“ bezogen auf Ausgangspunkt)</p>
+<p>Anfahrt: Von der Reichenbacher Straße S282 in Oberheinsdorf bei Reichenbach/Vogtl. am Hinweisschild Gasthof Bauernstube bzw. Rollbockschuppen abbiegen. Nach dem Rollbockschuppen am Gemeindezentrum Heinsdorfergrund ausreichend Parkmöglichkeiten. Alternativ am Mühlteich in Hauptmannsgrün parken und Rundwanderung dort beginnen.</p>
+<p>Rollbockschuppen ist kleines Eisenbahnmuseum (Sa. 14 - 17 Uhr o. Bestellg. 03765-14655, 03765-12364). Bauernstube ist Dorfgasthof (Mo - Sa 11 - 22 Uhr, So 10 - 22 Uhr, Do Ruhetag, Tel. 03765-65150).</p>
+<p>Vom Parkplatz am Gemeindezentrum auf asphaltiertem Fuß-/Radweg am Raumbach entlang nach Westen gehen. Bei Km 1,1 kurz vor einer Raststelle in Richtung Schild „Auerweg 20, 19,18“ nach links bergauf gehen und ca. 200 m weiter rechts abbiegen. Nach einem Bauerngut geht der Weg in einen grasbewachsenen Feldweg über, dem bis zum Ende an einer Bungalowsiedlung/Gartenanlage zu folgen ist. Wo der Weg auf den Wanderweg gelber Strich trifft, nach links dem gelben Strich folgen.</p>
+<p>Der Wanderweg führt durch Gartenanlage und Waldstück  auf Straße Kaltes Feld (Alternative am Waldrand über Wiese), bei Km 3 halblinks auf Waldweg gem . Wanderwegweiser „Mühlteich, Hauptmannsgrün, Schwarzer Weg“ (auf Str. weiter wäre „Schönbrunn, Waldkirchen“, ebenfalls gelber Strich).</p>
+<p>Zwischen Km 3,8 und 3,9 war im Nov. 2008 der Wanderweg umgepflügt – also 100 m am Waldrand über das Feld gehen und dann links auf Waldweg bis zum Wanderwegweiser (Km 4,2), nach rechts „Autobahnbrücke, Mühlteich“. Bei Km 4,7 wird Waldkirchner Weg erreicht, eine ca. 4 m breite Asphaltstraße. Wanderwegweiser nach links folgen „Mühlteich, Hauptmannsgrün“ (rts. „Waldkirchen, Lengenfeld“), nach 200 m an der Linkskurve Wanderwegweiser. Nicht links bergab „Oberheinsdorf, Rollbockschuppen 1 km“, sondern den nach rechts abzweigenden Wiesenweg „Marienhöhe 1,5 km“ und weiter zum Mühlteich Hauptmannsgrün gehen, immer gelber Strich.</p>
+<p>Nach dem ersten Waldstück bei Km 5,5 führt der Wanderweg ca. 50 m am Feldrand entlang – Nov. 2008 lobenswerterweise nicht umgepflügt – dann allerdings muss ca. 10 m über das Feld gegangen werden. Zwischen der Feldzufahrt bei Km 5,8 und der Waldkirchner Straße war im Nov. 2008 eine durch Feldarbeit bedingte 200 m lange Moraststrecke zu überwinden.</p>
+<p>An der Waldkirchner Str. steht neben der Postmeilensäule ein Wegweiser mit vielen Richtungsangaben. Dem gelben und grünen Strich „Hauptmannsgrün Mühlteich 3 km“ folgen und in Sicht- sowie Hörweite der A72 am Modellflugplatz vorbei in den Wald gehen. Bei Km 6,9 führen Wegweiser „Mühlteich 2 km“ sowie gelber u. grüner Strich vom Waldweg ab nach links durch den Wald. [Alternativ kann aber auch geradeaus (ohne Wegweiser, gekennzeichnet auf Karte durch Alternativpunkte) auf dem Waldweg zum Mühlteich gegangen werden. Er war vor Jahren durch Tor am Mühlteich versperrt.] Beide Wege werden auch durch Reiter genutzt, was früher oder später auf den schmalen Waldpfaden zu Morast führen kann.</p>
+<p>Die Wanderwegzeichen sind so dicht gesetzt, dass der Weg auf Pfaden bzw. quer durch den Wald leicht zu finden ist. Nach Passieren eines kleinen Teiches am Waldende und eines weiteren Waldstückes vor dem Campingplatz bei bei Km 8,3 gem. Wegweiser „Mühlteich 0,5 km“ nach rechts bergab gehen und im Tal auf dem Forstweg links. Nach dem Mühlteich wird bei Km 8,8 die Irfersgrüner Str. erreicht. Auf diese rechts einbiegen und nach wenigen Metern am Wegweiser „Hundesportplatz, Voigtsgrüner Straße, Reichenbach“ halblinks auf Weg Am Mühlteich zwischen den Bungalows hindurchgehen. An der Forsthausruine dem gelben Strich halblinks folgen. Bei Km 10,2 am Hundesportplatz rechts auf die Voigtsgrüner Straße einbiegen und nach ca. 80 m in der Kurve links auf einen Feldweg wechseln.</p>
+<p>Der Feldweg mündet nach ca. 100 m in einen quer verlaufenden Feldweg, dort nach links ca. 430 m gehen und auf den nächsten Feldweg rechts einbiegen. Bei Km 11,4 vor einem kleinen Teich links auf dem Feldweg Richtung Hauptstr. gehen. Alle Feldwege sind unbefestigt, können also nach Feldarbeiten bei nassem Wetter etwas morastig sein.</p>
+<p>Auf der Hauptstr. nach links und nach 25 m am Grundstück Nr. 55 nach rechts auf Weg mit gelbem Strich abbiegen. Nach kurzem Asphalt- und Schotterstück geht der Weg in einen mit Gras bewachsenen, leicht geschotterten Feldweg über, der aber auch bei feuchtem Wetter gut begehbar ist. Der Feldweg mündet bei Km 13,5 in die Alte Poststraße, dort nach links wenden und nach dem zweiten Waldstück bei Km 14,6 wieder links auf einem asphaltierten Wirtschaftweg bergab gehen. Nach Überqueren der Reichenbacher Straße werden Rollbockschuppen sowie Gemeindezentrum und damit der Ausgangspunkt erreicht.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Heinsdf_V4_16_5km: Oberheinsdorf_Rollbock-KaltesFeld-Muehlteich-Bungalows-Hauptmannsgruen-AltePoststr-Rollbock]]></name><desc><![CDATA[<p>Wanderungen Heinsdorfergrund (Unterheinsdorf, Oberheinsdorf, Hauptmannsgrün)</p>
+<p><a href="http://www.heinsdorfergrund-vogtland.de/inhalte/gemeinde_heinsdorfergrund/_inhalt/unsere_gemeinde/unsere_gemeinde">http://www.heinsdorfergrund-vogtland.de/inhalte/gemeinde_heinsdorfergrund/_inhalt/unsere_gemeinde/unsere_gemeinde</a></p>
+<p></p>
+<p><span style="font-size: 8pt; font-family: Arial;">Beim Hochladen der 
+GPX-Dateien auf Wandermap werden die Wegpunkte mit
+Hinweisen, z. B. zu Wanderwegweisern, nicht mit übernommen. Die 
+GPX-Dateien mit
+den Wegpunkten sind unter http://www.wolf-klepzig.de/hp/wandg/{xxx}.gpx
+abgelegt.  Hinweise zum Herunterladen und Öffnen der GPX-Dateien sowie 
+Beschreibungen, oft mit Anfahrt- und Parkmöglichkeiten (Koordinaten), 
+unter <a href="http://www.wolf-klepzig.de/hp/wandg/wanderrouten.pdf">http://www.wolf-klepzig.de/hp/wandern.htm</a>.</span></p>
+<p></p>
+<p>V4_16_6km: Oberheinsdorf_Rollbock-KaltesFeld-Muehlteich-Bungalows-Hauptmannsgruen-AltePoststr-Rollbock</p>
+<p>(Wege abgelaufen Nov. 2008, Kilometerangaben „Km“ bezogen auf Ausgangspunkt)</p>
+<p>Anfahrt: Von der Reichenbacher Straße S282 in Oberheinsdorf bei Reichenbach/Vogtl. am Hinweisschild Gasthof Bauernstube bzw. Rollbockschuppen abbiegen. Nach dem Rollbockschuppen am Gemeindezentrum Heinsdorfergrund ausreichend Parkmöglichkeiten. Alternativ am Mühlteich in Hauptmannsgrün parken und Rundwanderung dort beginnen.</p>
+<p>Rollbockschuppen ist kleines Eisenbahnmuseum (Sa. 14 - 17 Uhr o. Bestellg. 03765-14655, 03765-12364). Bauernstube ist Dorfgasthof (Mo - Sa 11 - 22 Uhr, So 10 - 22 Uhr, Do Ruhetag, Tel. 03765-65150).</p>
+<p>Vom Parkplatz am Gemeindezentrum auf asphaltiertem Fuß-/Radweg am Raumbach entlang nach Westen gehen. Bei Km 1,1 kurz vor einer Raststelle in Richtung Schild „Auerweg 20, 19,18“ nach links bergauf gehen und ca. 200 m weiter rechts abbiegen. Nach einem Bauerngut geht der Weg in einen grasbewachsenen Feldweg über, dem bis zum Ende an einer Bungalowsiedlung/Gartenanlage zu folgen ist. Wo der Weg auf den Wanderweg gelber Strich trifft, nach links dem gelben Strich folgen.</p>
+<p>Der Wanderweg führt durch Gartenanlage und Waldstück  auf Straße Kaltes Feld (Alternative am Waldrand über Wiese), bei Km 3 halblinks auf Waldweg gem . Wanderwegweiser „Mühlteich, Hauptmannsgrün, Schwarzer Weg“ (auf Str. weiter wäre „Schönbrunn, Waldkirchen“, ebenfalls gelber Strich).</p>
+<p>Zwischen Km 3,8 und 3,9 war im Nov. 2008 der Wanderweg umgepflügt – also 100 m am Waldrand über das Feld gehen und dann links auf Waldweg bis zum Wanderwegweiser (Km 4,2), nach rechts „Autobahnbrücke, Mühlteich“. Bei Km 4,7 wird Waldkirchner Weg erreicht, eine ca. 4 m breite Asphaltstraße. Wanderwegweiser nach links folgen „Mühlteich, Hauptmannsgrün“ (rts. „Waldkirchen, Lengenfeld“), nach 200 m an der Linkskurve Wanderwegweiser. Nicht links bergab „Oberheinsdorf, Rollbockschuppen 1 km“, sondern den nach rechts abzweigenden Wiesenweg „Marienhöhe 1,5 km“ und weiter zum Mühlteich Hauptmannsgrün gehen, immer gelber Strich.</p>
+<p>Nach dem ersten Waldstück bei Km 5,5 führt der Wanderweg ca. 50 m am Feldrand entlang – Nov. 2008 lobenswerterweise nicht umgepflügt – dann allerdings muss ca. 10 m über das Feld gegangen werden. Zwischen der Feldzufahrt bei Km 5,8 und der Waldkirchner Straße war im Nov. 2008 eine durch Feldarbeit bedingte 200 m lange Moraststrecke zu überwinden.</p>
+<p>An der Waldkirchner Str. steht neben der Postmeilensäule ein Wegweiser mit vielen Richtungsangaben. Dem gelben und grünen Strich „Hauptmannsgrün Mühlteich 3 km“ folgen und in Sicht- sowie Hörweite der A72 am Modellflugplatz vorbei in den Wald gehen. Bei Km 6,9 führen Wegweiser „Mühlteich 2 km“ sowie gelber u. grüner Strich vom Waldweg ab nach links durch den Wald. [Alternativ kann aber auch geradeaus (ohne Wegweiser, gekennzeichnet auf Karte durch Alternativpunkte) auf dem Waldweg zum Mühlteich gegangen werden. Er war vor Jahren durch Tor am Mühlteich versperrt.] Beide Wege werden auch durch Reiter genutzt, was früher oder später auf den schmalen Waldpfaden zu Morast führen kann.</p>
+<p>Die Wanderwegzeichen sind so dicht gesetzt, dass der Weg auf Pfaden bzw. quer durch den Wald leicht zu finden ist. Nach Passieren eines kleinen Teiches am Waldende und eines weiteren Waldstückes vor dem Campingplatz bei bei Km 8,3 gem. Wegweiser „Mühlteich 0,5 km“ nach rechts bergab gehen und im Tal auf dem Forstweg links. Nach dem Mühlteich wird bei Km 8,8 die Irfersgrüner Str. erreicht. Auf diese rechts einbiegen und nach wenigen Metern am Wegweiser „Hundesportplatz, Voigtsgrüner Straße, Reichenbach“ halblinks auf Weg Am Mühlteich zwischen den Bungalows hindurchgehen. An der Forsthausruine dem gelben Strich halblinks folgen. Bei Km 10,2 am Hundesportplatz rechts auf die Voigtsgrüner Straße einbiegen und nach ca. 80 m in der Kurve links auf einen Feldweg wechseln.</p>
+<p>Der Feldweg mündet nach ca. 100 m in einen quer verlaufenden Feldweg, dort nach links ca. 430 m gehen und auf den nächsten Feldweg rechts einbiegen. Bei Km 11,4 vor einem kleinen Teich links auf dem Feldweg Richtung Hauptstr. gehen. Alle Feldwege sind unbefestigt, können also nach Feldarbeiten bei nassem Wetter etwas morastig sein.</p>
+<p>Auf der Hauptstr. nach links und nach 25 m am Grundstück Nr. 55 nach rechts auf Weg mit gelbem Strich abbiegen. Nach kurzem Asphalt- und Schotterstück geht der Weg in einen mit Gras bewachsenen, leicht geschotterten Feldweg über, der aber auch bei feuchtem Wetter gut begehbar ist. Der Feldweg mündet bei Km 13,5 in die Alte Poststraße, dort nach links wenden und nach dem zweiten Waldstück bei Km 14,6 wieder links auf einem asphaltierten Wirtschaftweg bergab gehen. Nach Überqueren der Reichenbacher Straße werden Rollbockschuppen sowie Gemeindezentrum und damit der Ausgangspunkt erreicht.</p>]]></desc><trkseg>
+         <trkpt lat="50.61725" lon="12.36141"><ele>381</ele></trkpt>
+<trkpt lat="50.61723" lon="12.36069"><ele>381</ele></trkpt>
+<trkpt lat="50.61725" lon="12.36029"><ele>381</ele></trkpt>
+<trkpt lat="50.61719" lon="12.35995"><ele>380</ele></trkpt>
+<trkpt lat="50.61705" lon="12.35909"><ele>380</ele></trkpt>
+<trkpt lat="50.61705" lon="12.35897"><ele>380</ele></trkpt>
+<trkpt lat="50.61701" lon="12.35885"><ele>380</ele></trkpt>
+<trkpt lat="50.61711" lon="12.35839"><ele>379</ele></trkpt>
+<trkpt lat="50.61714" lon="12.3582"><ele>379</ele></trkpt>
+<trkpt lat="50.61707" lon="12.35778"><ele>378</ele></trkpt>
+<trkpt lat="50.617" lon="12.35762"><ele>378</ele></trkpt>
+<trkpt lat="50.61695" lon="12.35725"><ele>377</ele></trkpt>
+<trkpt lat="50.61685" lon="12.35693"><ele>377</ele></trkpt>
+<trkpt lat="50.61641" lon="12.35635"><ele>376</ele></trkpt>
+<trkpt lat="50.61591" lon="12.35554"><ele>374</ele></trkpt>
+<trkpt lat="50.6156" lon="12.35503"><ele>374</ele></trkpt>
+<trkpt lat="50.61547" lon="12.35475"><ele>374</ele></trkpt>
+<trkpt lat="50.61538" lon="12.35446"><ele>374</ele></trkpt>
+<trkpt lat="50.61533" lon="12.35424"><ele>374</ele></trkpt>
+<trkpt lat="50.61526" lon="12.35402"><ele>374</ele></trkpt>
+<trkpt lat="50.61523" lon="12.35388"><ele>374</ele></trkpt>
+<trkpt lat="50.61516" lon="12.35371"><ele>374</ele></trkpt>
+<trkpt lat="50.61494" lon="12.35311"><ele>373</ele></trkpt>
+<trkpt lat="50.61469" lon="12.35277"><ele>372</ele></trkpt>
+<trkpt lat="50.61457" lon="12.35266"><ele>372</ele></trkpt>
+<trkpt lat="50.61452" lon="12.3524"><ele>372</ele></trkpt>
+<trkpt lat="50.61459" lon="12.35201"><ele>372</ele></trkpt>
+<trkpt lat="50.61467" lon="12.35163"><ele>372</ele></trkpt>
+<trkpt lat="50.61483" lon="12.35134"><ele>372</ele></trkpt>
+<trkpt lat="50.61492" lon="12.35111"><ele>372</ele></trkpt>
+<trkpt lat="50.61499" lon="12.35076"><ele>372</ele></trkpt>
+<trkpt lat="50.61503" lon="12.35046"><ele>372</ele></trkpt>
+<trkpt lat="50.61504" lon="12.35015"><ele>372</ele></trkpt>
+<trkpt lat="50.61496" lon="12.34992"><ele>372</ele></trkpt>
+<trkpt lat="50.61501" lon="12.34962"><ele>372</ele></trkpt>
+<trkpt lat="50.61507" lon="12.34946"><ele>372</ele></trkpt>
+<trkpt lat="50.61513" lon="12.34936"><ele>372</ele></trkpt>
+<trkpt lat="50.61523" lon="12.34906"><ele>371</ele></trkpt>
+<trkpt lat="50.61528" lon="12.34886"><ele>371</ele></trkpt>
+<trkpt lat="50.61527" lon="12.34885"><ele>371</ele></trkpt>
+<trkpt lat="50.61519" lon="12.3485"><ele>370</ele></trkpt>
+<trkpt lat="50.61516" lon="12.34845"><ele>370</ele></trkpt>
+<trkpt lat="50.61516" lon="12.34814"><ele>370</ele></trkpt>
+<trkpt lat="50.61511" lon="12.34773"><ele>370</ele></trkpt>
+<trkpt lat="50.61504" lon="12.34744"><ele>371</ele></trkpt>
+<trkpt lat="50.61482" lon="12.34749"><ele>372</ele></trkpt>
+<trkpt lat="50.61442" lon="12.34773"><ele>374</ele></trkpt>
+<trkpt lat="50.61419" lon="12.34783"><ele>377</ele></trkpt>
+<trkpt lat="50.61419" lon="12.34784"><ele>377</ele></trkpt>
+<trkpt lat="50.61395" lon="12.34786"><ele>381</ele></trkpt>
+<trkpt lat="50.61379" lon="12.34769"><ele>383</ele></trkpt>
+<trkpt lat="50.61366" lon="12.34734"><ele>385</ele></trkpt>
+<trkpt lat="50.61354" lon="12.34709"><ele>385</ele></trkpt>
+<trkpt lat="50.61351" lon="12.34703"><ele>384</ele></trkpt>
+<trkpt lat="50.61332" lon="12.34697"><ele>384</ele></trkpt>
+<trkpt lat="50.61267" lon="12.34565"><ele>384</ele></trkpt>
+<trkpt lat="50.61245" lon="12.34526"><ele>386</ele></trkpt>
+<trkpt lat="50.61211" lon="12.34483"><ele>389</ele></trkpt>
+<trkpt lat="50.61183" lon="12.34441"><ele>392</ele></trkpt>
+<trkpt lat="50.61169" lon="12.34427"><ele>393</ele></trkpt>
+<trkpt lat="50.61143" lon="12.34387"><ele>397</ele></trkpt>
+<trkpt lat="50.6113" lon="12.3437"><ele>398</ele></trkpt>
+<trkpt lat="50.61103" lon="12.34348"><ele>402</ele></trkpt>
+<trkpt lat="50.61069" lon="12.34363"><ele>409</ele></trkpt>
+<trkpt lat="50.61068" lon="12.34364"><ele>409</ele></trkpt>
+<trkpt lat="50.61052" lon="12.34376"><ele>412</ele></trkpt>
+<trkpt lat="50.60996" lon="12.34412"><ele>417</ele></trkpt>
+<trkpt lat="50.60984" lon="12.34418"><ele>418</ele></trkpt>
+<trkpt lat="50.60962" lon="12.34441"><ele>419</ele></trkpt>
+<trkpt lat="50.60941" lon="12.34453"><ele>419</ele></trkpt>
+<trkpt lat="50.60888" lon="12.34474"><ele>417</ele></trkpt>
+<trkpt lat="50.60873" lon="12.34482"><ele>417</ele></trkpt>
+<trkpt lat="50.6086" lon="12.34489"><ele>416</ele></trkpt>
+<trkpt lat="50.60815" lon="12.34546"><ele>414</ele></trkpt>
+<trkpt lat="50.608" lon="12.3456"><ele>414</ele></trkpt>
+<trkpt lat="50.60762" lon="12.34542"><ele>414</ele></trkpt>
+<trkpt lat="50.60745" lon="12.34531"><ele>414</ele></trkpt>
+<trkpt lat="50.60712" lon="12.34507"><ele>414</ele></trkpt>
+<trkpt lat="50.60656" lon="12.34469"><ele>414</ele></trkpt>
+<trkpt lat="50.60633" lon="12.34468"><ele>414</ele></trkpt>
+<trkpt lat="50.60628" lon="12.34473"><ele>414</ele></trkpt>
+<trkpt lat="50.60607" lon="12.34476"><ele>414</ele></trkpt>
+<trkpt lat="50.60598" lon="12.34474"><ele>414</ele></trkpt>
+<trkpt lat="50.60578" lon="12.34483"><ele>415</ele></trkpt>
+<trkpt lat="50.6053" lon="12.34546"><ele>417</ele></trkpt>
+<trkpt lat="50.60531" lon="12.34547"><ele>417</ele></trkpt>
+<trkpt lat="50.60519" lon="12.34598"><ele>418</ele></trkpt>
+<trkpt lat="50.60491" lon="12.34651"><ele>419</ele></trkpt>
+<trkpt lat="50.60478" lon="12.34687"><ele>418</ele></trkpt>
+<trkpt lat="50.60463" lon="12.34704"><ele>417</ele></trkpt>
+<trkpt lat="50.60438" lon="12.34702"><ele>416</ele></trkpt>
+<trkpt lat="50.60426" lon="12.34714"><ele>415</ele></trkpt>
+<trkpt lat="50.60407" lon="12.34769"><ele>413</ele></trkpt>
+<trkpt lat="50.60385" lon="12.34911"><ele>413</ele></trkpt>
+<trkpt lat="50.60374" lon="12.35009"><ele>417</ele></trkpt>
+<trkpt lat="50.60376" lon="12.35013"><ele>418</ele></trkpt>
+<trkpt lat="50.60364" lon="12.35081"><ele>425</ele></trkpt>
+<trkpt lat="50.60365" lon="12.35091"><ele>426</ele></trkpt>
+<trkpt lat="50.60367" lon="12.35196"><ele>432</ele></trkpt>
+<trkpt lat="50.60361" lon="12.35237"><ele>435</ele></trkpt>
+<trkpt lat="50.6037" lon="12.35274"><ele>437</ele></trkpt>
+<trkpt lat="50.60366" lon="12.35361"><ele>442</ele></trkpt>
+<trkpt lat="50.60379" lon="12.35513"><ele>436</ele></trkpt>
+<trkpt lat="50.60387" lon="12.35551"><ele>436</ele></trkpt>
+<trkpt lat="50.604" lon="12.35588"><ele>437</ele></trkpt>
+<trkpt lat="50.60404" lon="12.35621"><ele>438</ele></trkpt>
+<trkpt lat="50.60404" lon="12.35646"><ele>438</ele></trkpt>
+<trkpt lat="50.6039" lon="12.35671"><ele>439</ele></trkpt>
+<trkpt lat="50.60403" lon="12.35738"><ele>441</ele></trkpt>
+<trkpt lat="50.60461" lon="12.35821"><ele>439</ele></trkpt>
+<trkpt lat="50.6049" lon="12.35849"><ele>436</ele></trkpt>
+<trkpt lat="50.60533" lon="12.36003"><ele>445</ele></trkpt>
+<trkpt lat="50.60543" lon="12.36017"><ele>446</ele></trkpt>
+<trkpt lat="50.60576" lon="12.36156"><ele>451</ele></trkpt>
+<trkpt lat="50.60579" lon="12.36185"><ele>451</ele></trkpt>
+<trkpt lat="50.60586" lon="12.36231"><ele>452</ele></trkpt>
+<trkpt lat="50.60594" lon="12.36246"><ele>452</ele></trkpt>
+<trkpt lat="50.60629" lon="12.36253"><ele>452</ele></trkpt>
+<trkpt lat="50.60657" lon="12.36246"><ele>451</ele></trkpt>
+<trkpt lat="50.60657" lon="12.36208"><ele>451</ele></trkpt>
+<trkpt lat="50.60658" lon="12.36206"><ele>451</ele></trkpt>
+<trkpt lat="50.60661" lon="12.36183"><ele>450</ele></trkpt>
+<trkpt lat="50.60661" lon="12.36181"><ele>450</ele></trkpt>
+<trkpt lat="50.60654" lon="12.36145"><ele>449</ele></trkpt>
+<trkpt lat="50.60676" lon="12.361"><ele>447</ele></trkpt>
+<trkpt lat="50.60677" lon="12.36095"><ele>447</ele></trkpt>
+<trkpt lat="50.60706" lon="12.36071"><ele>448</ele></trkpt>
+<trkpt lat="50.60729" lon="12.3608"><ele>451</ele></trkpt>
+<trkpt lat="50.60778" lon="12.36084"><ele>456</ele></trkpt>
+<trkpt lat="50.60796" lon="12.36082"><ele>456</ele></trkpt>
+<trkpt lat="50.60811" lon="12.36075"><ele>456</ele></trkpt>
+<trkpt lat="50.60835" lon="12.36055"><ele>457</ele></trkpt>
+<trkpt lat="50.60852" lon="12.36049"><ele>457</ele></trkpt>
+<trkpt lat="50.60862" lon="12.36201"><ele>466</ele></trkpt>
+<trkpt lat="50.60915" lon="12.36338"><ele>468</ele></trkpt>
+<trkpt lat="50.60973" lon="12.36439"><ele>460</ele></trkpt>
+<trkpt lat="50.61035" lon="12.3662"><ele>458</ele></trkpt>
+<trkpt lat="50.61084" lon="12.36623"><ele>454</ele></trkpt>
+<trkpt lat="50.61148" lon="12.36659"><ele>452</ele></trkpt>
+<trkpt lat="50.61197" lon="12.36735"><ele>454</ele></trkpt>
+<trkpt lat="50.61158" lon="12.36773"><ele>457</ele></trkpt>
+<trkpt lat="50.6112" lon="12.36824"><ele>467</ele></trkpt>
+<trkpt lat="50.61061" lon="12.36875"><ele>475</ele></trkpt>
+<trkpt lat="50.60962" lon="12.37001"><ele>481</ele></trkpt>
+<trkpt lat="50.60966" lon="12.37084"><ele>483</ele></trkpt>
+<trkpt lat="50.60995" lon="12.3724"><ele>485</ele></trkpt>
+<trkpt lat="50.60992" lon="12.37362"><ele>486</ele></trkpt>
+<trkpt lat="50.60982" lon="12.37469"><ele>489</ele></trkpt>
+<trkpt lat="50.60964" lon="12.37485"><ele>490</ele></trkpt>
+<trkpt lat="50.60929" lon="12.37628"><ele>493</ele></trkpt>
+<trkpt lat="50.60916" lon="12.37658"><ele>493</ele></trkpt>
+<trkpt lat="50.60909" lon="12.3771"><ele>493</ele></trkpt>
+<trkpt lat="50.60911" lon="12.37731"><ele>493</ele></trkpt>
+<trkpt lat="50.60918" lon="12.37733"><ele>493</ele></trkpt>
+<trkpt lat="50.60924" lon="12.3777"><ele>493</ele></trkpt>
+<trkpt lat="50.60911" lon="12.37807"><ele>493</ele></trkpt>
+<trkpt lat="50.609" lon="12.37849"><ele>492</ele></trkpt>
+<trkpt lat="50.60898" lon="12.37918"><ele>490</ele></trkpt>
+<trkpt lat="50.60896" lon="12.37993"><ele>490</ele></trkpt>
+<trkpt lat="50.60902" lon="12.38046"><ele>490</ele></trkpt>
+<trkpt lat="50.60959" lon="12.38175"><ele>490</ele></trkpt>
+<trkpt lat="50.60998" lon="12.38318"><ele>491</ele></trkpt>
+<trkpt lat="50.61016" lon="12.38435"><ele>492</ele></trkpt>
+<trkpt lat="50.61059" lon="12.38586"><ele>492</ele></trkpt>
+<trkpt lat="50.61075" lon="12.38764"><ele>491</ele></trkpt>
+<trkpt lat="50.61085" lon="12.38918"><ele>490</ele></trkpt>
+<trkpt lat="50.61077" lon="12.39049"><ele>489</ele></trkpt>
+<trkpt lat="50.61053" lon="12.39135"><ele>488</ele></trkpt>
+<trkpt lat="50.61062" lon="12.39156"><ele>487</ele></trkpt>
+<trkpt lat="50.61087" lon="12.39169"><ele>487</ele></trkpt>
+<trkpt lat="50.61138" lon="12.39214"><ele>485</ele></trkpt>
+<trkpt lat="50.61158" lon="12.39229"><ele>483</ele></trkpt>
+<trkpt lat="50.61176" lon="12.39232"><ele>482</ele></trkpt>
+<trkpt lat="50.61178" lon="12.39232"><ele>482</ele></trkpt>
+<trkpt lat="50.61199" lon="12.3925"><ele>479</ele></trkpt>
+<trkpt lat="50.61201" lon="12.39266"><ele>478</ele></trkpt>
+<trkpt lat="50.61202" lon="12.39266"><ele>478</ele></trkpt>
+<trkpt lat="50.61222" lon="12.39299"><ele>477</ele></trkpt>
+<trkpt lat="50.61231" lon="12.39325"><ele>476</ele></trkpt>
+<trkpt lat="50.61233" lon="12.39323"><ele>476</ele></trkpt>
+<trkpt lat="50.61251" lon="12.39355"><ele>475</ele></trkpt>
+<trkpt lat="50.61264" lon="12.3938"><ele>475</ele></trkpt>
+<trkpt lat="50.61295" lon="12.39423"><ele>474</ele></trkpt>
+<trkpt lat="50.61306" lon="12.39422"><ele>474</ele></trkpt>
+<trkpt lat="50.61322" lon="12.39454"><ele>474</ele></trkpt>
+<trkpt lat="50.61349" lon="12.39517"><ele>472</ele></trkpt>
+<trkpt lat="50.61361" lon="12.39537"><ele>472</ele></trkpt>
+<trkpt lat="50.61371" lon="12.39556"><ele>471</ele></trkpt>
+<trkpt lat="50.61367" lon="12.39587"><ele>471</ele></trkpt>
+<trkpt lat="50.61409" lon="12.39643"><ele>470</ele></trkpt>
+<trkpt lat="50.61427" lon="12.39665"><ele>470</ele></trkpt>
+<trkpt lat="50.61441" lon="12.39697"><ele>469</ele></trkpt>
+<trkpt lat="50.6148" lon="12.39762"><ele>466</ele></trkpt>
+<trkpt lat="50.61493" lon="12.39791"><ele>466</ele></trkpt>
+<trkpt lat="50.61523" lon="12.39839"><ele>466</ele></trkpt>
+<trkpt lat="50.61551" lon="12.39863"><ele>466</ele></trkpt>
+<trkpt lat="50.61582" lon="12.39879"><ele>464</ele></trkpt>
+<trkpt lat="50.61583" lon="12.39879"><ele>464</ele></trkpt>
+<trkpt lat="50.61617" lon="12.3989"><ele>462</ele></trkpt>
+<trkpt lat="50.61628" lon="12.39898"><ele>461</ele></trkpt>
+<trkpt lat="50.61642" lon="12.39911"><ele>460</ele></trkpt>
+<trkpt lat="50.6166" lon="12.39948"><ele>458</ele></trkpt>
+<trkpt lat="50.61722" lon="12.3996"><ele>454</ele></trkpt>
+<trkpt lat="50.61751" lon="12.39952"><ele>451</ele></trkpt>
+<trkpt lat="50.61784" lon="12.39935"><ele>447</ele></trkpt>
+<trkpt lat="50.61798" lon="12.39931"><ele>446</ele></trkpt>
+<trkpt lat="50.61816" lon="12.39946"><ele>445</ele></trkpt>
+<trkpt lat="50.61856" lon="12.39961"><ele>445</ele></trkpt>
+<trkpt lat="50.6188" lon="12.39963"><ele>445</ele></trkpt>
+<trkpt lat="50.61905" lon="12.39977"><ele>444</ele></trkpt>
+<trkpt lat="50.61918" lon="12.39966"><ele>442</ele></trkpt>
+<trkpt lat="50.61921" lon="12.39965"><ele>442</ele></trkpt>
+<trkpt lat="50.61922" lon="12.39965"><ele>442</ele></trkpt>
+<trkpt lat="50.6194" lon="12.39961"><ele>440</ele></trkpt>
+<trkpt lat="50.61962" lon="12.3994"><ele>437</ele></trkpt>
+<trkpt lat="50.61978" lon="12.39927"><ele>436</ele></trkpt>
+<trkpt lat="50.61986" lon="12.39898"><ele>434</ele></trkpt>
+<trkpt lat="50.61986" lon="12.39844"><ele>432</ele></trkpt>
+<trkpt lat="50.62032" lon="12.39795"><ele>430</ele></trkpt>
+<trkpt lat="50.62078" lon="12.39773"><ele>430</ele></trkpt>
+<trkpt lat="50.62119" lon="12.39748"><ele>430</ele></trkpt>
+<trkpt lat="50.62116" lon="12.3994"><ele>431</ele></trkpt>
+<trkpt lat="50.62148" lon="12.39897"><ele>431</ele></trkpt>
+<trkpt lat="50.62171" lon="12.39874"><ele>430</ele></trkpt>
+<trkpt lat="50.62199" lon="12.39867"><ele>429</ele></trkpt>
+<trkpt lat="50.62276" lon="12.39907"><ele>425</ele></trkpt>
+<trkpt lat="50.62346" lon="12.39955"><ele>422</ele></trkpt>
+<trkpt lat="50.62395" lon="12.39984"><ele>421</ele></trkpt>
+<trkpt lat="50.62412" lon="12.39991"><ele>422</ele></trkpt>
+<trkpt lat="50.62421" lon="12.39981"><ele>422</ele></trkpt>
+<trkpt lat="50.62433" lon="12.4001"><ele>423</ele></trkpt>
+<trkpt lat="50.62437" lon="12.40055"><ele>425</ele></trkpt>
+<trkpt lat="50.62426" lon="12.4014"><ele>428</ele></trkpt>
+<trkpt lat="50.62429" lon="12.40175"><ele>429</ele></trkpt>
+<trkpt lat="50.62429" lon="12.40228"><ele>431</ele></trkpt>
+<trkpt lat="50.6243" lon="12.4029"><ele>432</ele></trkpt>
+<trkpt lat="50.62446" lon="12.40419"><ele>435</ele></trkpt>
+<trkpt lat="50.62446" lon="12.40422"><ele>435</ele></trkpt>
+<trkpt lat="50.62444" lon="12.40456"><ele>435</ele></trkpt>
+<trkpt lat="50.62459" lon="12.40527"><ele>439</ele></trkpt>
+<trkpt lat="50.62463" lon="12.40581"><ele>443</ele></trkpt>
+<trkpt lat="50.62455" lon="12.40645"><ele>447</ele></trkpt>
+<trkpt lat="50.62476" lon="12.4077"><ele>447</ele></trkpt>
+<trkpt lat="50.62478" lon="12.40805"><ele>447</ele></trkpt>
+<trkpt lat="50.62474" lon="12.4084"><ele>448</ele></trkpt>
+<trkpt lat="50.62481" lon="12.4088"><ele>449</ele></trkpt>
+<trkpt lat="50.62499" lon="12.40917"><ele>450</ele></trkpt>
+<trkpt lat="50.6257" lon="12.40966"><ele>449</ele></trkpt>
+<trkpt lat="50.62645" lon="12.41016"><ele>444</ele></trkpt>
+<trkpt lat="50.62704" lon="12.41066"><ele>436</ele></trkpt>
+<trkpt lat="50.62831" lon="12.41144"><ele>434</ele></trkpt>
+<trkpt lat="50.62871" lon="12.41154"><ele>430</ele></trkpt>
+<trkpt lat="50.62898" lon="12.41176"><ele>427</ele></trkpt>
+<trkpt lat="50.6294" lon="12.41192"><ele>423</ele></trkpt>
+<trkpt lat="50.6296" lon="12.41135"><ele>419</ele></trkpt>
+<trkpt lat="50.62965" lon="12.41108"><ele>419</ele></trkpt>
+<trkpt lat="50.62966" lon="12.41107"><ele>419</ele></trkpt>
+<trkpt lat="50.62977" lon="12.41093"><ele>419</ele></trkpt>
+<trkpt lat="50.63008" lon="12.41052"><ele>419</ele></trkpt>
+<trkpt lat="50.63059" lon="12.41016"><ele>422</ele></trkpt>
+<trkpt lat="50.63075" lon="12.41012"><ele>424</ele></trkpt>
+<trkpt lat="50.63094" lon="12.4102"><ele>426</ele></trkpt>
+<trkpt lat="50.63155" lon="12.41072"><ele>430</ele></trkpt>
+<trkpt lat="50.6318" lon="12.41058"><ele>432</ele></trkpt>
+<trkpt lat="50.63206" lon="12.41046"><ele>432</ele></trkpt>
+<trkpt lat="50.63237" lon="12.41043"><ele>431</ele></trkpt>
+<trkpt lat="50.63213" lon="12.40958"><ele>430</ele></trkpt>
+<trkpt lat="50.63173" lon="12.40814"><ele>431</ele></trkpt>
+<trkpt lat="50.63136" lon="12.40703"><ele>434</ele></trkpt>
+<trkpt lat="50.63117" lon="12.4062"><ele>434</ele></trkpt>
+<trkpt lat="50.63098" lon="12.40528"><ele>436</ele></trkpt>
+<trkpt lat="50.63064" lon="12.4041"><ele>437</ele></trkpt>
+<trkpt lat="50.63047" lon="12.40353"><ele>436</ele></trkpt>
+<trkpt lat="50.6302" lon="12.40218"><ele>436</ele></trkpt>
+<trkpt lat="50.63012" lon="12.40175"><ele>435</ele></trkpt>
+<trkpt lat="50.63012" lon="12.40169"><ele>435</ele></trkpt>
+<trkpt lat="50.63012" lon="12.40166"><ele>434</ele></trkpt>
+<trkpt lat="50.63005" lon="12.40111"><ele>433</ele></trkpt>
+<trkpt lat="50.63" lon="12.4007"><ele>432</ele></trkpt>
+<trkpt lat="50.63" lon="12.40055"><ele>432</ele></trkpt>
+<trkpt lat="50.63009" lon="12.40051"><ele>432</ele></trkpt>
+<trkpt lat="50.63072" lon="12.40075"><ele>433</ele></trkpt>
+<trkpt lat="50.63117" lon="12.4011"><ele>434</ele></trkpt>
+<trkpt lat="50.63141" lon="12.40127"><ele>434</ele></trkpt>
+<trkpt lat="50.63162" lon="12.40135"><ele>434</ele></trkpt>
+<trkpt lat="50.63174" lon="12.40134"><ele>435</ele></trkpt>
+<trkpt lat="50.63181" lon="12.40126"><ele>435</ele></trkpt>
+<trkpt lat="50.63178" lon="12.40114"><ele>435</ele></trkpt>
+<trkpt lat="50.63149" lon="12.39959"><ele>435</ele></trkpt>
+<trkpt lat="50.63102" lon="12.39763"><ele>436</ele></trkpt>
+<trkpt lat="50.63061" lon="12.39515"><ele>426</ele></trkpt>
+<trkpt lat="50.63058" lon="12.39496"><ele>425</ele></trkpt>
+<trkpt lat="50.63059" lon="12.39496"><ele>424</ele></trkpt>
+<trkpt lat="50.63053" lon="12.39456"><ele>422</ele></trkpt>
+<trkpt lat="50.63043" lon="12.3943"><ele>420</ele></trkpt>
+<trkpt lat="50.63035" lon="12.39418"><ele>419</ele></trkpt>
+<trkpt lat="50.63008" lon="12.39397"><ele>417</ele></trkpt>
+<trkpt lat="50.63" lon="12.39381"><ele>416</ele></trkpt>
+<trkpt lat="50.63002" lon="12.39361"><ele>416</ele></trkpt>
+<trkpt lat="50.6298" lon="12.39356"><ele>416</ele></trkpt>
+<trkpt lat="50.62987" lon="12.39293"><ele>417</ele></trkpt>
+<trkpt lat="50.62985" lon="12.39248"><ele>418</ele></trkpt>
+<trkpt lat="50.62976" lon="12.39158"><ele>422</ele></trkpt>
+<trkpt lat="50.62976" lon="12.39144"><ele>422</ele></trkpt>
+<trkpt lat="50.62977" lon="12.39143"><ele>422</ele></trkpt>
+<trkpt lat="50.62997" lon="12.3905"><ele>426</ele></trkpt>
+<trkpt lat="50.63101" lon="12.38693"><ele>441</ele></trkpt>
+<trkpt lat="50.63131" lon="12.3862"><ele>446</ele></trkpt>
+<trkpt lat="50.63191" lon="12.3855"><ele>451</ele></trkpt>
+<trkpt lat="50.63429" lon="12.38225"><ele>460</ele></trkpt>
+<trkpt lat="50.63579" lon="12.37939"><ele>465</ele></trkpt>
+<trkpt lat="50.63606" lon="12.37905"><ele>466</ele></trkpt>
+<trkpt lat="50.63649" lon="12.37877"><ele>467</ele></trkpt>
+<trkpt lat="50.63732" lon="12.37862"><ele>468</ele></trkpt>
+<trkpt lat="50.63672" lon="12.37374"><ele>469</ele></trkpt>
+<trkpt lat="50.63598" lon="12.37032"><ele>463</ele></trkpt>
+<trkpt lat="50.636" lon="12.37032"><ele>463</ele></trkpt>
+<trkpt lat="50.63553" lon="12.36869"><ele>471</ele></trkpt>
+<trkpt lat="50.63457" lon="12.36606"><ele>478</ele></trkpt>
+<trkpt lat="50.63403" lon="12.36297"><ele>470</ele></trkpt>
+<trkpt lat="50.63365" lon="12.36323"><ele>468</ele></trkpt>
+<trkpt lat="50.63316" lon="12.3633"><ele>465</ele></trkpt>
+<trkpt lat="50.63128" lon="12.36354"><ele>458</ele></trkpt>
+<trkpt lat="50.62973" lon="12.36374"><ele>452</ele></trkpt>
+<trkpt lat="50.62933" lon="12.36376"><ele>451</ele></trkpt>
+<trkpt lat="50.62884" lon="12.36391"><ele>447</ele></trkpt>
+<trkpt lat="50.62818" lon="12.36394"><ele>443</ele></trkpt>
+<trkpt lat="50.62754" lon="12.36363"><ele>442</ele></trkpt>
+<trkpt lat="50.62591" lon="12.36236"><ele>435</ele></trkpt>
+<trkpt lat="50.62532" lon="12.36202"><ele>431</ele></trkpt>
+<trkpt lat="50.62464" lon="12.36175"><ele>426</ele></trkpt>
+<trkpt lat="50.62374" lon="12.36166"><ele>416</ele></trkpt>
+<trkpt lat="50.62137" lon="12.36164"><ele>397</ele></trkpt>
+<trkpt lat="50.6208" lon="12.36171"><ele>393</ele></trkpt>
+<trkpt lat="50.62024" lon="12.36193"><ele>389</ele></trkpt>
+<trkpt lat="50.61974" lon="12.36228"><ele>384</ele></trkpt>
+<trkpt lat="50.61907" lon="12.36287"><ele>383</ele></trkpt>
+<trkpt lat="50.61889" lon="12.36287"><ele>383</ele></trkpt>
+<trkpt lat="50.6179" lon="12.3625"><ele>382</ele></trkpt>
+<trkpt lat="50.61731" lon="12.36193"><ele>381</ele></trkpt>
+<trkpt lat="50.61733" lon="12.36193"><ele>380</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

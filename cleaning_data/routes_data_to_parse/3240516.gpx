@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[S-Bahnhof Tiergarten]]></name>
+      <desc><![CDATA[<p>
+	Wunderschöner Weg am Landwehrkanal entlang</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[S-Bahnhof Tiergarten]]></name><desc><![CDATA[<p>
+	Wunderschöner Weg am Landwehrkanal entlang</p>
+]]></desc><trkseg>
+         <trkpt lat="52.5069" lon="13.34702"><ele>36</ele></trkpt>
+<trkpt lat="52.50693" lon="13.34701"><ele>36</ele></trkpt>
+<trkpt lat="52.50698" lon="13.34728"><ele>36</ele></trkpt>
+<trkpt lat="52.50705" lon="13.34752"><ele>36</ele></trkpt>
+<trkpt lat="52.50718" lon="13.3478"><ele>36</ele></trkpt>
+<trkpt lat="52.50747" lon="13.34834"><ele>36</ele></trkpt>
+<trkpt lat="52.50745" lon="13.3484"><ele>37</ele></trkpt>
+<trkpt lat="52.50745" lon="13.3484"><ele>37</ele></trkpt>
+<trkpt lat="52.50795" lon="13.34705"><ele>34</ele></trkpt>
+<trkpt lat="52.50827" lon="13.34591"><ele>33</ele></trkpt>
+<trkpt lat="52.50823" lon="13.3459"><ele>33</ele></trkpt>
+<trkpt lat="52.50822" lon="13.3459"><ele>33</ele></trkpt>
+<trkpt lat="52.50819" lon="13.34589"><ele>33</ele></trkpt>
+<trkpt lat="52.50846" lon="13.34522"><ele>32</ele></trkpt>
+<trkpt lat="52.50886" lon="13.34443"><ele>31</ele></trkpt>
+<trkpt lat="52.50899" lon="13.3441"><ele>32</ele></trkpt>
+<trkpt lat="52.50912" lon="13.34355"><ele>36</ele></trkpt>
+<trkpt lat="52.50913" lon="13.34355"><ele>36</ele></trkpt>
+<trkpt lat="52.50922" lon="13.3431"><ele>37</ele></trkpt>
+<trkpt lat="52.50944" lon="13.34254"><ele>37</ele></trkpt>
+<trkpt lat="52.50954" lon="13.34199"><ele>37</ele></trkpt>
+<trkpt lat="52.50962" lon="13.34166"><ele>36</ele></trkpt>
+<trkpt lat="52.50984" lon="13.34098"><ele>37</ele></trkpt>
+<trkpt lat="52.51011" lon="13.34029"><ele>38</ele></trkpt>
+<trkpt lat="52.51067" lon="13.33903"><ele>36</ele></trkpt>
+<trkpt lat="52.51085" lon="13.33856"><ele>37</ele></trkpt>
+<trkpt lat="52.51107" lon="13.33814"><ele>35</ele></trkpt>
+<trkpt lat="52.51114" lon="13.33804"><ele>35</ele></trkpt>
+<trkpt lat="52.51163" lon="13.33776"><ele>39</ele></trkpt>
+<trkpt lat="52.51182" lon="13.33756"><ele>38</ele></trkpt>
+<trkpt lat="52.51225" lon="13.33698"><ele>36</ele></trkpt>
+<trkpt lat="52.51225" lon="13.33697"><ele>36</ele></trkpt>
+<trkpt lat="52.51245" lon="13.33667"><ele>35</ele></trkpt>
+<trkpt lat="52.5128" lon="13.33594"><ele>35</ele></trkpt>
+<trkpt lat="52.51285" lon="13.33558"><ele>35</ele></trkpt>
+<trkpt lat="52.51286" lon="13.33558"><ele>35</ele></trkpt>
+<trkpt lat="52.51286" lon="13.33562"><ele>35</ele></trkpt>
+<trkpt lat="52.5133" lon="13.33581"><ele>36</ele></trkpt>
+<trkpt lat="52.51372" lon="13.33595"><ele>36</ele></trkpt>
+<trkpt lat="52.51372" lon="13.33597"><ele>36</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

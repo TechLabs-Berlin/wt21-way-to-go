@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[NOK-01]]></name>
+      <desc><![CDATA[<p>
+	Kiel HBF zum hotel Berliner Hof Ringstr.6</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[NOK-01]]></name><desc><![CDATA[<p>
+	Kiel HBF zum hotel Berliner Hof Ringstr.6</p>
+]]></desc><trkseg>
+         <trkpt lat="54.31505" lon="10.12982"><ele>11</ele></trkpt>
+<trkpt lat="54.31485" lon="10.13074"><ele>10</ele></trkpt>
+<trkpt lat="54.31615" lon="10.13172"><ele>8</ele></trkpt>
+<trkpt lat="54.31591" lon="10.13265"><ele>5</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

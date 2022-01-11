@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Naturlehrpfad Lauterburg]]></name>
+      <desc><![CDATA[<p></p>
+<p class="MsoNormal">Naturlehrpfad Lauterburg</p>
+<p class="MsoNormal"><span style="font-family: Times;">Erfahren Sie mehr zur
+Geologie des Coburger Landes und heimischer Flora und Fauna.</span></p>
+<p class="MsoNormal"><span style="font-family: Times;">Im Norden Coburgs finden Sie
+eines der landschaftlich attraktivsten Gebiete des Umlands. Hindurch führt der Naturlehrpfad
+Lauterburg, der mit seinen Informationen über die heimische Tier- und
+Pflanzenwelt Ihre Kenntnisse bereichert. Anhand vieler Schautafeln und
+Anschauungsobjekten zu Natur und heimatgeschichtlichen Besonderheiten bietet
+diese abwechslungsreiche Strecke ein wahres Erlebnis für umwelt-interessierte
+Wanderer.</span></p>
+<p></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Naturlehrpfad Lauterburg]]></name><desc><![CDATA[<p></p>
+<p class="MsoNormal">Naturlehrpfad Lauterburg</p>
+<p class="MsoNormal"><span style="font-family: Times;">Erfahren Sie mehr zur
+Geologie des Coburger Landes und heimischer Flora und Fauna.</span></p>
+<p class="MsoNormal"><span style="font-family: Times;">Im Norden Coburgs finden Sie
+eines der landschaftlich attraktivsten Gebiete des Umlands. Hindurch führt der Naturlehrpfad
+Lauterburg, der mit seinen Informationen über die heimische Tier- und
+Pflanzenwelt Ihre Kenntnisse bereichert. Anhand vieler Schautafeln und
+Anschauungsobjekten zu Natur und heimatgeschichtlichen Besonderheiten bietet
+diese abwechslungsreiche Strecke ein wahres Erlebnis für umwelt-interessierte
+Wanderer.</span></p>
+<p></p>]]></desc><trkseg>
+         <trkpt lat="" lon=""><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

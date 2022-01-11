@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Auf die Hütteneckalm]]></name>
+      <desc><![CDATA[<p>Von Haltestelle im Zentrum von Bad Goisern steigen wir gleich in den Weitwanderweg 201 ein, der uns sanft ansteigend über Lasern in Richtung Osten führt. In weiterer Folge halten wir uns links und kommen über die Bergstraße, an Riedln vorbei, hinauf zur Bergstation Predigstuhl. Auf diesem Wegabschnitt erledigen wir auf 3 km Länge gut 250 Höhenmeter. Ab hier beginnt ein breiter Wanderweg, der uns in weniger als einer Stunde über die Roßmoosalm zur Hütteneckalm bringt. Vom Parkplatz des Berghof Predigstuhl steigen wir in die Panorama Nova ein und nehmen nach 50 m den Weg in Richtung Roßmoosalm. Diese haben wir nach einer halben Stunde erreicht und genießen den beeindruckenden Blick auf Hallstätter See und Dachstein. Weiter geht‘s in Richtung Hütteneck. Auf diesem Wegabschnitt entdecken wir den Muschelstein – eine für diese Gegend typische Versteinerung. Danach wird der Weg ein wenig steiler. Bald kommen wir zum Steinbruch, der vor allem den Kids taugen wird, da sie hier an einem kleinen Felsen herumklettern können. Vom Steinbruch weg ist es nur noch eine Viertelstunde bis zur Hütteneckalm. Nach der Rast bringt uns dieselbe Route wieder zurück zum Ausgangspunkt.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Auf die Hütteneckalm]]></name><desc><![CDATA[<p>Von Haltestelle im Zentrum von Bad Goisern steigen wir gleich in den Weitwanderweg 201 ein, der uns sanft ansteigend über Lasern in Richtung Osten führt. In weiterer Folge halten wir uns links und kommen über die Bergstraße, an Riedln vorbei, hinauf zur Bergstation Predigstuhl. Auf diesem Wegabschnitt erledigen wir auf 3 km Länge gut 250 Höhenmeter. Ab hier beginnt ein breiter Wanderweg, der uns in weniger als einer Stunde über die Roßmoosalm zur Hütteneckalm bringt. Vom Parkplatz des Berghof Predigstuhl steigen wir in die Panorama Nova ein und nehmen nach 50 m den Weg in Richtung Roßmoosalm. Diese haben wir nach einer halben Stunde erreicht und genießen den beeindruckenden Blick auf Hallstätter See und Dachstein. Weiter geht‘s in Richtung Hütteneck. Auf diesem Wegabschnitt entdecken wir den Muschelstein – eine für diese Gegend typische Versteinerung. Danach wird der Weg ein wenig steiler. Bald kommen wir zum Steinbruch, der vor allem den Kids taugen wird, da sie hier an einem kleinen Felsen herumklettern können. Vom Steinbruch weg ist es nur noch eine Viertelstunde bis zur Hütteneckalm. Nach der Rast bringt uns dieselbe Route wieder zurück zum Ausgangspunkt.</p>]]></desc><trkseg>
+         <trkpt lat="47.64278" lon="13.61843"><ele>504</ele></trkpt>
+<trkpt lat="47.64272" lon="13.6194"><ele>506</ele></trkpt>
+<trkpt lat="47.64249" lon="13.62044"><ele>509</ele></trkpt>
+<trkpt lat="47.64229" lon="13.62151"><ele>514</ele></trkpt>
+<trkpt lat="47.64222" lon="13.62281"><ele>521</ele></trkpt>
+<trkpt lat="47.64223" lon="13.62354"><ele>525</ele></trkpt>
+<trkpt lat="47.6417" lon="13.62452"><ele>526</ele></trkpt>
+<trkpt lat="47.64124" lon="13.6253"><ele>533</ele></trkpt>
+<trkpt lat="47.64075" lon="13.62764"><ele>547</ele></trkpt>
+<trkpt lat="47.64041" lon="13.62925"><ele>549</ele></trkpt>
+<trkpt lat="47.64029" lon="13.63075"><ele>553</ele></trkpt>
+<trkpt lat="47.64056" lon="13.63257"><ele>573</ele></trkpt>
+<trkpt lat="47.64073" lon="13.63387"><ele>580</ele></trkpt>
+<trkpt lat="47.64083" lon="13.63456"><ele>588</ele></trkpt>
+<trkpt lat="47.64084" lon="13.63496"><ele>591</ele></trkpt>
+<trkpt lat="47.64057" lon="13.63523"><ele>595</ele></trkpt>
+<trkpt lat="47.64064" lon="13.63546"><ele>597</ele></trkpt>
+<trkpt lat="47.64087" lon="13.63559"><ele>600</ele></trkpt>
+<trkpt lat="47.64112" lon="13.63575"><ele>600</ele></trkpt>
+<trkpt lat="47.64112" lon="13.63598"><ele>600</ele></trkpt>
+<trkpt lat="47.64083" lon="13.63596"><ele>600</ele></trkpt>
+<trkpt lat="47.64053" lon="13.63593"><ele>603</ele></trkpt>
+<trkpt lat="47.64033" lon="13.63597"><ele>607</ele></trkpt>
+<trkpt lat="47.64031" lon="13.63631"><ele>612</ele></trkpt>
+<trkpt lat="47.64068" lon="13.63663"><ele>621</ele></trkpt>
+<trkpt lat="47.64108" lon="13.63695"><ele>627</ele></trkpt>
+<trkpt lat="47.6412" lon="13.63735"><ele>631</ele></trkpt>
+<trkpt lat="47.64118" lon="13.63765"><ele>629</ele></trkpt>
+<trkpt lat="47.64107" lon="13.63745"><ele>627</ele></trkpt>
+<trkpt lat="47.64079" lon="13.63709"><ele>622</ele></trkpt>
+<trkpt lat="47.64055" lon="13.637"><ele>621</ele></trkpt>
+<trkpt lat="47.64064" lon="13.63766"><ele>629</ele></trkpt>
+<trkpt lat="47.64092" lon="13.63825"><ele>638</ele></trkpt>
+<trkpt lat="47.64102" lon="13.63942"><ele>647</ele></trkpt>
+<trkpt lat="47.64113" lon="13.64091"><ele>664</ele></trkpt>
+<trkpt lat="47.6415" lon="13.6418"><ele>665</ele></trkpt>
+<trkpt lat="47.64171" lon="13.64249"><ele>670</ele></trkpt>
+<trkpt lat="47.64201" lon="13.64288"><ele>674</ele></trkpt>
+<trkpt lat="47.64223" lon="13.64268"><ele>672</ele></trkpt>
+<trkpt lat="47.64236" lon="13.64228"><ele>670</ele></trkpt>
+<trkpt lat="47.64236" lon="13.64174"><ele>667</ele></trkpt>
+<trkpt lat="47.64267" lon="13.64114"><ele>664</ele></trkpt>
+<trkpt lat="47.64291" lon="13.64086"><ele>663</ele></trkpt>
+<trkpt lat="47.64286" lon="13.64033"><ele>666</ele></trkpt>
+<trkpt lat="47.64326" lon="13.63976"><ele>673</ele></trkpt>
+<trkpt lat="47.64401" lon="13.63917"><ele>685</ele></trkpt>
+<trkpt lat="47.64437" lon="13.63886"><ele>689</ele></trkpt>
+<trkpt lat="47.64447" lon="13.63809"><ele>692</ele></trkpt>
+<trkpt lat="47.64433" lon="13.63737"><ele>698</ele></trkpt>
+<trkpt lat="47.64419" lon="13.63674"><ele>704</ele></trkpt>
+<trkpt lat="47.64375" lon="13.63608"><ele>709</ele></trkpt>
+<trkpt lat="47.6437" lon="13.63575"><ele>710</ele></trkpt>
+<trkpt lat="47.64413" lon="13.63551"><ele>718</ele></trkpt>
+<trkpt lat="47.64442" lon="13.63523"><ele>724</ele></trkpt>
+<trkpt lat="47.64486" lon="13.63449"><ele>723</ele></trkpt>
+<trkpt lat="47.6453" lon="13.63415"><ele>723</ele></trkpt>
+<trkpt lat="47.64575" lon="13.63383"><ele>726</ele></trkpt>
+<trkpt lat="47.6462" lon="13.63365"><ele>732</ele></trkpt>
+<trkpt lat="47.64657" lon="13.63308"><ele>741</ele></trkpt>
+<trkpt lat="47.64683" lon="13.63201"><ele>747</ele></trkpt>
+<trkpt lat="47.64682" lon="13.63118"><ele>753</ele></trkpt>
+<trkpt lat="47.64679" lon="13.63081"><ele>757</ele></trkpt>
+<trkpt lat="47.64688" lon="13.63018"><ele>762</ele></trkpt>
+<trkpt lat="47.64664" lon="13.62965"><ele>764</ele></trkpt>
+<trkpt lat="47.64664" lon="13.62908"><ele>766</ele></trkpt>
+<trkpt lat="47.64682" lon="13.62905"><ele>769</ele></trkpt>
+<trkpt lat="47.647" lon="13.62927"><ele>773</ele></trkpt>
+<trkpt lat="47.64737" lon="13.62976"><ele>781</ele></trkpt>
+<trkpt lat="47.64777" lon="13.62992"><ele>786</ele></trkpt>
+<trkpt lat="47.6482" lon="13.63017"><ele>792</ele></trkpt>
+<trkpt lat="47.64868" lon="13.63023"><ele>795</ele></trkpt>
+<trkpt lat="47.64919" lon="13.63021"><ele>798</ele></trkpt>
+<trkpt lat="47.64949" lon="13.63051"><ele>799</ele></trkpt>
+<trkpt lat="47.64981" lon="13.63073"><ele>800</ele></trkpt>
+<trkpt lat="47.65001" lon="13.63083"><ele>803</ele></trkpt>
+<trkpt lat="47.65051" lon="13.63115"><ele>814</ele></trkpt>
+<trkpt lat="47.65056" lon="13.63134"><ele>816</ele></trkpt>
+<trkpt lat="47.65024" lon="13.63162"><ele>819</ele></trkpt>
+<trkpt lat="47.64944" lon="13.63241"><ele>828</ele></trkpt>
+<trkpt lat="47.64907" lon="13.63292"><ele>837</ele></trkpt>
+<trkpt lat="47.64885" lon="13.63345"><ele>831</ele></trkpt>
+<trkpt lat="47.64875" lon="13.63422"><ele>826</ele></trkpt>
+<trkpt lat="47.64853" lon="13.63513"><ele>849</ele></trkpt>
+<trkpt lat="47.64843" lon="13.63599"><ele>865</ele></trkpt>
+<trkpt lat="47.64861" lon="13.63619"><ele>870</ele></trkpt>
+<trkpt lat="47.64881" lon="13.63588"><ele>876</ele></trkpt>
+<trkpt lat="47.64916" lon="13.63528"><ele>875</ele></trkpt>
+<trkpt lat="47.64952" lon="13.63467"><ele>875</ele></trkpt>
+<trkpt lat="47.65008" lon="13.63435"><ele>875</ele></trkpt>
+<trkpt lat="47.65062" lon="13.63434"><ele>888</ele></trkpt>
+<trkpt lat="47.65091" lon="13.63437"><ele>896</ele></trkpt>
+<trkpt lat="47.65118" lon="13.63479"><ele>902</ele></trkpt>
+<trkpt lat="47.65119" lon="13.63509"><ele>904</ele></trkpt>
+<trkpt lat="47.65108" lon="13.63543"><ele>906</ele></trkpt>
+<trkpt lat="47.65115" lon="13.63576"><ele>908</ele></trkpt>
+<trkpt lat="47.65152" lon="13.63628"><ele>918</ele></trkpt>
+<trkpt lat="47.65168" lon="13.63671"><ele>924</ele></trkpt>
+<trkpt lat="47.6517" lon="13.63707"><ele>926</ele></trkpt>
+<trkpt lat="47.65149" lon="13.63758"><ele>929</ele></trkpt>
+<trkpt lat="47.65136" lon="13.63805"><ele>930</ele></trkpt>
+<trkpt lat="47.65114" lon="13.63845"><ele>928</ele></trkpt>
+<trkpt lat="47.65139" lon="13.63868"><ele>926</ele></trkpt>
+<trkpt lat="47.6519" lon="13.6388"><ele>932</ele></trkpt>
+<trkpt lat="47.65251" lon="13.63882"><ele>941</ele></trkpt>
+<trkpt lat="47.65299" lon="13.63884"><ele>947</ele></trkpt>
+<trkpt lat="47.65358" lon="13.63946"><ele>951</ele></trkpt>
+<trkpt lat="47.65368" lon="13.64022"><ele>952</ele></trkpt>
+<trkpt lat="47.65366" lon="13.64092"><ele>950</ele></trkpt>
+<trkpt lat="47.65362" lon="13.64158"><ele>950</ele></trkpt>
+<trkpt lat="47.6537" lon="13.64225"><ele>961</ele></trkpt>
+<trkpt lat="47.65388" lon="13.64234"><ele>966</ele></trkpt>
+<trkpt lat="47.65408" lon="13.64201"><ele>972</ele></trkpt>
+<trkpt lat="47.65423" lon="13.64157"><ele>975</ele></trkpt>
+<trkpt lat="47.65445" lon="13.6413"><ele>979</ele></trkpt>
+<trkpt lat="47.65483" lon="13.64102"><ele>982</ele></trkpt>
+<trkpt lat="47.65501" lon="13.64065"><ele>983</ele></trkpt>
+<trkpt lat="47.65491" lon="13.64009"><ele>986</ele></trkpt>
+<trkpt lat="47.65486" lon="13.63986"><ele>991</ele></trkpt>
+<trkpt lat="47.65495" lon="13.63985"><ele>993</ele></trkpt>
+<trkpt lat="47.6551" lon="13.64042"><ele>1005</ele></trkpt>
+<trkpt lat="47.65541" lon="13.64067"><ele>1008</ele></trkpt>
+<trkpt lat="47.65553" lon="13.64087"><ele>1007</ele></trkpt>
+<trkpt lat="47.65531" lon="13.64128"><ele>1005</ele></trkpt>
+<trkpt lat="47.65543" lon="13.64174"><ele>1002</ele></trkpt>
+<trkpt lat="47.6557" lon="13.6423"><ele>999</ele></trkpt>
+<trkpt lat="47.656" lon="13.64275"><ele>998</ele></trkpt>
+<trkpt lat="47.65653" lon="13.64308"><ele>998</ele></trkpt>
+<trkpt lat="47.65676" lon="13.64397"><ele>1003</ele></trkpt>
+<trkpt lat="47.65738" lon="13.64486"><ele>1012</ele></trkpt>
+<trkpt lat="47.65781" lon="13.64558"><ele>1019</ele></trkpt>
+<trkpt lat="47.65789" lon="13.64651"><ele>1033</ele></trkpt>
+<trkpt lat="47.65871" lon="13.64722"><ele>1042</ele></trkpt>
+<trkpt lat="47.65939" lon="13.64763"><ele>1051</ele></trkpt>
+<trkpt lat="47.66" lon="13.64775"><ele>1057</ele></trkpt>
+<trkpt lat="47.66078" lon="13.64757"><ele>1061</ele></trkpt>
+<trkpt lat="47.66135" lon="13.64762"><ele>1064</ele></trkpt>
+<trkpt lat="47.66234" lon="13.64799"><ele>1073</ele></trkpt>
+<trkpt lat="47.66273" lon="13.64841"><ele>1083</ele></trkpt>
+<trkpt lat="47.66294" lon="13.64894"><ele>1088</ele></trkpt>
+<trkpt lat="47.66301" lon="13.64957"><ele>1090</ele></trkpt>
+<trkpt lat="47.6632" lon="13.6501"><ele>1090</ele></trkpt>
+<trkpt lat="47.66314" lon="13.6512"><ele>1090</ele></trkpt>
+<trkpt lat="47.66335" lon="13.65173"><ele>1093</ele></trkpt>
+<trkpt lat="47.66372" lon="13.65199"><ele>1097</ele></trkpt>
+<trkpt lat="47.6643" lon="13.65187"><ele>1097</ele></trkpt>
+<trkpt lat="47.66514" lon="13.65228"><ele>1098</ele></trkpt>
+<trkpt lat="47.66539" lon="13.65271"><ele>1099</ele></trkpt>
+<trkpt lat="47.66528" lon="13.65344"><ele>1105</ele></trkpt>
+<trkpt lat="47.66502" lon="13.65382"><ele>1109</ele></trkpt>
+<trkpt lat="47.66494" lon="13.65435"><ele>1114</ele></trkpt>
+<trkpt lat="47.66501" lon="13.65488"><ele>1119</ele></trkpt>
+<trkpt lat="47.66519" lon="13.65534"><ele>1125</ele></trkpt>
+<trkpt lat="47.66574" lon="13.65576"><ele>1134</ele></trkpt>
+<trkpt lat="47.66584" lon="13.65666"><ele>1144</ele></trkpt>
+<trkpt lat="47.66574" lon="13.6575"><ele>1154</ele></trkpt>
+<trkpt lat="47.666" lon="13.65832"><ele>1169</ele></trkpt>
+<trkpt lat="47.66632" lon="13.65898"><ele>1176</ele></trkpt>
+<trkpt lat="47.66633" lon="13.66001"><ele>1183</ele></trkpt>
+<trkpt lat="47.66606" lon="13.66152"><ele>1198</ele></trkpt>
+<trkpt lat="47.66562" lon="13.66289"><ele>1204</ele></trkpt>
+<trkpt lat="47.66525" lon="13.66339"><ele>1200</ele></trkpt>
+<trkpt lat="47.66471" lon="13.66473"><ele>1194</ele></trkpt>
+<trkpt lat="47.66449" lon="13.66524"><ele>1197</ele></trkpt>
+<trkpt lat="47.66416" lon="13.66571"><ele>1206</ele></trkpt>
+<trkpt lat="47.66419" lon="13.66618"><ele>1215</ele></trkpt>
+<trkpt lat="47.66401" lon="13.66682"><ele>1218</ele></trkpt>
+<trkpt lat="47.66398" lon="13.66772"><ele>1196</ele></trkpt>
+<trkpt lat="47.66363" lon="13.66862"><ele>1208</ele></trkpt>
+<trkpt lat="47.66357" lon="13.66916"><ele>1218</ele></trkpt>
+<trkpt lat="47.66358" lon="13.66982"><ele>1231</ele></trkpt>
+<trkpt lat="47.66347" lon="13.67056"><ele>1245</ele></trkpt>
+<trkpt lat="47.66341" lon="13.67143"><ele>1252</ele></trkpt>
+<trkpt lat="47.663" lon="13.67234"><ele>1235</ele></trkpt>
+<trkpt lat="47.66269" lon="13.67298"><ele>1224</ele></trkpt>
+<trkpt lat="47.66233" lon="13.67349"><ele>1227</ele></trkpt>
+<trkpt lat="47.66226" lon="13.67432"><ele>1228</ele></trkpt>
+<trkpt lat="47.66226" lon="13.67432"><ele>1228</ele></trkpt>
+<trkpt lat="47.66197" lon="13.67499"><ele>1230</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

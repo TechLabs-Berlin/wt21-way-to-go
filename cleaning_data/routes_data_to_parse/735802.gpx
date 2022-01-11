@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Amtsbotenweg]]></name>
+      <desc><![CDATA[<p><strong>Amtsbotenweg</strong><br /><br />Der historische Amtsbotenweg lädt Sie ein Geschichte zu entdecken.<br /><br />Dem Herzogtum Coburg – Sachen – Gotha gehörte in den Jahren 1826 bis 1920 die Amtsstadt Königsberg an. Zum Überbringen wichtiger Botschaften wurde damals der Amtsbote eingesetzt. Seine Aufgabe war es, mindestens zweimal pro Woche die rund 50 km lange Strecke zu Fuß, von der kleinen Enklave Königsberg in die Residenzstadt Coburg zurückzulegen.<br /><br />Auch Handwerker und Bauersfrauen nutzen diesen Weg im ihre Erzeugnisse und Leistungen in Coburg zum Verkauf anzubieten. Da die Bewältigung der durchgängig hügeligen Route an einem Tag aber ein sehr anspruchsvolles Ziel darstellt, ist es empfehlenswert den Amtsbotenweg in Teilstrecken zu gehen.<br /><br /><strong>Eine Übernachtungs- und Einkehrmöglichkeit bietet sich auf der Hälfte der Strecke – in der Ortschaft Altenstein an.</strong></p>
+<p></p>
+<p><strong>Idealer Startpunkt:</strong> Parkplatz Anger</p>
+<p><strong>Streckenmarkierung</strong>:<a href="http://www.coburg-tourist.de/images/stories/radregion/radtouren/amtsbotenweg.gif">Blaue Pickelhaube auf weißen Feld</a></p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Amtsbotenweg]]></name><desc><![CDATA[<p><strong>Amtsbotenweg</strong><br /><br />Der historische Amtsbotenweg lädt Sie ein Geschichte zu entdecken.<br /><br />Dem Herzogtum Coburg – Sachen – Gotha gehörte in den Jahren 1826 bis 1920 die Amtsstadt Königsberg an. Zum Überbringen wichtiger Botschaften wurde damals der Amtsbote eingesetzt. Seine Aufgabe war es, mindestens zweimal pro Woche die rund 50 km lange Strecke zu Fuß, von der kleinen Enklave Königsberg in die Residenzstadt Coburg zurückzulegen.<br /><br />Auch Handwerker und Bauersfrauen nutzen diesen Weg im ihre Erzeugnisse und Leistungen in Coburg zum Verkauf anzubieten. Da die Bewältigung der durchgängig hügeligen Route an einem Tag aber ein sehr anspruchsvolles Ziel darstellt, ist es empfehlenswert den Amtsbotenweg in Teilstrecken zu gehen.<br /><br /><strong>Eine Übernachtungs- und Einkehrmöglichkeit bietet sich auf der Hälfte der Strecke – in der Ortschaft Altenstein an.</strong></p>
+<p></p>
+<p><strong>Idealer Startpunkt:</strong> Parkplatz Anger</p>
+<p><strong>Streckenmarkierung</strong>:<a href="http://www.coburg-tourist.de/images/stories/radregion/radtouren/amtsbotenweg.gif">Blaue Pickelhaube auf weißen Feld</a></p>]]></desc><trkseg>
+         <trkpt lat="" lon=""><ele>0</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

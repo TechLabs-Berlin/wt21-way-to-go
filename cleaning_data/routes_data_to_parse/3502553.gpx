@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Niederpleis-Dambroich Karfreitagsrunde]]></name>
+      <desc><![CDATA[<p>
+	Gem&uuml;tlicher 2 Stunden Weg. Zun&auml;chst geht es stetig Bergauf, dann bleibt man auf der H&ouml;he, nach Dambroich geht es dann steil Bergab. Der Weg ist gut befestigt, oft geteert. Hat man die Autobahn erst einmal &uuml;berquert, dann wird es schnell wieder still im Wald. Die erste H&auml;lfte geht durch den schattigen Wald, die zweite H&auml;lfte ist Sonnen beschienen.</p>
+
+
+(cloned from route 2957863)]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Niederpleis-Dambroich Karfreitagsrunde]]></name><desc><![CDATA[<p>
+	Gem&uuml;tlicher 2 Stunden Weg. Zun&auml;chst geht es stetig Bergauf, dann bleibt man auf der H&ouml;he, nach Dambroich geht es dann steil Bergab. Der Weg ist gut befestigt, oft geteert. Hat man die Autobahn erst einmal &uuml;berquert, dann wird es schnell wieder still im Wald. Die erste H&auml;lfte geht durch den schattigen Wald, die zweite H&auml;lfte ist Sonnen beschienen.</p>
+
+
+(cloned from route 2957863)]]></desc><trkseg>
+         <trkpt lat="50.76951" lon="7.22535"><ele>83</ele></trkpt>
+<trkpt lat="50.76811" lon="7.22796"><ele>89</ele></trkpt>
+<trkpt lat="50.76702" lon="7.22992"><ele>95</ele></trkpt>
+<trkpt lat="50.76634" lon="7.23154"><ele>105</ele></trkpt>
+<trkpt lat="50.76622" lon="7.23193"><ele>106</ele></trkpt>
+<trkpt lat="50.76607" lon="7.23219"><ele>110</ele></trkpt>
+<trkpt lat="50.76583" lon="7.2324"><ele>115</ele></trkpt>
+<trkpt lat="50.76555" lon="7.23242"><ele>116</ele></trkpt>
+<trkpt lat="50.76533" lon="7.23239"><ele>117</ele></trkpt>
+<trkpt lat="50.76513" lon="7.23256"><ele>119</ele></trkpt>
+<trkpt lat="50.76434" lon="7.23331"><ele>128</ele></trkpt>
+<trkpt lat="50.76389" lon="7.23378"><ele>130</ele></trkpt>
+<trkpt lat="50.76379" lon="7.234"><ele>131</ele></trkpt>
+<trkpt lat="50.76261" lon="7.23862"><ele>151</ele></trkpt>
+<trkpt lat="50.76211" lon="7.24021"><ele>147</ele></trkpt>
+<trkpt lat="50.76189" lon="7.24117"><ele>152</ele></trkpt>
+<trkpt lat="50.76152" lon="7.2431"><ele>158</ele></trkpt>
+<trkpt lat="50.7612" lon="7.24481"><ele>162</ele></trkpt>
+<trkpt lat="50.76079" lon="7.24743"><ele>162</ele></trkpt>
+<trkpt lat="50.75975" lon="7.24983"><ele>165</ele></trkpt>
+<trkpt lat="50.75909" lon="7.25151"><ele>165</ele></trkpt>
+<trkpt lat="50.75895" lon="7.25194"><ele>164</ele></trkpt>
+<trkpt lat="50.75873" lon="7.25117"><ele>163</ele></trkpt>
+<trkpt lat="50.75837" lon="7.25032"><ele>163</ele></trkpt>
+<trkpt lat="50.75777" lon="7.24956"><ele>161</ele></trkpt>
+<trkpt lat="50.75747" lon="7.24918"><ele>160</ele></trkpt>
+<trkpt lat="50.75616" lon="7.24766"><ele>166</ele></trkpt>
+<trkpt lat="50.75577" lon="7.24706"><ele>162</ele></trkpt>
+<trkpt lat="50.75534" lon="7.24635"><ele>152</ele></trkpt>
+<trkpt lat="50.75478" lon="7.24551"><ele>140</ele></trkpt>
+<trkpt lat="50.75398" lon="7.24439"><ele>123</ele></trkpt>
+<trkpt lat="50.75331" lon="7.24334"><ele>111</ele></trkpt>
+<trkpt lat="50.75232" lon="7.24183"><ele>98</ele></trkpt>
+<trkpt lat="50.75201" lon="7.241"><ele>95</ele></trkpt>
+<trkpt lat="50.75151" lon="7.23968"><ele>91</ele></trkpt>
+<trkpt lat="50.7512" lon="7.23881"><ele>87</ele></trkpt>
+<trkpt lat="50.75106" lon="7.23833"><ele>87</ele></trkpt>
+<trkpt lat="50.75159" lon="7.23823"><ele>87</ele></trkpt>
+<trkpt lat="50.75209" lon="7.23802"><ele>88</ele></trkpt>
+<trkpt lat="50.75236" lon="7.23771"><ele>88</ele></trkpt>
+<trkpt lat="50.75324" lon="7.23647"><ele>89</ele></trkpt>
+<trkpt lat="50.75429" lon="7.23501"><ele>89</ele></trkpt>
+<trkpt lat="50.7554" lon="7.23352"><ele>88</ele></trkpt>
+<trkpt lat="50.75594" lon="7.23279"><ele>88</ele></trkpt>
+<trkpt lat="50.75606" lon="7.23259"><ele>86</ele></trkpt>
+<trkpt lat="50.75585" lon="7.23216"><ele>82</ele></trkpt>
+<trkpt lat="50.75518" lon="7.23086"><ele>78</ele></trkpt>
+<trkpt lat="50.75492" lon="7.22994"><ele>77</ele></trkpt>
+<trkpt lat="50.75494" lon="7.22978"><ele>77</ele></trkpt>
+<trkpt lat="50.75681" lon="7.22863"><ele>80</ele></trkpt>
+<trkpt lat="50.75785" lon="7.22796"><ele>80</ele></trkpt>
+<trkpt lat="50.75903" lon="7.22728"><ele>80</ele></trkpt>
+<trkpt lat="50.76116" lon="7.22594"><ele>78</ele></trkpt>
+<trkpt lat="50.76226" lon="7.2252"><ele>79</ele></trkpt>
+<trkpt lat="50.76242" lon="7.22518"><ele>80</ele></trkpt>
+<trkpt lat="50.7625" lon="7.22534"><ele>81</ele></trkpt>
+<trkpt lat="50.76253" lon="7.22553"><ele>82</ele></trkpt>
+<trkpt lat="50.76246" lon="7.22566"><ele>82</ele></trkpt>
+<trkpt lat="50.76233" lon="7.22574"><ele>83</ele></trkpt>
+<trkpt lat="50.76215" lon="7.22586"><ele>83</ele></trkpt>
+<trkpt lat="50.762" lon="7.22604"><ele>84</ele></trkpt>
+<trkpt lat="50.76198" lon="7.22633"><ele>85</ele></trkpt>
+<trkpt lat="50.76205" lon="7.22652"><ele>86</ele></trkpt>
+<trkpt lat="50.76224" lon="7.22662"><ele>87</ele></trkpt>
+<trkpt lat="50.76254" lon="7.22664"><ele>90</ele></trkpt>
+<trkpt lat="50.76267" lon="7.22675"><ele>90</ele></trkpt>
+<trkpt lat="50.76296" lon="7.22678"><ele>90</ele></trkpt>
+<trkpt lat="50.76445" lon="7.22678"><ele>85</ele></trkpt>
+<trkpt lat="50.76637" lon="7.22683"><ele>83</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

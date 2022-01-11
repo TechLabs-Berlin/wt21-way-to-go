@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Neukloster - Warin - Blankenburg]]></name>
+      <desc><![CDATA[<p>
+	Die sehr abwechslungsreiche Route f&uuml;hrt durch ein Wald - und gew&auml;sserreiches Gebiet im mecklenburgischen Naturpark Sternberger Seenland von Neukloster bis Blankenberg. Die Naturparklandschaft wird u.a. durch tief eingeschnittene Bacht&auml;ler, viele saubere Seen, malerische H&uuml;gel und ausgedehnte W&auml;lder gepr&auml;gt. Beim ersten Abschnitt gelangt man auf dem als Wanderweg ausgewiesenen &bdquo;Denkmalsweg&ldquo; zun&auml;chst am Uferweg des Neuklostersees entlang. Die Ufer sind bewaldet und weisen fast durchgehend einen Schilfg&uuml;rtel auf&nbsp; (Teilweise feuchte Stellen &ndash; als Radfahrstrecke ungeeignet!). Weiter verl&auml;uft der Weg am kleinen Teppnitzbach und dem Gro&szlig;en Wariner See entlang bis zur Kleinstadt Warin, wo das Zentrum des Naturparks &bdquo;Sternberger Seenlandschaft&ldquo; mit wechselnden Ausstellungen besichtigt werden kann. Einkehrm&ouml;glichkeiten besteht z.B. im &bdquo;Hotel-Restaurand am Wariner See&ldquo;.</p>
+<p>
+	Ein besonderes Erlebnis ist der letzte Abschnitt entlang des Radebachs, der tw. durch&nbsp; naturnahen Erlenwald, teilweise tief eingeschnitten durch h&uuml;gelige Waldlandschaft bis Blankenberg f&uuml;hrt.</p>
+<p>
+	Gute Anschl&uuml;sse an &ouml;ffentliche Verkehrsmittel bestehen besonders von und nach Blankenberg (Bus nach Neukloster, Bahnverbindung &uuml;ber Bad Kleinen nach Schwerin, Hamburg, L&uuml;beck oder Berlin).</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Neukloster - Warin - Blankenburg]]></name><desc><![CDATA[<p>
+	Die sehr abwechslungsreiche Route f&uuml;hrt durch ein Wald - und gew&auml;sserreiches Gebiet im mecklenburgischen Naturpark Sternberger Seenland von Neukloster bis Blankenberg. Die Naturparklandschaft wird u.a. durch tief eingeschnittene Bacht&auml;ler, viele saubere Seen, malerische H&uuml;gel und ausgedehnte W&auml;lder gepr&auml;gt. Beim ersten Abschnitt gelangt man auf dem als Wanderweg ausgewiesenen &bdquo;Denkmalsweg&ldquo; zun&auml;chst am Uferweg des Neuklostersees entlang. Die Ufer sind bewaldet und weisen fast durchgehend einen Schilfg&uuml;rtel auf&nbsp; (Teilweise feuchte Stellen &ndash; als Radfahrstrecke ungeeignet!). Weiter verl&auml;uft der Weg am kleinen Teppnitzbach und dem Gro&szlig;en Wariner See entlang bis zur Kleinstadt Warin, wo das Zentrum des Naturparks &bdquo;Sternberger Seenlandschaft&ldquo; mit wechselnden Ausstellungen besichtigt werden kann. Einkehrm&ouml;glichkeiten besteht z.B. im &bdquo;Hotel-Restaurand am Wariner See&ldquo;.</p>
+<p>
+	Ein besonderes Erlebnis ist der letzte Abschnitt entlang des Radebachs, der tw. durch&nbsp; naturnahen Erlenwald, teilweise tief eingeschnitten durch h&uuml;gelige Waldlandschaft bis Blankenberg f&uuml;hrt.</p>
+<p>
+	Gute Anschl&uuml;sse an &ouml;ffentliche Verkehrsmittel bestehen besonders von und nach Blankenberg (Bus nach Neukloster, Bahnverbindung &uuml;ber Bad Kleinen nach Schwerin, Hamburg, L&uuml;beck oder Berlin).</p>
+]]></desc><trkseg>
+         <trkpt lat="53.77236" lon="11.71589"><ele>24</ele></trkpt>
+<trkpt lat="53.77203" lon="11.71673"><ele>25</ele></trkpt>
+<trkpt lat="53.77336" lon="11.71713"><ele>30</ele></trkpt>
+<trkpt lat="53.77362" lon="11.71773"><ele>29</ele></trkpt>
+<trkpt lat="53.77365" lon="11.71861"><ele>29</ele></trkpt>
+<trkpt lat="53.77364" lon="11.71919"><ele>32</ele></trkpt>
+<trkpt lat="53.77379" lon="11.71977"><ele>35</ele></trkpt>
+<trkpt lat="53.77411" lon="11.72042"><ele>40</ele></trkpt>
+<trkpt lat="53.77445" lon="11.72078"><ele>43</ele></trkpt>
+<trkpt lat="53.77494" lon="11.7213"><ele>43</ele></trkpt>
+<trkpt lat="53.77506" lon="11.72333"><ele>37</ele></trkpt>
+<trkpt lat="53.77565" lon="11.72441"><ele>47</ele></trkpt>
+<trkpt lat="53.77686" lon="11.7246"><ele>49</ele></trkpt>
+<trkpt lat="53.77669" lon="11.72524"><ele>49</ele></trkpt>
+<trkpt lat="53.77677" lon="11.7267"><ele>48</ele></trkpt>
+<trkpt lat="53.77752" lon="11.72713"><ele>39</ele></trkpt>
+<trkpt lat="53.77796" lon="11.72713"><ele>35</ele></trkpt>
+<trkpt lat="53.77814" lon="11.72692"><ele>35</ele></trkpt>
+<trkpt lat="53.77876" lon="11.72651"><ele>36</ele></trkpt>
+<trkpt lat="53.77934" lon="11.72733"><ele>43</ele></trkpt>
+<trkpt lat="53.77994" lon="11.72758"><ele>45</ele></trkpt>
+<trkpt lat="53.78008" lon="11.72853"><ele>45</ele></trkpt>
+<trkpt lat="53.78045" lon="11.72868"><ele>44</ele></trkpt>
+<trkpt lat="53.78078" lon="11.72885"><ele>44</ele></trkpt>
+<trkpt lat="53.78105" lon="11.72939"><ele>47</ele></trkpt>
+<trkpt lat="53.7827" lon="11.7302"><ele>40</ele></trkpt>
+<trkpt lat="53.78368" lon="11.72984"><ele>35</ele></trkpt>
+<trkpt lat="53.78483" lon="11.72909"><ele>36</ele></trkpt>
+<trkpt lat="53.78585" lon="11.7284"><ele>36</ele></trkpt>
+<trkpt lat="53.78666" lon="11.72806"><ele>32</ele></trkpt>
+<trkpt lat="53.78708" lon="11.72752"><ele>38</ele></trkpt>
+<trkpt lat="53.78803" lon="11.72722"><ele>49</ele></trkpt>
+<trkpt lat="53.78846" lon="11.7263"><ele>55</ele></trkpt>
+<trkpt lat="53.78895" lon="11.72475"><ele>64</ele></trkpt>
+<trkpt lat="53.79061" lon="11.72575"><ele>63</ele></trkpt>
+<trkpt lat="53.79307" lon="11.7274"><ele>60</ele></trkpt>
+<trkpt lat="53.79386" lon="11.72799"><ele>57</ele></trkpt>
+<trkpt lat="53.79513" lon="11.72327"><ele>49</ele></trkpt>
+<trkpt lat="53.79573" lon="11.72421"><ele>46</ele></trkpt>
+<trkpt lat="53.79629" lon="11.72404"><ele>41</ele></trkpt>
+<trkpt lat="53.79698" lon="11.72104"><ele>43</ele></trkpt>
+<trkpt lat="53.79781" lon="11.71675"><ele>52</ele></trkpt>
+<trkpt lat="53.79883" lon="11.71331"><ele>26</ele></trkpt>
+<trkpt lat="53.79959" lon="11.71117"><ele>22</ele></trkpt>
+<trkpt lat="53.80025" lon="11.70984"><ele>22</ele></trkpt>
+<trkpt lat="53.80075" lon="11.70795"><ele>25</ele></trkpt>
+<trkpt lat="53.80068" lon="11.70602"><ele>25</ele></trkpt>
+<trkpt lat="53.80043" lon="11.70418"><ele>24</ele></trkpt>
+<trkpt lat="53.79908" lon="11.70095"><ele>20</ele></trkpt>
+<trkpt lat="53.79979" lon="11.70001"><ele>21</ele></trkpt>
+<trkpt lat="53.80085" lon="11.69915"><ele>23</ele></trkpt>
+<trkpt lat="53.80131" lon="11.70035"><ele>22</ele></trkpt>
+<trkpt lat="53.80193" lon="11.70168"><ele>20</ele></trkpt>
+<trkpt lat="53.80258" lon="11.70153"><ele>20</ele></trkpt>
+<trkpt lat="53.80313" lon="11.70181"><ele>20</ele></trkpt>
+<trkpt lat="53.80397" lon="11.70295"><ele>21</ele></trkpt>
+<trkpt lat="53.80504" lon="11.70377"><ele>21</ele></trkpt>
+<trkpt lat="53.80567" lon="11.70454"><ele>23</ele></trkpt>
+<trkpt lat="53.80988" lon="11.70752"><ele>23</ele></trkpt>
+<trkpt lat="53.80998" lon="11.711"><ele>24</ele></trkpt>
+<trkpt lat="53.81104" lon="11.71104"><ele>26</ele></trkpt>
+<trkpt lat="53.81578" lon="11.70941"><ele>23</ele></trkpt>
+<trkpt lat="53.81697" lon="11.70838"><ele>26</ele></trkpt>
+<trkpt lat="53.8177" lon="11.70782"><ele>29</ele></trkpt>
+<trkpt lat="53.82158" lon="11.70842"><ele>41</ele></trkpt>
+<trkpt lat="53.82333" lon="11.70868"><ele>34</ele></trkpt>
+<trkpt lat="53.82568" lon="11.70954"><ele>30</ele></trkpt>
+<trkpt lat="53.82786" lon="11.70859"><ele>39</ele></trkpt>
+<trkpt lat="53.83095" lon="11.71087"><ele>50</ele></trkpt>
+<trkpt lat="53.83407" lon="11.71194"><ele>38</ele></trkpt>
+<trkpt lat="53.83531" lon="11.71224"><ele>36</ele></trkpt>
+<trkpt lat="53.83678" lon="11.71383"><ele>35</ele></trkpt>
+<trkpt lat="53.83868" lon="11.7149"><ele>37</ele></trkpt>
+<trkpt lat="53.83993" lon="11.71557"><ele>39</ele></trkpt>
+<trkpt lat="53.83968" lon="11.71488"><ele>35</ele></trkpt>
+<trkpt lat="53.83934" lon="11.71415"><ele>31</ele></trkpt>
+<trkpt lat="53.83849" lon="11.71349"><ele>26</ele></trkpt>
+<trkpt lat="53.83818" lon="11.71319"><ele>28</ele></trkpt>
+<trkpt lat="53.83801" lon="11.71285"><ele>29</ele></trkpt>
+<trkpt lat="53.83803" lon="11.71204"><ele>31</ele></trkpt>
+<trkpt lat="53.83829" lon="11.71151"><ele>32</ele></trkpt>
+<trkpt lat="53.83851" lon="11.71094"><ele>31</ele></trkpt>
+<trkpt lat="53.83865" lon="11.71032"><ele>30</ele></trkpt>
+<trkpt lat="53.8387" lon="11.70979"><ele>29</ele></trkpt>
+<trkpt lat="53.83902" lon="11.7097"><ele>29</ele></trkpt>
+<trkpt lat="53.83926" lon="11.70952"><ele>30</ele></trkpt>
+<trkpt lat="53.83966" lon="11.70946"><ele>31</ele></trkpt>
+<trkpt lat="53.84008" lon="11.70919"><ele>33</ele></trkpt>
+<trkpt lat="53.84018" lon="11.7084"><ele>34</ele></trkpt>
+<trkpt lat="53.84038" lon="11.70587"><ele>32</ele></trkpt>
+<trkpt lat="53.84215" lon="11.70604"><ele>36</ele></trkpt>
+<trkpt lat="53.84258" lon="11.70601"><ele>35</ele></trkpt>
+<trkpt lat="53.84284" lon="11.70673"><ele>33</ele></trkpt>
+<trkpt lat="53.84298" lon="11.70749"><ele>32</ele></trkpt>
+<trkpt lat="53.84278" lon="11.70962"><ele>29</ele></trkpt>
+<trkpt lat="53.84294" lon="11.7102"><ele>30</ele></trkpt>
+<trkpt lat="53.84358" lon="11.71082"><ele>33</ele></trkpt>
+<trkpt lat="53.84455" lon="11.71213"><ele>33</ele></trkpt>
+<trkpt lat="53.8454" lon="11.71355"><ele>27</ele></trkpt>
+<trkpt lat="53.84667" lon="11.71458"><ele>23</ele></trkpt>
+<trkpt lat="53.84832" lon="11.7149"><ele>23</ele></trkpt>
+<trkpt lat="53.84979" lon="11.71443"><ele>22</ele></trkpt>
+<trkpt lat="53.85139" lon="11.71288"><ele>26</ele></trkpt>
+<trkpt lat="53.85359" lon="11.70997"><ele>23</ele></trkpt>
+<trkpt lat="53.85513" lon="11.70743"><ele>26</ele></trkpt>
+<trkpt lat="53.85602" lon="11.70846"><ele>27</ele></trkpt>
+<trkpt lat="53.85713" lon="11.70924"><ele>34</ele></trkpt>
+<trkpt lat="53.85817" lon="11.70804"><ele>36</ele></trkpt>
+<trkpt lat="53.85853" lon="11.70568"><ele>37</ele></trkpt>
+<trkpt lat="53.86088" lon="11.7043"><ele>37</ele></trkpt>
+<trkpt lat="53.86173" lon="11.70407"><ele>29</ele></trkpt>
+<trkpt lat="53.8628" lon="11.70434"><ele>27</ele></trkpt>
+<trkpt lat="53.86373" lon="11.70357"><ele>29</ele></trkpt>
+<trkpt lat="53.86427" lon="11.70336"><ele>28</ele></trkpt>
+<trkpt lat="53.86425" lon="11.70259"><ele>27</ele></trkpt>
+<trkpt lat="53.86433" lon="11.70179"><ele>26</ele></trkpt>
+<trkpt lat="53.86437" lon="11.70078"><ele>27</ele></trkpt>
+<trkpt lat="53.86421" lon="11.69988"><ele>29</ele></trkpt>
+<trkpt lat="53.86346" lon="11.69879"><ele>29</ele></trkpt>
+<trkpt lat="53.86297" lon="11.69814"><ele>28</ele></trkpt>
+<trkpt lat="53.86264" lon="11.69791"><ele>29</ele></trkpt>
+<trkpt lat="53.86231" lon="11.6975"><ele>32</ele></trkpt>
+<trkpt lat="53.86261" lon="11.69668"><ele>34</ele></trkpt>
+<trkpt lat="53.86282" lon="11.69574"><ele>33</ele></trkpt>
+<trkpt lat="53.86289" lon="11.69432"><ele>33</ele></trkpt>
+<trkpt lat="53.86276" lon="11.69351"><ele>35</ele></trkpt>
+<trkpt lat="53.8628" lon="11.69306"><ele>37</ele></trkpt>
+<trkpt lat="53.86301" lon="11.69241"><ele>38</ele></trkpt>
+<trkpt lat="53.86336" lon="11.69108"><ele>39</ele></trkpt>
+<trkpt lat="53.86402" lon="11.69025"><ele>38</ele></trkpt>
+<trkpt lat="53.86404" lon="11.68954"><ele>36</ele></trkpt>
+<trkpt lat="53.86401" lon="11.68694"><ele>32</ele></trkpt>
+<trkpt lat="53.86384" lon="11.68686"><ele>32</ele></trkpt>
+<trkpt lat="53.86385" lon="11.68621"><ele>32</ele></trkpt>
+<trkpt lat="53.86412" lon="11.68548"><ele>32</ele></trkpt>
+<trkpt lat="53.86442" lon="11.68583"><ele>32</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

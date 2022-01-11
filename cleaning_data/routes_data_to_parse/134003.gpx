@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Vom Dreifaltigkeitsberg durchs Lipachtal zur Donau]]></name>
+      <desc><![CDATA[<p><em>Diese Wanderroute ist eine Route von <strong>Yabadu.de</strong> - die Detailbeschreibung und eine topografische Karte finden Sie <strong><a href="http://www.yabadu.de/de/i25619c2000rad/Schw%C3%A4bische_Alb/Wandern-Vom_Dreifaltigkeitsberg_durchs_Lipachtal_zur_Donau.html?setID=26980">auf Yabadu</a></strong>.</em></p>
+<p>----</p>
+<p>Schon der Auftakt der zweiten Etappe am Aufstieg über den Stationenweg
+auf den Dreifaltigkeitsberg ist ein landschaftlicher Genuss, wie auch
+der weitere Weg durch die für die Schwäbische Alb so typische
+Trockenrasen- und Wachholderlandschaft zum Alten Berg, dem Wahrzeichen
+des Heubergs. Krönender Abschluss ist der anschließende Bummel durch
+das idyllische Lipachtal bis an die Donau.</p>]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Vom Dreifaltigkeitsberg durchs Lipachtal zur Donau]]></name><desc><![CDATA[<p><em>Diese Wanderroute ist eine Route von <strong>Yabadu.de</strong> - die Detailbeschreibung und eine topografische Karte finden Sie <strong><a href="http://www.yabadu.de/de/i25619c2000rad/Schw%C3%A4bische_Alb/Wandern-Vom_Dreifaltigkeitsberg_durchs_Lipachtal_zur_Donau.html?setID=26980">auf Yabadu</a></strong>.</em></p>
+<p>----</p>
+<p>Schon der Auftakt der zweiten Etappe am Aufstieg über den Stationenweg
+auf den Dreifaltigkeitsberg ist ein landschaftlicher Genuss, wie auch
+der weitere Weg durch die für die Schwäbische Alb so typische
+Trockenrasen- und Wachholderlandschaft zum Alten Berg, dem Wahrzeichen
+des Heubergs. Krönender Abschluss ist der anschließende Bummel durch
+das idyllische Lipachtal bis an die Donau.</p>]]></desc><trkseg>
+         <trkpt lat="48.07192" lon="8.74193"><ele>663</ele></trkpt>
+<trkpt lat="48.07425" lon="8.74442"><ele>675</ele></trkpt>
+<trkpt lat="48.077" lon="8.74691"><ele>703</ele></trkpt>
+<trkpt lat="48.07803" lon="8.74967"><ele>729</ele></trkpt>
+<trkpt lat="48.07898" lon="8.75182"><ele>761</ele></trkpt>
+<trkpt lat="48.07925" lon="8.75324"><ele>780</ele></trkpt>
+<trkpt lat="48.08032" lon="8.75465"><ele>801</ele></trkpt>
+<trkpt lat="48.08064" lon="8.75627"><ele>831</ele></trkpt>
+<trkpt lat="48.0814" lon="8.7564"><ele>852</ele></trkpt>
+<trkpt lat="48.08203" lon="8.75741"><ele>869</ele></trkpt>
+<trkpt lat="48.08185" lon="8.75889"><ele>888</ele></trkpt>
+<trkpt lat="48.0814" lon="8.76266"><ele>976</ele></trkpt>
+<trkpt lat="48.08356" lon="8.76084"><ele>975</ele></trkpt>
+<trkpt lat="48.08487" lon="8.75963"><ele>969</ele></trkpt>
+<trkpt lat="48.08716" lon="8.75828"><ele>969</ele></trkpt>
+<trkpt lat="48.09053" lon="8.76212"><ele>989</ele></trkpt>
+<trkpt lat="48.09498" lon="8.76764"><ele>942</ele></trkpt>
+<trkpt lat="48.09674" lon="8.77121"><ele>961</ele></trkpt>
+<trkpt lat="48.09746" lon="8.77605"><ele>957</ele></trkpt>
+<trkpt lat="48.09845" lon="8.78123"><ele>953</ele></trkpt>
+<trkpt lat="48.09836" lon="8.78581"><ele>962</ele></trkpt>
+<trkpt lat="48.09944" lon="8.78951"><ele>958</ele></trkpt>
+<trkpt lat="48.10015" lon="8.79167"><ele>955</ele></trkpt>
+<trkpt lat="48.10033" lon="8.79873"><ele>950</ele></trkpt>
+<trkpt lat="48.09732" lon="8.80391"><ele>945</ele></trkpt>
+<trkpt lat="48.09678" lon="8.80553"><ele>944</ele></trkpt>
+<trkpt lat="48.09552" lon="8.80708"><ele>954</ele></trkpt>
+<trkpt lat="48.09413" lon="8.8058"><ele>957</ele></trkpt>
+<trkpt lat="48.0926" lon="8.80506"><ele>972</ele></trkpt>
+<trkpt lat="48.09116" lon="8.80465"><ele>955</ele></trkpt>
+<trkpt lat="48.08923" lon="8.80398"><ele>951</ele></trkpt>
+<trkpt lat="48.08882" lon="8.80903"><ele>951</ele></trkpt>
+<trkpt lat="48.09004" lon="8.81132"><ele>944</ele></trkpt>
+<trkpt lat="48.09116" lon="8.81515"><ele>926</ele></trkpt>
+<trkpt lat="48.09188" lon="8.81609"><ele>912</ele></trkpt>
+<trkpt lat="48.09076" lon="8.81764"><ele>902</ele></trkpt>
+<trkpt lat="48.09256" lon="8.81986"><ele>886</ele></trkpt>
+<trkpt lat="48.09359" lon="8.82303"><ele>888</ele></trkpt>
+<trkpt lat="48.09399" lon="8.82679"><ele>874</ele></trkpt>
+<trkpt lat="48.09489" lon="8.82733"><ele>871</ele></trkpt>
+<trkpt lat="48.0939" lon="8.82821"><ele>879</ele></trkpt>
+<trkpt lat="48.0939" lon="8.8305"><ele>897</ele></trkpt>
+<trkpt lat="48.09188" lon="8.83238"><ele>887</ele></trkpt>
+<trkpt lat="48.09008" lon="8.8344"><ele>888</ele></trkpt>
+<trkpt lat="48.08873" lon="8.83548"><ele>899</ele></trkpt>
+<trkpt lat="48.08581" lon="8.83642"><ele>882</ele></trkpt>
+<trkpt lat="48.08491" lon="8.83696"><ele>878</ele></trkpt>
+<trkpt lat="48.08329" lon="8.83723"><ele>890</ele></trkpt>
+<trkpt lat="48.08271" lon="8.83871"><ele>887</ele></trkpt>
+<trkpt lat="48.08212" lon="8.84099"><ele>894</ele></trkpt>
+<trkpt lat="48.08154" lon="8.84214"><ele>892</ele></trkpt>
+<trkpt lat="48.08262" lon="8.84597"><ele>901</ele></trkpt>
+<trkpt lat="48.08347" lon="8.84591"><ele>893</ele></trkpt>
+<trkpt lat="48.08347" lon="8.84779"><ele>885</ele></trkpt>
+<trkpt lat="48.08163" lon="8.84846"><ele>871</ele></trkpt>
+<trkpt lat="48.08163" lon="8.84725"><ele>840</ele></trkpt>
+<trkpt lat="48.08032" lon="8.84456"><ele>792</ele></trkpt>
+<trkpt lat="48.07934" lon="8.84523"><ele>767</ele></trkpt>
+<trkpt lat="48.07632" lon="8.84873"><ele>759</ele></trkpt>
+<trkpt lat="48.07475" lon="8.84934"><ele>763</ele></trkpt>
+<trkpt lat="48.07273" lon="8.8519"><ele>747</ele></trkpt>
+<trkpt lat="48.07196" lon="8.85304"><ele>743</ele></trkpt>
+<trkpt lat="48.07039" lon="8.85519"><ele>750</ele></trkpt>
+<trkpt lat="48.06895" lon="8.85587"><ele>734</ele></trkpt>
+<trkpt lat="48.06863" lon="8.85694"><ele>733</ele></trkpt>
+<trkpt lat="48.06508" lon="8.85694"><ele>730</ele></trkpt>
+<trkpt lat="48.06234" lon="8.85937"><ele>721</ele></trkpt>
+<trkpt lat="48.06014" lon="8.86112"><ele>710</ele></trkpt>
+<trkpt lat="48.05816" lon="8.86192"><ele>708</ele></trkpt>
+<trkpt lat="48.05546" lon="8.86213"><ele>718</ele></trkpt>
+<trkpt lat="48.05087" lon="8.86495"><ele>701</ele></trkpt>
+<trkpt lat="48.04759" lon="8.86542"><ele>690</ele></trkpt>
+<trkpt lat="48.04138" lon="8.87256"><ele>678</ele></trkpt>
+<trkpt lat="48.03738" lon="8.87639"><ele>665</ele></trkpt>
+<trkpt lat="48.03459" lon="8.87882"><ele>670</ele></trkpt>
+<trkpt lat="48.03639" lon="8.88279"><ele>671</ele></trkpt>
+<trkpt lat="48.03311" lon="8.88736"><ele>638</ele></trkpt>
+<trkpt lat="48.03581" lon="8.89147"><ele>636</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Schneeschuhtour Brennes um den kleinen Arbersee und zur Mooshütte ]]></name>
+      <desc><![CDATA[<p>
+	<strong>Parkplatz am Start.</strong></p>
+<p>
+	<strong>Die zun&auml;chst unmarkierte Strecke war bis km 1,35 gewalzt.</strong></p>
+<p>
+	<strong>Bei km 2,11 Abzweigung Lo3 steil nach unten nicht vers&auml;umen.</strong></p>
+<p>
+	<strong>Einkehrm&ouml;glichkeit bei der Moosh&uuml;tte</strong></p>
+<p>
+	<a href="http://www.berghotel-mooshuette.de/"><strong>http://www.berghotel-mooshuette.de/</strong></a></p>
+<p>
+	<strong>Ab km 5,25 Rodelbahn.</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Diese Tour entspricht i.W. der Tour 3 der Gemeinde Lohberg</strong></p>
+<p>
+	<a href="http://www.lohberg.de/tourismus/html/03_winter/schneeschuh.html"><strong>http://www.lohberg.de/tourismus/html/03_winter/schneeschuh.html</strong></a></p>
+<p>
+	&nbsp;</p>
+<p>
+	<a href="http://www.bikemap.net/de/user/jogruber/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Meine Radtouren</a><span style="color: rgb(207, 51, 207); font-weight: bold;"> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; </span><a href="http://www.bikemap.net/de/user/jogruber/map/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Karte</a><span style="color: rgb(207, 51, 207);"> </span><br style="color: rgb(207, 51, 207);" />
+	<a href="http://www.wandermap.net/de/user/jogruber/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Meine Wanderungen</a><span style="color: rgb(207, 51, 207); font-weight: bold;"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><a href="http://www.wandermap.net/de/user/jogruber/map/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Karte</a></p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Schneeschuhtour Brennes um den kleinen Arbersee und zur Mooshütte ]]></name><desc><![CDATA[<p>
+	<strong>Parkplatz am Start.</strong></p>
+<p>
+	<strong>Die zun&auml;chst unmarkierte Strecke war bis km 1,35 gewalzt.</strong></p>
+<p>
+	<strong>Bei km 2,11 Abzweigung Lo3 steil nach unten nicht vers&auml;umen.</strong></p>
+<p>
+	<strong>Einkehrm&ouml;glichkeit bei der Moosh&uuml;tte</strong></p>
+<p>
+	<a href="http://www.berghotel-mooshuette.de/"><strong>http://www.berghotel-mooshuette.de/</strong></a></p>
+<p>
+	<strong>Ab km 5,25 Rodelbahn.</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Diese Tour entspricht i.W. der Tour 3 der Gemeinde Lohberg</strong></p>
+<p>
+	<a href="http://www.lohberg.de/tourismus/html/03_winter/schneeschuh.html"><strong>http://www.lohberg.de/tourismus/html/03_winter/schneeschuh.html</strong></a></p>
+<p>
+	&nbsp;</p>
+<p>
+	<a href="http://www.bikemap.net/de/user/jogruber/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Meine Radtouren</a><span style="color: rgb(207, 51, 207); font-weight: bold;"> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; </span><a href="http://www.bikemap.net/de/user/jogruber/map/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Karte</a><span style="color: rgb(207, 51, 207);"> </span><br style="color: rgb(207, 51, 207);" />
+	<a href="http://www.wandermap.net/de/user/jogruber/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Meine Wanderungen</a><span style="color: rgb(207, 51, 207); font-weight: bold;"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><a href="http://www.wandermap.net/de/user/jogruber/map/#gsc.tab=0" style="color: rgb(207, 51, 207); font-weight: bold;" target="_blank">Karte</a></p>
+]]></desc><trkseg>
+         <trkpt lat="49.13415" lon="13.14354"><ele>1032</ele></trkpt>
+<trkpt lat="49.13436" lon="13.14312"><ele>1032</ele></trkpt>
+<trkpt lat="49.13396" lon="13.14262"><ele>1033</ele></trkpt>
+<trkpt lat="49.13351" lon="13.14191"><ele>1042</ele></trkpt>
+<trkpt lat="49.13323" lon="13.14095"><ele>1048</ele></trkpt>
+<trkpt lat="49.13319" lon="13.13981"><ele>1050</ele></trkpt>
+<trkpt lat="49.13314" lon="13.13911"><ele>1049</ele></trkpt>
+<trkpt lat="49.13304" lon="13.13845"><ele>1054</ele></trkpt>
+<trkpt lat="49.13277" lon="13.13746"><ele>1065</ele></trkpt>
+<trkpt lat="49.13261" lon="13.13681"><ele>1063</ele></trkpt>
+<trkpt lat="49.13263" lon="13.13588"><ele>1059</ele></trkpt>
+<trkpt lat="49.13283" lon="13.13456"><ele>1054</ele></trkpt>
+<trkpt lat="49.13282" lon="13.13409"><ele>1052</ele></trkpt>
+<trkpt lat="49.13265" lon="13.13334"><ele>1048</ele></trkpt>
+<trkpt lat="49.13239" lon="13.13271"><ele>1045</ele></trkpt>
+<trkpt lat="49.132" lon="13.13188"><ele>1048</ele></trkpt>
+<trkpt lat="49.13173" lon="13.13142"><ele>1052</ele></trkpt>
+<trkpt lat="49.13126" lon="13.13115"><ele>1053</ele></trkpt>
+<trkpt lat="49.13063" lon="13.13093"><ele>1050</ele></trkpt>
+<trkpt lat="49.13015" lon="13.13066"><ele>1043</ele></trkpt>
+<trkpt lat="49.12961" lon="13.12988"><ele>1037</ele></trkpt>
+<trkpt lat="49.12901" lon="13.12892"><ele>1033</ele></trkpt>
+<trkpt lat="49.12868" lon="13.12836"><ele>1030</ele></trkpt>
+<trkpt lat="49.12825" lon="13.12793"><ele>1025</ele></trkpt>
+<trkpt lat="49.12796" lon="13.12765"><ele>1021</ele></trkpt>
+<trkpt lat="49.12754" lon="13.12746"><ele>1020</ele></trkpt>
+<trkpt lat="49.1274" lon="13.12702"><ele>1020</ele></trkpt>
+<trkpt lat="49.12713" lon="13.12621"><ele>1021</ele></trkpt>
+<trkpt lat="49.12663" lon="13.12554"><ele>1020</ele></trkpt>
+<trkpt lat="49.12612" lon="13.1249"><ele>1013</ele></trkpt>
+<trkpt lat="49.12579" lon="13.1244"><ele>1006</ele></trkpt>
+<trkpt lat="49.12555" lon="13.12388"><ele>998</ele></trkpt>
+<trkpt lat="49.1256" lon="13.12358"><ele>994</ele></trkpt>
+<trkpt lat="49.12603" lon="13.12355"><ele>984</ele></trkpt>
+<trkpt lat="49.12645" lon="13.12365"><ele>976</ele></trkpt>
+<trkpt lat="49.12685" lon="13.12359"><ele>971</ele></trkpt>
+<trkpt lat="49.12726" lon="13.12362"><ele>966</ele></trkpt>
+<trkpt lat="49.12734" lon="13.12333"><ele>963</ele></trkpt>
+<trkpt lat="49.12729" lon="13.12299"><ele>960</ele></trkpt>
+<trkpt lat="49.12734" lon="13.12266"><ele>957</ele></trkpt>
+<trkpt lat="49.12735" lon="13.12252"><ele>956</ele></trkpt>
+<trkpt lat="49.12766" lon="13.12231"><ele>951</ele></trkpt>
+<trkpt lat="49.12785" lon="13.12209"><ele>947</ele></trkpt>
+<trkpt lat="49.12782" lon="13.12163"><ele>942</ele></trkpt>
+<trkpt lat="49.12781" lon="13.12123"><ele>942</ele></trkpt>
+<trkpt lat="49.12741" lon="13.12136"><ele>943</ele></trkpt>
+<trkpt lat="49.12704" lon="13.12136"><ele>942</ele></trkpt>
+<trkpt lat="49.12665" lon="13.1212"><ele>934</ele></trkpt>
+<trkpt lat="49.12601" lon="13.12111"><ele>929</ele></trkpt>
+<trkpt lat="49.12562" lon="13.121"><ele>931</ele></trkpt>
+<trkpt lat="49.12542" lon="13.12099"><ele>932</ele></trkpt>
+<trkpt lat="49.12518" lon="13.12094"><ele>933</ele></trkpt>
+<trkpt lat="49.12468" lon="13.12093"><ele>933</ele></trkpt>
+<trkpt lat="49.12435" lon="13.12104"><ele>935</ele></trkpt>
+<trkpt lat="49.12404" lon="13.12101"><ele>938</ele></trkpt>
+<trkpt lat="49.12354" lon="13.12094"><ele>940</ele></trkpt>
+<trkpt lat="49.12326" lon="13.12081"><ele>933</ele></trkpt>
+<trkpt lat="49.12301" lon="13.12036"><ele>924</ele></trkpt>
+<trkpt lat="49.12317" lon="13.1201"><ele>922</ele></trkpt>
+<trkpt lat="49.12322" lon="13.1199"><ele>925</ele></trkpt>
+<trkpt lat="49.12328" lon="13.11965"><ele>929</ele></trkpt>
+<trkpt lat="49.12336" lon="13.11921"><ele>935</ele></trkpt>
+<trkpt lat="49.12361" lon="13.11891"><ele>940</ele></trkpt>
+<trkpt lat="49.12366" lon="13.1187"><ele>940</ele></trkpt>
+<trkpt lat="49.12384" lon="13.11865"><ele>941</ele></trkpt>
+<trkpt lat="49.12398" lon="13.11843"><ele>942</ele></trkpt>
+<trkpt lat="49.12431" lon="13.11839"><ele>942</ele></trkpt>
+<trkpt lat="49.12471" lon="13.11832"><ele>939</ele></trkpt>
+<trkpt lat="49.12523" lon="13.11833"><ele>935</ele></trkpt>
+<trkpt lat="49.12552" lon="13.11832"><ele>932</ele></trkpt>
+<trkpt lat="49.1263" lon="13.11816"><ele>926</ele></trkpt>
+<trkpt lat="49.12645" lon="13.11813"><ele>926</ele></trkpt>
+<trkpt lat="49.12742" lon="13.11741"><ele>929</ele></trkpt>
+<trkpt lat="49.12762" lon="13.11803"><ele>929</ele></trkpt>
+<trkpt lat="49.12798" lon="13.11957"><ele>921</ele></trkpt>
+<trkpt lat="49.12826" lon="13.12046"><ele>921</ele></trkpt>
+<trkpt lat="49.12841" lon="13.12091"><ele>924</ele></trkpt>
+<trkpt lat="49.12838" lon="13.12188"><ele>929</ele></trkpt>
+<trkpt lat="49.12872" lon="13.12203"><ele>931</ele></trkpt>
+<trkpt lat="49.12914" lon="13.12234"><ele>933</ele></trkpt>
+<trkpt lat="49.1295" lon="13.12244"><ele>929</ele></trkpt>
+<trkpt lat="49.12988" lon="13.12254"><ele>926</ele></trkpt>
+<trkpt lat="49.13062" lon="13.123"><ele>926</ele></trkpt>
+<trkpt lat="49.13099" lon="13.1234"><ele>924</ele></trkpt>
+<trkpt lat="49.13126" lon="13.12349"><ele>922</ele></trkpt>
+<trkpt lat="49.13165" lon="13.12375"><ele>921</ele></trkpt>
+<trkpt lat="49.13206" lon="13.12402"><ele>922</ele></trkpt>
+<trkpt lat="49.1327" lon="13.12414"><ele>922</ele></trkpt>
+<trkpt lat="49.13308" lon="13.12411"><ele>921</ele></trkpt>
+<trkpt lat="49.13345" lon="13.1244"><ele>920</ele></trkpt>
+<trkpt lat="49.13404" lon="13.12495"><ele>918</ele></trkpt>
+<trkpt lat="49.13457" lon="13.12546"><ele>909</ele></trkpt>
+<trkpt lat="49.13498" lon="13.12594"><ele>909</ele></trkpt>
+<trkpt lat="49.13546" lon="13.12702"><ele>918</ele></trkpt>
+<trkpt lat="49.1359" lon="13.12778"><ele>913</ele></trkpt>
+<trkpt lat="49.13668" lon="13.12875"><ele>918</ele></trkpt>
+<trkpt lat="49.1372" lon="13.12953"><ele>919</ele></trkpt>
+<trkpt lat="49.13734" lon="13.13068"><ele>921</ele></trkpt>
+<trkpt lat="49.13772" lon="13.13074"><ele>922</ele></trkpt>
+<trkpt lat="49.13733" lon="13.13082"><ele>923</ele></trkpt>
+<trkpt lat="49.13722" lon="13.13151"><ele>927</ele></trkpt>
+<trkpt lat="49.13705" lon="13.13203"><ele>935</ele></trkpt>
+<trkpt lat="49.13623" lon="13.13317"><ele>961</ele></trkpt>
+<trkpt lat="49.13576" lon="13.1341"><ele>970</ele></trkpt>
+<trkpt lat="49.13544" lon="13.13558"><ele>993</ele></trkpt>
+<trkpt lat="49.13526" lon="13.1369"><ele>1000</ele></trkpt>
+<trkpt lat="49.13509" lon="13.13873"><ele>1009</ele></trkpt>
+<trkpt lat="49.13523" lon="13.13975"><ele>1015</ele></trkpt>
+<trkpt lat="49.1351" lon="13.14037"><ele>1020</ele></trkpt>
+<trkpt lat="49.135" lon="13.1411"><ele>1026</ele></trkpt>
+<trkpt lat="49.13502" lon="13.14191"><ele>1027</ele></trkpt>
+<trkpt lat="49.13417" lon="13.14347"><ele>1032</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

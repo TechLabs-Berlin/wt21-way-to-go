@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[berlijn dag 2]]></name>
+      <desc><![CDATA[<p>
+	schlossbrucke, gendarmenmarkt, deutsche dom, franzozischer dom, checkpoint charlie</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[berlijn dag 2]]></name><desc><![CDATA[<p>
+	schlossbrucke, gendarmenmarkt, deutsche dom, franzozischer dom, checkpoint charlie</p>
+]]></desc><trkseg>
+         <trkpt lat="52.51814" lon="13.40063"><ele>39</ele></trkpt>
+<trkpt lat="52.51819" lon="13.40059"><ele>39</ele></trkpt>
+<trkpt lat="52.51822" lon="13.40067"><ele>39</ele></trkpt>
+<trkpt lat="52.51811" lon="13.40075"><ele>39</ele></trkpt>
+<trkpt lat="52.51797" lon="13.40034"><ele>38</ele></trkpt>
+<trkpt lat="52.51791" lon="13.40009"><ele>38</ele></trkpt>
+<trkpt lat="52.51775" lon="13.39964"><ele>37</ele></trkpt>
+<trkpt lat="52.51764" lon="13.39917"><ele>36</ele></trkpt>
+<trkpt lat="52.51761" lon="13.39892"><ele>35</ele></trkpt>
+<trkpt lat="52.51755" lon="13.39805"><ele>36</ele></trkpt>
+<trkpt lat="52.51729" lon="13.39824"><ele>34</ele></trkpt>
+<trkpt lat="52.51599" lon="13.39845"><ele>35</ele></trkpt>
+<trkpt lat="52.51558" lon="13.39872"><ele>35</ele></trkpt>
+<trkpt lat="52.51541" lon="13.39792"><ele>35</ele></trkpt>
+<trkpt lat="52.51482" lon="13.39824"><ele>34</ele></trkpt>
+<trkpt lat="52.5147" lon="13.39815"><ele>35</ele></trkpt>
+<trkpt lat="52.51434" lon="13.39694"><ele>38</ele></trkpt>
+<trkpt lat="52.51419" lon="13.39548"><ele>43</ele></trkpt>
+<trkpt lat="52.5141" lon="13.39327"><ele>42</ele></trkpt>
+<trkpt lat="52.5141" lon="13.39326"><ele>42</ele></trkpt>
+<trkpt lat="52.5141" lon="13.39317"><ele>42</ele></trkpt>
+<trkpt lat="52.51215" lon="13.39348"><ele>43</ele></trkpt>
+<trkpt lat="52.51063" lon="13.39376"><ele>39</ele></trkpt>
+<trkpt lat="52.50968" lon="13.3939"><ele>43</ele></trkpt>
+<trkpt lat="52.50796" lon="13.39419"><ele>46</ele></trkpt>
+<trkpt lat="52.50797" lon="13.39419"><ele>46</ele></trkpt>
+<trkpt lat="52.50791" lon="13.3942"><ele>46</ele></trkpt>
+<trkpt lat="52.50767" lon="13.39033"><ele>45</ele></trkpt>
+<trkpt lat="52.50768" lon="13.39033"><ele>45</ele></trkpt>
+<trkpt lat="52.50768" lon="13.39033"><ele>45</ele></trkpt>
+<trkpt lat="52.50761" lon="13.3903"><ele>45</ele></trkpt>
+<trkpt lat="52.50739" lon="13.39033"><ele>42</ele></trkpt>
+<trkpt lat="52.50724" lon="13.3904"><ele>39</ele></trkpt>
+<trkpt lat="52.5067" lon="13.3905"><ele>39</ele></trkpt>
+<trkpt lat="52.50673" lon="13.39091"><ele>40</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Hoher Lehnberg u. Greitemannstein]]></name>
+      <desc><![CDATA[<p>
+	Von der Pension M&ouml;ser aus durch die Peile am Br&auml;ukelken an den Angelteichen vorbei nach Gleierbr&uuml;ck .Weiter Richtung Bracht und nach der Bebauung rechts auf den Waldweg und immer geradeaus auf dem Wirtschaftsweg bis zum Pfad zur Lehnbergquelle.Den Pfad hochgehen bis zur Quelle und weiter bis zum Wirtschaftsweg und den weiter folgen,bei der Kreuzung links abbiegen und &uuml;ber dem Himberg zur gro&szlig;en Kreuzung (Jagdhaus).Etwa 100m geradeaus &uuml;ber die Kreuzung und dann rechts ab auf dem Wirtschaftsweg ca.1,8 km weiter im Buchenwald geht ein Hohlweg scharf links den Berg hoch zum Greitemannstein.Ab hier den Weg Richtung Saalhausen-St&ouml;rmecke-Haus-Hilmecke nehmen,in Haus Hilmecke einkehren Kaffee und Kuchen genie&szlig;en und auf der anderen Lenneseite zur&uuml;ck nach Saalhausen meinem Heimatort.Diese Tour sind wir Karsamstag den&nbsp; 7.4.2012 bei Schneetreiben auf dem Hohen Lehnberg und Himberg gegangen.</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Hoher Lehnberg u. Greitemannstein]]></name><desc><![CDATA[<p>
+	Von der Pension M&ouml;ser aus durch die Peile am Br&auml;ukelken an den Angelteichen vorbei nach Gleierbr&uuml;ck .Weiter Richtung Bracht und nach der Bebauung rechts auf den Waldweg und immer geradeaus auf dem Wirtschaftsweg bis zum Pfad zur Lehnbergquelle.Den Pfad hochgehen bis zur Quelle und weiter bis zum Wirtschaftsweg und den weiter folgen,bei der Kreuzung links abbiegen und &uuml;ber dem Himberg zur gro&szlig;en Kreuzung (Jagdhaus).Etwa 100m geradeaus &uuml;ber die Kreuzung und dann rechts ab auf dem Wirtschaftsweg ca.1,8 km weiter im Buchenwald geht ein Hohlweg scharf links den Berg hoch zum Greitemannstein.Ab hier den Weg Richtung Saalhausen-St&ouml;rmecke-Haus-Hilmecke nehmen,in Haus Hilmecke einkehren Kaffee und Kuchen genie&szlig;en und auf der anderen Lenneseite zur&uuml;ck nach Saalhausen meinem Heimatort.Diese Tour sind wir Karsamstag den&nbsp; 7.4.2012 bei Schneetreiben auf dem Hohen Lehnberg und Himberg gegangen.</p>
+]]></desc><trkseg>
+         <trkpt lat="51.116" lon="8.16806"><ele>316</ele></trkpt>
+<trkpt lat="51.11613" lon="8.16645"><ele>314</ele></trkpt>
+<trkpt lat="51.11621" lon="8.16557"><ele>314</ele></trkpt>
+<trkpt lat="51.1159" lon="8.16507"><ele>313</ele></trkpt>
+<trkpt lat="51.11554" lon="8.16486"><ele>313</ele></trkpt>
+<trkpt lat="51.11527" lon="8.16424"><ele>312</ele></trkpt>
+<trkpt lat="51.11509" lon="8.16314"><ele>311</ele></trkpt>
+<trkpt lat="51.11492" lon="8.16269"><ele>315</ele></trkpt>
+<trkpt lat="51.11456" lon="8.16209"><ele>321</ele></trkpt>
+<trkpt lat="51.11445" lon="8.16104"><ele>322</ele></trkpt>
+<trkpt lat="51.11457" lon="8.16005"><ele>323</ele></trkpt>
+<trkpt lat="51.11465" lon="8.15902"><ele>325</ele></trkpt>
+<trkpt lat="51.11462" lon="8.15776"><ele>328</ele></trkpt>
+<trkpt lat="51.11466" lon="8.15709"><ele>329</ele></trkpt>
+<trkpt lat="51.11485" lon="8.15606"><ele>329</ele></trkpt>
+<trkpt lat="51.11505" lon="8.15518"><ele>323</ele></trkpt>
+<trkpt lat="51.11522" lon="8.15426"><ele>325</ele></trkpt>
+<trkpt lat="51.11532" lon="8.15346"><ele>328</ele></trkpt>
+<trkpt lat="51.11516" lon="8.15196"><ele>333</ele></trkpt>
+<trkpt lat="51.11499" lon="8.15132"><ele>336</ele></trkpt>
+<trkpt lat="51.1148" lon="8.15003"><ele>348</ele></trkpt>
+<trkpt lat="51.1145" lon="8.14943"><ele>354</ele></trkpt>
+<trkpt lat="51.11446" lon="8.14808"><ele>349</ele></trkpt>
+<trkpt lat="51.1139" lon="8.14574"><ele>347</ele></trkpt>
+<trkpt lat="51.11381" lon="8.14503"><ele>335</ele></trkpt>
+<trkpt lat="51.11419" lon="8.14467"><ele>319</ele></trkpt>
+<trkpt lat="51.11485" lon="8.1442"><ele>307</ele></trkpt>
+<trkpt lat="51.11654" lon="8.14332"><ele>306</ele></trkpt>
+<trkpt lat="51.11651" lon="8.14289"><ele>306</ele></trkpt>
+<trkpt lat="51.11675" lon="8.14248"><ele>308</ele></trkpt>
+<trkpt lat="51.11819" lon="8.1419"><ele>320</ele></trkpt>
+<trkpt lat="51.11907" lon="8.14237"><ele>335</ele></trkpt>
+<trkpt lat="51.12013" lon="8.14267"><ele>348</ele></trkpt>
+<trkpt lat="51.12082" lon="8.14237"><ele>345</ele></trkpt>
+<trkpt lat="51.12336" lon="8.14177"><ele>374</ele></trkpt>
+<trkpt lat="51.12447" lon="8.14216"><ele>382</ele></trkpt>
+<trkpt lat="51.12595" lon="8.14319"><ele>407</ele></trkpt>
+<trkpt lat="51.12734" lon="8.14347"><ele>418</ele></trkpt>
+<trkpt lat="51.1284" lon="8.14411"><ele>439</ele></trkpt>
+<trkpt lat="51.12957" lon="8.14555"><ele>453</ele></trkpt>
+<trkpt lat="51.1306" lon="8.14737"><ele>479</ele></trkpt>
+<trkpt lat="51.13154" lon="8.14939"><ele>487</ele></trkpt>
+<trkpt lat="51.13239" lon="8.15085"><ele>509</ele></trkpt>
+<trkpt lat="51.13302" lon="8.15344"><ele>538</ele></trkpt>
+<trkpt lat="51.13357" lon="8.15561"><ele>558</ele></trkpt>
+<trkpt lat="51.1343" lon="8.15679"><ele>554</ele></trkpt>
+<trkpt lat="51.13499" lon="8.15495"><ele>540</ele></trkpt>
+<trkpt lat="51.13535" lon="8.15338"><ele>555</ele></trkpt>
+<trkpt lat="51.13624" lon="8.15325"><ele>563</ele></trkpt>
+<trkpt lat="51.13726" lon="8.15445"><ele>581</ele></trkpt>
+<trkpt lat="51.13845" lon="8.15574"><ele>573</ele></trkpt>
+<trkpt lat="51.13911" lon="8.15677"><ele>560</ele></trkpt>
+<trkpt lat="51.13939" lon="8.15808"><ele>567</ele></trkpt>
+<trkpt lat="51.13963" lon="8.15853"><ele>572</ele></trkpt>
+<trkpt lat="51.13944" lon="8.15922"><ele>577</ele></trkpt>
+<trkpt lat="51.13925" lon="8.15943"><ele>579</ele></trkpt>
+<trkpt lat="51.13925" lon="8.1599"><ele>588</ele></trkpt>
+<trkpt lat="51.13863" lon="8.15977"><ele>609</ele></trkpt>
+<trkpt lat="51.13888" lon="8.1604"><ele>611</ele></trkpt>
+<trkpt lat="51.13876" lon="8.1604"><ele>611</ele></trkpt>
+<trkpt lat="51.13877" lon="8.16076"><ele>611</ele></trkpt>
+<trkpt lat="51.13861" lon="8.16057"><ele>613</ele></trkpt>
+<trkpt lat="51.13854" lon="8.16095"><ele>615</ele></trkpt>
+<trkpt lat="51.13775" lon="8.15879"><ele>623</ele></trkpt>
+<trkpt lat="51.1376" lon="8.15741"><ele>617</ele></trkpt>
+<trkpt lat="51.13695" lon="8.15572"><ele>612</ele></trkpt>
+<trkpt lat="51.13618" lon="8.15512"><ele>603</ele></trkpt>
+<trkpt lat="51.1359" lon="8.15544"><ele>605</ele></trkpt>
+<trkpt lat="51.1355" lon="8.15681"><ele>582</ele></trkpt>
+<trkpt lat="51.13551" lon="8.15866"><ele>605</ele></trkpt>
+<trkpt lat="51.135" lon="8.16014"><ele>620</ele></trkpt>
+<trkpt lat="51.13664" lon="8.16042"><ele>646</ele></trkpt>
+<trkpt lat="51.13831" lon="8.16355"><ele>651</ele></trkpt>
+<trkpt lat="51.14092" lon="8.16527"><ele>604</ele></trkpt>
+<trkpt lat="51.14298" lon="8.16917"><ele>581</ele></trkpt>
+<trkpt lat="51.14383" lon="8.17044"><ele>581</ele></trkpt>
+<trkpt lat="51.14454" lon="8.17061"><ele>581</ele></trkpt>
+<trkpt lat="51.14546" lon="8.17072"><ele>588</ele></trkpt>
+<trkpt lat="51.14584" lon="8.1722"><ele>602</ele></trkpt>
+<trkpt lat="51.14526" lon="8.17306"><ele>604</ele></trkpt>
+<trkpt lat="51.14434" lon="8.17445"><ele>598</ele></trkpt>
+<trkpt lat="51.1443" lon="8.17711"><ele>603</ele></trkpt>
+<trkpt lat="51.14444" lon="8.179"><ele>600</ele></trkpt>
+<trkpt lat="51.14495" lon="8.18033"><ele>619</ele></trkpt>
+<trkpt lat="51.14572" lon="8.18074"><ele>627</ele></trkpt>
+<trkpt lat="51.14632" lon="8.18321"><ele>625</ele></trkpt>
+<trkpt lat="51.14652" lon="8.18434"><ele>638</ele></trkpt>
+<trkpt lat="51.14559" lon="8.18524"><ele>617</ele></trkpt>
+<trkpt lat="51.145" lon="8.18645"><ele>604</ele></trkpt>
+<trkpt lat="51.14384" lon="8.18797"><ele>609</ele></trkpt>
+<trkpt lat="51.14336" lon="8.18786"><ele>615</ele></trkpt>
+<trkpt lat="51.14429" lon="8.18898"><ele>615</ele></trkpt>
+<trkpt lat="51.14337" lon="8.18926"><ele>609</ele></trkpt>
+<trkpt lat="51.14239" lon="8.18938"><ele>607</ele></trkpt>
+<trkpt lat="51.13975" lon="8.19054"><ele>611</ele></trkpt>
+<trkpt lat="51.1382" lon="8.18979"><ele>595</ele></trkpt>
+<trkpt lat="51.13731" lon="8.18775"><ele>582</ele></trkpt>
+<trkpt lat="51.13566" lon="8.18602"><ele>540</ele></trkpt>
+<trkpt lat="51.13516" lon="8.18754"><ele>530</ele></trkpt>
+<trkpt lat="51.13519" lon="8.19057"><ele>508</ele></trkpt>
+<trkpt lat="51.135" lon="8.19196"><ele>507</ele></trkpt>
+<trkpt lat="51.13473" lon="8.19213"><ele>507</ele></trkpt>
+<trkpt lat="51.13406" lon="8.19119"><ele>498</ele></trkpt>
+<trkpt lat="51.13333" lon="8.19018"><ele>498</ele></trkpt>
+<trkpt lat="51.1328" lon="8.1893"><ele>490</ele></trkpt>
+<trkpt lat="51.13189" lon="8.18619"><ele>470</ele></trkpt>
+<trkpt lat="51.13146" lon="8.18518"><ele>447</ele></trkpt>
+<trkpt lat="51.13107" lon="8.18451"><ele>445</ele></trkpt>
+<trkpt lat="51.13011" lon="8.18445"><ele>450</ele></trkpt>
+<trkpt lat="51.12785" lon="8.18329"><ele>444</ele></trkpt>
+<trkpt lat="51.1275" lon="8.18406"><ele>442</ele></trkpt>
+<trkpt lat="51.12766" lon="8.18473"><ele>436</ele></trkpt>
+<trkpt lat="51.12735" lon="8.18477"><ele>430</ele></trkpt>
+<trkpt lat="51.1268" lon="8.18421"><ele>415</ele></trkpt>
+<trkpt lat="51.1263" lon="8.18383"><ele>401</ele></trkpt>
+<trkpt lat="51.12595" lon="8.18428"><ele>397</ele></trkpt>
+<trkpt lat="51.12592" lon="8.18509"><ele>393</ele></trkpt>
+<trkpt lat="51.12635" lon="8.18612"><ele>394</ele></trkpt>
+<trkpt lat="51.12703" lon="8.18664"><ele>381</ele></trkpt>
+<trkpt lat="51.12724" lon="8.18778"><ele>373</ele></trkpt>
+<trkpt lat="51.12734" lon="8.18853"><ele>369</ele></trkpt>
+<trkpt lat="51.12724" lon="8.18934"><ele>368</ele></trkpt>
+<trkpt lat="51.12664" lon="8.18919"><ele>359</ele></trkpt>
+<trkpt lat="51.12588" lon="8.18868"><ele>342</ele></trkpt>
+<trkpt lat="51.12506" lon="8.18896"><ele>331</ele></trkpt>
+<trkpt lat="51.12501" lon="8.1899"><ele>330</ele></trkpt>
+<trkpt lat="51.12416" lon="8.19089"><ele>340</ele></trkpt>
+<trkpt lat="51.12374" lon="8.18954"><ele>366</ele></trkpt>
+<trkpt lat="51.12392" lon="8.18835"><ele>367</ele></trkpt>
+<trkpt lat="51.12375" lon="8.18668"><ele>353</ele></trkpt>
+<trkpt lat="51.12338" lon="8.18537"><ele>344</ele></trkpt>
+<trkpt lat="51.12295" lon="8.18413"><ele>357</ele></trkpt>
+<trkpt lat="51.12252" lon="8.18297"><ele>347</ele></trkpt>
+<trkpt lat="51.12226" lon="8.18115"><ele>347</ele></trkpt>
+<trkpt lat="51.12182" lon="8.18024"><ele>349</ele></trkpt>
+<trkpt lat="51.12132" lon="8.17904"><ele>361</ele></trkpt>
+<trkpt lat="51.12097" lon="8.177"><ele>346</ele></trkpt>
+<trkpt lat="51.12093" lon="8.17475"><ele>336</ele></trkpt>
+<trkpt lat="51.1209" lon="8.17263"><ele>322</ele></trkpt>
+<trkpt lat="51.12075" lon="8.1713"><ele>317</ele></trkpt>
+<trkpt lat="51.11984" lon="8.17078"><ele>315</ele></trkpt>
+<trkpt lat="51.11807" lon="8.17087"><ele>316</ele></trkpt>
+<trkpt lat="51.11814" lon="8.16975"><ele>316</ele></trkpt>
+<trkpt lat="51.11717" lon="8.16932"><ele>314</ele></trkpt>
+<trkpt lat="51.11652" lon="8.16787"><ele>314</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

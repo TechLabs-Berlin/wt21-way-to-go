@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Spandauer Grünzug und Stadtforst]]></name>
+      <desc><![CDATA[<p>
+	jfhabfkgjle</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Spandauer Grünzug und Stadtforst]]></name><desc><![CDATA[<p>
+	jfhabfkgjle</p>
+]]></desc><trkseg>
+         <trkpt lat="52.51783" lon="13.39066"><ele>39</ele></trkpt>
+<trkpt lat="52.51782" lon="13.39058"><ele>38</ele></trkpt>
+<trkpt lat="52.51727" lon="13.39068"><ele>37</ele></trkpt>
+<trkpt lat="52.51728" lon="13.39058"><ele>37</ele></trkpt>
+<trkpt lat="52.51695" lon="13.38558"><ele>37</ele></trkpt>
+<trkpt lat="52.5168" lon="13.38561"><ele>36</ele></trkpt>
+<trkpt lat="52.51671" lon="13.38397"><ele>34</ele></trkpt>
+<trkpt lat="52.51654" lon="13.384"><ele>34</ele></trkpt>
+<trkpt lat="52.51653" lon="13.38392"><ele>35</ele></trkpt>
+<trkpt lat="52.51653" lon="13.38391"><ele>35</ele></trkpt>
+<trkpt lat="52.51687" lon="13.38882"><ele>42</ele></trkpt>
+<trkpt lat="52.51619" lon="13.38893"><ele>45</ele></trkpt>
+<trkpt lat="52.51631" lon="13.39079"><ele>46</ele></trkpt>
+<trkpt lat="52.51609" lon="13.39083"><ele>46</ele></trkpt>
+<trkpt lat="52.51609" lon="13.39083"><ele>46</ele></trkpt>
+<trkpt lat="52.51688" lon="13.39069"><ele>38</ele></trkpt>
+<trkpt lat="52.51699" lon="13.39072"><ele>37</ele></trkpt>
+<trkpt lat="52.51714" lon="13.39305"><ele>35</ele></trkpt>
+<trkpt lat="52.51721" lon="13.39328"><ele>35</ele></trkpt>
+<trkpt lat="52.51743" lon="13.39631"><ele>37</ele></trkpt>
+<trkpt lat="52.51687" lon="13.39641"><ele>34</ele></trkpt>
+<trkpt lat="52.51687" lon="13.39641"><ele>34</ele></trkpt>
+<trkpt lat="52.51743" lon="13.39631"><ele>37</ele></trkpt>
+<trkpt lat="52.51732" lon="13.395"><ele>34</ele></trkpt>
+<trkpt lat="52.51834" lon="13.39482"><ele>37</ele></trkpt>
+<trkpt lat="52.51843" lon="13.39609"><ele>35</ele></trkpt>
+<trkpt lat="52.51847" lon="13.39608"><ele>35</ele></trkpt>
+<trkpt lat="52.51859" lon="13.39764"><ele>37</ele></trkpt>
+<trkpt lat="52.51873" lon="13.39759"><ele>37</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Moni f. Spike]]></name>
+      <desc><![CDATA[<p>
+	Alter Trail</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Moni f. Spike]]></name><desc><![CDATA[<p>
+	Alter Trail</p>
+]]></desc><trkseg>
+         <trkpt lat="52.57674" lon="13.27403"><ele>33</ele></trkpt>
+<trkpt lat="52.57674" lon="13.27402"><ele>33</ele></trkpt>
+<trkpt lat="52.5773" lon="13.27402"><ele>30</ele></trkpt>
+<trkpt lat="52.57763" lon="13.2756"><ele>39</ele></trkpt>
+<trkpt lat="52.57764" lon="13.27573"><ele>39</ele></trkpt>
+<trkpt lat="52.57764" lon="13.27572"><ele>39</ele></trkpt>
+<trkpt lat="52.57766" lon="13.27594"><ele>39</ele></trkpt>
+<trkpt lat="52.57762" lon="13.27722"><ele>38</ele></trkpt>
+<trkpt lat="52.57769" lon="13.27756"><ele>37</ele></trkpt>
+<trkpt lat="52.57774" lon="13.27767"><ele>37</ele></trkpt>
+<trkpt lat="52.57768" lon="13.2778"><ele>37</ele></trkpt>
+<trkpt lat="52.57765" lon="13.27809"><ele>36</ele></trkpt>
+<trkpt lat="52.57724" lon="13.27819"><ele>34</ele></trkpt>
+<trkpt lat="52.57705" lon="13.28066"><ele>36</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

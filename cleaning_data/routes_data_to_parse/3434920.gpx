@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Serrahner Urwald im Müritz-Nationalpark ]]></name>
+      <desc><![CDATA[<p>
+	Die Strecke verläuft im Serrahner Teil des Müritz-Nationalparks, der sich östlich von Neustrelitz befindet und zur anderen Seite an den Naturpark Feldberger Seen angrenzt. Auf der Route von Zinow nach Grünow ist auf einer eine hügeligen Endmoräne eine urtümliche Landschaft mit einer großen Vielfalt an Wäldern, Mooren und naturbelassenen Seen (u.a. Großer Serrahnsee) zuerleben. Hier sind u.a. auch Fischotter, Seeadler und Kranich anzutreffen. In den Buchenwälder ist die  Bewirtschaftung schon viele Jahrzehnte eingestellt worden, so dass hier eine Vorstellung davon entsteht, was ein richtiger Urwald in unseren Breiten sein kann. Wegen der herrschaftlichen Jagd war das Gebiet – zuletzt auch in der DDR – lange gesperrt und seit 1952 unter Naturschutz.  Hierüber ist einiges im Forsthaus Serrahn inmitten des Gebietes  zu erfahren. </p>
+<p>
+	Zinow und Grünow liegen an der Buslinie 619 von Feldberg nach Neustrelitz, von dem aus gute Bahnverbindungen nach Berlin, Rostock und Stralsund bestehen. </p>
+<p>
+	(cloned from route 803374)</p>
+<p>
+	(cloned from route 3138477)</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Serrahner Urwald im Müritz-Nationalpark ]]></name><desc><![CDATA[<p>
+	Die Strecke verläuft im Serrahner Teil des Müritz-Nationalparks, der sich östlich von Neustrelitz befindet und zur anderen Seite an den Naturpark Feldberger Seen angrenzt. Auf der Route von Zinow nach Grünow ist auf einer eine hügeligen Endmoräne eine urtümliche Landschaft mit einer großen Vielfalt an Wäldern, Mooren und naturbelassenen Seen (u.a. Großer Serrahnsee) zuerleben. Hier sind u.a. auch Fischotter, Seeadler und Kranich anzutreffen. In den Buchenwälder ist die  Bewirtschaftung schon viele Jahrzehnte eingestellt worden, so dass hier eine Vorstellung davon entsteht, was ein richtiger Urwald in unseren Breiten sein kann. Wegen der herrschaftlichen Jagd war das Gebiet – zuletzt auch in der DDR – lange gesperrt und seit 1952 unter Naturschutz.  Hierüber ist einiges im Forsthaus Serrahn inmitten des Gebietes  zu erfahren. </p>
+<p>
+	Zinow und Grünow liegen an der Buslinie 619 von Feldberg nach Neustrelitz, von dem aus gute Bahnverbindungen nach Berlin, Rostock und Stralsund bestehen. </p>
+<p>
+	(cloned from route 803374)</p>
+<p>
+	(cloned from route 3138477)</p>
+]]></desc><trkseg>
+         <trkpt lat="53.36255" lon="13.17129"><ele>82</ele></trkpt>
+<trkpt lat="53.36214" lon="13.17286"><ele>84</ele></trkpt>
+<trkpt lat="53.36204" lon="13.17361"><ele>84</ele></trkpt>
+<trkpt lat="53.36192" lon="13.17438"><ele>86</ele></trkpt>
+<trkpt lat="53.36149" lon="13.17522"><ele>91</ele></trkpt>
+<trkpt lat="53.36113" lon="13.17611"><ele>98</ele></trkpt>
+<trkpt lat="53.36168" lon="13.17705"><ele>105</ele></trkpt>
+<trkpt lat="53.36125" lon="13.17793"><ele>108</ele></trkpt>
+<trkpt lat="53.35972" lon="13.18091"><ele>108</ele></trkpt>
+<trkpt lat="53.35744" lon="13.1847"><ele>106</ele></trkpt>
+<trkpt lat="53.35546" lon="13.18829"><ele>88</ele></trkpt>
+<trkpt lat="53.35519" lon="13.18928"><ele>89</ele></trkpt>
+<trkpt lat="53.35501" lon="13.19076"><ele>90</ele></trkpt>
+<trkpt lat="53.35506" lon="13.19174"><ele>90</ele></trkpt>
+<trkpt lat="53.35526" lon="13.19308"><ele>87</ele></trkpt>
+<trkpt lat="53.35546" lon="13.19396"><ele>86</ele></trkpt>
+<trkpt lat="53.3549" lon="13.19398"><ele>86</ele></trkpt>
+<trkpt lat="53.35362" lon="13.19418"><ele>91</ele></trkpt>
+<trkpt lat="53.35236" lon="13.19529"><ele>90</ele></trkpt>
+<trkpt lat="53.35164" lon="13.19613"><ele>90</ele></trkpt>
+<trkpt lat="53.3525" lon="13.1977"><ele>87</ele></trkpt>
+<trkpt lat="53.3534" lon="13.19901"><ele>79</ele></trkpt>
+<trkpt lat="53.35308" lon="13.19908"><ele>83</ele></trkpt>
+<trkpt lat="53.35236" lon="13.19902"><ele>88</ele></trkpt>
+<trkpt lat="53.35189" lon="13.19901"><ele>90</ele></trkpt>
+<trkpt lat="53.3507" lon="13.19941"><ele>92</ele></trkpt>
+<trkpt lat="53.34981" lon="13.19992"><ele>91</ele></trkpt>
+<trkpt lat="53.34891" lon="13.20038"><ele>88</ele></trkpt>
+<trkpt lat="53.34864" lon="13.20038"><ele>88</ele></trkpt>
+<trkpt lat="53.34842" lon="13.20036"><ele>88</ele></trkpt>
+<trkpt lat="53.3483" lon="13.20028"><ele>88</ele></trkpt>
+<trkpt lat="53.34794" lon="13.19982"><ele>93</ele></trkpt>
+<trkpt lat="53.34778" lon="13.19959"><ele>95</ele></trkpt>
+<trkpt lat="53.34766" lon="13.19948"><ele>97</ele></trkpt>
+<trkpt lat="53.34756" lon="13.19948"><ele>98</ele></trkpt>
+<trkpt lat="53.34741" lon="13.19952"><ele>98</ele></trkpt>
+<trkpt lat="53.34721" lon="13.19967"><ele>97</ele></trkpt>
+<trkpt lat="53.34599" lon="13.20109"><ele>83</ele></trkpt>
+<trkpt lat="53.34629" lon="13.20169"><ele>80</ele></trkpt>
+<trkpt lat="53.3464" lon="13.20187"><ele>79</ele></trkpt>
+<trkpt lat="53.34667" lon="13.2022"><ele>76</ele></trkpt>
+<trkpt lat="53.34675" lon="13.20244"><ele>76</ele></trkpt>
+<trkpt lat="53.34662" lon="13.20242"><ele>75</ele></trkpt>
+<trkpt lat="53.34652" lon="13.20236"><ele>75</ele></trkpt>
+<trkpt lat="53.34621" lon="13.20224"><ele>74</ele></trkpt>
+<trkpt lat="53.34589" lon="13.20186"><ele>75</ele></trkpt>
+<trkpt lat="53.34555" lon="13.20132"><ele>78</ele></trkpt>
+<trkpt lat="53.34477" lon="13.20008"><ele>98</ele></trkpt>
+<trkpt lat="53.3446" lon="13.20022"><ele>99</ele></trkpt>
+<trkpt lat="53.34443" lon="13.20041"><ele>100</ele></trkpt>
+<trkpt lat="53.34427" lon="13.20062"><ele>101</ele></trkpt>
+<trkpt lat="53.34409" lon="13.20119"><ele>99</ele></trkpt>
+<trkpt lat="53.34406" lon="13.20138"><ele>96</ele></trkpt>
+<trkpt lat="53.34409" lon="13.20158"><ele>92</ele></trkpt>
+<trkpt lat="53.34485" lon="13.20283"><ele>79</ele></trkpt>
+<trkpt lat="53.34506" lon="13.20324"><ele>79</ele></trkpt>
+<trkpt lat="53.34523" lon="13.20374"><ele>83</ele></trkpt>
+<trkpt lat="53.34537" lon="13.20431"><ele>88</ele></trkpt>
+<trkpt lat="53.34555" lon="13.20518"><ele>91</ele></trkpt>
+<trkpt lat="53.34569" lon="13.20572"><ele>91</ele></trkpt>
+<trkpt lat="53.34582" lon="13.20642"><ele>93</ele></trkpt>
+<trkpt lat="53.34599" lon="13.20729"><ele>96</ele></trkpt>
+<trkpt lat="53.34649" lon="13.20829"><ele>101</ele></trkpt>
+<trkpt lat="53.3468" lon="13.20876"><ele>101</ele></trkpt>
+<trkpt lat="53.34689" lon="13.20896"><ele>100</ele></trkpt>
+<trkpt lat="53.34694" lon="13.20917"><ele>99</ele></trkpt>
+<trkpt lat="53.34694" lon="13.211"><ele>97</ele></trkpt>
+<trkpt lat="53.34703" lon="13.21225"><ele>97</ele></trkpt>
+<trkpt lat="53.34712" lon="13.21292"><ele>97</ele></trkpt>
+<trkpt lat="53.34727" lon="13.21338"><ele>97</ele></trkpt>
+<trkpt lat="53.34786" lon="13.2144"><ele>98</ele></trkpt>
+<trkpt lat="53.34821" lon="13.21499"><ele>98</ele></trkpt>
+<trkpt lat="53.34853" lon="13.21551"><ele>94</ele></trkpt>
+<trkpt lat="53.34905" lon="13.21623"><ele>88</ele></trkpt>
+<trkpt lat="53.3492" lon="13.21667"><ele>86</ele></trkpt>
+<trkpt lat="53.34929" lon="13.21705"><ele>84</ele></trkpt>
+<trkpt lat="53.34934" lon="13.21751"><ele>83</ele></trkpt>
+<trkpt lat="53.34935" lon="13.21841"><ele>83</ele></trkpt>
+<trkpt lat="53.34953" lon="13.21976"><ele>84</ele></trkpt>
+<trkpt lat="53.34962" lon="13.22059"><ele>84</ele></trkpt>
+<trkpt lat="53.34972" lon="13.22149"><ele>81</ele></trkpt>
+<trkpt lat="53.34981" lon="13.2223"><ele>82</ele></trkpt>
+<trkpt lat="53.3499" lon="13.22288"><ele>85</ele></trkpt>
+<trkpt lat="53.35014" lon="13.22368"><ele>88</ele></trkpt>
+<trkpt lat="53.34983" lon="13.22391"><ele>90</ele></trkpt>
+<trkpt lat="53.34963" lon="13.22428"><ele>92</ele></trkpt>
+<trkpt lat="53.3495" lon="13.22465"><ele>94</ele></trkpt>
+<trkpt lat="53.34929" lon="13.22522"><ele>98</ele></trkpt>
+<trkpt lat="53.34922" lon="13.22576"><ele>101</ele></trkpt>
+<trkpt lat="53.34917" lon="13.22629"><ele>101</ele></trkpt>
+<trkpt lat="53.34908" lon="13.22679"><ele>101</ele></trkpt>
+<trkpt lat="53.3488" lon="13.22793"><ele>97</ele></trkpt>
+<trkpt lat="53.34866" lon="13.22847"><ele>95</ele></trkpt>
+<trkpt lat="53.34817" lon="13.22971"><ele>93</ele></trkpt>
+<trkpt lat="53.34784" lon="13.23046"><ele>97</ele></trkpt>
+<trkpt lat="53.3476" lon="13.23119"><ele>101</ele></trkpt>
+<trkpt lat="53.34729" lon="13.23226"><ele>106</ele></trkpt>
+<trkpt lat="53.34709" lon="13.23343"><ele>104</ele></trkpt>
+<trkpt lat="53.34687" lon="13.23465"><ele>101</ele></trkpt>
+<trkpt lat="53.34685" lon="13.23511"><ele>99</ele></trkpt>
+<trkpt lat="53.34675" lon="13.23568"><ele>97</ele></trkpt>
+<trkpt lat="53.34665" lon="13.23769"><ele>93</ele></trkpt>
+<trkpt lat="53.34644" lon="13.23776"><ele>93</ele></trkpt>
+<trkpt lat="53.34633" lon="13.23806"><ele>93</ele></trkpt>
+<trkpt lat="53.3462" lon="13.23863"><ele>94</ele></trkpt>
+<trkpt lat="53.34616" lon="13.23929"><ele>95</ele></trkpt>
+<trkpt lat="53.34611" lon="13.23996"><ele>97</ele></trkpt>
+<trkpt lat="53.3464" lon="13.24078"><ele>99</ele></trkpt>
+<trkpt lat="53.34651" lon="13.24134"><ele>99</ele></trkpt>
+<trkpt lat="53.34643" lon="13.24231"><ele>100</ele></trkpt>
+<trkpt lat="53.34633" lon="13.24459"><ele>96</ele></trkpt>
+<trkpt lat="53.34469" lon="13.2481"><ele>93</ele></trkpt>
+<trkpt lat="53.34459" lon="13.24916"><ele>91</ele></trkpt>
+<trkpt lat="53.34436" lon="13.24965"><ele>88</ele></trkpt>
+<trkpt lat="53.34389" lon="13.25066"><ele>90</ele></trkpt>
+<trkpt lat="53.34337" lon="13.25177"><ele>92</ele></trkpt>
+<trkpt lat="53.34285" lon="13.25268"><ele>95</ele></trkpt>
+<trkpt lat="53.34235" lon="13.25561"><ele>99</ele></trkpt>
+<trkpt lat="53.34243" lon="13.25762"><ele>97</ele></trkpt>
+<trkpt lat="53.34244" lon="13.25867"><ele>95</ele></trkpt>
+<trkpt lat="53.3423" lon="13.25931"><ele>94</ele></trkpt>
+<trkpt lat="53.34209" lon="13.26002"><ele>94</ele></trkpt>
+<trkpt lat="53.3418" lon="13.26077"><ele>94</ele></trkpt>
+<trkpt lat="53.34147" lon="13.26141"><ele>95</ele></trkpt>
+<trkpt lat="53.34086" lon="13.26223"><ele>96</ele></trkpt>
+<trkpt lat="53.33943" lon="13.26547"><ele>98</ele></trkpt>
+<trkpt lat="53.33887" lon="13.26675"><ele>101</ele></trkpt>
+<trkpt lat="53.33862" lon="13.26785"><ele>100</ele></trkpt>
+<trkpt lat="53.33833" lon="13.26829"><ele>100</ele></trkpt>
+<trkpt lat="53.33805" lon="13.26908"><ele>99</ele></trkpt>
+<trkpt lat="53.33777" lon="13.2696"><ele>96</ele></trkpt>
+<trkpt lat="53.33723" lon="13.27027"><ele>93</ele></trkpt>
+<trkpt lat="53.33609" lon="13.27168"><ele>89</ele></trkpt>
+<trkpt lat="53.3349" lon="13.27318"><ele>91</ele></trkpt>
+<trkpt lat="53.33414" lon="13.27395"><ele>93</ele></trkpt>
+<trkpt lat="53.334" lon="13.27403"><ele>93</ele></trkpt>
+<trkpt lat="53.33379" lon="13.27399"><ele>94</ele></trkpt>
+<trkpt lat="53.33355" lon="13.27375"><ele>99</ele></trkpt>
+<trkpt lat="53.333" lon="13.27305"><ele>108</ele></trkpt>
+<trkpt lat="53.33236" lon="13.27251"><ele>107</ele></trkpt>
+<trkpt lat="53.33115" lon="13.27202"><ele>101</ele></trkpt>
+<trkpt lat="53.33044" lon="13.27151"><ele>102</ele></trkpt>
+<trkpt lat="53.33014" lon="13.27141"><ele>97</ele></trkpt>
+<trkpt lat="53.32974" lon="13.2714"><ele>92</ele></trkpt>
+<trkpt lat="53.32938" lon="13.27151"><ele>91</ele></trkpt>
+<trkpt lat="53.32914" lon="13.27194"><ele>91</ele></trkpt>
+<trkpt lat="53.32913" lon="13.27242"><ele>91</ele></trkpt>
+<trkpt lat="53.32965" lon="13.27292"><ele>93</ele></trkpt>
+<trkpt lat="53.32986" lon="13.27341"><ele>96</ele></trkpt>
+<trkpt lat="53.32995" lon="13.27369"><ele>98</ele></trkpt>
+<trkpt lat="53.33001" lon="13.27409"><ele>101</ele></trkpt>
+<trkpt lat="53.33013" lon="13.27535"><ele>102</ele></trkpt>
+<trkpt lat="53.3301" lon="13.27569"><ele>101</ele></trkpt>
+<trkpt lat="53.33043" lon="13.27644"><ele>101</ele></trkpt>
+<trkpt lat="53.33073" lon="13.27697"><ele>102</ele></trkpt>
+<trkpt lat="53.33109" lon="13.27737"><ele>103</ele></trkpt>
+<trkpt lat="53.3319" lon="13.27908"><ele>104</ele></trkpt>
+<trkpt lat="53.33258" lon="13.28038"><ele>100</ele></trkpt>
+<trkpt lat="53.33288" lon="13.28086"><ele>95</ele></trkpt>
+<trkpt lat="53.33353" lon="13.27954"><ele>88</ele></trkpt>
+<trkpt lat="53.33375" lon="13.27972"><ele>88</ele></trkpt>
+<trkpt lat="53.3343" lon="13.27982"><ele>86</ele></trkpt>
+<trkpt lat="53.33503" lon="13.27991"><ele>83</ele></trkpt>
+<trkpt lat="53.33581" lon="13.27962"><ele>81</ele></trkpt>
+<trkpt lat="53.33613" lon="13.27955"><ele>82</ele></trkpt>
+<trkpt lat="53.337" lon="13.27983"><ele>83</ele></trkpt>
+<trkpt lat="53.33725" lon="13.27975"><ele>82</ele></trkpt>
+<trkpt lat="53.33772" lon="13.27978"><ele>81</ele></trkpt>
+<trkpt lat="53.33799" lon="13.27998"><ele>80</ele></trkpt>
+<trkpt lat="53.33851" lon="13.28059"><ele>85</ele></trkpt>
+<trkpt lat="53.33871" lon="13.28072"><ele>89</ele></trkpt>
+<trkpt lat="53.339" lon="13.28096"><ele>95</ele></trkpt>
+<trkpt lat="53.33909" lon="13.28119"><ele>94</ele></trkpt>
+<trkpt lat="53.33904" lon="13.2815"><ele>92</ele></trkpt>
+<trkpt lat="53.33906" lon="13.28213"><ele>87</ele></trkpt>
+<trkpt lat="53.33916" lon="13.28242"><ele>85</ele></trkpt>
+<trkpt lat="53.33943" lon="13.28303"><ele>88</ele></trkpt>
+<trkpt lat="53.33945" lon="13.28333"><ele>89</ele></trkpt>
+<trkpt lat="53.33952" lon="13.28374"><ele>91</ele></trkpt>
+<trkpt lat="53.3397" lon="13.28421"><ele>86</ele></trkpt>
+<trkpt lat="53.3401" lon="13.28471"><ele>77</ele></trkpt>
+<trkpt lat="53.34041" lon="13.28544"><ele>77</ele></trkpt>
+<trkpt lat="53.34068" lon="13.28575"><ele>78</ele></trkpt>
+<trkpt lat="53.34185" lon="13.28705"><ele>78</ele></trkpt>
+<trkpt lat="53.34253" lon="13.28766"><ele>77</ele></trkpt>
+<trkpt lat="53.34327" lon="13.288"><ele>76</ele></trkpt>
+<trkpt lat="53.34379" lon="13.28836"><ele>76</ele></trkpt>
+<trkpt lat="53.34431" lon="13.28834"><ele>76</ele></trkpt>
+<trkpt lat="53.34504" lon="13.28783"><ele>76</ele></trkpt>
+<trkpt lat="53.34555" lon="13.28662"><ele>77</ele></trkpt>
+<trkpt lat="53.34582" lon="13.28592"><ele>82</ele></trkpt>
+<trkpt lat="53.34608" lon="13.28572"><ele>84</ele></trkpt>
+<trkpt lat="53.34627" lon="13.28542"><ele>87</ele></trkpt>
+<trkpt lat="53.34777" lon="13.28753"><ele>96</ele></trkpt>
+<trkpt lat="53.34761" lon="13.29181"><ele>92</ele></trkpt>
+<trkpt lat="53.34692" lon="13.29346"><ele>98</ele></trkpt>
+<trkpt lat="53.34797" lon="13.29704"><ele>106</ele></trkpt>
+<trkpt lat="53.34802" lon="13.29767"><ele>106</ele></trkpt>
+<trkpt lat="53.34741" lon="13.30042"><ele>111</ele></trkpt>
+<trkpt lat="53.34751" lon="13.30056"><ele>111</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

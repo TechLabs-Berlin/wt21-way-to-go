@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[san pellegrino - bergamo alta]]></name>
+      <desc><![CDATA[<p>
+	follow the river brembo from san pellegrino to botta di sedrina and over to bergamo</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[san pellegrino - bergamo alta]]></name><desc><![CDATA[<p>
+	follow the river brembo from san pellegrino to botta di sedrina and over to bergamo</p>
+]]></desc><trkseg>
+         <trkpt lat="45.83717" lon="9.66676"><ele>374</ele></trkpt>
+<trkpt lat="45.83214" lon="9.66814"><ele>350</ele></trkpt>
+<trkpt lat="45.82963" lon="9.66917"><ele>353</ele></trkpt>
+<trkpt lat="45.82281" lon="9.6738"><ele>350</ele></trkpt>
+<trkpt lat="45.81791" lon="9.67329"><ele>328</ele></trkpt>
+<trkpt lat="45.8136" lon="9.67586"><ele>327</ele></trkpt>
+<trkpt lat="45.80798" lon="9.6817"><ele>327</ele></trkpt>
+<trkpt lat="45.80343" lon="9.67397"><ele>326</ele></trkpt>
+<trkpt lat="45.79613" lon="9.67123"><ele>321</ele></trkpt>
+<trkpt lat="45.79326" lon="9.66814"><ele>318</ele></trkpt>
+<trkpt lat="45.79194" lon="9.64599"><ele>301</ele></trkpt>
+<trkpt lat="45.78871" lon="9.63535"><ele>362</ele></trkpt>
+<trkpt lat="45.78464" lon="9.62814"><ele>313</ele></trkpt>
+<trkpt lat="45.7844" lon="9.62779"><ele>310</ele></trkpt>
+<trkpt lat="45.77937" lon="9.61578"><ele>361</ele></trkpt>
+<trkpt lat="45.77793" lon="9.61303"><ele>328</ele></trkpt>
+<trkpt lat="45.76895" lon="9.61132"><ele>342</ele></trkpt>
+<trkpt lat="45.76548" lon="9.61423"><ele>336</ele></trkpt>
+<trkpt lat="45.7644" lon="9.61715"><ele>361</ele></trkpt>
+<trkpt lat="45.76357" lon="9.61938"><ele>407</ele></trkpt>
+<trkpt lat="45.76345" lon="9.61956"><ele>410</ele></trkpt>
+<trkpt lat="45.76285" lon="9.62127"><ele>421</ele></trkpt>
+<trkpt lat="45.76213" lon="9.62213"><ele>427</ele></trkpt>
+<trkpt lat="45.75878" lon="9.62196"><ele>477</ele></trkpt>
+<trkpt lat="45.7541" lon="9.62488"><ele>361</ele></trkpt>
+<trkpt lat="45.74824" lon="9.62762"><ele>319</ele></trkpt>
+<trkpt lat="45.7474" lon="9.62719"><ele>315</ele></trkpt>
+<trkpt lat="45.74764" lon="9.62745"><ele>314</ele></trkpt>
+<trkpt lat="45.74602" lon="9.62385"><ele>304</ele></trkpt>
+<trkpt lat="45.7456" lon="9.62333"><ele>304</ele></trkpt>
+<trkpt lat="45.74524" lon="9.6229"><ele>304</ele></trkpt>
+<trkpt lat="45.74476" lon="9.62213"><ele>304</ele></trkpt>
+<trkpt lat="45.74446" lon="9.62153"><ele>302</ele></trkpt>
+<trkpt lat="45.74368" lon="9.62127"><ele>298</ele></trkpt>
+<trkpt lat="45.74039" lon="9.62548"><ele>303</ele></trkpt>
+<trkpt lat="45.73889" lon="9.62951"><ele>298</ele></trkpt>
+<trkpt lat="45.73787" lon="9.63106"><ele>301</ele></trkpt>
+<trkpt lat="45.73763" lon="9.63234"><ele>312</ele></trkpt>
+<trkpt lat="45.73679" lon="9.63329"><ele>321</ele></trkpt>
+<trkpt lat="45.73721" lon="9.63466"><ele>322</ele></trkpt>
+<trkpt lat="45.73362" lon="9.63209"><ele>299</ele></trkpt>
+<trkpt lat="45.72991" lon="9.64822"><ele>310</ele></trkpt>
+<trkpt lat="45.72391" lon="9.65217"><ele>300</ele></trkpt>
+<trkpt lat="45.71277" lon="9.66685"><ele>273</ele></trkpt>
+<trkpt lat="45.71241" lon="9.66599"><ele>273</ele></trkpt>
+<trkpt lat="45.70797" lon="9.66582"><ele>295</ele></trkpt>
+<trkpt lat="45.70683" lon="9.66341"><ele>324</ele></trkpt>
+<trkpt lat="45.70396" lon="9.66324"><ele>373</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   
