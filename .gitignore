@@ -1,5 +1,5 @@
 API_KEY/*
 node_modules
 .env
-routes_data_to_parse/*
-parsed_routes_data/*
+cleaning_data/routes_data_to_parse/*
+cleaning_data/parsed_routes_data/*
