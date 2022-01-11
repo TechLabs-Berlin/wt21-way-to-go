@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import { GoogleMap, useJsApiLoader } from "@react-google-maps/api";
 import mapStyle from "./mapStyle";
 import Search from "./components/searchDestination/searchDestination";
+import CurrentLocation from "./components/currentLocation/currentLocation";
 
 const libraries = ["places"];
 const containerStyle = {
@@ -40,7 +41,7 @@ const App = function () {
     <div>
       <h1>WayToGo</h1>
 
-      <Locate panTo={panTo} />
+      <CurrentLocation panTo={panTo} />
       {isLoaded && <Search panTo={panTo.bind(this)} />}
       {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
     </div>
@@ -56,26 +57,6 @@ function Map({ onMapLoad }) {
       options={options}
       onLoad={onMapLoad}
     />
-  );
-}
-
-function Locate({ panTo }) {
-  return (
-    <button
-      onClick={() => {
-        navigator.geolocation.getCurrentPosition(
-          (position) => {
-            panTo({
-              lat: position.coords.latitude,
-              lng: position.coords.longitude,
-            });
-          },
-          () => null
-        );
-      }}
-    >
-      Current Location
-    </button>
   );
 }
 
