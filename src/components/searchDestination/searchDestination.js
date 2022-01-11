@@ -36,6 +36,24 @@ function Search({ panTo }) {
         }
     };
 
+    const doDirectionRequest = (startLocation, destination) => {
+        const requestBody = {
+            startLocation: startLocation,
+            destination: destination,
+        }
+
+        axios
+            .post("http://localhost:5000/direction",
+                requestBody
+            )
+            .then(function (response) {
+                console.log(response.data);
+            })
+            .catch(function (error) {
+                console.log(error);
+            });
+    }
+
     return (
         <div>
             <input
@@ -63,20 +81,10 @@ function Search({ panTo }) {
                         (position) => {
                             getGeocode({ address: value }).then((response) =>
                                 getLatLng(response[0]).then((destinationCoordinates) => {
-                                    axios
-                                        .post("http://localhost:5000/direction", {
-                                            startLocation: {
-                                                lat: position.coords.latitude,
-                                                lng: position.coords.longitude,
-                                            },
-                                            destination: destinationCoordinates,
-                                        })
-                                        .then(function (response) {
-                                            console.log(response.data);
-                                        })
-                                        .catch(function (error) {
-                                            console.log(error);
-                                        });
+                                    doDirectionRequest({
+                                        lat: position.coords.latitude,
+                                        lng: position.coords.longitude,
+                                    }, destinationCoordinates)
                                 })
                             );
                         },
