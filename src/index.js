@@ -1,24 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { GoogleMap, useJsApiLoader } from "@react-google-maps/api";
-import mapStyle from "./mapStyle";
+import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "./components/searchDestination/searchDestination";
 import CurrentLocation from "./components/currentLocation/currentLocation";
+import Map from "./components/map/map";
 
 const libraries = ["places"];
-const containerStyle = {
-  width: "1000px",
-  height: "600px",
-};
-
-const center = {
-  lat: 52.520008,
-  lng: 13.404954,
-};
-
-const options = {
-  styles: mapStyle,
-};
 
 const App = function () {
   const { isLoaded } = useJsApiLoader({
@@ -47,17 +34,5 @@ const App = function () {
     </div>
   );
 };
-
-function Map({ onMapLoad }) {
-  return (
-    <GoogleMap
-      mapContainerStyle={containerStyle}
-      center={center}
-      zoom={10}
-      options={options}
-      onLoad={onMapLoad}
-    />
-  );
-}
 
 ReactDOM.render(<App />, document.querySelector("#root"));
