@@ -2,11 +2,11 @@ import os
 import pandas as pd
 import gpxpy
 
-#print(os.getcwd())
+#print(os.getcwd()) # for finding out where you're at so you can modify your paths if needed
 indir = r'routes_data_to_parse'
 outdir = r'parsed_routes_data'
 
-#reading routes from all .gpx files into a list
+#function for reading routes from all .gpx files into a list
 def parsegpx(f):
     list_of_routes_dicts = []
     with open (f, 'r') as gpx_file:
@@ -18,7 +18,6 @@ def parsegpx(f):
                     dict = {'latitude' : point.latitude, 'longitude' : point.longitude}
                     list_of_routes_dicts.append(dict)
     return list_of_routes_dicts
-#print(list_of_routes_dicts)
 
 #parsing all the .gpx files into a pandas DataFrame
 files = os.listdir(indir)
