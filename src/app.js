@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState }from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "./components/search/searchInput";
 import CurrentLocation from "./components/currentLocation/currentLocation";
@@ -24,14 +24,17 @@ const App = function () {
     mapRef.current.setZoom(16);
   }, []);
 
+  const [to, setTo] = useState("");
+  const [from, setFrom] = useState(""); 
+
   return (
     <div>
       <h1>WayToGo</h1>
 
       <CurrentLocation panTo={panTo} />
-      {isLoaded && <Search panTo={panTo.bind(this)} placeholder={'From'} />}
-      {isLoaded && <Search panTo={panTo.bind(this)} placeholder={'To'} />}
-      {isLoaded && <SearchButton />}
+      {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
+      {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
+      {isLoaded && <SearchButton to={to} from={from} />}
       {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
     </div>
   );

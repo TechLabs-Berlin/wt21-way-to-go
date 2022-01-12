@@ -4,7 +4,7 @@ import usePlacesAutocomplete, {
     getLatLng,
 } from "use-places-autocomplete";
 
-function Search({ panTo, placeholder }) {
+function Search({ panTo, placeholder, onChange }) {
     const {
         ready,
         value,
@@ -20,6 +20,7 @@ function Search({ panTo, placeholder }) {
 
     const handleInput = (e) => {
         setValue(e.target.value);
+        onChange(e.target.value)
     };
 
     const handleSelect = async (address) => {

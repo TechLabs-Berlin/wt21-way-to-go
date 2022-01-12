@@ -23,13 +23,13 @@ const doDirectionRequest = (startLocation, destination) => {
         });
 }
 
-function SearchButton() {
+function SearchButton({ to }) {
     return (
         <button
             onClick={() => {
                 navigator.geolocation.getCurrentPosition(
                     (position) => {
-                        getGeocode({ address: "" }).then((response) =>
+                        getGeocode({ address: to }).then((response) =>
                             getLatLng(response[0]).then((destinationCoordinates) => {
                                 doDirectionRequest({
                                     lat: position.coords.latitude,
