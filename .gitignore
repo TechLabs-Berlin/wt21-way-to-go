@@ -2,3 +2,4 @@ API_KEY/*
 node_modules
 .env
 cleaning_data/routes_data/*
+cleaning_data/parsed_routes_data/*

@@ -2,11 +2,10 @@ import os
 import pandas as pd
 import gpxpy
 
-#defining working directories, please replace filepaths
-os.chdir(r'[substitude your path]\WayToGo\wt21-way-to-go\cleaning_data') #setting path back to the original starting path before re-running code
-indir = r'[substitude your path]\WayToGo\wt21-way-to-go\cleaning_data\routes_data_to_parse'
-outdir = r'[substitude your path]\WayToGo\wt21-way-to-go\cleaning_data\parsed_routes_data'
-os.chdir(r'[substitude your path]\WayToGo\wt21-way-to-go\cleaning_data\routes_data_to_parse')
+#defining working directories, please insert your paths or run with relative paths
+indir = r'[please insert your path]\wt21-way-to-go\cleaning_data\routes_data'
+outdir = r'[please insert your path]\wt21-way-to-go\cleaning_data\parsed_routes_data'
+os.chdir(r'[please insert your path]\wt21-way-to-go\cleaning_data\routes_data')
 
 #function for reading waypoints from a gps file into a list
 def parsegpx(f):
@@ -28,9 +27,9 @@ def parsegpx(f):
 files = os.listdir(indir)
 df = pd.concat([pd.DataFrame(parsegpx(f)) for f in files], keys = files)
 
-#writing the data into a csv file
+#writing the dataframe into a csv file
 os.chdir(outdir)
-df.to_csv('first_bulk_of_routes_data.csv')
+df.to_csv('all_routes_data.csv')
 
-#setting path back as it was before
-os.chdir(r'[substitude your path]\WayToGo\wt21-way-to-go\cleaning_data')
+#setting path back to where it was before
+os.chdir(r'[please insert your path]\wt21-way-to-go\cleaning_data')
