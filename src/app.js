@@ -29,8 +29,8 @@ const App = function () {
       <h1>WayToGo</h1>
 
       <CurrentLocation panTo={panTo} />
-      {isLoaded && <Search panTo={panTo.bind(this)} />}
-      {isLoaded && <Search panTo={panTo.bind(this)} />}
+      {isLoaded && <Search panTo={panTo.bind(this)} placeholder={'From'} />}
+      {isLoaded && <Search panTo={panTo.bind(this)} placeholder={'To'} />}
       {isLoaded && <SearchButton />}
       {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
     </div>

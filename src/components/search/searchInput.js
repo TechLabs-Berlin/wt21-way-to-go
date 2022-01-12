@@ -4,7 +4,7 @@ import usePlacesAutocomplete, {
     getLatLng,
 } from "use-places-autocomplete";
 
-function Search({ panTo }) {
+function Search({ panTo, placeholder }) {
     const {
         ready,
         value,
@@ -41,7 +41,7 @@ function Search({ panTo }) {
                 value={value}
                 onChange={handleInput}
                 disabled={!ready}
-                placeholder="To"
+                placeholder={placeholder}
             />
             <div>
                 <div>
