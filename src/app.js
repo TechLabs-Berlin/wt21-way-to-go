@@ -1,8 +1,9 @@
 import React from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
-import Search from "./components/searchDestination/searchDestination";
+import Search from "./components/search/searchInput";
 import CurrentLocation from "./components/currentLocation/currentLocation";
 import Map from "./components/map/map";
+import SearchButton from "./components/search/searchButton";
 
 const libraries = ["places"];
 
@@ -29,6 +30,8 @@ const App = function () {
 
       <CurrentLocation panTo={panTo} />
       {isLoaded && <Search panTo={panTo.bind(this)} />}
+      {isLoaded && <Search panTo={panTo.bind(this)} />}
+      {isLoaded && <SearchButton />}
       {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
     </div>
   );

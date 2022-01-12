@@ -3,7 +3,6 @@ import usePlacesAutocomplete, {
     getGeocode,
     getLatLng,
 } from "use-places-autocomplete";
-import axios from "axios";
 
 function Search({ panTo }) {
     const {
@@ -36,31 +35,13 @@ function Search({ panTo }) {
         }
     };
 
-    const doDirectionRequest = (startLocation, destination) => {
-        const requestBody = {
-            startLocation: startLocation,
-            destination: destination,
-        }
-
-        axios
-            .post("http://localhost:5000/direction",
-                requestBody
-            )
-            .then(function (response) {
-                console.log(response.data);
-            })
-            .catch(function (error) {
-                console.log(error);
-            });
-    }
-
     return (
         <div>
             <input
                 value={value}
                 onChange={handleInput}
                 disabled={!ready}
-                placeholder="Destination"
+                placeholder="To"
             />
             <div>
                 <div>
@@ -75,25 +56,7 @@ function Search({ panTo }) {
                 </div>
             </div>
 
-            <button
-                onClick={() => {
-                    navigator.geolocation.getCurrentPosition(
-                        (position) => {
-                            getGeocode({ address: value }).then((response) =>
-                                getLatLng(response[0]).then((destinationCoordinates) => {
-                                    doDirectionRequest({
-                                        lat: position.coords.latitude,
-                                        lng: position.coords.longitude,
-                                    }, destinationCoordinates)
-                                })
-                            );
-                        },
-                        () => null
-                    );
-                }}
-            >
-                Show Direction
-            </button>
+
         </div>
     );
 }
