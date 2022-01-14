@@ -1,6 +1,15 @@
+.searchMenuContainer {
+  width: 500px;
+  height: 400px;
+  background-color: beige;
+  padding: 40px;
+  border-radius: 15px;
+}
+
 .searchInputContainer {
   display: flex;
 }
 .searchInput {
   margin: 10px;
+  background-color: whitesmoke;
 }
