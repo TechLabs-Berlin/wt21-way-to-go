@@ -2,3 +2,4 @@ API_KEY/*
 node_modules
 .env
 routes_data/*
+.DS_store
