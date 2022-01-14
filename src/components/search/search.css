@@ -1,0 +1,6 @@
+.searchInputContainer {
+  display: flex;
+}
+.searchInput {
+  margin: 10px;
+}

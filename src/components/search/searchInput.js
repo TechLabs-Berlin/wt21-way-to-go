@@ -4,6 +4,7 @@ import usePlacesAutocomplete, {
     getLatLng,
 } from "use-places-autocomplete";
 import TextFiel from '@mui/material/TextField'
+import './search.css'
 
 function Search({ panTo, placeholder, onChange }) {
     const {
@@ -38,12 +39,15 @@ function Search({ panTo, placeholder, onChange }) {
     };
 
     return (
-        <div>
+        <div className="searchInput">
             <TextFiel
+                id="outlined-basic"
+                label={placeholder}
+                variant="outlined"
                 value={value}
                 onChange={handleInput}
                 disabled={!ready}
-                placeholder={placeholder}
+            //placeholder={placeholder}
             />
             <div>
                 <div>
