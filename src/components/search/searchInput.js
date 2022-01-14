@@ -3,7 +3,7 @@ import usePlacesAutocomplete, {
     getGeocode,
     getLatLng,
 } from "use-places-autocomplete";
-import TextFiel from '@material-ui/core/TextField'
+import TextFiel from '@mui/material/TextField'
 
 function Search({ panTo, placeholder, onChange }) {
     const {
@@ -39,7 +39,7 @@ function Search({ panTo, placeholder, onChange }) {
 
     return (
         <div>
-            <input
+            <TextFiel
                 value={value}
                 onChange={handleInput}
                 disabled={!ready}
