@@ -1,4 +1,7 @@
 API_KEY/*
 node_modules
 .env
+.venv
+venv/
 routes_data/*
+poi_data/
