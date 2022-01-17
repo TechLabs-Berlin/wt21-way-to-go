@@ -1,3 +1,7 @@
+* {
+  margin: 0%;
+}
+
 .navbar {
   height: 190px;
   background: #282828;
@@ -6,7 +10,7 @@
 }
 
 .navbar-logo {
-  color: white;
+  color: wheat;
   text-decoration: none;
   display: flex;
   align-items: center;
@@ -15,10 +19,15 @@
   justify-content: space-between;
 }
 
+.item-Logo {
+  width: 2px;
+  height: 2px;
+}
+
 .nav-items {
   display: flex;
   justify-content: flex-end;
-  width: 65vw;
+  width: 25vw;
 }
 
 .nav-item {
@@ -26,7 +35,23 @@
   margin-left: 32px;
 }
 
-.nav-items a {
-  color: white;
+.nav-item a {
+  color: black;
   text-decoration: none;
+  font-size: 18px;
+  padding: 6px 16px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 3.5px;
+  transition: 0.2s all ease-in-out;
+}
+
+.nav-item a:hover {
+  background: green;
+}
+
+.nav-item a span {
+  margin-left: 11px;
+  font-size: 20px;
 }

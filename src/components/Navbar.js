@@ -1,14 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "./images/logowtg";
+import logo from "./images/logowtg.png";
 import { navItems } from "./NavItems.js";
+import "./Navbar.css";
 
 function Navbar() {
   return (
     <div>
       <nav className="navbar">
         <Link to="/" className="navbar-logo">
-          <img src={logo} alt="this is the logo" />
+          <img src={logo} className="itemLogo" alt="this is the logo" />
         </Link>
         <ul className="nav-items">
           {navItems.map((item) => {
