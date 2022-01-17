@@ -3,7 +3,7 @@ import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "./components/searchDestination/searchDestination";
 import CurrentLocation from "./components/currentLocation/currentLocation";
 import Map from "./components/map/map";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
@@ -39,12 +39,12 @@ const App = function () {
 
       <BrowserRouter>
         <Navbar />
-        <Switch>
+        <Routes>
           <Route path="/" exact component={Home}></Route>
           <Route path="/about" component={About}></Route>
           <Route path="/how" component={How}></Route>
           <Route path="/contact" component={Contact}></Route>
-        </Switch>
+        </Routes>
       </BrowserRouter>
     </div>
   );
