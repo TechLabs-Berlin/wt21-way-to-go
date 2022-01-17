@@ -3,10 +3,9 @@ import usePlacesAutocomplete, {
     getGeocode,
     getLatLng,
 } from "use-places-autocomplete";
-import TextFiel from '@mui/material/TextField'
-import './search.css'
 
 function Search({ panTo, placeholder, onChange }) {
+
     const {
         ready,
         value,
@@ -32,6 +31,7 @@ function Search({ panTo, placeholder, onChange }) {
         try {
             const results = await getGeocode({ address });
             const { lat, lng } = await getLatLng(results[0]);
+            onChange(address);
             panTo({ lat, lng });
         } catch (error) {
             console.log("Error: ", error);
@@ -39,15 +39,12 @@ function Search({ panTo, placeholder, onChange }) {
     };
 
     return (
-        <div className="searchInput">
-            <TextFiel
-                id="outlined-basic"
-                label={placeholder}
-                variant="outlined"
+        <div>
+            <input
                 value={value}
                 onChange={handleInput}
                 disabled={!ready}
-            //placeholder={placeholder}
+                placeholder={placeholder}
             />
             <div>
                 <div>
@@ -61,11 +58,8 @@ function Search({ panTo, placeholder, onChange }) {
                         ))}
                 </div>
             </div>
-
-
         </div>
     );
 }
 
 export default Search
-
