@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import logo from "./images/wtg-logo-blue.png";
+import logo from "./images/logo-wtg";
 import { navItems } from "./NavItems.js";
 import * as Icons from "react-icons/fa";
 import "./Navbar.css";
@@ -35,7 +35,7 @@ function Navbar() {
     <div>
       <nav className="navbar">
         <Link to="/" className="navbar-logo" onClick={() => setSidebar(false)}>
-          <img src={logo} className="itemLogo" alt="this is the logo" /> Logo
+          <img src={logo} className="itemLogo" alt="this is the logo" />
         </Link>
         {!mobile && (
           <ul className="nav-items">
