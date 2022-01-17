@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import logo from "./images/wtg-logo-blue.png";
 import { navItems } from "./NavItems.js";
+import * as Icons from "react-icons/fa";
 import "./Navbar.css";
 
 function Navbar() {
@@ -51,6 +52,21 @@ function Navbar() {
           </ul>
         )}
         {!mobile}
+        {mobile && (
+          <div className="sidebar-toggle">
+            {sidebar ? (
+              <Icons.FaTimes
+                className="sidebar-toggle-logo"
+                onClick={() => setSidebar(!sidebar)}
+              />
+            ) : (
+              <Icons.FaBars
+                className="sidebar-toggle-logo"
+                onClick={() => setSidebar(!sidebar)}
+              />
+            )}
+          </div>
+        )}
       </nav>
     </div>
   );
