@@ -3,6 +3,12 @@ import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "./components/searchDestination/searchDestination";
 import CurrentLocation from "./components/currentLocation/currentLocation";
 import Map from "./components/map/map";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import Home from "./pages/Home";
+import Contact from "./pages/Contact";
+import About from "./pages/Products";
+import How from "./pages/How";
 
 const libraries = ["places"];
 
@@ -30,8 +36,18 @@ const App = function () {
       <CurrentLocation panTo={panTo} />
       {isLoaded && <Search panTo={panTo.bind(this)} />}
       {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
+
+      <BrowserRouter>
+        <Navbar />
+        <Switch>
+          <Route path="/" exact component={Home}></Route>
+          <Route path="/about" component={About}></Route>
+          <Route path="/how" component={How}></Route>
+          <Route path="/contact" component={Contact}></Route>
+        </Switch>
+      </BrowserRouter>
     </div>
   );
 };
 
-export default App
+export default App;
