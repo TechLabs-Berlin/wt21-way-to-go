@@ -1,12 +1,11 @@
-from flask import Flask
-app = Flask(__name__)
+import flask
+app = flask.Flask(__name__)
+app.config["DEBUG"] = True
 
 @app.route('/', methods=['GET'])
-def index(): # To communicate with FE (in src/package.json add <<"proxy":"[URL]">> to connect FE and BE)
+def home(): # To communicate with FE (in src/package.json add <<"proxy":"[URL]">> to connect FE and BE)
     return {
         'name': 'Hello World!'
     }
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
+app.run()
