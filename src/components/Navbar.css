@@ -14,3 +14,19 @@
   width: 144px;
   justify-content: space-between;
 }
+
+.nav-items {
+  display: flex;
+  justify-content: flex-end;
+  width: 65vw;
+}
+
+.nav-item {
+  list-style: none;
+  margin-left: 32px;
+}
+
+.nav-items a {
+  color: white;
+  text-decoration: none;
+}
