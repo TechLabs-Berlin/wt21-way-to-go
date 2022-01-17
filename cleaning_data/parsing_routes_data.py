@@ -1,5 +1,5 @@
 import os
-import pandas as pd
+import pandas as pd # If you get an error for the packages, right click-show context actions-install (on PyCharm)
 import gpxpy
 
 #defining working directories, please insert your paths or run with relative paths
