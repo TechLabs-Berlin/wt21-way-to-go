@@ -3,7 +3,7 @@ import * as Icons from "react-icons/fa";
 export const navItems = [
   {
     id: 1,
-    title: "Home",
+    title: "HOME",
     path: "./",
     nName: "nav-item",
     sName: "sidebar-item",

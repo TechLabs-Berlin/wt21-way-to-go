@@ -17,7 +17,7 @@
 
 .itemLogo {
   width: 175px;
-  height: 150px;
+  height: 111px;
   overflow: hidden;
 }
 
@@ -25,7 +25,7 @@
   display: flex;
   justify-content: space-between;
   width: 480px;
-  padding: 15px 10px 10px 315px;
+  padding: 15px 10px 10px 585px;
 }
 
 .nav-item {
@@ -36,7 +36,7 @@
 .nav-item a {
   color: black;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 14px;
   padding: 6px 16px;
   display: flex;
   align-items: center;
@@ -47,17 +47,75 @@
 
 .nav-item a:hover {
   background: green;
+  opacity: 80%;
 }
 
 .nav-item a span {
   margin-left: 11px;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .sidebar-toggle {
   width: 65vw;
   display: flex;
   justify-content: flex-end;
+}
+
+.sidebar-toggle-logo {
+  font-size: 2.3rem;
+  color: gray;
+  cursor: pointer;
+}
+
+.sidebar {
+  width: 16rem;
+  background: #1b1919;
+  height: 90vh;
+  position: absolute;
+  top: 10vh;
+  left: -100%;
+  transition: 0.3s all ease-in-out;
+}
+
+.sidebar.active {
+  left: 0;
+}
+
+.sidebar-items {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  transition: 0.2s all ease-out;
+}
+
+.sidebar-item {
+  list-style: none;
+  margin-top: 1rem;
+  width: 100%;
+  height: 3rem;
+}
+
+.sidebar-item a {
+  text-decoration: none;
+  color: purple;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s all ease-out;
+}
+
+.sidebar-item a span {
+  margin-left: 1.5rem;
+  font-size: 1.4rem;
+}
+
+.sidebar-item a:hover {
+  background: yellow;
 }
 
 /* media queries*/
