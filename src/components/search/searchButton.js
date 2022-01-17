@@ -1,5 +1,5 @@
 import React from "react";
-import usePlacesAutocomplete, {
+import {
     getGeocode,
     getLatLng,
 } from "use-places-autocomplete";
@@ -23,23 +23,21 @@ const doDirectionRequest = (startLocation, destination) => {
         });
 }
 
-function SearchButton({ to }) {
+function SearchButton({ to, from }) {
     return (
         <button
             onClick={() => {
-                navigator.geolocation.getCurrentPosition(
-                    (position) => {
+                console.log("from: " + from)
+                console.log("to: " + to)
+                getGeocode({ address: from }).then((response) =>
+                    getLatLng(response[0]).then((startLocation) => {
                         getGeocode({ address: to }).then((response) =>
                             getLatLng(response[0]).then((destinationCoordinates) => {
-                                doDirectionRequest({
-                                    lat: position.coords.latitude,
-                                    lng: position.coords.longitude,
-                                }, destinationCoordinates)
+                                doDirectionRequest(startLocation, destinationCoordinates)
                             })
                         );
-                    },
-                    () => null
-                );
+                    })
+                )
             }}
         >
             Show Direction
