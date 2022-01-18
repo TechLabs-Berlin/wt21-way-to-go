@@ -3,6 +3,7 @@ import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "./components/search/searchInput";
 // import CurrentLocation from "./components/currentLocation/currentLocation";
 // import Map from "./components/map/map";
+import RangeSlider from "./components/search/timeRangeSlider";
 import SearchButton from "./components/search/searchButton";
 import "./app.css";
 
@@ -27,6 +28,7 @@ const App = function () {
 
   const [to, setTo] = useState("");
   const [from, setFrom] = useState("");
+  const [time, setTime] = useState("");
 
   return (
     <div>
@@ -42,7 +44,7 @@ const App = function () {
               {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
             </div>
           </div>
-
+          <RangeSlider onChange={setTime} />
           {isLoaded && <SearchButton to={to} from={from} />}
         </form>
       </div>

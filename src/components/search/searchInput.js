@@ -41,7 +41,7 @@ function Search({ panTo, placeholder, onChange }) {
     return (
         <div>
             <input
-                class="form-control bg-white"
+                class="form-control"
                 value={value}
                 onChange={handleInput}
                 disabled={!ready}
