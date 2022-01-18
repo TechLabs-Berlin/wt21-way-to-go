@@ -34,7 +34,7 @@ function Navbar() {
   return (
     <div>
       <nav className="navbar">
-        <Link to="/" className="navbar-logo" onClick={() => setSidebar(false)}>
+        <Link to="/" className="nav-logo" onClick={() => setSidebar(false)}>
           <img src={logo} className="itemLogo" alt="this is the logo" />
         </Link>
         {!mobile && (
@@ -43,7 +43,6 @@ function Navbar() {
               return (
                 <li key={item.id} className={item.nName}>
                   <Link to={item.path}>
-                    {item.icon}
                     <span>{item.title}</span>
                   </Link>
                 </li>

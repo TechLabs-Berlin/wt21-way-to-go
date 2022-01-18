@@ -1,5 +1,5 @@
 .navbar {
-  height: 80px;
+  height: 52px;
   background-color: #f8f8ff;
   display: flex;
   align-items: center;
@@ -25,25 +25,22 @@
 
 .itemLogo {
   width: 175px;
-  height: 111px;
-  overflow: hidden;
+  height: 108px;
   text-decoration: none;
-  display: flex;
-  align-items: center;
+  display: absolute;
+  align-items: start;
   font-size: 36px;
-  width: 144px;
-  justify-content: space-between;
-  margin-left: 20px;
+  margin-left: -250px;
   cursor: pointer;
-  flex-grow: 1;
+  margin-top: 53px;
 }
 
 .nav-items {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-evenly;
   width: 480px;
   padding: 15px 10px 10px 585px;
-  margin-right: 32px;
+  margin-right: 46px;
 }
 
 .nav-item {
@@ -71,8 +68,9 @@
 }
 
 .nav-item a span {
-  margin-left: 11px;
-  font-size: 16px;
+  margin: 11px;
+  font-size: 14px;
+  justify-content: space-between;
 }
 
 .sidebar-toggle {
