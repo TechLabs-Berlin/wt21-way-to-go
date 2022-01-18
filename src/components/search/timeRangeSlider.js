@@ -4,7 +4,7 @@ import React, {
 } from "react";
 
 const RangeSlider =
-    ({ classes, label, onChange, value, ...sliderProps }) => {
+    ({ onChange, value }) => {
         const [sliderVal, setSliderVal] = useState(0);
 
         useEffect(() => {
@@ -18,15 +18,13 @@ const RangeSlider =
 
         return (
             <div className="range-slider">
-                <p>{label}</p>
-                <h3>value: {sliderVal}</h3>
                 <p>How much time do you have?</p>
+                <p>value: {sliderVal}</p>
                 <input
                     type="range"
                     value={sliderVal}
-                    {...sliderProps}
-                    className={`slider ${classes}`}
-                    id="myRange"
+                    // className={`slider ${classes}`}
+                    // id="myRange"
                     onChange={changeCallback}
                 />
             </div>
