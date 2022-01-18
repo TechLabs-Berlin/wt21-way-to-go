@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "./components/search/searchInput";
-import CurrentLocation from "./components/currentLocation/currentLocation";
+// import CurrentLocation from "./components/currentLocation/currentLocation";
 // import Map from "./components/map/map";
 import SearchButton from "./components/search/searchButton";
 const libraries = ["places"];
@@ -31,9 +31,11 @@ const App = function () {
       <h1>WayToGo</h1>
 
       <form>
-        <CurrentLocation panTo={panTo} />
-        {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
-        {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
+        {/* <CurrentLocation panTo={panTo} /> */}
+        <div class="form-inline">
+          {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
+          {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
+        </div>
         {isLoaded && <SearchButton to={to} from={from} />}
       </form>
       {/* {isLoaded && <Map onMapLoad={onMapLoad}></Map>} */}
