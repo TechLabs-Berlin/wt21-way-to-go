@@ -32,10 +32,15 @@ const App = function () {
 
       <form>
         {/* <CurrentLocation panTo={panTo} /> */}
-        <div class="form-inline">
-          {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
-          {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
+        <div class="form-row">
+          <div class="col">
+            {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
+          </div>
+          <div class="col">
+            {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
+          </div>
         </div>
+
         {isLoaded && <SearchButton to={to} from={from} />}
       </form>
       {/* {isLoaded && <Map onMapLoad={onMapLoad}></Map>} */}
