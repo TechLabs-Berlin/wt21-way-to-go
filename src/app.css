@@ -1,0 +1,28 @@
+* {
+  background-color: blanchedalmond;
+}
+
+.searchFormContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.searchForm {
+  width: 500px;
+  height: 400px;
+  background-color: white;
+  padding: 40px;
+  border-radius: 15px;
+  margin-top: 40px;
+  margin-right: 50px;
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: space-between;
+  background-color: inherit;
+}
+
+.whiteBg {
+    background-color: inherit;
+}

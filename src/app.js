@@ -4,6 +4,8 @@ import Search from "./components/search/searchInput";
 // import CurrentLocation from "./components/currentLocation/currentLocation";
 // import Map from "./components/map/map";
 import SearchButton from "./components/search/searchButton";
+import "./app.css";
+
 const libraries = ["places"];
 
 const App = function () {
@@ -29,20 +31,21 @@ const App = function () {
   return (
     <div>
       <h1>WayToGo</h1>
-
-      <form>
-        {/* <CurrentLocation panTo={panTo} /> */}
-        <div class="form-row">
-          <div class="col">
-            {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
+      <div className="searchFormContainer">
+        <form className="searchForm">
+          {/* <CurrentLocation panTo={panTo} /> */}
+          <div class="form-row inputContainer">
+            <div class="col-md-5 whiteBg">
+              {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
+            </div>
+            <div class="col-md-5 whiteBg">
+              {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
+            </div>
           </div>
-          <div class="col">
-            {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
-          </div>
-        </div>
 
-        {isLoaded && <SearchButton to={to} from={from} />}
-      </form>
+          {isLoaded && <SearchButton to={to} from={from} />}
+        </form>
+      </div>
       {/* {isLoaded && <Map onMapLoad={onMapLoad}></Map>} */}
     </div >
   );

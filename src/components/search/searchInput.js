@@ -40,15 +40,13 @@ function Search({ panTo, placeholder, onChange }) {
 
     return (
         <div>
-            <div class="form-group">
-                <input
-                    class="form-control"
-                    value={value}
-                    onChange={handleInput}
-                    disabled={!ready}
-                    placeholder={placeholder}
-                />
-            </div>
+            <input
+                class="form-control bg-white"
+                value={value}
+                onChange={handleInput}
+                disabled={!ready}
+                placeholder={placeholder}
+            />
             <div>
                 <div>
                     {status === "OK" &&
