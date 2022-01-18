@@ -1,5 +1,6 @@
 import React, {
     useState,
+    useMemo,
     useEffect,
 } from "react";
 
@@ -16,13 +17,21 @@ const RangeSlider =
             onChange(e.target.value);
         };
 
+        const sliderProps = useMemo(
+            () => ({
+                min: 0,
+                max: 120,
+                step: 5,
+            }),
+            []
+        );
+
         return (
             <div className="range-slider">
-                <p>How much time do you have?</p>
-                <p>value: {sliderVal}</p>
                 <input
                     type="range"
                     value={sliderVal}
+                    {...sliderProps}
                     // className={`slider ${classes}`}
                     // id="myRange"
                     onChange={changeCallback}

@@ -44,6 +44,7 @@ const App = function () {
               {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
             </div>
           </div>
+          <p>value: {time}' min</p>
           <RangeSlider onChange={setTime} />
           {isLoaded && <SearchButton to={to} from={from} />}
         </form>
