@@ -31,10 +31,12 @@ const App = function () {
     <div>
       <h1>WayToGo</h1>
 
-      <CurrentLocation panTo={panTo} />
-      {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
-      {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
-      {isLoaded && <SearchButton to={to} from={from} />}
+      <form>
+        <CurrentLocation panTo={panTo} />
+        {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
+        {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
+        {isLoaded && <SearchButton to={to} from={from} />}
+      </form>
       {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
     </div >
   );
