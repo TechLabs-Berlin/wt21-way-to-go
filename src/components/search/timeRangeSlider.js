@@ -11,11 +11,22 @@ const RangeSlider =
 
         useEffect(() => {
             setSliderVal(value);
+            updateValueBuble();
         }, [value]);
 
         const changeCallback = e => {
             setSliderVal(e.target.value);
             onChange(e.target.value);
+            updateValueBuble();
+        };
+
+        const updateValueBuble = () => {
+            const range = document.getElementById('range')
+            const rangeV = document.getElementById('rangeV')
+            const newValue = Number( (range.value - range.min) * 100 / (range.max - range.min) )
+            const newPosition = 10 - (newValue * 0.2);
+            rangeV.innerHTML = `<span>${range.value}</span>`;
+            rangeV.style.left = `calc(${newValue}% + (${newPosition}px))`;
         };
 
         const sliderProps = useMemo(
@@ -29,15 +40,19 @@ const RangeSlider =
 
         return (
             <div class="rangeSliderContainer">
-                <input
-                    class="rangeSlider"
-                    type="range"
-                    value={sliderVal}
-                    {...sliderProps}
-                    // className={`slider ${classes}`}
-                    // id="myRange"
-                    onChange={changeCallback}
-                />
+                <div class="range-wrap">
+                    <div class="range-value" id="rangeV" />
+                    <input
+                        id="range"
+                        class="rangeSlider"
+                        type="range"
+                        value={sliderVal}
+                        {...sliderProps}
+                        // className={`slider ${classes}`}
+                        // id="myRange"
+                        onChange={changeCallback}
+                    />
+                </div>
             </div>
         );
     }
