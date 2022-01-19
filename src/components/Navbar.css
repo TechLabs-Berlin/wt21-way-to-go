@@ -6,6 +6,7 @@
   text-decoration: none;
   justify-content: space-between;
   font-size: 14px;
+  padding-top: 0px;
 }
 
 .nav-logo {
@@ -15,14 +16,14 @@
   font-size: 36px;
   justify-content: space-between;
   cursor: pointer;
-  margin-top: 52px;
+  margin-top: 1px;
 }
 
 .nav-items {
   display: flex;
-  width: 480px;
-  margin-right: 208px;
   justify-content: space-between;
+  margin-right: 50px;
+  margin-bottom: 50px;
 }
 
 .nav-item {
@@ -56,7 +57,7 @@
 }
 
 .sidebar-toggle {
-  width: 65vw;
+  width: 95vw;
   display: flex;
   justify-content: flex-end;
 }
@@ -126,42 +127,8 @@
 }
 
 /* media queries*/
-
-@media screen and (max-width: 900px) {
-  .sidebar.active {
-    width: 5rem;
-  }
-
-  .sidebar-item a span {
-    display: none;
-    flex-direction: column;
-  }
-
-  .nav-logo {
-    justify-content: space-between;
-    cursor: pointer;
-    margin-top: 52px;
-    width: 100px;
-    margin-right: 100px;
-  }
-}
-
-@media (max-width: 768px) {
-  .logo {
-    margin-left: 15px;
-  }
-}
-
-@media (max-width: 365px) {
-  .logo {
-    margin-left: 260px;
-  }
-}
-
-@media all and (min-width: 480px) and (max-width: 768px) {
-  .sidebar-toggle-logo {
-    justify-content: space-between;
-    display: flex;
-    margin-left: 550px;
+@media screen and (max-width: 600px) {
+  .navbar {
+    height: 70px;
   }
 }
