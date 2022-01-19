@@ -48,13 +48,14 @@ function Search({ panTo, placeholder, onChange }) {
                 placeholder={placeholder}
             />
             <div>
-                <div>
+                <div style={{ position: "absolute"}}>
                     {status === "OK" &&
                         data.map(({ id, description }) => (
                             <input
                                 onClick={() => handleSelect(description)}
                                 key={Math.random()}
                                 defaultValue={description}
+                                style={{ cursor: "pointer"}}
                             />
                         ))}
                 </div>
