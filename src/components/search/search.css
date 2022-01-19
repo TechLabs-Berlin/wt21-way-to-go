@@ -1,0 +1,8 @@
+.rangeSliderContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.rangeSlider {
+  width: 90%;
+}

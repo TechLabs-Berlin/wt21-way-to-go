@@ -3,6 +3,7 @@ import React, {
     useMemo,
     useEffect,
 } from "react";
+import "./search.css";
 
 const RangeSlider =
     ({ onChange, value }) => {
@@ -27,14 +28,16 @@ const RangeSlider =
         );
 
         return (
-            <div className="range-slider">
+            <div class="rangeSliderContainer">
                 <input
+                    class="rangeSlider"
                     type="range"
                     value={sliderVal}
                     {...sliderProps}
                     // className={`slider ${classes}`}
                     // id="myRange"
                     onChange={changeCallback}
+                // style={width: 200}
                 />
             </div>
         );
