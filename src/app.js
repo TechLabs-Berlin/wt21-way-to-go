@@ -46,6 +46,7 @@ const App = function () {
             </div>
           </div>
 
+          Tell us about your mood today...
           <div>
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
@@ -53,13 +54,14 @@ const App = function () {
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
           </div>
-
           <p>value: {time}' min</p>
           <div class="form-group">
             <RangeSlider onChange={setTime} />
           </div>
 
-          {isLoaded && <SearchButton to={to} from={from} />}
+          <div class="searchDirectionButton">
+            {isLoaded && <SearchButton to={to} from={from} />}
+          </div>
         </form>
       </div>
       {/* {isLoaded && <Map onMapLoad={onMapLoad}></Map>} */}

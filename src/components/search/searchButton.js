@@ -40,7 +40,7 @@ function SearchButton({ to, from }) {
                 )
             }}
         >
-            Show Direction
+            Way To Go
         </button>
     )
 }

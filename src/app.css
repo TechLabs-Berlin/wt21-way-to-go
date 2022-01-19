@@ -8,6 +8,9 @@
 }
 
 .searchForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 500px;
   height: 400px;
   background-color: white;
@@ -30,4 +33,10 @@
 .categoryCoffee {
   width: 70px;
   height: 120px;
+}
+
+.searchDirectionButton {
+  display: flex;
+  justify-content: space-around;
+  background-color: inherit;
 }
