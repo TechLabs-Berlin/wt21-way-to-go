@@ -46,7 +46,7 @@ const App = function () {
           </div>
 
           <p>value: {time}' min</p>
-          <div class="form-group rangeSlider">
+          <div class="form-group">
             <RangeSlider onChange={setTime} />
           </div>
 

@@ -37,7 +37,6 @@ const RangeSlider =
                     // className={`slider ${classes}`}
                     // id="myRange"
                     onChange={changeCallback}
-                // style={width: 200}
                 />
             </div>
         );
