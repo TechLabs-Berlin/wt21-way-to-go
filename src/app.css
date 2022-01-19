@@ -26,3 +26,8 @@
 .whiteBg {
   background-color: inherit;
 }
+
+.categoryCoffee {
+  width: 70px;
+  height: 120px;
+}

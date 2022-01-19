@@ -5,6 +5,7 @@ import Search from "./components/search/searchInput";
 // import Map from "./components/map/map";
 import RangeSlider from "./components/search/timeRangeSlider";
 import SearchButton from "./components/search/searchButton";
+import CategoryCoffee from "./components/Images/CategoryCoffee.png"
 import "./app.css";
 
 const libraries = ["places"];
@@ -43,6 +44,14 @@ const App = function () {
             <div class="col-md-5 whiteBg">
               {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
             </div>
+          </div>
+
+          <div>
+            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
+            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
+            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
+            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
+            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
           </div>
 
           <p>value: {time}' min</p>
