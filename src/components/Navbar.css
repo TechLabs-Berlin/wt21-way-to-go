@@ -1,17 +1,11 @@
 .navbar {
   height: 52px;
-  background-color: #f8f8ff;
+  background: #f8f8ff;
   display: flex;
   align-items: center;
   text-decoration: none;
-  justify-content: center;
+  justify-content: space-between;
   font-size: 14px;
-  position: sticky;
-  z-index: 20;
-}
-
-.nav-container {
-  display: flex;
 }
 
 .nav-logo {
@@ -19,28 +13,16 @@
   display: flex;
   align-items: center;
   font-size: 36px;
-  width: 144px;
   justify-content: space-between;
-}
-
-.itemLogo {
-  width: 175px;
-  height: 108px;
-  text-decoration: none;
-  display: absolute;
-  align-items: start;
-  font-size: 36px;
-  margin-left: -250px;
   cursor: pointer;
-  margin-top: 53px;
+  margin-top: 52px;
 }
 
 .nav-items {
   display: flex;
-  justify-content: space-evenly;
   width: 480px;
-  padding: 15px 10px 10px 585px;
-  margin-right: 46px;
+  margin-right: 208px;
+  justify-content: space-between;
 }
 
 .nav-item {
@@ -83,6 +65,7 @@
   font-size: 36.8px;
   color: gray;
   cursor: pointer;
+  margin-left: 35px;
 }
 
 .sidebar {
@@ -90,7 +73,7 @@
   background: #282828;
   height: 1920px;
   position: absolute;
-  top: 138px;
+  top: 152px;
   left: -100%;
   transition: 0.3s all ease-in-out;
 }
@@ -105,6 +88,7 @@
   align-items: center;
   flex-direction: column;
   transition: 0.2s all ease-out;
+  padding-right: 16px;
 }
 
 .sidebar-item {
@@ -136,6 +120,11 @@
   background: black;
 }
 
+.logo {
+  float: left;
+  margin-left: 25px;
+}
+
 /* media queries*/
 
 @media screen and (max-width: 900px) {
@@ -145,5 +134,34 @@
 
   .sidebar-item a span {
     display: none;
+    flex-direction: column;
+  }
+
+  .nav-logo {
+    justify-content: space-between;
+    cursor: pointer;
+    margin-top: 52px;
+    width: 100px;
+    margin-right: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .logo {
+    margin-left: 15px;
+  }
+}
+
+@media (max-width: 365px) {
+  .logo {
+    margin-left: 260px;
+  }
+}
+
+@media all and (min-width: 480px) and (max-width: 768px) {
+  .sidebar-toggle-logo {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 550px;
   }
 }
