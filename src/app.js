@@ -39,22 +39,22 @@ const App = function () {
           {/* <CurrentLocation panTo={panTo} /> */}
           <div class="form-row inputContainer">
             <div class="col-md-5 whiteBg">
-              {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'From'} />}
+              {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
             </div>
             <div class="col-md-5 whiteBg">
-              {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'To'} />}
+              {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'TO...'} />}
             </div>
           </div>
 
           Tell us about your mood today...
-          <div>
+          <div class="whiteBg">
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
           </div>
-          <p>value: {time}' min</p>
+          <p class="whiteBg">How much time do you have? {time}' min</p>
           <div class="form-group">
             <RangeSlider onChange={setTime} />
           </div>
