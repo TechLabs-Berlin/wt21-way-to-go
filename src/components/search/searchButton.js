@@ -25,7 +25,7 @@ const doDirectionRequest = (startLocation, destination) => {
 
 function SearchButton({ to, from }) {
     return (
-        <button
+        <button type="button" class="btn btn-outline-danger"
             onClick={() => {
                 console.log("from: " + from)
                 console.log("to: " + to)
