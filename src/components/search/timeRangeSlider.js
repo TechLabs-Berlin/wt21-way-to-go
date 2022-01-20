@@ -23,7 +23,7 @@ const RangeSlider =
         const updateValueBuble = () => {
             const range = document.getElementById('range')
             const rangeV = document.getElementById('rangeV')
-            const newValue = Number( (range.value - range.min) * 100 / (range.max - range.min) )
+            const newValue = Number((range.value - range.min) * 100 / (range.max - range.min))
             const newPosition = 10 - (newValue * 0.2);
             rangeV.innerHTML = `<span>${range.value}</span>`;
             rangeV.style.left = `calc(${newValue}% + (${newPosition}px))`;
@@ -53,7 +53,12 @@ const RangeSlider =
                         onChange={changeCallback}
                     />
                 </div>
+                <div class="displayValues">
+                    <span>0'min</span>
+                    <span>120'min</span>
+                </div>
             </div>
+
         );
     }
     ;

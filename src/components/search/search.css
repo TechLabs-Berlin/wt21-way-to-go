@@ -1,10 +1,11 @@
 .rangeSliderContainer {
   display: flex;
   justify-content: space-around;
+  flex-direction: column;
 }
 
 .rangeSlider {
-  width: 80%;
+  width: 80px;
 }
 
 input[type="range"] {
@@ -39,7 +40,8 @@ input[type="range"]:focus::-webkit-slider-runnable-track {
 .range-wrap {
   width: 500px;
   position: relative;
-  background-color: white;
+  width: 90%;
+  left: 5%;
 }
 .range-value {
   position: absolute;
@@ -76,4 +78,9 @@ input[type="range"]:focus::-webkit-slider-runnable-track {
 .searchAddressInput {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.158);
   border: solid 1px #50979f;
+}
+
+.displayValues {
+  display: flex;
+  justify-content: space-between;
 }
