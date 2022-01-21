@@ -3,9 +3,9 @@ import usePlacesAutocomplete, {
     getGeocode,
     getLatLng,
 } from "use-places-autocomplete";
-import axios from "axios";
 
-function Search({ panTo }) {
+function Search({ panTo, placeholder, onChange }) {
+
     const {
         ready,
         value,
@@ -21,6 +21,7 @@ function Search({ panTo }) {
 
     const handleInput = (e) => {
         setValue(e.target.value);
+        onChange(e.target.value)
     };
 
     const handleSelect = async (address) => {
@@ -30,73 +31,37 @@ function Search({ panTo }) {
         try {
             const results = await getGeocode({ address });
             const { lat, lng } = await getLatLng(results[0]);
+            onChange(address);
             panTo({ lat, lng });
         } catch (error) {
             console.log("Error: ", error);
         }
     };
 
-    const doDirectionRequest = (startLocation, destination) => {
-        const requestBody = {
-            startLocation: startLocation,
-            destination: destination,
-        }
-
-        axios
-            .post("http://localhost:5000/direction",
-                requestBody
-            )
-            .then(function (response) {
-                console.log(response.data);
-            })
-            .catch(function (error) {
-                console.log(error);
-            });
-    }
-
     return (
         <div>
             <input
+                class="form-control searchAddressInput"
                 value={value}
                 onChange={handleInput}
                 disabled={!ready}
-                placeholder="Destination"
+                placeholder={placeholder}
             />
             <div>
-                <div>
+                <div style={{ position: "absolute"}}>
                     {status === "OK" &&
                         data.map(({ id, description }) => (
                             <input
                                 onClick={() => handleSelect(description)}
                                 key={Math.random()}
                                 defaultValue={description}
+                                style={{ cursor: "pointer"}}
                             />
                         ))}
                 </div>
             </div>
-
-            <button
-                onClick={() => {
-                    navigator.geolocation.getCurrentPosition(
-                        (position) => {
-                            getGeocode({ address: value }).then((response) =>
-                                getLatLng(response[0]).then((destinationCoordinates) => {
-                                    doDirectionRequest({
-                                        lat: position.coords.latitude,
-                                        lng: position.coords.longitude,
-                                    }, destinationCoordinates)
-                                })
-                            );
-                        },
-                        () => null
-                    );
-                }}
-            >
-                Show Direction
-            </button>
         </div>
     );
 }
 
 export default Search
-
