@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import logo from "./Images/wtg-logo-re.png";
+import logo from "./../../images/wtg-logo-re.png";
 import { navItems } from "./NavItems.js";
 import * as Icons from "react-icons/fa";
 import "./Navbar.css";

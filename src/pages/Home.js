@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
-import CategoryCoffee from "./../Images/CategoryCoffee.png"
-import Search from "./../search/searchInput";
-import RangeSlider from "./../search/timeRangeSlider";
-import SearchButton from "./../search/searchButton";
+import CategoryCoffee from "./../images/CategoryCoffee.png"
+import Search from "../components/search/searchInput";
+import RangeSlider from "../components/search/timeRangeSlider";
+import SearchButton from "../components/search/searchButton";
 import "./Home.css";
 
 const libraries = ["places"];
