@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "./components/search/searchInput";
-import CurrentLocation from "./components/currentLocation/currentLocation";
+// import CurrentLocation from "./components/currentLocation/currentLocation";
 // import Map from "./components/map/map";
 import RangeSlider from "./components/search/timeRangeSlider";
 import SearchButton from "./components/search/searchButton";
@@ -36,10 +36,10 @@ const App = function () {
       <h1>WayToGo</h1>
       <div className="searchFormContainer">
         <form className="searchForm">
-          <CurrentLocation panTo={panTo} />
           <div class="form-row inputContainer">
             <div class="col-md-5 whiteBg">
-              {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
+              {isLoaded && <Search className="TiconFrom" onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
+              {/* <CurrentLocation panTo={panTo} /> */}
             </div>
             <div class="col-md-5 whiteBg">
               {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'TO...'} />}
@@ -47,7 +47,7 @@ const App = function () {
           </div>
 
           Tell us about your mood today...
-          <div class="whiteBg">
+          <div className="categoryImages">
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
             <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
