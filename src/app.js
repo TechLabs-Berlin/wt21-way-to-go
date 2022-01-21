@@ -17,10 +17,10 @@ const App = function () {
       <BrowserRouter>
         <Navbar expand="md" />
         <Routes>
-          <Route path="/" exact component={Home}></Route>
-          <Route path="/about" component={About}></Route>
-          <Route path="/how" component={How}></Route>
-          <Route path="/contact" component={Contact}></Route>
+          <Route path="/" exact element={<Home />}></Route>
+          <Route path="/about" element={<About />}></Route>
+          <Route path="/how" element={<How />}></Route>
+          <Route path="/contact" element={<Contact />}></Route>
         </Routes>
       </BrowserRouter>
       {/* <HowItWorks expand="md" /> */}
