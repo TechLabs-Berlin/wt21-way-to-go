@@ -11,4 +11,3 @@ cleaning_data/cleaned_routes_data/
 .ipynb_checkpoints/
 .DS_Store
 *.csv
-*.json
