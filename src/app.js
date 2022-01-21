@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "./components/search/searchInput";
-// import CurrentLocation from "./components/currentLocation/currentLocation";
+import CurrentLocation from "./components/currentLocation/currentLocation";
 // import Map from "./components/map/map";
 import RangeSlider from "./components/search/timeRangeSlider";
 import SearchButton from "./components/search/searchButton";
@@ -36,7 +36,7 @@ const App = function () {
       <h1>WayToGo</h1>
       <div className="searchFormContainer">
         <form className="searchForm">
-          {/* <CurrentLocation panTo={panTo} /> */}
+          <CurrentLocation panTo={panTo} />
           <div class="form-row inputContainer">
             <div class="col-md-5 whiteBg">
               {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
