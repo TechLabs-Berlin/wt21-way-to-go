@@ -10,6 +10,7 @@ import Contact from "./components/pages/Contact";
 import About from "./components/pages/About";
 import How from "./components/pages/How";
 import "./app.css";
+import HowItWorks from "./components/howitworks/HowItWorks";
 
 const libraries = ["places"];
 
@@ -32,14 +33,11 @@ const App = function () {
 
   return (
     <div>
-      <h1>WayToGo</h1>
-
-      <CurrentLocation panTo={panTo} />
+      {/* <CurrentLocation panTo={panTo} />
       {isLoaded && <Search panTo={panTo.bind(this)} />}
-      {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
-
+      {isLoaded && <Map onMapLoad={onMapLoad}></Map>} */}
       <BrowserRouter>
-        <Navbar />
+        <Navbar expand="md" />
         <Routes>
           <Route path="/" exact component={Home}></Route>
           <Route path="/about" component={About}></Route>
@@ -47,6 +45,7 @@ const App = function () {
           <Route path="/contact" component={Contact}></Route>
         </Routes>
       </BrowserRouter>
+      <HowItWorks expand="md" />
     </div>
   );
 };
