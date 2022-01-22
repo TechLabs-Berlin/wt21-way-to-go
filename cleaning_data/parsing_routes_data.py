@@ -32,4 +32,4 @@ os.chdir(outdir)
 df.to_csv('all_routes_data.csv')
 
 #setting path back to where it was before
-os.chdir(r'[please insert your path]\wt21-way-to-go\cleaning_data')
+os.chdir(r'[please insert your path]\wt21-way-to-go\cleaning_data\parsed_routes_data')
