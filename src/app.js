@@ -33,9 +33,9 @@ const App = function () {
 
   return (
     <div>
-      {/* <CurrentLocation panTo={panTo} />
+      {<CurrentLocation panTo={panTo} />}
       {isLoaded && <Search panTo={panTo.bind(this)} />}
-      {isLoaded && <Map onMapLoad={onMapLoad}></Map>} */}
+      {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
       <BrowserRouter>
         <Navbar expand="md" />
         <Routes>
