@@ -1,0 +1,135 @@
+.navbar {
+  height: 52px;
+  background: #f8f8ff;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  justify-content: space-between;
+  font-size: 14px;
+  padding-top: 0px;
+  margin-bottom: 60px;
+}
+
+.nav-logo {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  font-size: 36px;
+  justify-content: space-between;
+  cursor: pointer;
+  margin-top: 1px;
+}
+
+.nav-items {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.nav-item {
+  list-style: none;
+  margin-left: 32px;
+}
+
+.nav-item a {
+  color: black;
+  text-decoration: none;
+  padding: 6px 16px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 2.7px;
+  border-bottom: 3px solid transparent;
+  transition: 0.2s all ease-in-out;
+}
+
+.nav-item a:hover {
+  background: #4e949c;
+  opacity: 0.8;
+  text-transform: capitalize;
+}
+
+.nav-item a span {
+  margin: 11px;
+  font-size: 14px;
+  justify-content: space-between;
+}
+
+.sidebar-toggle {
+  width: 95vw;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.sidebar-toggle-logo {
+  font-size: 36.8px;
+  color: gray;
+  cursor: pointer;
+  margin-left: 35px;
+}
+
+.sidebar {
+  width: 256px;
+  background: #282828;
+  height: 1920px;
+  position: absolute;
+  top: 152px;
+  left: -100%;
+  transition: 0.3s all ease-in-out;
+}
+
+.sidebar.active {
+  left: 0;
+}
+
+.sidebar-items {
+  font-size: 19.2px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  transition: 0.2s all ease-out;
+  padding-right: 16px;
+}
+
+.sidebar-item {
+  list-style: none;
+  margin-top: 16px;
+  width: 100%;
+  height: 48px;
+}
+
+.sidebar-item a {
+  text-decoration: none;
+  color: #4e949c;
+  font-size: 19.2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s all ease-out;
+}
+
+.sidebar-item a span {
+  margin-left: 24px;
+  font-size: 22.4px;
+}
+
+.sidebar-item a:hover {
+  background: black;
+}
+
+.logo {
+  float: left;
+  margin-left: 25px;
+}
+
+/* media queries*/
+@media screen and (max-width: 600px) {
+  .navbar {
+    height: 70px;
+  }
+}

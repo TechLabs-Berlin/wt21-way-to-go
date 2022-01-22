@@ -45,12 +45,13 @@ For this demo to work, please create a Google Map API Key, and ensure that the t
 
 ### Virtuel Enviroment
 
-In order to run the Python code, you need to have the following libraries installed:
+In order to run the Python and ipynb code, you need to have the following libraries installed:
 
 - [os](https://docs.python.org/3/library/os.html)
 - [pandas](https://pandas.pydata.org/docs/)
 - [json](https://docs.python.org/3/library/json.html)
 - [requests](https://docs.python-requests.org/en/latest/)
+- [geopandas](https://geopandas.org/en/stable/) (If you're working on Windows it doesn't work unless you install [GDAL and Fiona wheels](https://iotespresso.com/how-to-install-geopandas-on-windows/) before)
 - [urllib](https://docs.python.org/3/library/urllib.html)
 - [gpxpy](https://github.com/tkrajina/gpxpy)
 - [GoogleMaps Services](https://pythonrepo.com/repo/googlemaps-google-maps-services-python-python-third-party-apis-wrappers)
