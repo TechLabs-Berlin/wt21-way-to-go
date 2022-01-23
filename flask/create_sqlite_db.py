@@ -13,7 +13,7 @@ df = pd.DataFrame(data)
 import flask
 from sqlalchemy import create_engine
 engine = create_engine('sqlite://', echo=False)
-df.to_sql('routes.db', conn, if_exists='replace', index=False)
+df.to_sql('routes', conn, if_exists='replace', index=False)
 
 c.execute('''SELECT * FROM routes''')
 
