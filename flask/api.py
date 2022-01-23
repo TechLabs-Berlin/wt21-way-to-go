@@ -2,6 +2,8 @@ import flask
 from flask import request, jsonify
 import sqlite3
 
+from home import home_bp
+
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
@@ -11,11 +13,7 @@ def dict_factory(cursor, row):
         d[col[0]] = row[idx]
     return d
 
-
-@app.route('/', methods=['GET'])
-def home(): # To communicate with Frontend
-    return "<h1>Way To Go</h1><p>This site is a prototype API of TechLabs-Berlin/wt21-way-to-go.</p>"
-
+app.register_blueprint(home_bp, url_prefix='/')
 
 # A route to return all of the available entries in our database.
 @app.route('/routes/all', methods=['GET'])
