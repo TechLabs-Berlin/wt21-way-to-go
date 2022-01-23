@@ -1,5 +1,5 @@
 #Flask
-##Activate the environment
+###Activate the environment
 Before you work on your project, activate the corresponding environment **in the project directory**. 
 
 **for MacOS:**
@@ -11,9 +11,10 @@ $ . venv/bin/activate
 > venv\Scripts\activates
 ```
 
-Then install Flask, Flask0SQLAlchemy:
+Then install requirements.txt
 
 ```shell
-pip install Flask
-pip install Flask-SQLAlchemy
+pip install -r requirements.txt
 ```
+###Prepare the database
+1. Create the SQL Database from Pandas DataFrame using create_sqlite_db.py

@@ -22,4 +22,4 @@ for row in c.fetchall():
 
 #engine.execute("SELECT * FROM routes").fetchall()
 
-#header = route_id, route_linestring, num_of_waypoint, poi_lat_lgt, poi_category, poi_name, distance
+#header_list = route_id, route_linestring, num_of_waypoint, poi_lat_lgt, poi_category, poi_name, distance
