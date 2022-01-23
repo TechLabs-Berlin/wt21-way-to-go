@@ -1,21 +1,22 @@
 import flask
 from flask import request, jsonify
+import sqlite3
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
 # Test data
-routes = [
-    {'name':'Berliner_Restaurant',
-     'amenity':'restaurant',
-     'lat':'47.52142',
-     'lon':'10.49863'},
-
-    {'name':'Eiscafe',
-     'amenity':'ice_cream',
-     'lat': '50.9273',
-     'lon': '8.47206'}
-]
+#routes = [
+#    {'name':'Berliner_Restaurant',
+#     'amenity':'restaurant',
+#     'lat':'47.52142',
+#     'lon':'10.49863'},
+#
+#    {'name':'Eiscafe',
+#     'amenity':'ice_cream',
+#     'lat': '50.9273',
+#     'lon': '8.47206'}
+#]
 
 @app.route('/', methods=['GET'])
 def home(): # To communicate with FE (in src/package.json add <<"proxy":"[URL]">> to connect FE and BE)
@@ -25,6 +26,11 @@ def home(): # To communicate with FE (in src/package.json add <<"proxy":"[URL]">
 # A route to return all of the available entries in our database.
 @app.route('/test_routes/all', methods=['GET'])
 def api_all():
+    conn = sqlite3.connect('routes.db') # Add the routes db
+    conn.row_factory = dict_factory
+    cur = conn.cursor()
+    all_books = cur.execute('SELECT * FROM routes;').fetchall()
+
     return jsonify(routes)
 
 @app.route('/test_routes/', methods=['GET'])
