@@ -12,3 +12,4 @@ cleaning_data/cleaned_routes_data/
 .DS_Store
 *.csv
 .idea
+*.db
