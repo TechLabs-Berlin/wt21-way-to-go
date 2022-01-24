@@ -46,3 +46,8 @@ figure img {
 figure:hover img {
   opacity: 0.5;
 }
+
+.selected {
+  opacity: 0.5;
+  margin: 0;
+}

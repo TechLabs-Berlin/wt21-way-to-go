@@ -66,7 +66,6 @@ function SearchButton({ to, from, routeResponse, setRouteResponse }) {
                                 getLatLng(response[0]).then((destinationCoordinates) => {
                                     doDirectionRequest(startLocation, destinationCoordinates, setRoute)
                                 })
-                                //add here the 3rd point
                             );
                         })
                     )
