@@ -84,3 +84,18 @@ input[type="range"]:focus::-webkit-slider-runnable-track {
   display: flex;
   justify-content: space-between;
 }
+
+
+figure img {
+  width: 60px;
+  height: 100px;
+}
+
+figure:hover img {
+  opacity: 0.5;
+}
+
+.selected {
+  opacity: 0.5;
+  margin: 0;
+}

@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
-import CategoryCoffee from "./../images/CategoryCoffee.png"
 import Search from "../components/search/searchInput";
-import Map from "../components/map/map"
+// import Map from "../components/map/map"
 import RangeSlider from "../components/search/timeRangeSlider";
 import SearchButton from "../components/search/searchButton";
+import Categories from "../components/search/categories";
 import "./Home.css";
 
 const libraries = ["places"];
@@ -30,15 +30,8 @@ function Home() {
   const [from, setFrom] = useState("");
   const [time, setTime] = useState("");
   const [routeResponse, setRouteResponse] = useState();
-
-  function selectCategory(element) {
-    element.onclick = function () {
-      var selected = document.getElementsByClassName('selected')[0];
-      if (typeof selected !== 'undefined') { selected.classList.remove('selected'); }
-      if (element !== selected) { element.classList.add('selected'); }
-    }
-  }
-  Array.from(document.getElementsByClassName('categoryCoffee')).forEach(selectCategory);
+  const [selectedCategory, setSelectedCategory] = useState();
+  console.log(selectedCategory)
 
   return (
     <div>
@@ -56,49 +49,11 @@ function Home() {
 
           Tell us about your mood today...
           <div className="categoryImages">
-            <div className="categoryA">
-              <figure><img
-                src={CategoryCoffee}
-                title="CategoryA"
-                className="categoryCoffee"
-                alt="categoryCoffee"
-                onClick={() => {
-                  console.log('bananas')
-                }}
-              /></figure>
-            </div>
-            <div className="categoryB">
-              <figure><img
-                src={CategoryCoffee}
-                title="CategoryB"
-                className="categoryCoffee"
-                alt="categoryRestaurant"
-                onClick={() => {
-                  console.log('jogurt')
-                }}
-              /></figure>
-            </div>
-            <div className="categoryC">
-              <figure><img
-                src={CategoryCoffee}
-                title="CategoryC"
-                className="categoryCoffee"
-                alt="categoryCoffee" /></figure>
-            </div>
-            <div className="categoryD">
-              <figure><img
-                src={CategoryCoffee}
-                title="CategoryD"
-                className="categoryCoffee"
-                alt="categoryCoffee" /></figure>
-            </div>
-            <div className="categoryE">
-              <figure><img
-                src={CategoryCoffee}
-                title="CategoryE"
-                className="categoryCoffee"
-                alt="categoryCoffee" /></figure>
-            </div>
+            <Categories className={'categoryA'} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'categoryB'} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'categoryC'} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'categoryD'} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'categoryE'} setSelectedCategory={setSelectedCategory} />
           </div>
           <p class="whiteBg">How much time do you have? {time}' min</p>
           <div class="form-group">
