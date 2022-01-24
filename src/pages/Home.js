@@ -2,8 +2,10 @@ import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
 import CategoryCoffee from "./../images/CategoryCoffee.png"
 import Search from "../components/search/searchInput";
+import Map from "../components/map/map"
 import RangeSlider from "../components/search/timeRangeSlider";
 import SearchButton from "../components/search/searchButton";
+import { DirectionsService } from '@react-google-maps/api';
 import "./Home.css";
 
 const libraries = ["places"];
@@ -28,6 +30,27 @@ function Home() {
   const [to, setTo] = useState("");
   const [from, setFrom] = useState("");
   const [time, setTime] = useState("");
+  const [route, setRoute] = useState();
+  const [routeResponse, setRouteResponse] = useState();
+
+  const directionsCallback = (response) => {
+    console.log(response);
+
+    if (response !== null) {
+      if (response.status === "OK") {
+        console.log("response: ", response);
+        setRouteResponse(response)
+      } else {
+        console.log("response: ", response);
+      }
+    }
+  };
+
+  const DirectionsServiceOption = route && {
+    destination: route.destination,
+    origin: route.startLocation,
+    travelMode: "WALKING",
+  };
 
   return (
     <div>
@@ -57,10 +80,17 @@ function Home() {
           </div>
 
           <div class="searchDirectionButton">
-            {isLoaded && <SearchButton to={to} from={from} />}
+            {isLoaded && <SearchButton to={to} from={from} setRoute={setRoute} />}
           </div>
+
         </form>
       </div>
+      {isLoaded && <div>
+        <Map onMapLoad={onMapLoad} routeResponse={routeResponse}></Map>
+        {DirectionsServiceOption && !routeResponse && <DirectionsService
+          options={DirectionsServiceOption}
+          callback={directionsCallback}
+        />} </div>}
     </div>
   );
 }
