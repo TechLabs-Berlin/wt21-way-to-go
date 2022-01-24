@@ -1,5 +1,5 @@
 import React from "react";
-import { GoogleMap } from "@react-google-maps/api";
+import { GoogleMap, DirectionsRenderer } from "@react-google-maps/api";
 import mapStyle from "./mapStyle";
 
 const containerStyle = {
@@ -16,7 +16,8 @@ const options = {
     styles: mapStyle,
 };
 
-function Map({ onMapLoad }) {
+function Map({ onMapLoad, routeResponse }) {
+    
     return (
         <GoogleMap
             mapContainerStyle={containerStyle}
@@ -24,7 +25,15 @@ function Map({ onMapLoad }) {
             zoom={10}
             options={options}
             onLoad={onMapLoad}
-        />
+        >
+            {routeResponse && (
+                <DirectionsRenderer
+                    options={{
+                        directions: routeResponse,
+                    }}
+                />
+            )}
+        </GoogleMap>
     );
 }
 
