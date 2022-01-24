@@ -1,0 +1,19 @@
+h2 {
+  color: red;
+}
+
+.enjoy_link {
+  margin-top: 89px;
+}
+
+.bottom_side {
+  border: 2.5px solid #282828;
+  border-radius: 15px;
+  color: red;
+  position: relative;
+  max-width: fit-content;
+  padding: 32px;
+  font-size: 32px;
+  line-height: 11px;
+  margin-left: 529px;
+}

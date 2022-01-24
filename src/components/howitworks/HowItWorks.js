@@ -2,33 +2,35 @@ import React from "react";
 import "../howitworks/HowItWorks.css";
 
 import { Container, Row, Col, Image } from "react-bootstrap";
-import demo from "../images/imagen-demo-hiw.png";
+import demo from "../images/demo-hiw.jpg";
 //Row = 12 cols or 100%
 
 function HowItWorks() {
   return (
     <div>
-      <h2>HOW IT WORKS!</h2>
+      <h2>
+        <b>HOW IT WORKS!</b>
+      </h2>
 
       <Container>
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <p>
+            <figure>
               <Image src={demo} alt="cool photo demo" fluid />
-            </p>
+            </figure>
           </Col>
           <Col md={4} sm={6}>
             Hello second colum LINES
           </Col>
           <Col md={4} sm={6}>
-            <p>#1 Set starting point and a destination</p>
+            <b>#1 Set starting point and a destination</b>
             <p>What are the two places you want to spend time in-between?</p>
           </Col>
         </Row>
-        -
+
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <p className="title-steps">#2 Choose your mood</p>
+            <b className="title-steps">#2 Choose your mood</b>
             <p>
               What do you feel like doing? You might want to simply walk around,
               grab a coffee, visit touristic attractions, or enjoy green area.
@@ -39,27 +41,34 @@ function HowItWorks() {
             Hello second colum LINES
           </Col>
           <Col md={4} sm={6}>
-            <Image src={demo} alt="cool photo demo" fluid />
+            <figure>
+              <Image src={demo} alt="cool photo demo" fluid />
+            </figure>
           </Col>
         </Row>
-        --
+
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <p>
+            <figure>
               <Image src={demo} alt="cool photo demo" fluid />
-            </p>
+            </figure>
           </Col>
           <Col md={4} sm={6}>
             Hello second colum LINES
           </Col>
           <Col md={4} sm={6}>
-            <p>#3 Arrange time duration</p>
+            <b>#3 Arrange time duration</b>
             <p>
               How much time do you have? You can set the time up to 120 minutes.
             </p>
           </Col>
         </Row>
       </Container>
+      <section className="enjoy_link">
+        <p className="bottom_side">
+          <b>Enjoy your WAY TO GO</b>
+        </p>
+      </section>
     </div>
   );
 }
