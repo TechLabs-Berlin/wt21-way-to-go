@@ -31,7 +31,6 @@ function Home() {
   const [time, setTime] = useState("");
   const [routeResponse, setRouteResponse] = useState();
   const [selectedCategory, setSelectedCategory] = useState();
-  console.log(selectedCategory)
 
   return (
     <div>
@@ -49,8 +48,8 @@ function Home() {
 
           Tell us about your mood today...
           <div className="categoryImages">
-            <Categories className={'categoryA'} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'categoryB'} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'Berliner_Restaurant'} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'Eiscafe'} setSelectedCategory={setSelectedCategory} />
             <Categories className={'categoryC'} setSelectedCategory={setSelectedCategory} />
             <Categories className={'categoryD'} setSelectedCategory={setSelectedCategory} />
             <Categories className={'categoryE'} setSelectedCategory={setSelectedCategory} />
@@ -61,7 +60,13 @@ function Home() {
           </div>
 
           <div class="searchDirectionButton">
-            {isLoaded && <SearchButton to={to} from={from} routeResponse={routeResponse} setRouteResponse={setRouteResponse} />}
+            {isLoaded && <SearchButton
+              to={to}
+              from={from}
+              routeResponse={routeResponse}
+              setRouteResponse={setRouteResponse}
+              selectedCategory={selectedCategory}
+            />}
           </div>
 
         </form>

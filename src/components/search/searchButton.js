@@ -7,16 +7,10 @@ import { DirectionsService } from '@react-google-maps/api';
 import axios from "axios";
 
 
-const doDirectionRequest = (startLocation, destination, setRoute) => {
-
-    const requestBody = {
-        startLocation: startLocation,
-        destination: destination,
-    }
+const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory) => {
 
     axios
-        .post("http://localhost:5000/direction",
-            requestBody
+        .get("http://127.0.0.1:5000/test_routes/?name=" + selectedCategory
         )
         .then(function (response) {
             setRoute(response.data)
@@ -27,7 +21,7 @@ const doDirectionRequest = (startLocation, destination, setRoute) => {
         });
 }
 
-function SearchButton({ to, from, routeResponse, setRouteResponse }) {
+function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCategory }) {
 
     const [route, setRoute] = useState();
 
@@ -64,7 +58,7 @@ function SearchButton({ to, from, routeResponse, setRouteResponse }) {
                         getLatLng(response[0]).then((startLocation) => {
                             getGeocode({ address: to }).then((response) =>
                                 getLatLng(response[0]).then((destinationCoordinates) => {
-                                    doDirectionRequest(startLocation, destinationCoordinates, setRoute)
+                                    doDirectionRequest(startLocation, destinationCoordinates, setRoute, selectedCategory)
                                 })
                             );
                         })
