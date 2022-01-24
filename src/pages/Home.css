@@ -26,11 +26,6 @@
   background-color: inherit;
 }
 
-.categoryCoffee {
-  width: 60px;
-  height: 100px;
-}
-
 .searchDirectionButton {
   display: flex;
   justify-content: space-around;
@@ -40,4 +35,14 @@
 .categoryImages {
   display: flex;
   justify-content: space-between;
+  opacity: 1;
+}
+
+figure img {
+  width: 60px;
+  height: 100px;
+}
+
+figure:hover img {
+  opacity: 0.5;
 }

@@ -47,11 +47,21 @@ function Home() {
 
           Tell us about your mood today...
           <div className="categoryImages">
-            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
-            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
-            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
-            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
-            <img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" />
+            <div className="categoryA">
+              <figure><img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" /></figure>
+            </div>
+            <div className="categoryB">
+              <figure><img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" /></figure>
+            </div>
+            <div className="categoryC">
+              <figure><img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" /></figure>
+            </div>
+            <div className="categoryD">
+              <figure><img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" /></figure>
+            </div>
+            <div className="categoryE">
+              <figure><img src={CategoryCoffee} className="categoryCoffee" alt="categoryCoffee" /></figure>
+            </div>
           </div>
           <p class="whiteBg">How much time do you have? {time}' min</p>
           <div class="form-group">
@@ -63,11 +73,12 @@ function Home() {
           </div>
 
         </form>
-      </div>
+      </div >
       {isLoaded && <div>
-        <Map onMapLoad={onMapLoad} routeResponse={routeResponse}></Map>
-      </div>}
-    </div>
+        {/* <Map onMapLoad={onMapLoad} routeResponse={routeResponse}></Map> */}
+      </div>
+      }
+    </div >
   );
 }
 
