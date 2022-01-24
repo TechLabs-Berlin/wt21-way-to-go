@@ -24,7 +24,6 @@ const App = function () {
         </Routes>
       </BrowserRouter>
       {/* <HowItWorks expand="md" /> */}
-      {/* {isLoaded && <Map onMapLoad={onMapLoad}></Map>} */}
     </div >
   );
 };
