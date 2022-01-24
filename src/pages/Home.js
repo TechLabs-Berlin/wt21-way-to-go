@@ -5,6 +5,10 @@ import Search from "../components/search/searchInput";
 import RangeSlider from "../components/search/timeRangeSlider";
 import SearchButton from "../components/search/searchButton";
 import Categories from "../components/search/categories";
+import CategoryA from "./../images/CategoryA.png"
+import CategoryB from "./../images/CategoryB.png"
+import CategoryC from "./../images/CategoryC.png"
+import CategoryD from "./../images/CategoryD.png"
 import "./Home.css";
 
 const libraries = ["places"];
@@ -48,11 +52,11 @@ function Home() {
 
           Tell us about your mood today...
           <div className="categoryImages">
-            <Categories className={'Berliner_Restaurant'} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'Eiscafe'} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'categoryC'} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'categoryD'} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'categoryE'} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'Berliner_Restaurant'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'Eiscafe'} src={CategoryB} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'categoryC'} src={CategoryC} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'categoryD'} src={CategoryD} setSelectedCategory={setSelectedCategory} />
+            <Categories className={'categoryE'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
           </div>
           <p class="whiteBg">How much time do you have? {time}' min</p>
           <div class="form-group">

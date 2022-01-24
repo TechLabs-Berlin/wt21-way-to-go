@@ -1,12 +1,11 @@
 import React from "react";
-import CategoryCoffee from "./../../images/CategoryCoffee.png"
 
-const Categories = ({className, setSelectedCategory}) => {
+const Categories = ({ className, src, setSelectedCategory }) => {
 
     return (
         <div className={className}>
             <figure><img
-                src={CategoryCoffee}
+                src={src}
                 title={className}
                 className={className}
                 alt={className}
