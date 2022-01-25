@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "../components/search/searchInput";
-import Map from "../components/map/map"
 import RangeSlider from "../components/search/timeRangeSlider";
 import SearchButton from "../components/search/searchButton";
 import Categories from "../components/search/categories";
@@ -9,6 +8,8 @@ import CategoryA from "./../images/CategoryA.png"
 import CategoryB from "./../images/CategoryB.png"
 import CategoryC from "./../images/CategoryC.png"
 import CategoryD from "./../images/CategoryD.png"
+import Map from "../components/map/map"
+
 import "./Home.css";
 
 const libraries = ["places"];
@@ -38,7 +39,7 @@ function Home() {
 
   return (
     <div>
-      <div className="searchFormContainer">
+      {!routeResponse && <div className="searchFormContainer">
         <form className="searchForm">
           <div class="form-row inputContainer">
             <div class="col-md-5 whiteBg">
@@ -76,8 +77,8 @@ function Home() {
           </div>
 
         </form>
-      </div >
-      {isLoaded && <div>
+      </div >}
+      {isLoaded && routeResponse && <div>
         <Map onMapLoad={onMapLoad} routeResponse={routeResponse}></Map>
       </div>
       }

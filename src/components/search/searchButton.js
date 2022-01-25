@@ -6,7 +6,6 @@ import {
 import { DirectionsService } from '@react-google-maps/api';
 import axios from "axios";
 
-
 const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory) => {
     console.log(startLocation)
     const requestBody = {
