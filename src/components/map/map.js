@@ -3,7 +3,7 @@ import { GoogleMap, DirectionsRenderer } from "@react-google-maps/api";
 import mapStyle from "./mapStyle";
 
 const containerStyle = {
-    width: "1000px",
+    width: "100%",
     height: "600px",
 };
 

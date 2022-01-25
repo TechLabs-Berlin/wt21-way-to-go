@@ -1,16 +1,7 @@
 import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
-import Search from "../components/search/searchInput";
-import RangeSlider from "../components/search/timeRangeSlider";
-import SearchButton from "../components/search/searchButton";
-import Categories from "../components/search/categories";
-import CategoryA from "./../images/CategoryA.png"
-import CategoryB from "./../images/CategoryB.png"
-import CategoryC from "./../images/CategoryC.png"
-import CategoryD from "./../images/CategoryD.png"
+import SearchFormContainer from "../components/search/searchFormContainer";
 import Map from "../components/map/map"
-
-import "./Home.css";
 
 const libraries = ["places"];
 
@@ -26,62 +17,21 @@ function Home() {
     mapRef.current = map;
   }, []);
 
-  const panTo = React.useCallback(({ lat, lng }) => {
-    mapRef.current.panTo({ lat, lng });
-    mapRef.current.setZoom(16);
-  }, []);
-
-  const [to, setTo] = useState("");
-  const [from, setFrom] = useState("");
-  const [time, setTime] = useState("");
   const [routeResponse, setRouteResponse] = useState();
-  const [selectedCategory, setSelectedCategory] = useState();
 
   return (
     <div>
-      {!routeResponse && <div className="searchFormContainer">
-        <form className="searchForm">
-          <div class="form-row inputContainer">
-            <div class="col-md-5 whiteBg">
-              {isLoaded && <Search className="TiconFrom" onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
-              {/* <CurrentLocation panTo={panTo} /> */}
-            </div>
-            <div class="col-md-5 whiteBg">
-              {isLoaded && <Search onChange={setTo} panTo={panTo.bind(this)} placeholder={'TO...'} />}
-            </div>
-          </div>
+      {!routeResponse &&
+        <SearchFormContainer
+          routeResponse={routeResponse}
+          setRouteResponse={setRouteResponse}
+        />}
 
-          <p>Tell us about your mood today...</p>
-          <div className="categoryImages">
-            <Categories className={'Berliner_Restaurant'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'Eiscafe'} src={CategoryB} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'categoryC'} src={CategoryC} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'categoryD'} src={CategoryD} setSelectedCategory={setSelectedCategory} />
-            <Categories className={'categoryE'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
-          </div>
-          <div>
-            <p class="whiteBg">How much time do you have? {time}' min</p>
-            <div class="form-group slideRanger">
-              <RangeSlider onChange={setTime} />
-            </div>
-          </div>
-
-          <div class="searchDirectionButton">
-            {isLoaded && <SearchButton
-              to={to}
-              from={from}
-              routeResponse={routeResponse}
-              setRouteResponse={setRouteResponse}
-              selectedCategory={selectedCategory}
-            />}
-          </div>
-
-        </form>
-      </div >}
-      {isLoaded && routeResponse && <div>
-        <Map onMapLoad={onMapLoad} routeResponse={routeResponse}></Map>
-      </div>
-      }
+      {isLoaded && routeResponse &&
+        <Map
+          onMapLoad={onMapLoad}
+          routeResponse={routeResponse}
+        />}
     </div >
   );
 }
