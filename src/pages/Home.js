@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
 import Search from "../components/search/searchInput";
-// import Map from "../components/map/map"
+import Map from "../components/map/map"
 import RangeSlider from "../components/search/timeRangeSlider";
 import SearchButton from "../components/search/searchButton";
 import Categories from "../components/search/categories";
@@ -76,7 +76,7 @@ function Home() {
         </form>
       </div >
       {isLoaded && <div>
-        {/* <Map onMapLoad={onMapLoad} routeResponse={routeResponse}></Map> */}
+        <Map onMapLoad={onMapLoad} routeResponse={routeResponse}></Map>
       </div>
       }
     </div >

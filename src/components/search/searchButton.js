@@ -8,13 +8,18 @@ import axios from "axios";
 
 
 const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory) => {
+    console.log(startLocation)
+    const requestBody = {
+        startLocation: startLocation,
+        destination: destination,
+    }
 
     axios
-        .get("http://127.0.0.1:5000/test_routes/?name=" + selectedCategory
+        .post("http://localhost:5000/direction",
+            requestBody
         )
         .then(function (response) {
             setRoute(response.data)
-            console.log(response.data);
         })
         .catch(function (error) {
             console.log(error);
@@ -24,10 +29,18 @@ const doDirectionRequest = (startLocation, destination, setRoute, selectedCatego
 function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCategory }) {
 
     const [route, setRoute] = useState();
+    const waypts = [{
+        location: {
+            lat: 52.516640,
+            lng: 13.402318
+        },
+        stopover: true,
+    }]
 
     const DirectionsServiceOption = route && {
         destination: route.destination,
         origin: route.startLocation,
+        waypoints: waypts,
         travelMode: "WALKING",
     };
 
