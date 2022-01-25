@@ -2,9 +2,9 @@
 
 Please find the test files in test_files.
 
-#Flask
+# Flask
 
-###Activate the environment
+### Activate the environment
 
 Before you work on your project, activate the corresponding environment **in the project directory**. 
 
@@ -23,6 +23,6 @@ Then install requirements.txt
 pip install -r requirements.txt
 ```
 
-###Prepare the database
+### Prepare the database
 
 1. Create the SQL Database from Pandas DataFrame using create_sqlite_db.py
