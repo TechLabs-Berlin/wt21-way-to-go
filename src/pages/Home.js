@@ -50,7 +50,7 @@ function Home() {
             </div>
           </div>
 
-          Tell us about your mood today...
+          <p>Tell us about your mood today...</p>
           <div className="categoryImages">
             <Categories className={'Berliner_Restaurant'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
             <Categories className={'Eiscafe'} src={CategoryB} setSelectedCategory={setSelectedCategory} />
@@ -58,9 +58,11 @@ function Home() {
             <Categories className={'categoryD'} src={CategoryD} setSelectedCategory={setSelectedCategory} />
             <Categories className={'categoryE'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
           </div>
-          <p class="whiteBg">How much time do you have? {time}' min</p>
-          <div class="form-group">
-            <RangeSlider onChange={setTime} />
+          <div>
+            <p class="whiteBg">How much time do you have? {time}' min</p>
+            <div class="form-group slideRanger">
+              <RangeSlider onChange={setTime} />
+            </div>
           </div>
 
           <div class="searchDirectionButton">

@@ -8,7 +8,7 @@
   flex-direction: column;
   justify-content: space-evenly;
   width: 500px;
-  height: 400px;
+  height: 450px;
   background-color: white;
   padding: 40px;
   border-radius: 15px;
@@ -20,6 +20,8 @@
   display: flex;
   justify-content: space-between;
   background-color: inherit;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 .whiteBg {
@@ -36,4 +38,8 @@
   display: flex;
   justify-content: space-between;
   opacity: 1;
+}
+
+.slideRanger {
+  margin-top: 30px;
 }
