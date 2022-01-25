@@ -1,5 +1,10 @@
+.hiw_section_landing {
+  padding: 32px;
+}
+
 h2 {
-  color: red;
+  color: #f22e52;
+  margin: 15px 15px 65px 35px;
 }
 
 .enjoy_link {
@@ -9,11 +14,31 @@ h2 {
 .bottom_side {
   border: 2.5px solid #282828;
   border-radius: 15px;
-  color: red;
+  color: #f22e52;
   position: relative;
   max-width: fit-content;
   padding: 32px;
   font-size: 32px;
   line-height: 11px;
   margin-left: 529px;
+  margin-top: -108px;
+}
+
+.line1 {
+  transform: rotate(-11grad);
+}
+
+.line2 {
+  margin-top: 120px;
+}
+
+.line3 {
+  margin: 278px 50px 12px -10px;
+  transform: rotate(-5grad);
+  max-width: 90%;
+}
+
+.line4 {
+  margin: -7px 15px 15px 575px;
+  transform: rotate(-2grad);
 }
