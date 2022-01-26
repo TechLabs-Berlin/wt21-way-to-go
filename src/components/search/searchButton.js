@@ -14,7 +14,7 @@ const doDirectionRequest = (startLocation, destination, setRoute, selectedCatego
     }
 
     axios
-        .get("http://127.0.0.1:5000/test_routes/?name=" + selectedCategory
+        .get("http://127.0.0.1:5000/test_poi/?name=" + selectedCategory
         )
         .then(function (response) {
             setRoute({
