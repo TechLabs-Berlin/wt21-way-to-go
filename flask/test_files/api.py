@@ -58,7 +58,7 @@ def api_name():
             results.append(place)
 
         # Use the jsonify function from Flask to convert our list of python dictionaries to the JSON format.
-        return jsonify(results)
+    return jsonify(results)
 # Check the results here : http://127.0.0.1:5000/test_poi/?name=Berliner_Restaurant
 
 app.run()
