@@ -48,10 +48,10 @@ function SearchFormContainer({ routeResponse, setRouteResponse }) {
 
                     <p>Tell us about your mood today...</p>
                     <div className="categoryImages">
-                        <Categories className={'Berliner_Restaurant'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
-                        <Categories className={'Eiscafe'} src={CategoryB} setSelectedCategory={setSelectedCategory} />
-                        <Categories className={'categoryC'} src={CategoryC} setSelectedCategory={setSelectedCategory} />
-                        <Categories className={'categoryD'} src={CategoryD} setSelectedCategory={setSelectedCategory} />
+                        <Categories className={'Marienkirche'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
+                        <Categories className={"L'Osteria"} src={CategoryB} setSelectedCategory={setSelectedCategory} />
+                        <Categories className={'Viktoriapark'} src={CategoryC} setSelectedCategory={setSelectedCategory} />
+                        <Categories className={'Pergamonmuseum'} src={CategoryD} setSelectedCategory={setSelectedCategory} />
                         <Categories className={'categoryE'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
                     </div>
                     <div>
