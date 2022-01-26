@@ -1,8 +1,10 @@
 import flask
 from flask import request, jsonify
+from flask_cors import CORS
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
+CORS(app)
 
 # Test data
 poi = [
@@ -56,7 +58,7 @@ def api_name():
             results.append(place)
 
         # Use the jsonify function from Flask to convert our list of python dictionaries to the JSON format.
-        return jsonify(results)
+    return jsonify(results)
 # Check the results here : http://127.0.0.1:5000/test_poi/?name=Berliner_Restaurant
 
 app.run()
