@@ -1,8 +1,10 @@
 import flask
 from flask import request, jsonify
+from flask_cors import CORS
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
+CORS(app)
 
 # Test data
 poi = [
