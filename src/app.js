@@ -1,6 +1,6 @@
 import React from "react";
-// import CurrentLocation from "./components/currentLocation/currentLocation";
-// import Map from "./components/map/map";
+import CurrentLocation from "./components/currentLocation/currentLocation";
+import Map from "./components/map/map";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/navBar/Navbar";
 import Home from "./pages/Home";
@@ -8,12 +8,15 @@ import Contact from "./pages/Contact";
 import About from "./pages/About";
 import How from "./pages/How";
 import "./app.css";
-// import HowItWorks from "./components/howitworks/HowItWorks";
+import HowItWorks from "./components/howitworks/HowItWorks";
 
 const App = function () {
 
   return (
     <div>
+      {<CurrentLocation panTo={panTo} />}
+      {isLoaded && <Search panTo={panTo.bind(this)} />}
+      {isLoaded && <Map onMapLoad={onMapLoad}></Map>}
       <BrowserRouter>
         <Navbar expand="md" />
         <Routes>
@@ -23,8 +26,8 @@ const App = function () {
           <Route path="/contact" element={<Contact />}></Route>
         </Routes>
       </BrowserRouter>
-      {/* <HowItWorks expand="md" /> */}
-      {/* {isLoaded && <Map onMapLoad={onMapLoad}></Map>} */}
+      <HowItWorks expand="md" />
+       {isLoaded && <Map onMapLoad={onMapLoad}></Map>} 
     </div >
   );
 };
