@@ -1,6 +1,4 @@
 import React from "react";
-import CurrentLocation from "./components/currentLocation/currentLocation";
-import Map from "./components/map/map";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/navBar/Navbar";
 import Home from "./pages/Home";
@@ -8,7 +6,7 @@ import Contact from "./pages/Contact";
 import About from "./pages/About";
 import How from "./pages/How";
 import "./app.css";
-import HowItWorks from "./components/howitworks/HowItWorks";
+// import HowItWorks from "./components/howitworks/HowItWorks";
 
 const App = function () {
 
@@ -24,7 +22,7 @@ const App = function () {
         </Routes>
       </BrowserRouter>
 
-      <HowItWorks expand="md" />
+      {/* <HowItWorks expand="md" /> */}
     </div >
   );
 };

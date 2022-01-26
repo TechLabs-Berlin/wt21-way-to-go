@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
 import SearchFormContainer from "../components/search/searchFormContainer";
 import Map from "../components/map/map"
+import HowItWorks from "./../components/howitworks/HowItWorks";
 
 const libraries = ["places"];
 
@@ -21,11 +22,14 @@ function Home() {
 
   return (
     <div>
-      {!routeResponse &&
+      {!routeResponse && <div>
         <SearchFormContainer
           routeResponse={routeResponse}
           setRouteResponse={setRouteResponse}
-        />}
+        />
+        <HowItWorks expand="md" />
+      </div>
+      }
 
       {isLoaded && routeResponse &&
         <Map
