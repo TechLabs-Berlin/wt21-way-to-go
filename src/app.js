@@ -1,5 +1,11 @@
 import React from "react";
 import { useJsApiLoader } from "@react-google-maps/api";
+import './fonts/corbel/corbel.ttf';
+import './fonts/corbel/corbelbold.ttf';
+import './fonts/corbel/corbelitalic.ttf';
+import './fonts/corbel/corbelbolditalic.ttf';
+import './fonts/corbel/corbelbolditalic.ttf';
+import './fonts/corbel/KozGoProBold.woff';
 import Search from "./components/searchDestination/searchDestination";
 import CurrentLocation from "./components/currentLocation/currentLocation";
 import Map from "./components/map/map";
