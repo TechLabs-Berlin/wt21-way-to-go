@@ -21,7 +21,7 @@ input[type="range"]::-webkit-slider-runnable-track {
   height: 4px;
   cursor: pointer;
   animate: 0.2s;
-  background: #f22e52;
+  background: #50979f;
   border-radius: 25px;
 }
 input[type="range"]::-webkit-slider-thumb {
@@ -35,7 +35,7 @@ input[type="range"]::-webkit-slider-thumb {
   margin-top: -8px;
 }
 input[type="range"]:focus::-webkit-slider-runnable-track {
-  background: #f22e52;
+  background: #50979f;
 }
 .range-wrap {
   width: 500px;
@@ -83,4 +83,18 @@ input[type="range"]:focus::-webkit-slider-runnable-track {
 .displayValues {
   display: flex;
   justify-content: space-between;
+}
+
+figure img {
+  width: 55px;
+  height: 100px;
+}
+
+figure:hover img {
+  opacity: 0.5;
+}
+
+.selected {
+  opacity: 0.5;
+  margin: 0;
 }
