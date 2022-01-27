@@ -1,6 +1,5 @@
 import React from "react";
 import "../howitworks/HowItWorks.css";
-
 import { Container, Row, Col, Image } from "react-bootstrap";
 import demo from "../images/demo-hiw.jpg";
 import line from "../images/line-wtg-1-1.png";
@@ -12,20 +11,16 @@ import line4 from "../images/line-wtg-4-4.png";
 function HowItWorks() {
   return (
     <div className="hiw_section_landing">
-      <h2>
-        <b>HOW IT WORKS!</b>
-      </h2>
       <Container fluid>
+        <h2>
+          <b>HOW IT WORKS!</b>
+        </h2>
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <figure>
-              <Image src={demo} alt="cool photo demo" fluid />
-            </figure>
+            <Image src={demo} alt="cool photo demo" fluid />
           </Col>
           <Col md={4} sm={6}>
-            <figure>
-              <Image src={line} alt="cool line demo" fluid className="line1" />
-            </figure>
+            <Image src={line} alt="cool line demo" fluid className="line1" />
           </Col>
           <Col md={4} sm={6}>
             <b>#1 Set starting point and a destination</b>
@@ -42,26 +37,18 @@ function HowItWorks() {
             </p>
           </Col>
           <Col md={4} sm={6}>
-            <figure>
-              <Image src={line2} alt="cool line demo" fluid className="line2" />
-            </figure>
+            <Image src={line2} alt="cool line demo" fluid className="line2" />
           </Col>
           <Col md={4} sm={6}>
-            <figure>
-              <Image src={demo} alt="cool photo demo" fluid />
-            </figure>
+            <Image src={demo} alt="cool photo demo" fluid />
           </Col>
         </Row>
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <figure>
-              <Image src={demo} alt="cool photo demo" fluid />
-            </figure>
+            <Image src={demo} alt="cool photo demo" fluid />
           </Col>
           <Col md={4} sm={6}>
-            <figure>
-              <Image src={line3} alt="cool line demo" fluid className="line3" />
-            </figure>
+            <Image src={line3} alt="cool line demo" fluid className="line3" />
           </Col>
           <Col md={4} sm={6}>
             <b>#3 Arrange time duration</b>
@@ -75,9 +62,7 @@ function HowItWorks() {
             <b>Enjoy your WAY TO GO</b>
           </p>
         </section>
-        <figure>
-          <Image src={line4} alt="cool line demo" fluid className="line4" />
-        </figure>
+        <Image src={line4} alt="cool line demo" fluid className="line4" />
       </Container>
     </div>
   );
