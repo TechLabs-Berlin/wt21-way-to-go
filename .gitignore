@@ -14,3 +14,7 @@ cleaning_data/cleaned_routes_data/
 .idea
 *.db
 __pycache__
+plz-5stellig.dbf
+plz-5stellig.prj
+plz-5stellig.shp
+plz-5stellig.shx

@@ -1,0 +1,45 @@
+.searchFormContainer {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .searchForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 500px;
+    height: 450px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-right: 50px;
+  }
+  
+  .inputContainer {
+    display: flex;
+    justify-content: space-between;
+    background-color: inherit;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .whiteBg {
+    background-color: inherit;
+  }
+  
+  .searchDirectionButton {
+    display: flex;
+    justify-content: space-around;
+    background-color: inherit;
+  }
+  
+  .categoryImages {
+    display: flex;
+    justify-content: space-between;
+    opacity: 1;
+  }
+  
+  .slideRanger {
+    margin-top: 30px;
+  }
