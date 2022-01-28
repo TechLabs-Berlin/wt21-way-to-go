@@ -1,0 +1,25 @@
+.contact-page {
+  font-family: corbel;
+}
+
+.contact-hero {
+  background-color: green;
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom:100px;
+}
+
+.contact-hero .h1 {
+  font-weight: bold;
+}
+
+.contact-info {
+  background-color: whitesmoke;
+  font-weight: 800;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.link {
+  color: red;
+}
