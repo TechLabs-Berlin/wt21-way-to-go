@@ -1,3 +1,8 @@
+# WayToGo
+
+A different Way To Go to your final destination, personalised routes suggestions based on what you feel like seeing today, coffee, museums, parks, ...? You tell us and we tell you the way to go!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
