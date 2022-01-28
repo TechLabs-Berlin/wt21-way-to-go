@@ -63,12 +63,6 @@
   src: local("Corbel"), url("./fonts/corbel/CORBEL.ttf") format("typeface");
 }
 
-@font-face {
-  font-family: "Corbel";
-  font-style: Normal;
-  font-weight: Normal;
-  src: local("Corbel z"), url("./fonts/corbel/corbelz.ttf") format("typeface");
-}
 
 @font-face {
   font-family: "Corbel Bold Italic";
@@ -92,9 +86,3 @@
   src: local("Corbel Italic"), url("./fonts/corbel/corbelitalic.ttf") format("typeface");
 }
 
-@font-face {
-  font-family: "Corbel I";
-  font-style: Italic;
-  font-weight: normal;
-  src: local("Corbeli"), url("./fonts/corbel/corbeli.ttf") format("typeface");
-}
