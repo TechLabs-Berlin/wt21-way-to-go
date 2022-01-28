@@ -4,3 +4,11 @@
   /* -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 93%);
   clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 93%); */
 }
+
+.homeText {
+  font-size: 80px;
+  margin-left: 50px;
+  font-weight: 800;
+  position: absolute;
+  color: white;
+}

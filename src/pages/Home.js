@@ -25,6 +25,11 @@ function Home() {
   return (
     <div>
       {!routeResponse && <div>
+        <div className="homeText">
+        <p>WELCOME</p>
+        <p>TO</p>
+        <p>BERLIN</p>
+        </div>
         <SearchFormContainer
           routeResponse={routeResponse}
           setRouteResponse={setRouteResponse}
