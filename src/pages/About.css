@@ -38,3 +38,40 @@ figcaption p {
 .BackgroundAbout2 {
   margin: 0px 20px 25px -225px;
 }
+
+.title_2 {
+  color: #50979f;
+  font-size: 60px;
+  margin-left: 35px;
+  text-shadow: 1px 1px 2px #4e4e4e;
+  margin: 0 -6.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.container_team {
+  display: inherit;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+}
+
+li {
+  list-style: none;
+}
+
+.item {
+  color: #282828;
+  font-size: 18px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 550px) {
+  .container_team {
+    display: inline-block;
+  }
+}
