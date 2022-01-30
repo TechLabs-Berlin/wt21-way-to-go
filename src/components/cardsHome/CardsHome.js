@@ -13,7 +13,7 @@ function cardsHome() {
         <p className="cards_outsideText">
           "A new approach for exploring your own city"
         </p>
-        <h2 className="cards_title">DISCOVER BERLIN</h2>
+        <h3 className="cards_title">DISCOVER BERLIN</h3>
         <CardGroup className="cards_Items">
           <Card className="card_Item">
             <Card.Img

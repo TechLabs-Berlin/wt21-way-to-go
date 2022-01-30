@@ -4,6 +4,10 @@
 
 .cards_title {
   font-weight: bold;
+  color: #f9f7fe;
+  margin-top: 50px;
+  margin-left: 73px;
+  font-size: 40px;
 }
 
 .cards_title_item {
@@ -12,7 +16,6 @@
 }
 
 .cards_Items {
-  border-radius: 3px;
   margin: 20px 20px 20px 25px;
   padding: 15px 15px 15px 15px;
 }
@@ -31,7 +34,7 @@
 }
 
 .card_Item {
-  border-radius: 3px;
+  border-radius: 12px;
   margin: 20px 20px 20px 25px;
   padding: 15px 15px 15px 15px;
 }
@@ -50,4 +53,18 @@
 .card3 {
   width: 289px;
   height: 388px;
+}
+
+.design {
+  background: #4e949c;
+  padding: 50px 900px 513px 760px;
+  margin: -228px;
+}
+
+.cards_outsideText {
+  font-size: 38px;
+  color: #f9f7fe;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 3px;
 }
