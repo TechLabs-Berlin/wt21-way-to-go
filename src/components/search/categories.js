@@ -7,7 +7,7 @@ const Categories = ({ className, src, setSelectedCategory }) => {
 
     return (
         <div className={className}>
-            <figure><img
+            <figure className="imagesCategoryContainer"><img
                 src={src}
                 title={className}
                 className={className + (isSelected && " selected")}

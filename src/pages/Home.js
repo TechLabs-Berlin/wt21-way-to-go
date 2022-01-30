@@ -3,6 +3,8 @@ import { useJsApiLoader } from "@react-google-maps/api";
 import SearchFormContainer from "../components/search/searchFormContainer";
 import Map from "../components/map/map"
 import HowItWorks from "./../components/howitworks/HowItWorks";
+import BackgroundImage from "../images/landingBackground.jpeg"
+import "./Home.css"
 
 const libraries = ["places"];
 
@@ -23,10 +25,16 @@ function Home() {
   return (
     <div>
       {!routeResponse && <div>
+        <div className="homeText">
+        <p>WELCOME</p>
+        <p>TO</p>
+        <p>BERLIN</p>
+        </div>
         <SearchFormContainer
           routeResponse={routeResponse}
           setRouteResponse={setRouteResponse}
         />
+        <img className="backgroundHomeImage" src={BackgroundImage} alt="berlinImage" />
         <HowItWorks expand="md" />
       </div>
       }

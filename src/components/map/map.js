@@ -17,7 +17,7 @@ const options = {
 };
 
 function Map({ onMapLoad, routeResponse }) {
-
+    console.log(routeResponse)
     return (
         <GoogleMap
             mapContainerStyle={containerStyle}
