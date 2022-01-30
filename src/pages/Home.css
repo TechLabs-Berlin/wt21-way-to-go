@@ -6,10 +6,15 @@
 }
 
 .homeText {
-  font-size: 80px;
+  font-size: 90px;
   margin-left: 50px;
   font-weight: 800;
   font-style: italic;
   position: absolute;
   color: white;
+  margin-top: 80px;
+}
+
+.homeText p {
+  margin-bottom: -30px;
 }
