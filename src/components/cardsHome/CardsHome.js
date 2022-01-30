@@ -2,6 +2,8 @@ import React from "react";
 import "./CardsHome.css";
 import { Container, CardGroup, Card } from "react-bootstrap";
 import card1 from "../images/card1-alexanderplatz.jpeg";
+import card2 from "../images/card2-tour.jpeg";
+import card3 from "../images/card3-info.jpeg";
 
 function cardsHome() {
   return (
@@ -16,7 +18,7 @@ function cardsHome() {
             <Card.Img
               variant="top"
               src={card1}
-              alt="cool line demo"
+              alt="cool demo"
               fluid
               className="card1"
             ></Card.Img>
@@ -43,28 +45,64 @@ function cardsHome() {
               </a>
             </Card.Body>
           </Card>
-          <Card>
-            <Card.Img variant="top" src="holder.js/100px160" />
+          <Card className="card_Item">
+            <Card.Img
+              variant="top"
+              src={card2}
+              alt="cool demo"
+              fluid
+              className="card2"
+            ></Card.Img>
+
             <Card.Body>
-              <Card.Title>Tour</Card.Title>
+              <Card.Title>Unusal Restaurants in Berlin</Card.Title>
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Pulvinar pellentesque habitant morbi tristique senectus et netus
                 et malesuada.
               </Card.Text>
+              <a
+                href="https://www.visitberlin.de/en/unusual-restaurants-berlin"
+                rel="noreferrer"
+                className="btn card_link1"
+                target="_blank"
+                alt="go to "
+                title="visit Berliln"
+              >
+                more ..
+              </a>
             </Card.Body>
           </Card>
-          <Card>
-            <Card.Img variant="top" src="holder.js/100px160" />
+          <Card className="card_Item">
+            <Card.Img
+              variant="top"
+              src={card3}
+              alt="cool demo"
+              fluid
+              className="card3"
+            ></Card.Img>
+
             <Card.Body>
-              <Card.Title>Measures</Card.Title>
+              <Card.Title>
+                Measures against the corona virus in Berlin
+              </Card.Title>
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Pulvinar pellentesque habitant morbi tristique senectus et netus
                 et malesuada.
               </Card.Text>
+              <a
+                href="https://www.visitberlin.de/en/important-information-your-visit-berlin"
+                rel="noreferrer"
+                className="btn card_link1"
+                target="_blank"
+                alt="vistit Berlin"
+                title="visit Berlin"
+              >
+                more ..
+              </a>
             </Card.Body>
           </Card>
         </CardGroup>
