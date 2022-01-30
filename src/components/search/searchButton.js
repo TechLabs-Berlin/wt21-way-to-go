@@ -16,16 +16,22 @@ const doDirectionRequest = (startLocation, destination, setRoute, selectedCatego
     axios
         .get("http://127.0.0.1:5000/routes/?route_id=" + selectedCategory)
         .then(function (response) {
+            var regex = /[+-]?\d+(\.\d+)?/g;
+            var locations = response.data.map((point) => {
+                var floats = point.poi_lat_lgt.match(regex).map(function(v) { return parseFloat(v); });
+                return {
+                    location: {
+                        lat: parseFloat(floats[0]),
+                        lng: parseFloat(floats[1]),
+                    },
+                    stopover: true,
+                }
+            })
+            console.log(locations);
             setRoute({
                 startLocation: startLocation,
                 destination: destination,
-                waypts: [{
-                    location: {
-                        lat: parseFloat(response.data[0].lat),
-                        lng: parseFloat(response.data[0].lon),
-                    },
-                    stopover: true,
-                }]
+                waypts: locations
             })
         })
         .catch(function (error) {
