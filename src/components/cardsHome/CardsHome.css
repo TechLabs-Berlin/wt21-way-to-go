@@ -1,0 +1,34 @@
+.cardsHome {
+  margin-top: 80px;
+}
+
+.cards_Items {
+  border-radius: 3px;
+  margin: 20px 20px 20px 25px;
+  padding: 15px 15px 15px 15px;
+}
+
+.cards_Items a {
+  background: #f22e52;
+  box-shadow: 7px 5px 5px rgb(196, 196, 196);
+  color: #f9f7fe;
+  text-align: center;
+  text-transform: uppercase;
+  transition: all 100ms ease-in-out;
+}
+
+.cards_Items a:hover {
+  background: #ca2644;
+}
+
+.card_Item {
+  border-radius: 3px;
+  margin: 20px 20px 20px 25px;
+  padding: 15px 15px 15px 15px;
+}
+
+.card_link1 {
+  border: 1px solid red;
+  padding: 14px 60px 14px 60px;
+  margin: 12px 12px 12px 66px;
+}
