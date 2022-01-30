@@ -9,6 +9,7 @@ function cardsHome() {
   return (
     <div>
       <Container className="cardsHome">
+        <b className="design"></b>
         <p className="cards_outsideText">
           "A new approach for exploring your own city"
         </p>
@@ -24,8 +25,8 @@ function cardsHome() {
             ></Card.Img>
 
             <Card.Body>
-              <Card.Title>
-                11 reasons why winter Berlin better you think
+              <Card.Title className="cards_title_item">
+                11 reasons to visit Berlin in winter
               </Card.Title>
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -55,7 +56,9 @@ function cardsHome() {
             ></Card.Img>
 
             <Card.Body>
-              <Card.Title>Unusal Restaurants in Berlin</Card.Title>
+              <Card.Title className="cards_title_item">
+                Unusal Restaurants in Berlin
+              </Card.Title>
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -84,8 +87,8 @@ function cardsHome() {
             ></Card.Img>
 
             <Card.Body>
-              <Card.Title>
-                Measures against the corona virus in Berlin
+              <Card.Title className="cards_title_item">
+                Measures against the corona virus
               </Card.Title>
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
