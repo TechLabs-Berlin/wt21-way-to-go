@@ -42,7 +42,7 @@ function cardsHome() {
                 alt="vistit Berlin"
                 title=""
               >
-                more ..
+                more &gt;&gt;
               </a>
             </Card.Body>
           </Card>
@@ -73,7 +73,7 @@ function cardsHome() {
                 alt="go to "
                 title="visit Berliln"
               >
-                more ..
+                more &gt;&gt;
               </a>
             </Card.Body>
           </Card>
@@ -104,7 +104,7 @@ function cardsHome() {
                 alt="vistit Berlin"
                 title="visit Berlin"
               >
-                more ..
+                more &gt;&gt;
               </a>
             </Card.Body>
           </Card>

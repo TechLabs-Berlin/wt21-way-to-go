@@ -42,3 +42,9 @@ h2 {
   margin: -7px 15px 15px 575px;
   transform: rotate(-2grad);
 }
+
+.link_go_top {
+  text-decoration: none;
+  color: #f22e52;
+  font-weight: 600;
+}

@@ -72,7 +72,7 @@ function HowItWorks() {
         </Row>
         <section className="enjoy_link">
           <p className="bottom_side">
-            <b>Enjoy your WAY TO GO</b>
+            <a href="#top" className="link_go_top">Enjoy your WAY TO GO</a>
           </p>
         </section>
         <figure>
