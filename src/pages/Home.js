@@ -6,6 +6,7 @@ import HowItWorks from "./../components/howitworks/HowItWorks";
 import CardsHome from "../components/cardsHome/CardsHome";
 import BackgroundImage from "../images/landingBackground.jpeg"
 import "./Home.css"
+import MapLoadMenu from "../components/map/mapLoadMenu";
 
 const libraries = ["places"];
 
@@ -25,7 +26,7 @@ function Home() {
 
   return (
     <div>
-      {!routeResponse && (
+      {routeResponse && (
         <div>
           <SearchFormContainer
             routeResponse={routeResponse}
@@ -35,11 +36,11 @@ function Home() {
           <HowItWorks expand="md" />
         </div>
       )}
-      {!routeResponse && <div>
+      {routeResponse && <div>
         <div className="homeText">
-        <p>WELCOME</p>
-        <p>TO</p>
-        <p>BERLIN</p>
+          <p>WELCOME</p>
+          <p>TO</p>
+          <p>BERLIN</p>
         </div>
         <SearchFormContainer
           routeResponse={routeResponse}
@@ -50,8 +51,10 @@ function Home() {
       </div>
       }
 
-      {isLoaded && routeResponse && (
+      {isLoaded && !routeResponse && (<div>
         <Map onMapLoad={onMapLoad} routeResponse={routeResponse} />
+        <MapLoadMenu />
+      </div>
       )}
     </div>
   );
