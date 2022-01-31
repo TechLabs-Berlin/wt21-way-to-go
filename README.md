@@ -62,34 +62,39 @@ http://localhost:3000
 ```shell
 cd flask
 ```
+**7. Create virtual environment**
 
-**7. Activate the environment**
+```shell
+python3 -m venv venv
+```
 
-7.1 for MacOS
+**8. Activate the environment**
+
+8.1 for MacOS
 
 ```shell
 . venv/bin/activate
 ```
 
-7.2 for Windows
+8.2 for Windows
 
 ```shell
 venv\Scripts\activates
 ```
 
-**8. Install the requirements**
+**9. Install the requirements**
 
 ```shell
 pip install -r requirements.txt
 ```
 
-**9. Export Flask**
+**10. Export Flask**
 
 ```shell
 export FLASK_APP=api
 ```
 
-**10. Run flask server**
+**11. Run flask server**
 
 ```shell
 flask run
