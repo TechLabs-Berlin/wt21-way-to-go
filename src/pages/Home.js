@@ -28,16 +28,6 @@ function Home() {
 
   return (
     <div>
-      {/* {!routeResponse && (
-        <div>
-          <SearchFormContainer
-            routeResponse={routeResponse}
-            setRouteResponse={setRouteResponse}
-          />
-          <CardsHome expand="md" />
-          <HowItWorks expand="md" />
-        </div>
-      )} */}
       {!routeResponse && <div>
         <div className="homeText">
           <p>WELCOME</p>
