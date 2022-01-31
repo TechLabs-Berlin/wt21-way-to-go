@@ -29,3 +29,11 @@
   /* margin-top: -60px; */
   z-index: 900;
 }
+
+.arrowBack {
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+  margin-right: 20px;
+  cursor: pointer;
+}
