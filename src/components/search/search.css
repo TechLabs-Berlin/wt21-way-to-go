@@ -84,12 +84,12 @@ input[type="range"]:focus::-webkit-slider-runnable-track {
   justify-content: space-between;
 }
 
-figure img {
+.imagesCategoryContainer img {
   width: 55px;
   height: 100px;
 }
 
-figure:hover img {
+.imagesCategoryContainer:hover img {
   opacity: 0.5;
 }
 
