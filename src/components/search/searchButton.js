@@ -8,14 +8,10 @@ import axios from "axios";
 
 const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory) => {
     console.log(startLocation)
-    const requestBody = {
-        startLocation: startLocation,
-        destination: destination,
-    }
 
     axios
-        .get("http://127.0.0.1:5000/test_poi/?name=" + selectedCategory
-        )
+        .get("http://127.0.0.1:5000/test_poi/?name=" + selectedCategory )
+        
         .then(function (response) {
             setRoute({
                 startLocation: startLocation,
