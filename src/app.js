@@ -17,6 +17,8 @@ import About from "./components/pages/About";
 import How from "./components/pages/How";
 import "./app.css";
 import HowItWorks from "./components/howitworks/HowItWorks";
+import Footer from "./components/footer/footer";
+import StickyFooter from "./components/stickyFooter/stickyfooter";
 
 const libraries = ["places"];
 
@@ -52,6 +54,8 @@ const App = function () {
         </Routes>
       </BrowserRouter>
       <HowItWorks expand="md" />
+      <Footer />
+      <StickyFooter />
     </div>
   );
 };
