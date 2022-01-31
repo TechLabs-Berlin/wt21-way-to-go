@@ -23,10 +23,12 @@ function Home() {
   }, []);
 
   const [routeResponse, setRouteResponse] = useState();
+  const [to, setTo] = useState("");
+  const [from, setFrom] = useState("");
 
   return (
     <div>
-      {routeResponse && (
+      {!routeResponse && (
         <div>
           <SearchFormContainer
             routeResponse={routeResponse}
@@ -36,7 +38,7 @@ function Home() {
           <HowItWorks expand="md" />
         </div>
       )}
-      {routeResponse && <div>
+      {!routeResponse && <div>
         <div className="homeText">
           <p>WELCOME</p>
           <p>TO</p>
@@ -45,15 +47,19 @@ function Home() {
         <SearchFormContainer
           routeResponse={routeResponse}
           setRouteResponse={setRouteResponse}
+          setFrom={setFrom}
+          setTo={setTo}
+          from={from}
+          to={to}
         />
         <img className="backgroundHomeImage" src={BackgroundImage} alt="berlinImage" />
         <HowItWorks expand="md" />
       </div>
       }
 
-      {isLoaded && !routeResponse && (<div>
+      {isLoaded && routeResponse && (<div>
         <Map onMapLoad={onMapLoad} routeResponse={routeResponse} />
-        <MapLoadMenu />
+        <MapLoadMenu from={from} to={to} />
       </div>
       )}
     </div>

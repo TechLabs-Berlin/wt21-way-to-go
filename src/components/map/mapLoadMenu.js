@@ -2,7 +2,7 @@ import React from 'react';
 import Search from "../search/searchInput";
 
 
-const MapLoadMenu = () => {
+const MapLoadMenu = ({ from, to }) => {
 
     return (
         <div>
@@ -10,10 +10,10 @@ const MapLoadMenu = () => {
                 <form className="searchForm">
                     <div class="form-row inputContainer">
                         <div class="col-md-5 whiteBg">
-                            <Search />
+                            <Search placeholder={from} disabled={true} />
                         </div>
                         <div class="col-md-5 whiteBg">
-                            <Search />
+                            <Search placeholder={to} disabled={true} />
                         </div>
                     </div>
 

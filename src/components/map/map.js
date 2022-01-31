@@ -20,6 +20,7 @@ function Map({ onMapLoad, routeResponse }) {
     console.log(routeResponse)
     return (
         <GoogleMap
+            className="map"
             mapContainerStyle={containerStyle}
             center={center}
             zoom={10}
