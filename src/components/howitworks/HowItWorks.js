@@ -12,9 +12,12 @@ function HowItWorks() {
   return (
     <div className="hiw_section_landing">
       <Container fluid>
-        <h2>
-          <b>HOW IT WORKS!</b>
-        </h2>
+        <div className="header_hiw">
+          <h2>
+            <b>HOW IT WORKS!</b>
+          </h2>
+        </div>
+
         <Row className="text-center">
           <Col md={4} sm={6}>
             <Image src={demo} alt="cool photo demo" fluid />
@@ -45,7 +48,7 @@ function HowItWorks() {
         </Row>
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <Image src={demo} alt="cool photo demo" fluid />
+            <Image src={demo} alt="cool photo demo" className="demo_3" fluid />
           </Col>
           <Col md={4} sm={6}>
             <Image src={line3} alt="cool line demo" fluid className="line3" />

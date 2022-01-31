@@ -129,8 +129,14 @@
 }
 
 /* media queries*/
-@media screen and (max-width: 600px) {
-  .navbar {
-    height: 70px;
+
+@media (max-width: 465px) {
+  .logo {
+    margin-left: -5px;
+    margin-top: 1px;
+  }
+  .sidebar-toggle {
+    margin-left: -30px;
+    margin-top: -162px;
   }
 }

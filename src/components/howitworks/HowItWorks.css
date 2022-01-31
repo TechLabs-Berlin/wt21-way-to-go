@@ -2,9 +2,11 @@
   padding: 32px;
 }
 
-h2 {
+.header_hiw h2 {
   color: #f22e52;
-  margin: 15px 15px 65px 35px;
+  margin: 56px 15px 65px -15px;
+  font-size: 42px;
+  text-shadow: 0px 1px 1px #4e4e4e;
 }
 
 .enjoy_link {
@@ -41,4 +43,22 @@ h2 {
 .line4 {
   margin: -7px 15px 15px 520px;
   transform: rotate(-2grad);
+}
+
+@media (max-width: 465px) {
+  .line1 {
+    display: none;
+  }
+  .line2 {
+    display: none;
+  }
+  .line3 {
+    display: none;
+  }
+  .demo_3 {
+    display: none;
+  }
+  .header_hiw h2 {
+    margin-left: 78px;
+  }
 }
