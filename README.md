@@ -2,42 +2,6 @@
 
 A different Way To Go to your final destination, personalised routes suggestions based on what you feel like seeing today, coffee, museums, parks, ...? You tell us and we tell you the way to go!
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
-
-To install localy our dependecies
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 ## Requirements
 
 ### API Keys
@@ -61,41 +25,76 @@ In order to run the Python and ipynb code, you need to have the following librar
 - [gpxpy](https://github.com/tkrajina/gpxpy)
 - [GoogleMaps Services](https://pythonrepo.com/repo/googlemaps-google-maps-services-python-python-third-party-apis-wrappers)
 
-## Data
+## Setup
 
-We have worked with data on popular routes and with data on points of interest, that pedestrians might want to look for when walking, both geographically constrained on Berlin and surroundings.
+**1. Clone repository**
 
-For obtaining the routes data, you need to scrape [wandermap.net](wandermap.net) on the query "Berlin".
-The data on points of interest can be scraped from [OpenStreetMap.org](https://wiki.openstreetmap.org/wiki/Map_features)
+```shell
+git clone https://github.com/TechLabs-Berlin/wt21-way-to-go.git
+```
 
-For data visualisation, we used post code data from [suche-postleitzahl.org](https://www.suche-postleitzahl.org/plz-karte-erstellen), together with [Dr. Juan Camilo Orduz'wonderful Github repository and blogpost "Open Data: Germany Maps Viz"](https://juanitorduz.github.io/germany_plots/)
+**2. Move to new directory**
 
-## Learn More
+```shell
+cd wt21-way-to-go
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**3. Install dependencies**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```shell
+npm install
+```
 
-### Code Splitting
+**4. Start up local development server**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```shell
+npm start
+```
 
-### Analyzing the Bundle Size
+**5. Run the app in the development mode**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```shell
+http://localhost:3000
+```
 
-### Making a Progressive Web App
+**6. Navigate into folder**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```shell
+cd flask
+```
 
-### Advanced Configuration
+**7. Activate the environment**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+7.1 for MacOS
 
-### Deployment
+```shell
+. venv/bin/activate
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+7.2 for Windows
 
-### `npm run build` fails to minify
+```shell
+venv\Scripts\activates
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**8. Install the requirements**
+
+```shell
+pip install -r requirements.txt
+```
+
+**9. Export Flask**
+
+```shell
+export FLASK_APP=api
+```
+
+**10. Run flask server**
+
+```shell
+flask run
+```
+
+## Deployment
+
+Soon to be deployed
