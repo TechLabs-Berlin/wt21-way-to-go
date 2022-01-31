@@ -8,6 +8,7 @@ import CategoryA from "./../../images/CategoryA.png"
 import CategoryB from "./../../images/CategoryB.png"
 import CategoryC from "./../../images/CategoryC.png"
 import CategoryD from "./../../images/CategoryD.png"
+import CategoryRandom from "./../../images/CategoryRandom.png"
 import "./searchFormContainer.css";
 
 const libraries = ["places"];
@@ -52,7 +53,7 @@ function SearchFormContainer({ routeResponse, setRouteResponse }) {
                         <Categories className={"L'Osteria"} src={CategoryB} setSelectedCategory={setSelectedCategory} />
                         <Categories className={'Viktoriapark'} src={CategoryC} setSelectedCategory={setSelectedCategory} />
                         <Categories className={'Pergamonmuseum'} src={CategoryD} setSelectedCategory={setSelectedCategory} />
-                        <Categories className={'categoryE'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
+                        <Categories className={'categoryE'} src={CategoryRandom} setSelectedCategory={setSelectedCategory} />
                     </div>
                     <div>
                         <p class="whiteBg">How much time do you have? {time}' min</p>
