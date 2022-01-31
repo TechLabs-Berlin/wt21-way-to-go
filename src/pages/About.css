@@ -6,7 +6,7 @@ figcaption {
   position: absolute;
   top: 3rem;
   margin: 0 -9.5rem;
-  color: #50979f;
+  color: #49888f;
 }
 
 figcaption h1 {
@@ -18,7 +18,7 @@ figcaption h1 {
 }
 
 figcaption p {
-  font-size: 36px;
+  font-size: 38px;
   font-weight: 400;
   text-shadow: 1px 1px 1px #4e4e4e;
   margin-top: 35px;
@@ -28,11 +28,12 @@ figcaption p {
 .about_text2 {
   font-size: 26px;
   font-weight: 400;
-  line-height: 45.5px;
+  line-height: 51.5px;
   padding: 18px 0px 18px 0px;
-  text-align: justify;
+  letter-spacing: 1px;
   text-shadow: 0px 1px 1px #4e4e4e;
-  margin: 28px 15px 28px 15px;
+  margin: 28px 15px 36px -25px;
+  word-spacing: 1px;
 }
 
 .BackgroundAbout2 {
@@ -41,11 +42,10 @@ figcaption p {
 
 .title_2 {
   color: #50979f;
-  font-size: 60px;
+  font-size: 62px;
   margin-left: 35px;
-  text-shadow: 1px 1px 2px #4e4e4e;
-  margin: 0 -6.5rem;
-  margin-bottom: 2.5rem;
+  text-shadow: 2px 2px 3px #4e4e4e;
+  margin: 16px 30px 76px -76px;
 }
 
 .container_team {
