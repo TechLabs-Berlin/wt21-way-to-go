@@ -28,7 +28,7 @@ function Home() {
 
   return (
     <div>
-      {!routeResponse && (
+      {/* {!routeResponse && (
         <div>
           <SearchFormContainer
             routeResponse={routeResponse}
@@ -37,7 +37,7 @@ function Home() {
           <CardsHome expand="md" />
           <HowItWorks expand="md" />
         </div>
-      )}
+      )} */}
       {!routeResponse && <div>
         <div className="homeText">
           <p>WELCOME</p>
@@ -53,6 +53,7 @@ function Home() {
           to={to}
         />
         <img className="backgroundHomeImage" src={BackgroundImage} alt="berlinImage" />
+        <CardsHome expand="md" />
         <HowItWorks expand="md" />
       </div>
       }
