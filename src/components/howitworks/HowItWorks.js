@@ -20,18 +20,18 @@ function HowItWorks() {
 
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <Image src={demo} alt="cool photo demo" fluid />
+            <Image src={demo} alt="cool photo demo" fluid className="demo_1" />
           </Col>
           <Col md={4} sm={6}>
             <Image src={line} alt="cool line demo" fluid className="line1" />
           </Col>
-          <Col md={4} sm={6}>
+          <Col md={4} sm={6} className="step_1">
             <b>#1 Set starting point and a destination</b>
             <p>What are the two places you want to spend time in-between?</p>
           </Col>
         </Row>
         <Row className="text-center">
-          <Col md={4} sm={6}>
+          <Col md={4} sm={6} className="step_2">
             <b className="title-steps">#2 Choose your mood</b>
             <p>
               What do you feel like doing? You might want to simply walk around,
@@ -43,7 +43,7 @@ function HowItWorks() {
             <Image src={line2} alt="cool line demo" fluid className="line2" />
           </Col>
           <Col md={4} sm={6}>
-            <Image src={demo} alt="cool photo demo" fluid />
+            <Image src={demo} alt="cool photo demo" fluid className="demo_2" />
           </Col>
         </Row>
         <Row className="text-center">
@@ -53,7 +53,7 @@ function HowItWorks() {
           <Col md={4} sm={6}>
             <Image src={line3} alt="cool line demo" fluid className="line3" />
           </Col>
-          <Col md={4} sm={6}>
+          <Col md={4} sm={6} className="step_3">
             <b>#3 Arrange time duration</b>
             <p>
               How much time do you have? You can set the time up to 120 minutes.
@@ -61,9 +61,9 @@ function HowItWorks() {
           </Col>
         </Row>
         <section className="enjoy_link">
-          <p className="bottom_side">
-            <b>Enjoy your WAY TO GO</b>
-          </p>
+          <div className="bottom_side">
+            <p>Enjoy your WAY TO GO</p>
+          </div>
         </section>
         <Image src={line4} alt="cool line demo" fluid className="line4" />
       </Container>

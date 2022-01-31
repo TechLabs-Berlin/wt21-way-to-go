@@ -136,7 +136,10 @@
     margin-top: 1px;
   }
   .sidebar-toggle {
-    margin-left: -30px;
+    margin-left: -62px;
     margin-top: -162px;
+  }
+  .navbar {
+    width: 500px;
   }
 }
