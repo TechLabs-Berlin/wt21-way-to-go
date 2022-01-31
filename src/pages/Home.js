@@ -49,8 +49,10 @@ function Home() {
       }
 
       {isLoaded && routeResponse && (<div>
-        <Map onMapLoad={onMapLoad} routeResponse={routeResponse} />
         <MapLoadMenu from={from} to={to} />
+        <Map onMapLoad={onMapLoad} routeResponse={routeResponse} />
+
+        {/* <img className="backgroundHomeImage" src={BackgroundImage} alt="berlinImage" /> */}
       </div>
       )}
     </div>
