@@ -62,6 +62,7 @@ http://localhost:3000
 ```shell
 cd flask
 ```
+
 **7. Create virtual environment**
 
 ```shell
@@ -103,3 +104,12 @@ flask run
 ## Deployment
 
 Soon to be deployed
+
+## Data
+
+We have worked with data on popular routes and with data on points of interest, that pedestrians might want to look for when walking, both geographically constrained on Berlin and surroundings.
+
+For obtaining the routes data, you need to scrape [wandermap.net](wandermap.net) on the query "Berlin".
+The data on points of interest can be scraped from [OpenStreetMap.org](https://wiki.openstreetmap.org/wiki/Map_features)
+
+For data visualisation, we used post code data from [suche-postleitzahl.org](https://www.suche-postleitzahl.org/plz-karte-erstellen), together with [Dr. Juan Camilo Orduz'wonderful Github repository and blogpost "Open Data: Germany Maps Viz"](https://juanitorduz.github.io/germany_plots/)
