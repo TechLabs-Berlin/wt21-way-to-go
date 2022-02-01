@@ -6,7 +6,7 @@ import {
 import { DirectionsService } from '@react-google-maps/api';
 import axios from "axios";
 
-const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory) => {
+const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory, setRequestError) => {
 
     axios
         .get("http://127.0.0.1:5000/routes/?route_id=" + selectedCategory)
@@ -31,6 +31,7 @@ const doDirectionRequest = (startLocation, destination, setRoute, selectedCatego
         })
         .catch(function (error) {
             console.log(error);
+            setRequestError(true)
         });
 }
 
@@ -58,6 +59,8 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
         }
     };
 
+    const [requestError, setRequestError] = useState("");
+
     return (
         <div>
             {DirectionsServiceOption && !routeResponse && <DirectionsService
@@ -72,7 +75,7 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
                         getLatLng(response[0]).then((startLocation) => {
                             getGeocode({ address: to }).then((response) =>
                                 getLatLng(response[0]).then((destinationCoordinates) => {
-                                    doDirectionRequest(startLocation, destinationCoordinates, setRoute, selectedCategory)
+                                    doDirectionRequest(startLocation, destinationCoordinates, setRoute, selectedCategory, setRequestError)
                                 })
                             );
                         })
@@ -81,6 +84,9 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
             >
                 Way To Go
             </button>
+            {requestError &&
+                <p>Connection with Server Failed!</p>
+            }
         </div>
     )
 }
