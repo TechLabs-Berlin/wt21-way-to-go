@@ -4,6 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import BackgroundAbout from "../images/alexander1.jpeg";
 import BackgroundAbout2 from "../images/about2.png";
 import About_photo from "../images/about_photo.png";
+import Leonor_about from "../images/team/leonor_about.jpg";
 
 function About() {
   return (
@@ -114,7 +115,11 @@ function About() {
             <ul>
               <li>
                 {" "}
-                <img className="About_photo" src={About_photo} alt="Leonor" />
+                <img
+                  className="About_photo_leonor"
+                  src={Leonor_about}
+                  alt="Leonor"
+                />
               </li>
               <li>Leonor</li>
               <li>Web Development</li>
