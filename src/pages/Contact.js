@@ -1,4 +1,7 @@
 import React from "react";
+import "./Contact.css";
+import "bootstrap/dist/css/bootstrap.css";
+import BackgroundContact from "../components/images/contact-background.jpg";
 
 function Contact() {
   return (

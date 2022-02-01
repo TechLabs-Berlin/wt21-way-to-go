@@ -7,14 +7,13 @@ import { DirectionsService } from '@react-google-maps/api';
 import axios from "axios";
 
 const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory) => {
-    console.log(startLocation)
 
     axios
         .get("http://127.0.0.1:5000/routes/?route_id=" + selectedCategory)
         .then(function (response) {
             var regex = /[+-]?\d+(\.\d+)?/g;
             var locations = response.data.map((point) => {
-                var floats = point.poi_lat_lgt.match(regex).map(function(v) { return parseFloat(v); });
+                var floats = point.poi_lat_lgt.match(regex).map(function (v) { return parseFloat(v); });
                 return {
                     location: {
                         lat: parseFloat(floats[0]),
@@ -39,7 +38,6 @@ const doDirectionRequest = (startLocation, destination, setRoute, selectedCatego
 function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCategory }) {
 
     const [route, setRoute] = useState();
-    console.log(route)
 
     const DirectionsServiceOption = route && {
         destination: route.destination,
@@ -49,7 +47,6 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
     };
 
     const directionsCallback = (response) => {
-        console.log(response);
 
         if (response !== null) {
             if (response.status === "OK") {
