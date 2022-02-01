@@ -5,6 +5,7 @@ import {
 } from "use-places-autocomplete";
 import { DirectionsService } from '@react-google-maps/api';
 import axios from "axios";
+import "./searchButton.css"
 
 const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory, setRequestError) => {
 
@@ -85,7 +86,9 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
                 Way To Go
             </button>
             {requestError &&
-                <p>Connection with Server Failed!</p>
+                <div className="errorContainer">
+                    <p className="errorMessage text-danger">Connection with Server Failed!</p>
+                </div>
             }
         </div>
     )
