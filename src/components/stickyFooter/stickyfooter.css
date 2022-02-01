@@ -1,0 +1,17 @@
+.sticky-footer {
+    Background-color: #50979e;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 800;
+    font-family: corbel;
+
+  }
+  
+  .left {
+  text-align: left;
+  }
+  
+  .right {
+    text-align: right;
+  
+  }
