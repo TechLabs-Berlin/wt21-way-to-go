@@ -61,9 +61,9 @@ function HowItWorks() {
           </Col>
         </Row>
         <section className="enjoy_link">
-          <p className="bottom_side">
-            <a href="#top" className="link_go_top">Enjoy your WAY TO GO</a>
-          </p>
+          <a href="#top" className="link_go_top">
+            Enjoy your WAY TO GO
+          </a>
         </section>
         <Image src={line4} alt="cool line demo" fluid className="line4" />
       </Container>

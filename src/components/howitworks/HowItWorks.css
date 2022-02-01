@@ -13,17 +13,24 @@
   margin-top: 89px;
 }
 
-.bottom_side {
+.link_go_top {
   border: 2.5px solid #282828;
   border-radius: 15px;
   color: #f22e52;
-  position: relative;
-  max-width: fit-content;
-  padding: 32px;
-  font-size: 32px;
+  padding: 25px;
+  font-size: 38px;
   line-height: 11px;
-  margin-left: 529px;
+  font-weight: 700;
+  word-spacing: 3px;
+  margin-left: 452px;
   margin-top: -108px;
+  transition: all 100ms ease-in-out;
+  box-shadow: 7px 5px 5px rgb(196, 196, 196);
+}
+
+.link_go_top a :hover {
+  color: #f22e52;
+  text-decoration: none;
 }
 
 .line1 {
@@ -35,13 +42,13 @@
 }
 
 .line3 {
-  margin: 255px 84px 33px -11px;
+  margin: 236px 56px 33px -11px;
   transform: rotate(-5grad);
   max-width: 90%;
 }
 
 .line4 {
-  margin: 9px 15px 15px 520px;
+  margin: 45px 15px 15px 463px;
   transform: rotate(-2grad);
 }
 

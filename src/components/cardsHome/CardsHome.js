@@ -70,8 +70,8 @@ function cardsHome() {
                 rel="noreferrer"
                 className="btn card_link1"
                 target="_blank"
-                alt="go to "
-                title="visit Berliln"
+                alt="visit Berlin "
+                title="visit Berlin"
               >
                 more &gt;&gt;
               </a>
