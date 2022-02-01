@@ -1,34 +1,38 @@
 import React from "react";
 import "../howitworks/HowItWorks.css";
-
 import { Container, Row, Col, Image } from "react-bootstrap";
-import demo from "../images/imagen-demo-hiw.png";
+import demo from "../images/demo-hiw.jpg";
+import line from "../images/line-wtg-1-1.png";
+import line2 from "../images/line-wtg-2-2.png";
+import line3 from "../images/line-wtg-3-3.png";
+import line4 from "../images/line-wtg-4-4.png";
 //Row = 12 cols or 100%
 
 function HowItWorks() {
   return (
-    <div>
-      <h2>HOW IT WORKS!</h2>
+    <div className="hiw_section_landing">
+      <Container fluid>
+        <div className="header_hiw">
+          <h2>
+            <b>HOW IT WORKS!</b>
+          </h2>
+        </div>
 
-      <Container>
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <p>
-              <Image src={demo} alt="cool photo demo" fluid />
-            </p>
+            <Image src={demo} alt="cool photo demo" fluid className="demo_1" />
           </Col>
           <Col md={4} sm={6}>
-            Hello second colum LINES
+            <Image src={line} alt="cool line demo" fluid className="line1" />
           </Col>
-          <Col md={4} sm={6}>
-            <p>#1 Set starting point and a destination</p>
+          <Col md={4} sm={6} className="step_1">
+            <b>#1 Set starting point and a destination</b>
             <p>What are the two places you want to spend time in-between?</p>
           </Col>
         </Row>
-        -
         <Row className="text-center">
-          <Col md={4} sm={6}>
-            <p className="title-steps">#2 Choose your mood</p>
+          <Col md={4} sm={6} className="step_2">
+            <b className="title-steps">#2 Choose your mood</b>
             <p>
               What do you feel like doing? You might want to simply walk around,
               grab a coffee, visit touristic attractions, or enjoy green area.
@@ -36,29 +40,32 @@ function HowItWorks() {
             </p>
           </Col>
           <Col md={4} sm={6}>
-            Hello second colum LINES
+            <Image src={line2} alt="cool line demo" fluid className="line2" />
           </Col>
           <Col md={4} sm={6}>
-            <Image src={demo} alt="cool photo demo" fluid />
+            <Image src={demo} alt="cool photo demo" fluid className="demo_2" />
           </Col>
         </Row>
-        --
         <Row className="text-center">
           <Col md={4} sm={6}>
-            <p>
-              <Image src={demo} alt="cool photo demo" fluid />
-            </p>
+            <Image src={demo} alt="cool photo demo" className="demo_3" fluid />
           </Col>
           <Col md={4} sm={6}>
-            Hello second colum LINES
+            <Image src={line3} alt="cool line demo" fluid className="line3" />
           </Col>
-          <Col md={4} sm={6}>
-            <p>#3 Arrange time duration</p>
+          <Col md={4} sm={6} className="step_3">
+            <b>#3 Arrange time duration</b>
             <p>
               How much time do you have? You can set the time up to 120 minutes.
             </p>
           </Col>
         </Row>
+        <section className="enjoy_link">
+          <div className="bottom_side">
+            <p>Enjoy your WAY TO GO</p>
+          </div>
+        </section>
+        <Image src={line4} alt="cool line demo" fluid className="line4" />
       </Container>
     </div>
   );

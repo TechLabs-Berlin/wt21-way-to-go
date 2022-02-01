@@ -1,10 +1,13 @@
 import React from "react";
-import { GoogleMap } from "@react-google-maps/api";
+import { GoogleMap, DirectionsRenderer } from "@react-google-maps/api";
 import mapStyle from "./mapStyle";
+import "./mapLoadMenu.css"
+
 
 const containerStyle = {
-    width: "1000px",
+    width: "100%",
     height: "600px",
+
 };
 
 const center = {
@@ -16,15 +19,26 @@ const options = {
     styles: mapStyle,
 };
 
-function Map({ onMapLoad }) {
+function Map({ onMapLoad, routeResponse }) {
+    console.log(routeResponse)
     return (
-        <GoogleMap
-            mapContainerStyle={containerStyle}
-            center={center}
-            zoom={10}
-            options={options}
-            onLoad={onMapLoad}
-        />
+        <div className="map">
+            <GoogleMap
+                mapContainerStyle={containerStyle}
+                center={center}
+                zoom={10}
+                options={options}
+                onLoad={onMapLoad}
+            >
+                {routeResponse && (
+                    <DirectionsRenderer
+                        options={{
+                            directions: routeResponse,
+                        }}
+                    />
+                )}
+            </GoogleMap>
+        </div>
     );
 }
 

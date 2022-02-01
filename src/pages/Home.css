@@ -1,0 +1,20 @@
+.backgroundHomeImage {
+  width: 100%;
+  margin-top: -350px;
+  /* -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 93%);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 93%); */
+}
+
+.homeText {
+  font-size: 90px;
+  margin-left: 50px;
+  font-weight: 800;
+  font-style: italic;
+  position: absolute;
+  color: white;
+  margin-top: 80px;
+}
+
+.homeText p {
+  margin-bottom: -30px;
+}

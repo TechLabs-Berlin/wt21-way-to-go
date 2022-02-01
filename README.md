@@ -45,18 +45,25 @@ For this demo to work, please create a Google Map API Key, and ensure that the t
 
 ### Virtuel Enviroment
 
-In order to run the Python code, you need to have the following libraries installed:
+In order to run the Python and ipynb code, you need to have the following libraries installed:
 
-- [requests](https://docs.python-requests.org/en/latest/)
+- [os](https://docs.python.org/3/library/os.html)
+- [pandas](https://pandas.pydata.org/docs/)
 - [json](https://docs.python.org/3/library/json.html)
+- [requests](https://docs.python-requests.org/en/latest/)
+- [geopandas](https://geopandas.org/en/stable/) (If you're working on Windows it doesn't work unless you install [GDAL and Fiona wheels](https://iotespresso.com/how-to-install-geopandas-on-windows/) before)
 - [urllib](https://docs.python.org/3/library/urllib.html)
+- [gpxpy](https://github.com/tkrajina/gpxpy)
 - [GoogleMaps Services](https://pythonrepo.com/repo/googlemaps-google-maps-services-python-python-third-party-apis-wrappers)
 
 ## Data
 
 We have worked with data on popular routes and with data on points of interest, that pedestrians might want to look for when walking, both geographically constrained on Berlin and surroundings.
 
-For obtaining the routes data, you need to scrap [wandermap.net](wandermap.net) on the query "Berlin".
+For obtaining the routes data, you need to scrape [wandermap.net](wandermap.net) on the query "Berlin".
+The data on points of interest can be scraped from [OpenStreetMap.org](https://wiki.openstreetmap.org/wiki/Map_features)
+
+For data visualisation, we used post code data from [suche-postleitzahl.org](https://www.suche-postleitzahl.org/plz-karte-erstellen), together with [Dr. Juan Camilo Orduz'wonderful Github repository and blogpost "Open Data: Germany Maps Viz"](https://juanitorduz.github.io/germany_plots/)
 
 ## Learn More
 

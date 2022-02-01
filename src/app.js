@@ -21,7 +21,6 @@ const App = function () {
           <Route path="/contact" element={<Contact />}></Route>
         </Routes>
       </BrowserRouter>
-
       <Footer />
       <StickyFooter />
 
