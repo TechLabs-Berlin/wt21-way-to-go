@@ -3,9 +3,6 @@
   box-sizing: border-box;
 }
 
-body {
-  /* background-color: #50979f91; */
-}
 .top-header {
   margin-top: 25px;
 }
@@ -56,22 +53,16 @@ body {
   font-family: "Corbel";
   font-style: Normal;
   font-weight: Normal;
-  src: local("Corbel B"), url("./fonts/corbel/corbel.ttf") format("typeface");
+  src: local("Corbel B"), url("./fonts/corbel/CORBELB.ttf") format("typeface");
 }
 
 @font-face {
   font-family: "Corbel";
   font-style: Normal;
   font-weight: Normal;
-  src: local("Corbel"), url("./fonts/corbel/corbel.ttf") format("typeface");
+  src: local("Corbel"), url("./fonts/corbel/CORBEL.ttf") format("typeface");
 }
 
-@font-face {
-  font-family: "Corbel";
-  font-style: Normal;
-  font-weight: Normal;
-  src: local("Corbel z"), url("./fonts/corbel/corbel.ttf") format("typeface");
-}
 
 @font-face {
   font-family: "Corbel Bold Italic";
@@ -95,9 +86,3 @@ body {
   src: local("Corbel Italic"), url("./fonts/corbel/corbelitalic.ttf") format("typeface");
 }
 
-@font-face {
-  font-family: "Corbel I";
-  font-style: Italic;
-  font-weight: normal;
-  src: local("Corbeli"), url("./fonts/corbel/corbel.ttf") format("typeface");
-}
