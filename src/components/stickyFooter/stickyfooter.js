@@ -1,7 +1,6 @@
 import React from "react";
 import "./stickyfooter.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Link } from "react-router-dom";
 import { Container, Col, Row } from "react-bootstrap";
 
 const stickyFooter = () => {

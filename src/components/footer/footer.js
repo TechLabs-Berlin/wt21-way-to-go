@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import logo from "./../../images/wtg-logo-blue.png";
 import "./footer.css";
-import { Container, Row, Col, li } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import { FaTwitter, FaFacebook, FaInstagram } from "react-icons/fa";
 
 const footer = () => {
