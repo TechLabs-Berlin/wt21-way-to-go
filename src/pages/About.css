@@ -1,0 +1,77 @@
+.BackgroundAbout {
+  margin: -59px 20px 25px -225px;
+}
+
+figcaption {
+  position: absolute;
+  top: 3rem;
+  margin: 0 -9.5rem;
+  color: #49888f;
+}
+
+figcaption h1 {
+  font-size: 60px;
+  font-weight: bolder;
+  margin-left: 35px;
+  text-shadow: 1px 1px 2px #4e4e4e;
+  font-family: Corbel Bold;
+}
+
+figcaption p {
+  font-size: 38px;
+  font-weight: 400;
+  text-shadow: 1px 1px 1px #4e4e4e;
+  margin-top: 35px;
+  margin-left: 35px;
+}
+
+.about_text2 {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 51.5px;
+  padding: 18px 0px 18px 0px;
+  letter-spacing: 1px;
+  text-shadow: 0px 1px 1px #4e4e4e;
+  margin: 28px 15px 36px -25px;
+  word-spacing: 1px;
+}
+
+.BackgroundAbout2 {
+  margin: 0px 20px 25px -225px;
+}
+
+.title_2 {
+  color: #50979f;
+  font-size: 62px;
+  margin-left: 35px;
+  text-shadow: 2px 2px 3px #4e4e4e;
+  margin: 16px 30px 76px -76px;
+}
+
+.container_team {
+  display: inherit;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+}
+
+li {
+  list-style: none;
+}
+
+.item {
+  color: #282828;
+  font-size: 18px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 550px) {
+  .container_team {
+    display: inline-block;
+  }
+}

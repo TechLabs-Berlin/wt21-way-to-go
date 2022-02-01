@@ -13,7 +13,7 @@ import "./searchFormContainer.css";
 
 const libraries = ["places"];
 
-function SearchFormContainer({ routeResponse, setRouteResponse }) {
+function SearchFormContainer({ routeResponse, setRouteResponse, setTo, setFrom, from, to }) {
 
     const { isLoaded } = useJsApiLoader({
         id: "google-map-script",
@@ -28,8 +28,6 @@ function SearchFormContainer({ routeResponse, setRouteResponse }) {
         mapRef.current.setZoom(16);
     }, []);
 
-    const [to, setTo] = useState("");
-    const [from, setFrom] = useState("");
     const [time, setTime] = useState("");
     const [selectedCategory, setSelectedCategory] = useState();
 
@@ -39,7 +37,7 @@ function SearchFormContainer({ routeResponse, setRouteResponse }) {
                 <form className="searchForm">
                     <div class="form-row inputContainer">
                         <div class="col-md-5 whiteBg">
-                            {isLoaded && <Search className="TiconFrom" onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
+                            {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
                             {/* <CurrentLocation panTo={panTo} /> */}
                         </div>
                         <div class="col-md-5 whiteBg">

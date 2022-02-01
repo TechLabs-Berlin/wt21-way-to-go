@@ -4,8 +4,9 @@ import SearchFormContainer from "../components/search/searchFormContainer";
 import Map from "../components/map/map";
 import HowItWorks from "./../components/howitworks/HowItWorks";
 import CardsHome from "../components/cardsHome/CardsHome";
-import BackgroundImage from "../images/landingBackground.jpeg"
-import "./Home.css"
+import BackgroundImage from "../images/landingBackground.jpeg";
+import "./Home.css";
+import MapLoadMenu from "../components/map/mapLoadMenu";
 
 const libraries = ["places"];
 
@@ -22,39 +23,45 @@ function Home() {
   }, []);
 
   const [routeResponse, setRouteResponse] = useState();
+  const [to, setTo] = useState("");
+  const [from, setFrom] = useState("");
 
   return (
     <div>
-<<<<<<< HEAD
-=======
       {!routeResponse && (
         <div>
+          <div className="homeText">
+            <p>WELCOME</p>
+            <p>TO</p>
+            <p>BERLIN</p>
+          </div>
           <SearchFormContainer
             routeResponse={routeResponse}
             setRouteResponse={setRouteResponse}
+            setFrom={setFrom}
+            setTo={setTo}
+            from={from}
+            to={to}
+          />
+          <img
+            className="backgroundHomeImage"
+            src={BackgroundImage}
+            alt="berlinImage"
           />
           <CardsHome expand="md" />
           <HowItWorks expand="md" />
         </div>
       )}
->>>>>>> main
-      {!routeResponse && <div>
-        <div className="homeText">
-        <p>WELCOME</p>
-        <p>TO</p>
-        <p>BERLIN</p>
-        </div>
-        <SearchFormContainer
-          routeResponse={routeResponse}
-          setRouteResponse={setRouteResponse}
-        />
-        <img className="backgroundHomeImage" src={BackgroundImage} alt="berlinImage" />
-        <HowItWorks expand="md" />
-      </div>
-      }
 
       {isLoaded && routeResponse && (
-        <Map onMapLoad={onMapLoad} routeResponse={routeResponse} />
+        <div>
+          <MapLoadMenu
+            from={from}
+            to={to}
+            setRouteResponse={setRouteResponse}
+          />
+          <Map onMapLoad={onMapLoad} routeResponse={routeResponse} />
+        </div>
       )}
     </div>
   );
