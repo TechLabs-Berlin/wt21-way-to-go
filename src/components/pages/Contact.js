@@ -1,32 +1,37 @@
 import React from "react";
 import "./Contact.css";
 import "bootstrap/dist/css/bootstrap.css";
-import { Container, Row, Figure} from "react-bootstrap";
-
+import BackgroundContact from "../images/contact-background.jpeg";
 
 function Contact() {
   return (
-    <div className="contact-page">
-      <div className="contact-hero">
-      <Container>
-        <Row>
-      <h2><strong>Contact Us</strong></h2>
-      <h3>Drop us a line! We would love to hear from you</h3>
-      </Row>
-      </ Container>
-      </div>
+    <div className="container">
+      <figure className="position-relative">
+        <img
+          className="BackgroundContact"
+          src={BackgroundContact}
+          alt="Contact Us"
+        />
+        <figcaption>
+          {" "}
+          <h1>Contact Us</h1>
+          <p>Drop us a line! We would love to hear from you</p>
+        </figcaption>
+      </figure>
 
       <div className="contact-info">
-<Container>
-      <Row>
-<span>WayToGo GMBH</span>
-<span>MustermannStr .37</span>
-<span>10437 Berlin</span>
-<br/>
-<br/>
-      <span><a class="link" href="mailto:hallo@waytogo.com">Hello@waytogo.com</a></span>
-      </Row>
-      </ Container>
+        <p className="contact-text">
+          <span>WayToGo GMBH</span>
+          <span>MustermannStr .37</span>
+          <span>10437 Berlin</span>
+          <br />
+          <br />
+          <span>
+            <a class="link" href="mailto:hallo@waytogo.com">
+              Hello@waytogo.com
+            </a>
+          </span>
+        </p>
       </div>
     </div>
   );
