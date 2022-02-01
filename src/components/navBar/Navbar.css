@@ -18,6 +18,7 @@
   justify-content: space-between;
   cursor: pointer;
   margin-top: 1px;
+  z-index: 2;
 }
 
 .nav-items {
@@ -128,8 +129,17 @@
 }
 
 /* media queries*/
-@media screen and (max-width: 600px) {
+
+@media (max-width: 465px) {
+  .logo {
+    margin-left: -5px;
+    margin-top: 1px;
+  }
+  .sidebar-toggle {
+    margin-left: -62px;
+    margin-top: -162px;
+  }
   .navbar {
-    height: 70px;
+    width: 500px;
   }
 }

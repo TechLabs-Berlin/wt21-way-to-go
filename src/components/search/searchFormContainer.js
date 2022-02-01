@@ -8,11 +8,12 @@ import CategoryA from "./../../images/CategoryA.png"
 import CategoryB from "./../../images/CategoryB.png"
 import CategoryC from "./../../images/CategoryC.png"
 import CategoryD from "./../../images/CategoryD.png"
+import CategoryRandom from "./../../images/CategoryRandom.png"
 import "./searchFormContainer.css";
 
 const libraries = ["places"];
 
-function SearchFormContainer({ routeResponse, setRouteResponse }) {
+function SearchFormContainer({ routeResponse, setRouteResponse, setTo, setFrom, from, to }) {
 
     const { isLoaded } = useJsApiLoader({
         id: "google-map-script",
@@ -27,8 +28,6 @@ function SearchFormContainer({ routeResponse, setRouteResponse }) {
         mapRef.current.setZoom(16);
     }, []);
 
-    const [to, setTo] = useState("");
-    const [from, setFrom] = useState("");
     const [time, setTime] = useState("");
     const [selectedCategory, setSelectedCategory] = useState();
 
@@ -38,7 +37,7 @@ function SearchFormContainer({ routeResponse, setRouteResponse }) {
                 <form className="searchForm">
                     <div class="form-row inputContainer">
                         <div class="col-md-5 whiteBg">
-                            {isLoaded && <Search className="TiconFrom" onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
+                            {isLoaded && <Search onChange={setFrom} panTo={panTo.bind(this)} placeholder={'FROM...'} />}
                             {/* <CurrentLocation panTo={panTo} /> */}
                         </div>
                         <div class="col-md-5 whiteBg">
@@ -52,7 +51,7 @@ function SearchFormContainer({ routeResponse, setRouteResponse }) {
                         <Categories className={'3571863'} src={CategoryB} setSelectedCategory={setSelectedCategory} />
                         <Categories className={'Viktoriapark'} src={CategoryC} setSelectedCategory={setSelectedCategory} />
                         <Categories className={'Pergamonmuseum'} src={CategoryD} setSelectedCategory={setSelectedCategory} />
-                        <Categories className={'categoryE'} src={CategoryA} setSelectedCategory={setSelectedCategory} />
+                        <Categories className={'categoryE'} src={CategoryRandom} setSelectedCategory={setSelectedCategory} />
                     </div>
                     <div>
                         <p class="whiteBg">How much time do you have? {time}' min</p>

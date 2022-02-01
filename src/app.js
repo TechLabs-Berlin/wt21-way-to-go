@@ -6,10 +6,8 @@ import Contact from "./pages/Contact";
 import About from "./pages/About";
 import How from "./pages/How";
 import "./app.css";
-// import HowItWorks from "./components/howitworks/HowItWorks";
 
 const App = function () {
-
   return (
     <div>
       <BrowserRouter>
@@ -21,10 +19,8 @@ const App = function () {
           <Route path="/contact" element={<Contact />}></Route>
         </Routes>
       </BrowserRouter>
-
-      {/* <HowItWorks expand="md" /> */}
-    </div >
+    </div>
   );
 };
 
-export default App
+export default App;

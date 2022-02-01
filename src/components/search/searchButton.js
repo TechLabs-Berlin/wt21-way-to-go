@@ -8,10 +8,6 @@ import axios from "axios";
 
 const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory) => {
     console.log(startLocation)
-    const requestBody = {
-        startLocation: startLocation,
-        destination: destination,
-    }
 
     axios
         .get("http://127.0.0.1:5000/routes/?route_id=" + selectedCategory)
