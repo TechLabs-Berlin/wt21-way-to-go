@@ -28,7 +28,7 @@ export const navItems = [
   {
     id: 4,
     title: "CONTACT",
-    path: "./contactus",
+    path: "./contact",
     nName: "nav-item",
     sName: "sidebar-item",
     icon: <Icons.FaPhone />,

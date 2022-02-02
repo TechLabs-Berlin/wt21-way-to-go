@@ -5,28 +5,34 @@ import {
 } from "use-places-autocomplete";
 import { DirectionsService } from '@react-google-maps/api';
 import axios from "axios";
+import "./searchButton.css"
 
-const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory) => {
-    console.log(startLocation)
+const doDirectionRequest = (startLocation, destination, setRoute, selectedCategory, setRequestError) => {
 
     axios
-        .get("http://127.0.0.1:5000/test_poi/?name=" + selectedCategory )
-        
+        .get("http://127.0.0.1:5000/routes/?route_id=" + selectedCategory)
         .then(function (response) {
+            var regex = /[+-]?\d+(\.\d+)?/g;
+            var locations = response.data.map((point) => {
+                var floats = point.poi_lat_lgt.match(regex).map(function (v) { return parseFloat(v); });
+                return {
+                    location: {
+                        lat: parseFloat(floats[0]),
+                        lng: parseFloat(floats[1]),
+                    },
+                    stopover: true,
+                }
+            })
+            console.log(locations);
             setRoute({
                 startLocation: startLocation,
                 destination: destination,
-                waypts: [{
-                    location: {
-                        lat: parseFloat(response.data[0].lat),
-                        lng: parseFloat(response.data[0].lon),
-                    },
-                    stopover: true,
-                }]
+                waypts: locations
             })
         })
         .catch(function (error) {
             console.log(error);
+            setRequestError(true)
         });
 }
 
@@ -34,7 +40,6 @@ const doDirectionRequest = (startLocation, destination, setRoute, selectedCatego
 function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCategory }) {
 
     const [route, setRoute] = useState();
-    console.log(route)
 
     const DirectionsServiceOption = route && {
         destination: route.destination,
@@ -44,7 +49,6 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
     };
 
     const directionsCallback = (response) => {
-        console.log(response);
 
         if (response !== null) {
             if (response.status === "OK") {
@@ -55,6 +59,8 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
             }
         }
     };
+
+    const [requestError, setRequestError] = useState("");
 
     return (
         <div>
@@ -70,7 +76,7 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
                         getLatLng(response[0]).then((startLocation) => {
                             getGeocode({ address: to }).then((response) =>
                                 getLatLng(response[0]).then((destinationCoordinates) => {
-                                    doDirectionRequest(startLocation, destinationCoordinates, setRoute, selectedCategory)
+                                    doDirectionRequest(startLocation, destinationCoordinates, setRoute, selectedCategory, setRequestError)
                                 })
                             );
                         })
@@ -79,6 +85,11 @@ function SearchButton({ to, from, routeResponse, setRouteResponse, selectedCateg
             >
                 Way To Go
             </button>
+            {requestError &&
+                <div className="errorContainer">
+                    <p className="errorMessage text-danger">Connection with Server Failed!</p>
+                </div>
+            }
         </div>
     )
 }
