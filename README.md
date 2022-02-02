@@ -91,7 +91,9 @@ pip install -r requirements.txt
 **10. Convert the csv database into a SQL database**
 
 i. Move the "joint_data.csv" in the same folder. 
+
 ii. Create the SQL Database running create_sqlite_db.py. 
+
 Output file is the "routes.db".
 
 **11. Export Flask**
