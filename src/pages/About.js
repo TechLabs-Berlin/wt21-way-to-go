@@ -4,6 +4,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import BackgroundAbout from "../images/alexander1.jpeg";
 import BackgroundAbout2 from "../images/about2.png";
 import About_photo from "../images/about_photo.png";
+import Leonor_about from "../images/team/leonor_about.jpg";
+import Sara_about from "../images/team/sara_about.jpg";
 
 function About() {
   return (
@@ -15,10 +17,10 @@ function About() {
             src={BackgroundAbout}
             alt="Alexander Platz"
           />
-          <figcaption>
+          <figcaption className="about_page_header">
             {" "}
-            <h1 className="title">About</h1>
-            <p>
+            <h1 className="title_about_page">About</h1>
+            <p className="text_about_page">
               WayToGo provides personalized map service, <br></br> that covers
               400+ popular routes in Berlin
             </p>
@@ -114,7 +116,11 @@ function About() {
             <ul>
               <li>
                 {" "}
-                <img className="About_photo" src={About_photo} alt="Leonor" />
+                <img
+                  className="About_photo_leonor"
+                  src={Leonor_about}
+                  alt="Leonor"
+                />
               </li>
               <li>Leonor</li>
               <li>Web Development</li>
@@ -125,7 +131,11 @@ function About() {
             <ul>
               <li>
                 {" "}
-                <img className="About_photo" src={About_photo} alt="Sara" />
+                <img
+                  className="About_photo_sara"
+                  src={Sara_about}
+                  alt="Leonor"
+                />
               </li>
               <li>Sara</li>
               <li>Web Development</li>
