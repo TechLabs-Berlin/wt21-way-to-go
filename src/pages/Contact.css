@@ -1,0 +1,40 @@
+.BackgroundContact {
+  margin: -59px 0px 0px -205px;
+  width: 95rem;
+  height: 53rem;
+  opacity: 88%;
+}
+
+.contact_page_header figcaption {
+  position: absolute;
+  top: 3rem;
+  margin: 0 -9.5rem;
+  color: #ddd;
+}
+
+.title_contact_page figcaption h1 {
+  font-size: 60px;
+  font-weight: bolder;
+  margin-left: 35px;
+  text-shadow: 1px 1px 2px #4e4e4e;
+  font-family: Corbel Bold;
+}
+
+.text_contact_page figcaption p {
+  font-size: 32px;
+  font-weight: 400;
+  text-shadow: 1px 1px 1px #4e4e4e;
+  margin-top: 35px;
+  margin-left: 35px;
+  color: #ddd;
+}
+
+.contact_info {
+  font-size: 20px;
+  padding: 40px 40px 40px 40px;
+  line-height: 28.5px;
+}
+
+.contact_email {
+  margin-top: 50px;
+}

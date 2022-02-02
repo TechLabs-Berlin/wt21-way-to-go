@@ -11,7 +11,7 @@ function About() {
   return (
     <div>
       <div className="container">
-        <figure className="position-relative">
+        <figure>
           <img
             className="BackgroundAbout"
             src={BackgroundAbout}
