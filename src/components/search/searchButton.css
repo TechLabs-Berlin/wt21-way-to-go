@@ -1,0 +1,8 @@
+.errorContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.errorMessage {
+  position: absolute;
+}
