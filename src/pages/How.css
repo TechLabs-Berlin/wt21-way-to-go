@@ -1,0 +1,9 @@
+.btn-outline-danger-how {
+  padding: 20px;
+  color: #dc3545;
+  background-color: transparent;
+  background-image: none;
+  border-color: #dc3545;
+  border-radius: 6.5px;
+  transition: 100ms ease-in-out;
+}
