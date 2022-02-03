@@ -1,0 +1,45 @@
+.btn-outline-info-how2 {
+  padding: 20px;
+  color: #dc3545;
+  background-color: transparent;
+  background-image: none;
+  border-color: #dc3545;
+  border-radius: 6.5px;
+  transition: 100ms ease-in-out;
+}
+
+.go-home a {
+  line-height: normal;
+  padding: 20px;
+  color: #dc3545;
+  background-color: transparent;
+  background-image: none;
+  border-color: #dc3545;
+  border-radius: 6.5px;
+  transition: 100ms ease-in-out;
+  margin-left: -200px;
+}
+
+.enjoy_link_how {
+  margin-top: 89px;
+}
+
+.link_go_home {
+  border: 2.5px solid #282828;
+  border-radius: 15px;
+  color: #f22e52;
+  padding: 25px;
+  font-size: 38px;
+  line-height: 11px;
+  font-weight: 700;
+  word-spacing: 3px;
+  margin-left: 532px;
+  margin-top: -108px;
+  transition: all 100ms ease-in-out;
+  box-shadow: 7px 5px 5px rgb(196, 196, 196);
+}
+
+.link_go_home a :hover {
+  color: #f22e52;
+  text-decoration: none;
+}
