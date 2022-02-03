@@ -106,7 +106,7 @@ function About() {
               </li>
               <li>Paula</li>
               <li>User Experience</li>
-              <li>"I love Techno"</li>
+              <li>"I love to beautify <br />the world throught design"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
