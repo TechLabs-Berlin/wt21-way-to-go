@@ -87,3 +87,8 @@ li {
 .nameLinkedinContainer {
   display: inline-flex;
 }
+
+.About_photo {
+  height: 100px;
+  width: 100px;
+}

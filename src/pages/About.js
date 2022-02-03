@@ -58,12 +58,7 @@ function About() {
               <li>
                 <img className="About_photo" src={Emilio_about} alt="Emilio" />
               </li>
-              <div className="nameLinkedinContainer">
-                <li>Emilio</li>
-                <a href="" target="_blank" rel="noopener noreferrer">
-                  <img className="LinkedinIcon" src={LinkedinIcon} alt="LinkedinIcon" />
-                </a>
-              </div>
+              <li>Emilio</li>
               <li>Data Science</li>
               <li>"Language nerd seeking to make a positive impact on the world through data!"</li>
             </ul>
@@ -147,7 +142,7 @@ function About() {
               <li>
                 {" "}
                 <img
-                  className="About_photo_leonor"
+                  className="About_photo"
                   src={Leonor_about}
                   alt="Leonor"
                 />
@@ -167,7 +162,7 @@ function About() {
               <li>
                 {" "}
                 <img
-                  className="About_photo_sara"
+                  className="About_photo"
                   src={Sara_about}
                   alt="Sara"
                 />
