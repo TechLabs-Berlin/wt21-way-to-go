@@ -78,3 +78,12 @@ li {
     display: inline-block;
   }
 }
+
+.LinkedinIcon {
+  height: 15px;
+  width: 15px;
+}
+
+.nameLinkedinContainer {
+  display: inline-flex;
+}
