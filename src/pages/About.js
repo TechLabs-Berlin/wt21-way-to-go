@@ -3,9 +3,14 @@ import "./About.css";
 import { Container, Row, Col } from "react-bootstrap";
 import BackgroundAbout from "../images/alexander1.jpeg";
 import BackgroundAbout2 from "../images/about2.png";
-import About_photo from "../images/about_photo.png";
-import Leonor_about from "../images/team/leonor_about.jpg";
-import Sara_about from "../images/team/sara_about.jpg";
+import Leonor_about from "../images/team/about_leonor1.png";
+import Stefanie_about from "../images/team/about_stepanie1.png";
+import Emilio_about from "../images/team/about_emilio1.png";
+import Sueon_about from "../images/team/about_sueon1.png";
+import Merve_about from "../images/team/about_merve1.png";
+import Paula_about from "../images/team/about_paula1.png";
+import Leonel_about from "../images/team/about_leonel1.png";
+import Sara_about from "../images/team/about_sara1.png";
 
 function About() {
   return (
@@ -50,7 +55,7 @@ function About() {
           <Col md className="item-1 item">
             <ul>
               <li>
-                <img className="About_photo" src={About_photo} alt="Emilio" />
+                <img className="About_photo" src={Emilio_about} alt="Emilio" />
               </li>
               <li>Emilio</li>
               <li>Data Science</li>
@@ -60,7 +65,7 @@ function About() {
           <Col md className="item-1 item">
             <ul>
               <li>
-                <img className="About_photo" src={About_photo} alt="Merve" />
+                <img className="About_photo" src={Merve_about} alt="Merve" />
               </li>
               <li>Merve</li>
               <li>Data Science</li>
@@ -70,7 +75,11 @@ function About() {
           <Col md className="item-1 item">
             <ul>
               <li>
-                <img className="About_photo" src={About_photo} alt="Stefanie" />
+                <img
+                  className="About_photo"
+                  src={Stefanie_about}
+                  alt="Stefanie"
+                />
               </li>
               <li>Stefanie</li>
               <li>Data Science</li>
@@ -82,7 +91,7 @@ function About() {
           <Col md className="item-1 item">
             <ul>
               <li>
-                <img className="About_photo" src={About_photo} alt="Paula" />
+                <img className="About_photo" src={Paula_about} alt="Paula" />
               </li>
               <li>Paula</li>
               <li>User Experience</li>
@@ -92,7 +101,7 @@ function About() {
           <Col md className="item-1 item">
             <ul>
               <li>
-                <img className="About_photo" src={About_photo} alt="Sueon" />
+                <img className="About_photo" src={Sueon_about} alt="Sueon" />
               </li>
               <li>Sueon</li>
               <li>User Experience</li>
@@ -105,7 +114,7 @@ function About() {
             <ul>
               <li>
                 {" "}
-                <img className="About_photo" src={About_photo} alt="Leonel" />
+                <img className="About_photo" src={Leonel_about} alt="Leonel" />
               </li>
               <li>Leonel</li>
               <li>Web Development</li>

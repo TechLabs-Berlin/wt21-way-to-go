@@ -73,18 +73,6 @@ li {
   text-align: center;
 }
 
-.About_photo_leonor {
-  width: 155px;
-  height: 165px;
-  border-radius: 50%;
-}
-
-.About_photo_sara {
-  width: 155px;
-  height: 165px;
-  border-radius: 50%;
-}
-
 @media only screen and (max-width: 550px) {
   .container_team {
     display: inline-block;
