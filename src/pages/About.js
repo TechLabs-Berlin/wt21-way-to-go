@@ -59,7 +59,7 @@ function About() {
               </li>
               <li>Emilio</li>
               <li>Data Science</li>
-              <li>"I love Techno"</li>
+              <li>"Language nerd seeking to make a positive impact on the world through data!"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -69,7 +69,7 @@ function About() {
               </li>
               <li>Merve</li>
               <li>Data Science</li>
-              <li>"I love Techno"</li>
+              <li>"My favourite <br />drink is turnip juice"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -83,7 +83,7 @@ function About() {
               </li>
               <li>Stefanie</li>
               <li>Data Science</li>
-              <li>"I love Techno"</li>
+              <li>"She likes having her <br />head buzzing with numbers"</li>
             </ul>
           </Col>
         </Row>
@@ -105,7 +105,7 @@ function About() {
               </li>
               <li>Sueon</li>
               <li>User Experience</li>
-              <li>"I love Techno"</li>
+              <li>"I love hiking and hope to<br />clime the Everest one day!"</li>
             </ul>
           </Col>
         </Row>
@@ -133,7 +133,7 @@ function About() {
               </li>
               <li>Leonor</li>
               <li>Web Development</li>
-              <li>"I love Techno"</li>
+              <li>"I love Cheese"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
