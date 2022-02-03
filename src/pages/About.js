@@ -179,7 +179,7 @@ function About() {
                 </a>
               </div>
               <li>Web Development</li>
-              <li>"I love Techno"</li>
+              <li>"Woman in tech, <br /> Cowboy Bebop Fan!"</li>
             </ul>
           </Col>
         </Row>
