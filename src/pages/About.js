@@ -11,6 +11,7 @@ import Merve_about from "../images/team/about_merve1.png";
 import Paula_about from "../images/team/about_paula1.png";
 import Leonel_about from "../images/team/about_leonel1.png";
 import Sara_about from "../images/team/about_sara1.png";
+import LinkedinIcon from "../images/LinkedinIcon.png";
 
 function About() {
   return (
@@ -59,7 +60,7 @@ function About() {
               </li>
               <li>Emilio</li>
               <li>Data Science</li>
-              <li>"I love Techno"</li>
+              <li>"Language nerd seeking to make a positive impact on the world through data!"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -67,9 +68,14 @@ function About() {
               <li>
                 <img className="About_photo" src={Merve_about} alt="Merve" />
               </li>
-              <li>Merve</li>
+              <div className="nameLinkedinContainer">
+                <li>Merve</li>
+                <a href="https://www.linkedin.com/in/merve-busra-duman/" target="_blank" rel="noopener noreferrer">
+                  <img className="LinkedinIcon" src={LinkedinIcon} alt="LinkedinIcon" />
+                </a>
+              </div>
               <li>Data Science</li>
-              <li>"I love Techno"</li>
+              <li>"My favourite <br />drink is turnip juice"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -81,9 +87,14 @@ function About() {
                   alt="Stefanie"
                 />
               </li>
-              <li>Stefanie</li>
+              <div className="nameLinkedinContainer">
+                <li>Stefanie</li>
+                <a href="https://de.linkedin.com/in/stefanie-senger-4b9508211" target="_blank" rel="noopener noreferrer">
+                  <img className="LinkedinIcon" src={LinkedinIcon} alt="LinkedinIcon" />
+                </a>
+              </div>
               <li>Data Science</li>
-              <li>"I love Techno"</li>
+              <li>"She likes having her <br />head buzzing with numbers"</li>
             </ul>
           </Col>
         </Row>
@@ -95,7 +106,7 @@ function About() {
               </li>
               <li>Paula</li>
               <li>User Experience</li>
-              <li>"I love Techno"</li>
+              <li>"I love to beautify <br />the world throught design"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -103,9 +114,14 @@ function About() {
               <li>
                 <img className="About_photo" src={Sueon_about} alt="Sueon" />
               </li>
-              <li>Sueon</li>
+              <div className="nameLinkedinContainer">
+                <li>Sueon</li>
+                <a href="https://www.linkedin.com/in/sueonahn/" target="_blank" rel="noopener noreferrer">
+                  <img className="LinkedinIcon" src={LinkedinIcon} alt="LinkedinIcon" />
+                </a>
+              </div>
               <li>User Experience</li>
-              <li>"I love Techno"</li>
+              <li>"I love hiking and hope to<br />clime the Everest one day!"</li>
             </ul>
           </Col>
         </Row>
@@ -118,7 +134,7 @@ function About() {
               </li>
               <li>Leonel</li>
               <li>Web Development</li>
-              <li>"I love Techno"</li>
+              <li>"Social scientist passionate about the visual aspect of things!"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -126,14 +142,19 @@ function About() {
               <li>
                 {" "}
                 <img
-                  className="About_photo_leonor"
+                  className="About_photo"
                   src={Leonor_about}
                   alt="Leonor"
                 />
               </li>
-              <li>Leonor</li>
+              <div className="nameLinkedinContainer">
+                <li>Leonor</li>
+                <a href="https://www.linkedin.com/in/leonor-cascais-58532422b/" target="_blank" rel="noopener noreferrer">
+                  <img className="LinkedinIcon" src={LinkedinIcon} alt="LinkedinIcon" />
+                </a>
+              </div>
               <li>Web Development</li>
-              <li>"I love Techno"</li>
+              <li>"I love Cheese"</li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -141,19 +162,24 @@ function About() {
               <li>
                 {" "}
                 <img
-                  className="About_photo_sara"
+                  className="About_photo"
                   src={Sara_about}
-                  alt="Leonor"
+                  alt="Sara"
                 />
               </li>
-              <li>Sara</li>
+              <div className="nameLinkedinContainer">
+                <li>Sara</li>
+                <a href="https://www.linkedin.com/in/sara-pulido-750b181b3/" target="_blank" rel="noopener noreferrer">
+                  <img className="LinkedinIcon" src={LinkedinIcon} alt="LinkedinIcon" />
+                </a>
+              </div>
               <li>Web Development</li>
-              <li>"I love Techno"</li>
+              <li>"Woman in tech, <br /> Cowboy Bebop Fan!"</li>
             </ul>
           </Col>
         </Row>
       </Container>
-    </div>
+    </div >
   );
 }
 
