@@ -1,9 +1,11 @@
 .sticky-footer {
     Background-color: #50979e;
+    color:#fff;
     padding-top: 5px;
     padding-bottom: 5px;
     font-weight: 700;
     font-family: corbel;
+    font-size: 14px;
   }
   
   .left {
@@ -12,5 +14,4 @@
   
   .right {
     text-align: right;
-  
-  }
+    }

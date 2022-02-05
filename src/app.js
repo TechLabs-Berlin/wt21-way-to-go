@@ -1,12 +1,13 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/navBar/Navbar";
-import Footer from "./components/footer/footer";
-import StickyFooter from "./components/stickyFooter/stickyfooter";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import About from "./pages/About";
 import How from "./pages/How";
+import Footer from "./components/footer/footer";
+import StickyFooter from "./components/stickyFooter/stickyfooter";
+
 import "./app.css";
 
 const App = function () {
@@ -23,7 +24,6 @@ const App = function () {
       </BrowserRouter>
       <Footer />
       <StickyFooter />
-
     </div>
   );
 };
