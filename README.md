@@ -3,8 +3,6 @@
 
 A different Way To Go to your final destination.
 
-Way To Go is a personalised, map based web app that provides route recommendations in Berlin, based on a user’s mood. You tell us how you feel and we’ll tell you the **Way To Go!**
-
 ## Background
 
 We all use Google Maps. However, when searching for directions between two places, Google only gives you the fastest, most direct routes, with very limited scope for personalisation. What if you have extra time to pass by interesting places on the way to your destination? This is what Way To Go seeks to address, asking a user to choose from pre-defined categories to determine what they will do or see along their journey. The suggested routes and route categories are based on data collected from previously walked routes and public locations across Berlin. 
