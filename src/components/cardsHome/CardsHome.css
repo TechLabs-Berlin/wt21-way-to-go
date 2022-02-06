@@ -11,14 +11,15 @@
   font-family:anaheim;
   -webkit-text-stroke-width: 1px;
   text-shadow: 2px 1px 2px #1a1919;
-
-
+  font-family: anaheim;
 }
 
 .cards_title_item {
   font-size: 15px;
   font-weight: bold;
   font-style: italic;
+  font-family: QuattrocentoSans Bold Italic;
+
 }
 
 .cards_Items {
