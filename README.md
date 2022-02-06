@@ -1,6 +1,8 @@
 # WayToGo
 
-A different Way To Go to your final destination, personalised routes suggestions based on what you feel like seeing today, coffee, museums, parks, ...? You tell us and we tell you the way to go!
+A different Way To Go to your final destination.
+
+Way To Go is a personalised, map based web app that provides route recommendations in Berlin, based on a user’s mood. You tell us how you feel and we’ll tell you the **Way To Go!**
 
 ## Background
 
@@ -9,10 +11,9 @@ We all use Google Maps. However, when searching for directions between two place
 ## UX Research
 To learn more about what UX researchers did in order to design a prototype for the app, check out their work in [Notion](https://sueon.notion.site/User-Experience-af8595c6f01d439082427b470a524045)!
 
+## **Requirements**
 
-## Requirements
-
-### API Keys
+**API Keys**
 
 For this demo to work, please create a Google Map API Key, and ensure that the two services below are enabled... otherwise it won't work! This API key must be in the environment variable `REACT_APP_GOOGLE_PLACES_API_KEY`.
 
@@ -20,15 +21,18 @@ For this demo to work, please create a Google Map API Key, and ensure that the t
 - Places API
 - Geocoding API
 
-### Virtuel Enviroment
+**Virtual Environment**
 
-In order to run the Python and ipynb code, you need to have the following libraries installed:
+In order to run the Python and .ipynb code for data manipulation, you need to have the following libraries installed:
 
 - [os](https://docs.python.org/3/library/os.html)
-- [pandas](https://pandas.pydata.org/docs/)
 - [json](https://docs.python.org/3/library/json.html)
+- [numpy](https://numpy.org/)
+- [maplotlib](https://matplotlib.org/)
+- [pandas](https://pandas.pydata.org/docs/)
 - [requests](https://docs.python-requests.org/en/latest/)
-- [geopandas](https://geopandas.org/en/stable/) (If you're working on Windows it doesn't work unless you install [GDAL and Fiona wheels](https://iotespresso.com/how-to-install-geopandas-on-windows/) before)
+- [geopandas](https://geopandas.org/en/stable/) (If you're working on Windows it doesn't work unless you install [GDAL and Fiona wheels](https://iotespresso.com/how-to-install-geopandas-on-windows/) before)
+- [shapely](https://shapely.readthedocs.io/en/stable/manual.html)
 - [urllib](https://docs.python.org/3/library/urllib.html)
 - [gpxpy](https://github.com/tkrajina/gpxpy)
 - [GoogleMaps Services](https://pythonrepo.com/repo/googlemaps-google-maps-services-python-python-third-party-apis-wrappers)
@@ -59,7 +63,7 @@ npm install
 npm start
 ```
 
-**5. Run the app in the development mode**
+**5. Run app in development mode**
 
 ```shell
 http://localhost:3000
@@ -77,7 +81,7 @@ cd flask
 python3 -m venv venv
 ```
 
-**8. Activate the environment**
+**8. Activate environment**
 
 8.1 for MacOS
 
@@ -96,9 +100,9 @@ venv\Scripts\activates
 ```shell
 pip install -r requirements.txt
 ```
-**10. Convert the csv database into a SQL database**
+**10. Convert the .csv database into an SQL database**
 
-i. Move the "joint_data.csv" in the same folder. 
+i. Move the "joined_data.csv" in the same folder. 
 
 ii. Create the SQL Database running create_sqlite_db.py. 
 
@@ -120,11 +124,47 @@ flask run
 
 Soon to be deployed
 
-## Data
+### **Data**
 
-We have worked with data on popular routes and with data on points of interest, that pedestrians might want to look for when walking, both geographically constrained on Berlin and surroundings.
+We worked with data on popular routes and with data on points of interest that pedestrians might want to look for when walking. The data is geographically constrained on Berlin and surroundings.
 
-For obtaining the routes data, you need to scrape [wandermap.net](wandermap.net) on the query "Berlin".
-The data on points of interest can be scraped from [OpenStreetMap.org](https://wiki.openstreetmap.org/wiki/Map_features)
+For obtaining the routes data, you need to scrape [wandermap.net](https://github.com/TechLabs-Berlin/wt21-way-to-go/blob/main/wandermap.net) on the query "Berlin". 
 
-For data visualisation, we used post code data from [suche-postleitzahl.org](https://www.suche-postleitzahl.org/plz-karte-erstellen), together with [Dr. Juan Camilo Orduz'wonderful Github repository and blogpost "Open Data: Germany Maps Viz"](https://juanitorduz.github.io/germany_plots/)
+The data on points of interest can be scraped from [OpenStreetMap.org](https://wiki.openstreetmap.org/wiki/Map_features) filtering for the following place type categories:
+
+- “amenity”: “bar”
+- “amenity”: “cafe”
+- “amenity”: “ice_cream”
+- “amenity”: “restaurant”
+- “amenity”: “nightclub”
+- “amenity”: “atm”
+- “amenity”: “bench”
+- “amenity”: “drinking_water”
+- “historic”: “yes”
+- “leisure”: “picnic_table”
+- “natural”: “tree”
+- “shop”: “convenience”
+- “tourism”: “art_work”
+- “tourism”: “attraction”
+- “tourism”: “gallery”
+- “tourism”: “viewpoint”
+
+For data visualisation, we used post code data from [suche-postleitzahl.org](https://www.suche-postleitzahl.org/plz-karte-erstellen), together with [Dr. Juan Camilo Orduz'wonderful Github repository and blogpost "Open Data: Germany Maps Viz"](https://juanitorduz.github.io/germany_plots/)
+
+## **Deployment**
+
+Pending to deploy on: [https://www.heroku.com/](https://www.heroku.com/)
+
+## **Team**
+
+### **Data Science**
+
+Merve Büşra Duman, Emilio Flores Bartelt, Stefanie Senger
+
+### **User Experience**
+
+Sueon Ahn, Paula Sebastiano
+
+### **Web Development**
+
+Leonor Cascais, Sara Pulido, Leonel Acosta
