@@ -50,7 +50,7 @@
 }
 
 @font-face {
-  font-family: "Corbel-Bold";
+  font-family: "Corbel Bold";
   font-style: normal;
   font-weight: Bold;
   src: local("Corbel-Bold"), url("./fonts/corbel/corbelbold.ttf") format("typeface");
@@ -69,4 +69,33 @@
   font-style: Normal;
   font-weight: Normal;
   src: local("Anaheim"), url("./fonts/anaheim/anaheim-regular.ttf") format("typeface");
+}
+
+/* Quattrocento Sans Truetype */
+@font-face {
+  font-family: "QuattrocentoSans";
+  font-style: Normal;
+  font-weight: Normal;
+  src: local("QuattrocentoSans"), url("./fonts/quattrocentosans/QuattrocentoSans-Regular.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "QuattrocentoSans Bold";
+  font-style: Normal;
+  font-weight: Bold;
+  src: local("QuattrocentoSans bold"), url("./fonts/quattrocentosans/QuattrocentoSans-Bold.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "QuattrocentoSans Italic";
+  font-style: Italic;
+  font-weight: Normal;
+  src: local("QuattrocentoSans Italic"), url("./fonts/quattrocentosans/QuattrocentoSans-Italic.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "QuattrocentoSans Bold Italic";
+  font-style: Italic;
+  font-weight: Bold;
+  src: local("QuattrocentoSans Bold Italic"), url("./fonts/quattrocentosans/QuattrocentoSans-BoldItalic.ttf") format("typeface");
 }
