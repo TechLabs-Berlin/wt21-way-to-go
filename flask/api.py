@@ -1,11 +1,13 @@
 import flask
 from flask import request, jsonify
 import sqlite3
+from flask_cors import CORS
 
 from home import home_bp
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
+CORS(app)
 
 def dict_factory(cursor, row):
     d = {}
@@ -18,7 +20,7 @@ app.register_blueprint(home_bp, url_prefix='/')
 # A route to return all of the available entries in our database.
 @app.route('/routes/all', methods=['GET'])
 def api_all():
-    conn = sqlite3.connect('routes.db') # To connect the database to the server.
+    conn = sqlite3.connect('selected_routes.db') # To connect the database to the server.
     conn.row_factory = dict_factory
     cur = conn.cursor()
     all_routes = cur.execute('SELECT * FROM routes;').fetchall()
@@ -33,6 +35,8 @@ def page_not_found(e):
 @app.route('/routes/', methods=['GET'])
 def api_filter():
     query_parameters = request.args
+
+    print(query_parameters)
 
     route_id = query_parameters.get('route_id')
     route_linestring = query_parameters.get('route_linestring')

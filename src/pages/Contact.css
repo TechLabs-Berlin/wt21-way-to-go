@@ -1,0 +1,53 @@
+.jumbotron {
+  color: white;
+  background-image: url("../images/contact_bg.jpg");
+  background-position:right ;
+  background-repeat:repeat ;
+  background-size:220% ;
+  height: 700px;
+  font-family: corbel, Arial, Helvetica, sans-serif Bold;
+  margin-top:-70px; 
+}
+
+.contact_page_header figcaption {
+  position: absolute;
+  top: 5rem;
+  margin: 0 -9.5rem;
+  color:#fff;
+  font-family: Corbel, Arial, Helvetica, sans-serif Bold;
+
+}
+
+.title_contact_page {
+  font-size: 60px;
+  font-weight: bolder;
+  margin-left: 35px;
+  text-shadow: 1px 1px 2px #4e4e4e;
+  font-family: Corbel, Arial, Helvetica, sans-serif Bold;
+  color:#fff;
+}
+
+.text_contact_page {
+  font-size: 32px;
+  font-weight: 400;
+  text-shadow: 1px 1px 1px #4e4e4e;
+  margin-top: 35px;
+  margin-left: 35px;
+  color: #fff;
+  font-family: Corbel, Arial, Helvetica, sans-serif Bold;
+
+}
+
+.contact_info {
+  font-size: 24px;
+  padding: 40px 40px 40px 40px;
+  text-shadow: 1px 1px 1px #4e4e4e;
+  font-family: Corbel, Arial, Helvetica, sans-serif Bold;
+
+
+}
+
+.contact_email {
+  margin-top: 50px;
+}
+

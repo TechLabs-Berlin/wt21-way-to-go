@@ -3,20 +3,70 @@
   box-sizing: border-box;
 }
 
-body {
-  /* background-color: #50979f91; */
-}
-.top-header {
-  margin-top: 25px;
+/* Kozuka Gothic Fontface */
+
+@font-face {
+  font-family: "Kozuoka Gothic Pro R";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kozuoka Gothic Pro R"), url("./fonts/kozuoka/KozGoProRegular.woff") format("woff");
 }
 
-.top-header span {
-  float: right;
-  position: relative;
-  margin-left: auto;
-  margin-right: 0;
-  text-decoration: none;
-  font-size: 16px;
-  display: flex;
-  flex-grow: inherit;
+@font-face {
+  font-family: "Kozuoka Gothic Pro L";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kozuoka Gothic Pro L"), url("./fonts/kozuoka/KozGoProLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Kozuoka Gothic Pro M";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kozuoka Gothic Pro M"), url("./fonts/kozuoka/KozGoProMedium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Kozuoka Gothic Pro B";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kozuoka Gothic Pro B"), url("./fonts/kozuoka/KozGoProBold.woff") format("woff");
+}
+
+/* Corbel Truetype */
+@font-face {
+  font-family: "Corbel";
+  font-style: Normal;
+  font-weight: Normal;
+  src: local("Corbel"), url("./fonts/corbel/corbel.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "Corbel Bold Italic";
+  font-style: Italic;
+  font-weight: Bold;
+  src: local("Corbel Bold Italic"),
+    url("./fonts/corbel/corbelbolditalic.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "Corbel-Bold";
+  font-style: normal;
+  font-weight: Bold;
+  src: local("Corbel-Bold"), url("./fonts/corbel/corbelbold.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "Corbel Italic";
+  font-style: Italic;
+  font-weight: normal;
+  src: local("Corbel Italic"), url("./fonts/corbel/corbelitalic.ttf") format("typeface");
+}
+
+/* Anaheim Truetype */
+@font-face {
+  font-family: "Anaheim";
+  font-style: Normal;
+  font-weight: Normal;
+  src: local("Anaheim"), url("./fonts/anaheim/anaheim-regular.ttf") format("typeface");
 }

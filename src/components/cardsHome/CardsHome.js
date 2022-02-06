@@ -42,7 +42,7 @@ function cardsHome() {
                 alt="vistit Berlin"
                 title=""
               >
-                more ..
+                more &gt;&gt;
               </a>
             </Card.Body>
           </Card>
@@ -70,10 +70,10 @@ function cardsHome() {
                 rel="noreferrer"
                 className="btn card_link1"
                 target="_blank"
-                alt="go to "
-                title="visit Berliln"
+                alt="visit Berlin "
+                title="visit Berlin"
               >
-                more ..
+                more &gt;&gt;
               </a>
             </Card.Body>
           </Card>
@@ -104,7 +104,7 @@ function cardsHome() {
                 alt="vistit Berlin"
                 title="visit Berlin"
               >
-                more ..
+                more &gt;&gt;
               </a>
             </Card.Body>
           </Card>

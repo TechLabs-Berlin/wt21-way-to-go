@@ -1,11 +1,13 @@
 .BackgroundAbout {
-  margin: -59px 20px 25px -225px;
+  margin: -60px 0px 0px -216px;
+  width: 96rem;
+  height: 45rem;
 }
 
 figcaption {
   position: absolute;
   top: 3rem;
-  margin: 0 -9.5rem;
+  margin: 0 -11rem;
   color: #49888f;
 }
 
@@ -13,14 +15,15 @@ figcaption h1 {
   font-size: 60px;
   font-weight: bolder;
   margin-left: 35px;
-  text-shadow: 1px 1px 2px #4e4e4e;
-  font-family: Corbel Bold;
+  margin-top: 139px;
+  text-shadow: 1px 1.5px 2px #4e4e4e;
+  font-family: Corbel-Bold;
 }
 
 figcaption p {
-  font-size: 38px;
+  font-size: 32px;
   font-weight: 400;
-  text-shadow: 1px 1px 1px #4e4e4e;
+  text-shadow: 1px 2px 1px #4e4e4e;
   margin-top: 35px;
   margin-left: 35px;
 }
@@ -74,4 +77,21 @@ li {
   .container_team {
     display: inline-block;
   }
+}
+
+.LinkedinIcon {
+  height: 18px;
+  width: 18px;
+  margin-left: 5px;
+}
+
+.nameLinkedinContainer {
+  display: inline-flex;
+}
+
+
+.About_photo {
+  height: 120px;
+  width: 120px;
+  margin-bottom: 10px;
 }
