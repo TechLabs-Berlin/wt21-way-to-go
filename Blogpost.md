@@ -1,7 +1,7 @@
 ### UX
 **Members:** [Sueon Ahn](https://www.linkedin.com/in/sueonahn/), Paula Sebastiano
 
-**Tech Stack:** Miro, Figma, Adope Photoshop, Notion
+**Tech Stack:** Miro, Figma, Adope Photoshop, Notion, SurveyMonkey
 
 The first step that we had to do was defining the problem. The problem is “There is no map app that provides a personalized route, which can suggest a recommendation and a route at the same time”. In order to get a better understanding of potential users’ needs, we decided to conduct the in-depth interviews, targeting Berlin residents aged 20-40s. 
 
