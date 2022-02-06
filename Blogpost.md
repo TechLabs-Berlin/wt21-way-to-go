@@ -1,3 +1,26 @@
+### UX
+**Members:** [Sueon Ahn](https://www.linkedin.com/in/sueonahn/), Paula Sebastiano
+
+**Tech Stack:** Miro, Figma, Adope Photoshop, Notion
+
+The first step that we had to do was defining the problem. The problem is “There is no map app that provides a personalized route, which can suggest a recommendation and a route at the same time”. In order to get a better understanding of potential users’ needs, we decided to conduct the in-depth interviews, targeting Berlin residents aged 20-40s. 
+
+The goal of the interview is to understand when, how, how often participants navigate with maps and which challenges they have while using it, and to examine general opinion of participants regarding a personalized map. As the interview consists of 16 questions and has much possibility to lead to a follow-up questions, in-person interview is preferably conducted. In case in-person interview is unavailable due to pandemic or other reasons, respondents submitted their opinions through SurveyMonkey. With collected data, Personas and User stories are created. In addition, Affinity Mapping is done to organize responses in groups.
+
+!
+    [img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff96a8480-1d0c-4de4-a91a-5588d5cb3050%2FScreenshot_2022-02-05_at_18.35.05.png?table=block&id=6b22ad0f-4c4c-491a-9d1f-a2faf5b23c0a&spaceId=66f9507a-4ad7-4538-8157-98c0494da193&width=1880&userId=6fddb17b-77de-4e0b-8660-d2b44d0d7be9&cache=v2)
+    
+Through affinity mapping, several important components for users are shown up, such as
+- Good recommendation is a key for user satisfaction → well-established and appropriate data analysis is imperative
+- Many people find ‘time saving’ as a strength → the app should react in a couple of seconds
+- Not only static points, some users are also interested in live events → getting related information from different platforms is required
+
+Besides juggling around user data, competitive analysis carried out in order to examine similar apps and to understand their strengths and weaknesses. By exploring a webpage of BVG (major transportation in Berlin), Roadtrippers (road trip planning tool), and Google Maps (web mapping platform), we started working on low-fidelity and high-fidelity wireframes on [Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FntRot2xviamxAUrRwP0aDS%2FWTG---FINAL-PROTOTYPE%3Fnode-id%3D86%253A1754).
+
+As we worked on a prototype on Figma, we constantly communicated with Frontend developers, in order to check process and investigate what could be done and what not. Together with the Frontend developers, the prototype was further optimized to meet the app’s functionalities.
+
+After the prototype is finished, we are planning to carry out user test.
+
 ### DS
 
 **Members:** [Emilio Flores](https://github.com/floresbar), [Merve Busra Duman](https://github.com/mervebduman), [Stefanie Senger](https://github.com/StefanieSenger)
