@@ -76,26 +76,26 @@
   font-family: "QuattrocentoSans";
   font-style: Normal;
   font-weight: Normal;
-  src: local("QuattrocentoSans"), url("./fonts/quattrocentosans/QuattrocentoSans-Regular.ttf") format("typeface");
+  src: local("QuattrocentoSans"), url("./fonts/quattrocentosans/QuattrocentoSans-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "QuattrocentoSans Bold";
   font-style: Normal;
   font-weight: Bold;
-  src: local("QuattrocentoSans bold"), url("./fonts/quattrocentosans/QuattrocentoSans-Bold.ttf") format("typeface");
+  src: local("QuattrocentoSans bold"), url("./fonts/quattrocentosans/QuattrocentoSans-Bold.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "QuattrocentoSans Italic";
   font-style: Italic;
   font-weight: Normal;
-  src: local("QuattrocentoSans Italic"), url("./fonts/quattrocentosans/QuattrocentoSans-Italic.ttf") format("typeface");
+  src: local("QuattrocentoSans Italic"), url("./fonts/quattrocentosans/QuattrocentoSans-Italic.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "QuattrocentoSans Bold Italic";
   font-style: Italic;
   font-weight: Bold;
-  src: local("QuattrocentoSans Bold Italic"), url("./fonts/quattrocentosans/QuattrocentoSans-BoldItalic.ttf") format("typeface");
+  src: local("QuattrocentoSans Bold Italic"), url("./fonts/quattrocentosans/QuattrocentoSans-BoldItalic.ttf") format("truetype");
 }
