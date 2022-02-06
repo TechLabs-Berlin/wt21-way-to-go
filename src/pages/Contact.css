@@ -5,8 +5,6 @@
   background-repeat:repeat ;
   background-size:220% ;
   height: 700px;
-  font-family: QuattrocentoSans Bold;
-  font-weight: 800;
   margin-top:-70px; 
 }
 
@@ -19,10 +17,10 @@
 
 .title_contact_page {
   font-size: 60px;
-  font-weight: bolder;
   margin-left: 35px;
   text-shadow: 1px 1px 2px #4e4e4e;
-  font-family:  QuattrocentoSans;
+  font-family:  QuattrocentoSans Bold;
+  font-weight: 700;
   color:#fff;
 }
 
