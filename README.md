@@ -1,4 +1,4 @@
-![name-of-you-image](https://github.com/TechLabs-Berlin/wt21-way-to-go/blob/main/src/images/wtg-logo-blue.png?raw=true)
+![name-of-you-image](https://files.slack.com/files-pri/T6QB33X0T-F032K1FL34G/image.png)
 # Way To Go
 
 A different Way To Go to your final destination.
