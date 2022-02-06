@@ -1,8 +1,8 @@
-*Shoutout to TechLabs-Team: if you feel that something here is wrong or unhelpful, please let us know, we're quick to update. :)
+*Shoutout to TechLabs-Team: if you feel that something here is wrong or unhelpful, please let us know, we'll be quick to update. :)
 Thank you. :)*
 
 
-# Project Summary - WayToGo 
+# Project Summary - Way To Go 
 
 A different Way To Go to your destination.
 
