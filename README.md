@@ -1,3 +1,4 @@
+![name-of-you-image](https://github.com/TechLabs-Berlin/wt21-way-to-go/blob/main/src/images/wtg-logo-blue.png?raw=true)
 # WayToGo
 
 A different Way To Go to your final destination.
