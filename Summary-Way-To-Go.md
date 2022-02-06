@@ -1,9 +1,11 @@
-*Shoutout to TechLabs-Team: if you feel that something here is wrong or unhelpful, please let us know, we'll be quick to update. :)
+*Shoutout to TechLabs-Team: if you feel that something here is wrong or unhelpful (esp. if the logo cannot be in the certificate), please let us know, we'll be quick to update. :)
 Thank you. :)*
 
 
-# Project Summary - Way To Go 
-
+<p align="center">
+    <img src="https://github.com/TechLabs-Berlin/wt21-way-to-go/blob/readme_edit/logo.png?raw=true"/>
+ </p>
+ 
 A different Way To Go to your destination.
 
 Way To Go is a map based web application providing personalised walking routes based on user input. Powered by popular Berlin route and location data, the app goes beyond traditional route calculation: not merely returning the fastest route, Way To Go recommends detours based on a user’s location, destination, and selection from a list of clearly defined route profiles, each passing by a different set of interesting location types - from historical attractions to local amenities. From its easy-to-use interface to its integrated map, Way To Go will take you from dull walk to data-driven tour in seconds.
