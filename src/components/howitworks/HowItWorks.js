@@ -1,7 +1,9 @@
 import React from "react";
 import "../howitworks/HowItWorks.css";
 import { Container, Row, Col, Image } from "react-bootstrap";
-import demo from "../images/demo-hiw.jpg";
+import hiw1 from "../images/demo-hiw-1-1.png";
+import hiw2 from "../images/demo-hiw-2-2.png";
+import hiw3 from "../images/demo-hiw-3-3.png";
 import line from "../images/line-wtg-1-1.png";
 import line2 from "../images/line-wtg-2-2.png";
 import line3 from "../images/line-wtg-3-3.png";
@@ -20,7 +22,7 @@ function HowItWorks() {
 
         <Row className="d-flex justify-content-between align-items-center">
           <Col md={4} sm={6}>
-            <Image src={demo} alt="cool photo demo" fluid className="demo_1" />
+            <Image src={hiw1} alt="cool photo demo" fluid className="demo_1" />
           </Col>
           <Col md={4} sm={6}>
             <Image src={line} alt="cool line demo" fluid className="line1" />
@@ -43,12 +45,12 @@ function HowItWorks() {
             <Image src={line2} alt="cool line demo" fluid className="line2" />
           </Col>
           <Col md={4} sm={6}>
-            <Image src={demo} alt="cool photo demo" fluid className="demo_2" />
+            <Image src={hiw2} alt="cool photo demo" fluid className="demo_2" />
           </Col>
         </Row>
         <Row className="d-flex justify-content-between align-items-center">
           <Col md={4} sm={6}>
-            <Image src={demo} alt="cool photo demo" className="demo_3" fluid />
+            <Image src={hiw3} alt="cool photo demo" className="demo_3" fluid />
           </Col>
           <Col md={4} sm={6}>
             <Image src={line3} alt="cool line demo" fluid className="line3" />
