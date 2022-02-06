@@ -1,5 +1,7 @@
-![logo.png](https://raw.githubusercontent.com/TechLabs-Berlin/wt21-way-to-go/readme_edit/logo.png)
-# Blog Post
+<p align="center">
+   <img src="https://github.com/TechLabs-Berlin/wt21-way-to-go/blob/readme_edit/logo.png?raw=true"/>
+</p>
+
 A different Way To Go to your final destination.
 
 Way To Go is a personalised, map based web app that provides route recommendations in Berlin, based on a user's interests. You tell us what you feel like and we'll tell you the **Way To Go!**
