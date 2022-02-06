@@ -7,8 +7,7 @@ The first step that we had to do was defining the problem. The problem is “The
 
 The goal of the interview is to understand when, how, how often participants navigate with maps and which challenges they have while using it, and to examine general opinion of participants regarding a personalized map. As the interview consists of 16 questions and has much possibility to lead to a follow-up questions, in-person interview is preferably conducted. In case in-person interview is unavailable due to pandemic or other reasons, respondents submitted their opinions through SurveyMonkey. With collected data, Personas and User stories are created. In addition, Affinity Mapping is done to organize responses in groups.
 
-!
-    [img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff96a8480-1d0c-4de4-a91a-5588d5cb3050%2FScreenshot_2022-02-05_at_18.35.05.png?table=block&id=6b22ad0f-4c4c-491a-9d1f-a2faf5b23c0a&spaceId=66f9507a-4ad7-4538-8157-98c0494da193&width=1880&userId=6fddb17b-77de-4e0b-8660-d2b44d0d7be9&cache=v2)
+![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff96a8480-1d0c-4de4-a91a-5588d5cb3050%2FScreenshot_2022-02-05_at_18.35.05.png?table=block&id=6b22ad0f-4c4c-491a-9d1f-a2faf5b23c0a&spaceId=66f9507a-4ad7-4538-8157-98c0494da193&width=1880&userId=6fddb17b-77de-4e0b-8660-d2b44d0d7be9&cache=v2)
     
 Through affinity mapping, several important components for users are shown up, such as
 - Good recommendation is a key for user satisfaction → well-established and appropriate data analysis is imperative
