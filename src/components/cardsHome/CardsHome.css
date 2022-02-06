@@ -8,11 +8,17 @@
   margin-top: 50px;
   margin-left: 73px;
   font-size: 40px;
+  font-family:anaheim;
+  -webkit-text-stroke-width: 1px;
+  text-shadow: 2px 1px 2px #1a1919;
+
+
 }
 
 .cards_title_item {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: bold;
+  font-style: italic;
 }
 
 .cards_Items {
@@ -34,15 +40,17 @@
 }
 
 .card_Item {
-  border-radius: 12px;
+  border-radius: 12 px;
   margin: 20px 20px 20px 25px;
   padding: 15px 15px 15px 15px;
 }
 
 .card_link1 {
   border: 0.5px solid #282828;
-  padding: 14px 60px 14px 60px;
-  margin: 12px 12px 12px 23px;
+  padding: 8px 80px 8px 80px;
+  margin: 12px 15px 12px 15px;
+  border-radius: 12px;
+  font-family:anaheim;
 }
 
 .card2 {
@@ -57,14 +65,16 @@
 
 .design {
   background: #4e949c;
-  padding: 50px 782px 513px 760px;
+  padding: 80px 782px 513px 760px;
   margin: -228px;
 }
 
 .cards_outsideText {
-  font-size: 38px;
+  font-size: 42px;
   color: #f9f7fe;
+  text-shadow: 2px 1px 2px #4e4e4e;
   text-align: center;
   font-weight: 400;
   letter-spacing: 3px;
+  font-family:anaheim;
 }

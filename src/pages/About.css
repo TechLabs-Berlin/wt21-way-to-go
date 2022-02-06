@@ -17,7 +17,7 @@ figcaption h1 {
   margin-left: 35px;
   margin-top: 139px;
   text-shadow: 1px 1.5px 2px #4e4e4e;
-  font-family: Corbel Bold;
+  font-family: Corbel-Bold;
 }
 
 figcaption p {
@@ -80,15 +80,18 @@ li {
 }
 
 .LinkedinIcon {
-  height: 15px;
-  width: 15px;
+  height: 18px;
+  width: 18px;
+  margin-left: 5px;
 }
 
 .nameLinkedinContainer {
   display: inline-flex;
 }
 
+
 .About_photo {
-  height: 100px;
-  width: 100px;
+  height: 120px;
+  width: 120px;
+  margin-bottom: 10px;
 }

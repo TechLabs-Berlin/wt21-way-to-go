@@ -1,5 +1,6 @@
 .hiw_section_landing {
   padding: 32px;
+  font-size:18px;
 }
 
 .header_hiw h2 {
@@ -7,6 +8,9 @@
   margin: 56px 15px 65px -15px;
   font-size: 42px;
   text-shadow: 0px 1px 1px #4e4e4e;
+  font-family:anaheim;
+  -webkit-text-stroke-width: 2px;
+
 }
 
 .enjoy_link {
@@ -21,11 +25,14 @@
   font-size: 38px;
   line-height: 11px;
   font-weight: 700;
-  word-spacing: 3px;
+  word-spacing: 1px;
   margin-left: 452px;
   margin-top: -108px;
   transition: all 100ms ease-in-out;
   box-shadow: 7px 5px 5px rgb(196, 196, 196);
+  font-family: Kozuoka Gothic Pro B;
+  -webkit-text-stroke-width: 2px;
+
 }
 
 .link_go_top a :hover {
@@ -79,7 +86,7 @@
   }
   .step_1 {
     margin: 12px 0px 7px -26px;
-    font-size: 14px;
+    font-size: 17px;
   }
   .step_2 {
     margin: 12px 0px 7px -26px;
