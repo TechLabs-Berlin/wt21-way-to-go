@@ -10,7 +10,7 @@ const footer = () => {
       <Container className="container-footer">
         <Row className="justify-content-between">
           <Col md={3} xs={6} className="mr-3">
-            <img src={logo} class="img-fluid" alt="Way To Go!" />
+            <img src={logo} className="img-fluid" alt="Way To Go!" />
             <Row>
               <Col md={5} className="center">
                 <strong>
@@ -50,7 +50,7 @@ const footer = () => {
             <ul className="menu">
               <li>EMAIL US</li>
               <li>
-                <a class="email" href="mailto:hallo@waytogo.com">
+                <a className="email" href="mailto:hallo@waytogo.com">
                   hallo@waytogo.com
                 </a>
               </li>
