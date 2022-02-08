@@ -1,11 +1,10 @@
 import React from "react";
 import "../pages/Contact.css";
-import BackgroundContact from "../images/contact_bg1.png";
 
 function Contact() {
   return (
     <div>
-      <div class="jumbotron">
+      <div className="jumbotron">
         <div className="container">
           <figcaption className="contact_page_header">
             {" "}
