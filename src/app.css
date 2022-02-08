@@ -68,7 +68,7 @@
   font-family: "Anaheim";
   font-style: Normal;
   font-weight: Normal;
-  src: local("Anaheim"), url("./fonts/anaheim/anaheim-regular.ttf") format("typeface");
+  src: local("Anaheim"), url("./fonts/anaheim/Anaheim-Regular.ttf") format("typeface");
 }
 
 /* Quattrocento Sans Truetype */
