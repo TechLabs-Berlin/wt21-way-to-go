@@ -28,12 +28,16 @@
   .menu {
     list-style: none; 
   }
+
+  .menu-links {
+    list-style: none; 
+  }
   
-  a {
-   color:#fff 
+  .menu-links a {
+   color:#fff; 
   }
 
-  a:hover {
+  .menu-links a:hover {
     color:#0d6efd;
     text-decoration: none;
   }
