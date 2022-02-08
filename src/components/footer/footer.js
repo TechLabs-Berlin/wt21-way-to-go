@@ -71,7 +71,7 @@ const footer = () => {
           </Col>
 
           <Col md={3} xs={6}>
-            <ul className="menu">
+            <ul className="menu-links">
               <li>ADVERTISING ON WAY TO GO</li>
               <li>PRESS</li>
               <li>
