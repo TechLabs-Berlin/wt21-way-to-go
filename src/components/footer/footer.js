@@ -1,8 +1,9 @@
 import React from "react";
-import "./footer.css";
 import { Container, Row, Col } from "react-bootstrap";
 import { FaTwitter, FaFacebook, FaInstagram } from "react-icons/fa";
 import logo from "./../../images/wtg-logo-blue.png";
+import "./footer.css";
+
 
 const footer = () => {
   return (
@@ -58,7 +59,7 @@ const footer = () => {
           </Col>
 
           <Col md={2} xs={6}>
-            <ul className="menu">
+            <ul className="menu-links">
               <li>
                 <a href="/about">ABOUT WAYTOGO!</a>
               </li>
