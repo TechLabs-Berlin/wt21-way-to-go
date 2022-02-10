@@ -23,19 +23,21 @@ For this demo to work, please create a Google Map API Key, and ensure that the t
 
 **Virtual Environment**
 
-In order to run the Python and .ipynb code for data manipulation, you need to have the following libraries installed:
+In order to run the Python and .ipynb code for data manipulation and machine learning, you need to have the following libraries installed:
 
 - [os](https://docs.python.org/3/library/os.html)
 - [json](https://docs.python.org/3/library/json.html)
-- [numpy](https://numpy.org/)
-- [maplotlib](https://matplotlib.org/)
-- [pandas](https://pandas.pydata.org/docs/)
-- [requests](https://docs.python-requests.org/en/latest/)
-- [geopandas](https://geopandas.org/en/stable/) (If you're working on Windows it doesn't work unless you install [GDAL and Fiona wheels](https://iotespresso.com/how-to-install-geopandas-on-windows/) before)
-- [shapely](https://shapely.readthedocs.io/en/stable/manual.html)
-- [urllib](https://docs.python.org/3/library/urllib.html)
 - [gpxpy](https://github.com/tkrajina/gpxpy)
+- [requests](https://docs.python-requests.org/en/latest/)
+- [urllib](https://docs.python.org/3/library/urllib.html)
 - [GoogleMaps Services](https://pythonrepo.com/repo/googlemaps-google-maps-services-python-python-third-party-apis-wrappers)
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/docs/)
+- [maplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [geopandas](https://geopandas.org/en/stable/) (On Windows you need to install [GDAL and Fiona wheels](https://iotespresso.com/how-to-install-geopandas-on-windows/) before.)
+- [shapely](https://shapely.readthedocs.io/en/stable/manual.html)
+- [scikit-learn](https://scikit-learn.org/s)
 
 ## Setup
 
