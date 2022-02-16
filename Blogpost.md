@@ -22,7 +22,7 @@ It was after this that our main pressing points showed up - being a project that
 
 Thus, the whole group joined to start drawing and discussing a prototype to better understand this structure. From this point on, things got a bit clearer and work started showing up.
 
-![Workflows-Schemas created by the group](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/671dabee-24a5-4891-94bd-dc0290260ec7/Screenshot_2022-02-01_at_13.32.08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203701Z&X-Amz-Expires=86400&X-Amz-Signature=9b672d73eee0fd9a0388bdde11eaf04d09d09bfeecb89f67a71b241a6cbc8139&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-01%2520at%252013.32.08.png%22&x-id=GetObject)
+![Workflows-Schemas created by the group](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/671dabee-24a5-4891-94bd-dc0290260ec7/Screenshot_2022-02-01_at_13.32.08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T145955Z&X-Amz-Expires=86400&X-Amz-Signature=3ed99af1458b80e33699ea599c654334361e947249a941ef0d841693fa97f101&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-01%2520at%252013.32.08.png%22&x-id=GetObject)
 
 Workflows-Schemas created by the group
 
@@ -73,7 +73,7 @@ Regarding our work, we couldn't wait for the UX team to give us the wireframes, 
 - We'll always have to ask for the user's origin and destination –> we prepared the inputs to ask origin and destination and display search suggestions;
 - We would eventually need to make requests to the BE -> we prepared the request with Axios to them taking the user origin and destination.
     
-    ![Screenshot 2022-02-02 at 19.07.02.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/04f1aa51-5c99-4568-97e1-b6ae3f052a2f/Screenshot_2022-02-02_at_19.07.02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203801Z&X-Amz-Expires=86400&X-Amz-Signature=fa6be9d7b9a9969d4735ef8a9a7a26a4d61532e6df54067b3a0cd5881269e129&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-02%2520at%252019.07.02.png%22&x-id=GetObject)
+![Screenshot 2022-02-02 at 19.07.02.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/04f1aa51-5c99-4568-97e1-b6ae3f052a2f/Screenshot_2022-02-02_at_19.07.02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203801Z&X-Amz-Expires=86400&X-Amz-Signature=fa6be9d7b9a9969d4735ef8a9a7a26a4d61532e6df54067b3a0cd5881269e129&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-02%2520at%252019.07.02.png%22&x-id=GetObject)
     
 
 And that was when we started getting information from both our UX and DS colleagues.
