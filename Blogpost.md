@@ -86,7 +86,7 @@ We had planned to create a web-app, being responsive also to mobile version. Unf
 
 The decision of choosing the tools we learnt during the academic phase turned out to be a good decision since we reached a solid final project which we are all proud of and now we can also be confident with these tools.
 
-![Screenshot 2022-02-02 at 19.08.03.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf0f3575-71a2-482b-a111-fa0b88699430/Screenshot_2022-02-02_at_19.08.03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203838Z&X-Amz-Expires=86400&X-Amz-Signature=1f3d389f521c03fb7da3acb03ac307643c0947f381cbacb379d5014540d797c5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-02%2520at%252019.08.03.png%22&x-id=GetObject)
+![Screenshot 2022-02-02 at 19.08.03.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf0f3575-71a2-482b-a111-fa0b88699430/Screenshot_2022-02-02_at_19.08.03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T150118Z&X-Amz-Expires=86400&X-Amz-Signature=8ee959770afc054443940131556d17b73ab68f24050e8158d75427c6c4d31efa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-02%2520at%252019.08.03.png%22&x-id=GetObject)
 
 ### Data Science (DS)
 
