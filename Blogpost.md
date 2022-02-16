@@ -24,8 +24,6 @@ Thus, the whole group joined to start drawing and discussing a prototype to bett
 
 ![Workflows-Schemas created by the group](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/671dabee-24a5-4891-94bd-dc0290260ec7/Screenshot_2022-02-01_at_13.32.08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T145955Z&X-Amz-Expires=86400&X-Amz-Signature=3ed99af1458b80e33699ea599c654334361e947249a941ef0d841693fa97f101&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-01%2520at%252013.32.08.png%22&x-id=GetObject)
 
-Workflows-Schemas created by the group
-
 We'll now now talk through the process from the perspectives of each track.
 
 ### UX
