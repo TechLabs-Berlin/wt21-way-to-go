@@ -22,16 +22,14 @@ It was after this that our main pressing points showed up - being a project that
 
 Thus, the whole group joined to start drawing and discussing a prototype to better understand this structure. From this point on, things got a bit clearer and work started showing up.
 
-![Workflows-Schemas created by the group](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/671dabee-24a5-4891-94bd-dc0290260ec7/Screenshot_2022-02-01_at_13.32.08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203701Z&X-Amz-Expires=86400&X-Amz-Signature=9b672d73eee0fd9a0388bdde11eaf04d09d09bfeecb89f67a71b241a6cbc8139&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-01%2520at%252013.32.08.png%22&x-id=GetObject)
-
-Workflows-Schemas created by the group
+![Workflows-Schemas created by the group](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/671dabee-24a5-4891-94bd-dc0290260ec7/Screenshot_2022-02-01_at_13.32.08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T145955Z&X-Amz-Expires=86400&X-Amz-Signature=3ed99af1458b80e33699ea599c654334361e947249a941ef0d841693fa97f101&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-01%2520at%252013.32.08.png%22&x-id=GetObject)
 
 We'll now now talk through the process from the perspectives of each track.
 
 ### UX
 **Members:** [Sueon Ahn](https://www.linkedin.com/in/sueonahn/), Paula Sebastiano
 
-**Tech Stack:** Miro, Figma, Adope Photoshop, Notion, SurveyMonkey
+**Tech Stack:** Miro, Figma, Adobe Photoshop, Notion, SurveyMonkey
 
 The first step that we had to do was defining the problem: "There is no map app that provides a personalised route, which can suggest a recommendation and a route at the same time". In order to get a better understanding of potential users' needs, we decided to conduct in-depth interviews, targeting Berlin residents aged 20-40. 
 
@@ -73,7 +71,7 @@ Regarding our work, we couldn't wait for the UX team to give us the wireframes, 
 - We'll always have to ask for the user's origin and destination –> we prepared the inputs to ask origin and destination and display search suggestions;
 - We would eventually need to make requests to the BE -> we prepared the request with Axios to them taking the user origin and destination.
     
-    ![Screenshot 2022-02-02 at 19.07.02.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/04f1aa51-5c99-4568-97e1-b6ae3f052a2f/Screenshot_2022-02-02_at_19.07.02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203801Z&X-Amz-Expires=86400&X-Amz-Signature=fa6be9d7b9a9969d4735ef8a9a7a26a4d61532e6df54067b3a0cd5881269e129&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-02%2520at%252019.07.02.png%22&x-id=GetObject)
+![Screenshot 2022-02-02 at 19.07.02.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/04f1aa51-5c99-4568-97e1-b6ae3f052a2f/Screenshot_2022-02-02_at_19.07.02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203801Z&X-Amz-Expires=86400&X-Amz-Signature=fa6be9d7b9a9969d4735ef8a9a7a26a4d61532e6df54067b3a0cd5881269e129&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-02%2520at%252019.07.02.png%22&x-id=GetObject)
     
 
 And that was when we started getting information from both our UX and DS colleagues.
@@ -86,7 +84,7 @@ We had planned to create a web-app, being responsive also to mobile version. Unf
 
 The decision of choosing the tools we learnt during the academic phase turned out to be a good decision since we reached a solid final project which we are all proud of and now we can also be confident with these tools.
 
-![Screenshot 2022-02-02 at 19.08.03.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf0f3575-71a2-482b-a111-fa0b88699430/Screenshot_2022-02-02_at_19.08.03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203838Z&X-Amz-Expires=86400&X-Amz-Signature=1f3d389f521c03fb7da3acb03ac307643c0947f381cbacb379d5014540d797c5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-02%2520at%252019.08.03.png%22&x-id=GetObject)
+![Screenshot 2022-02-02 at 19.08.03.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf0f3575-71a2-482b-a111-fa0b88699430/Screenshot_2022-02-02_at_19.08.03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T150118Z&X-Amz-Expires=86400&X-Amz-Signature=8ee959770afc054443940131556d17b73ab68f24050e8158d75427c6c4d31efa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-02-02%2520at%252019.08.03.png%22&x-id=GetObject)
 
 ### Data Science (DS)
 
@@ -112,13 +110,11 @@ Similarly, the routes we received in GPX format were a nightmare to try to fit i
 
 After a lot of research, we discovered GeoPandas - a library (almost too good to be true) which allowed us to join our POI data with route waypoints on nearest geometry (a GeoPandas feature).
 
-![Joined dataset](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/664206a8-b146-4331-82a9-96cda80cb6fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T203957Z&X-Amz-Expires=86400&X-Amz-Signature=d52339493f2a5f9b50326d092ec967f37dc606f372ba2b224ad903aa6c160b4b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-
-Joined dataset
+![Joined dataset](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/664206a8-b146-4331-82a9-96cda80cb6fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T150351Z&X-Amz-Expires=86400&X-Amz-Signature=bb47c501bbbffce29a600b3e44b12851dcaeb38f2547b536b631f48ce97e8cf0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 At this point, it was time to understand our data more deeply - so we did some statistical analysis and visualisation using Matplotlib and Seaborn
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bb7b510d-8af5-4dc1-a17c-5376cf9c846a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T204010Z&X-Amz-Expires=86400&X-Amz-Signature=8abeccc931253270285c5e688e0c8c696a0fcd1fe401f4ddff6a337d8f2bb069&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bb7b510d-8af5-4dc1-a17c-5376cf9c846a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T150420Z&X-Amz-Expires=86400&X-Amz-Signature=8e01e5e6f59036b4a0557d7b4251bc7f4285f4d7285a632d568cea68a4785ff3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 As mentioned, until now our data had been organised by waypoint, rather than by route. As such, in preparation for ML, we grouped our data by route ID and performed value counts for every category, before joining everything together into one DataFrame by Route ID with 16 features (a count value for every category of POI it contained)
 
@@ -128,9 +124,9 @@ After another round of insightful office hours, we ploughed ahead to attempt to 
 
 Since we didn't have labelled data, we couldn't pursue supervised algorithms taught in the learning track. Thus, we first applied KMeans clustering on our data to get true labels. Then, using those clusters, we implemented a classification method. Moreover, we also implemented a recommendation system using Turicreate to recommend similar clusters (route categories) as a return to a route ID request. 
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a4fcc16f-c0c8-4baa-a21f-f09e4de4bcc8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T204052Z&X-Amz-Expires=86400&X-Amz-Signature=8021e901f79bce2416c7a38bffc5a262109f7678314a108f43b767ab5a65f882&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a4fcc16f-c0c8-4baa-a21f-f09e4de4bcc8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T150447Z&X-Amz-Expires=86400&X-Amz-Signature=b38b973a4f1663c6cc36140d2d268e3e835d675ebd4701c5bc496b5b219d054c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e2aff79-fd24-4c1f-a511-13d76adb2138/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220206T204123Z&X-Amz-Expires=86400&X-Amz-Signature=8c93d33023106e62b7067812dd881d06ee72ae30933afcdb700ced52052d2cf7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e2aff79-fd24-4c1f-a511-13d76adb2138/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T150444Z&X-Amz-Expires=86400&X-Amz-Signature=4a8322d88400fb2e1d98214aa14338e3b6ff01db7fa3b3dac147c62888de0d71&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Because our ML models were not ready for recommending personalised routes (we still didn't have great clusters and hadn't finished the recommendation algorithm, and one of our team got sick with Covid) we decided to use predetermined routes for our final presentation demonstration. Having already built a flask app to communicate with Frontend using a test API with hard coded POI, we proceeded to convert our .csv database into SQL so that Flask could communicate with it. For the final demonstration, although not sensitive to location and destination, the app was able to return four different routes from our database, depending on the category request received from Frontend. 
 
