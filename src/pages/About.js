@@ -60,7 +60,7 @@ function About() {
               </li>
               <li>Emilio</li>
               <li>Data Science</li>
-              <li>"Language nerd seeking to make a positive impact on the world through data!"</li>
+              <li><i>"Language nerd seeking to make a positive impact on the world through data!"</i></li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -75,7 +75,7 @@ function About() {
                 </a>
               </div>
               <li>Data Science</li>
-              <li>"My favourite <br />drink is turnip juice"</li>
+              <li><i>"My favourite <br />drink is turnip juice"</i></li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -94,7 +94,7 @@ function About() {
                 </a>
               </div>
               <li>Data Science</li>
-              <li>"She likes having her <br />head buzzing with numbers"</li>
+              <li><i>"She likes having her <br />head buzzing with numbers"</i></li>
             </ul>
           </Col>
         </Row>
@@ -106,7 +106,7 @@ function About() {
               </li>
               <li>Paula</li>
               <li>User Experience</li>
-              <li>"I love to beautify <br />the world throught design"</li>
+              <li><i>"I love to beautify <br />the world throught design"</i></li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -121,7 +121,7 @@ function About() {
                 </a>
               </div>
               <li>User Experience</li>
-              <li>"I love hiking and hope to<br />clime the Everest one day!"</li>
+              <li><i>"I love hiking and hope to<br />clime the Everest one day!"</i></li>
             </ul>
           </Col>
         </Row>
@@ -134,7 +134,7 @@ function About() {
               </li>
               <li>Leonel</li>
               <li>Web Development</li>
-              <li>"Social scientist passionate about the visual aspect of things!"</li>
+              <li><i>"Social scientist passionate about the visual aspect of things!"</i></li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -154,7 +154,7 @@ function About() {
                 </a>
               </div>
               <li>Web Development</li>
-              <li>"I love Cheese"</li>
+              <li><i>"I love Cheese"</i></li>
             </ul>
           </Col>
           <Col md className="item-1 item">
@@ -174,7 +174,7 @@ function About() {
                 </a>
               </div>
               <li>Web Development</li>
-              <li>"Woman in tech, <br /> Cowboy Bebop Fan!"</li>
+              <li><i>"Woman in tech, <br /> Cowboy Bebop Fan!"</i></li>
             </ul>
           </Col>
         </Row>

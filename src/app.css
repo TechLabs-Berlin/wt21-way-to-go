@@ -2,3 +2,100 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+/* Kozuka Gothic Fontface */
+
+@font-face {
+  font-family: "Kozuoka Gothic Pro R";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kozuoka Gothic Pro R"), url("./fonts/kozuoka/KozGoProRegular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Kozuoka Gothic Pro L";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kozuoka Gothic Pro L"), url("./fonts/kozuoka/KozGoProLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Kozuoka Gothic Pro M";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kozuoka Gothic Pro M"), url("./fonts/kozuoka/KozGoProMedium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Kozuoka Gothic Pro B";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kozuoka Gothic Pro B"), url("./fonts/kozuoka/KozGoProBold.woff") format("woff");
+}
+
+/* Corbel Truetype */
+@font-face {
+  font-family: "Corbel";
+  font-style: Normal;
+  font-weight: Normal;
+  src: local("Corbel"), url("./fonts/corbel/corbel.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "Corbel Bold Italic";
+  font-style: Italic;
+  font-weight: Bold;
+  src: local("Corbel Bold Italic"),
+    url("./fonts/corbel/corbelbolditalic.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "Corbel Bold";
+  font-style: normal;
+  font-weight: Bold;
+  src: local("Corbel-Bold"), url("./fonts/corbel/corbelbold.ttf") format("typeface");
+}
+
+@font-face {
+  font-family: "Corbel Italic";
+  font-style: Italic;
+  font-weight: normal;
+  src: local("Corbel Italic"), url("./fonts/corbel/corbelitalic.ttf") format("typeface");
+}
+
+/* Anaheim Truetype */
+@font-face {
+  font-family: "Anaheim";
+  font-style: Normal;
+  font-weight: Normal;
+  src: local("Anaheim"), url("./fonts/anaheim/Anaheim-Regular.ttf") format("typeface");
+}
+
+/* Quattrocento Sans Truetype */
+@font-face {
+  font-family: "QuattrocentoSans";
+  font-style: Normal;
+  font-weight: Normal;
+  src: local("QuattrocentoSans"), url("./fonts/quattrocentosans/QuattrocentoSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "QuattrocentoSans Bold";
+  font-style: Normal;
+  font-weight: Bold;
+  src: local("QuattrocentoSans bold"), url("./fonts/quattrocentosans/QuattrocentoSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "QuattrocentoSans Italic";
+  font-style: Italic;
+  font-weight: Normal;
+  src: local("QuattrocentoSans Italic"), url("./fonts/quattrocentosans/QuattrocentoSans-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "QuattrocentoSans Bold Italic";
+  font-style: Italic;
+  font-weight: Bold;
+  src: local("QuattrocentoSans Bold Italic"), url("./fonts/quattrocentosans/QuattrocentoSans-BoldItalic.ttf") format("truetype");
+}

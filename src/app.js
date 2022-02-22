@@ -5,6 +5,9 @@ import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import About from "./pages/About";
 import How from "./pages/How";
+import Footer from "./components/footer/footer";
+import StickyFooter from "./components/stickyFooter/stickyfooter";
+
 import "./app.css";
 
 const App = function () {
@@ -19,6 +22,8 @@ const App = function () {
           <Route path="/contact" element={<Contact />}></Route>
         </Routes>
       </BrowserRouter>
+      <Footer />
+      <StickyFooter />
     </div>
   );
 };

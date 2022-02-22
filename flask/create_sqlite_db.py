@@ -10,7 +10,7 @@ def create_SQL_DB():
     c.execute('CREATE TABLE routes (route_id, route_linestring, num_of_waypoint, waypoint_longitude, waypoint_latitude, poi_lat_lgt, poi_longitude, poi_latitude, poi_category, poi_name, distance)')
     conn.commit()
 
-    data = pd.read_csv ("joint_data.csv") # Enter the csv file name
+    data = pd.read_csv ("joined_data.csv") # Enter the csv file name
     df = pd.DataFrame(data)
 
     # Fill in the existing db file with the data from the csv file:

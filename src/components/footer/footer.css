@@ -1,0 +1,45 @@
+.footer {
+    background-color: #afcdd0;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    font-family: QuattrocentoSans;
+    font-size: 13px;
+  }
+  
+  .container-footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .left {
+    text-align: left;
+  }
+  
+  .right {
+    text-align: right;
+  }
+  
+  .email {
+    color: red;
+  }
+  
+  .menu {
+    list-style: none; 
+  }
+
+  .menu-links {
+    list-style: none; 
+  }
+  
+  .menu-links a {
+   color:#fff; 
+  }
+
+  .menu-links a:hover {
+    color:#0d6efd;
+    text-decoration: none;
+  }
+
+  

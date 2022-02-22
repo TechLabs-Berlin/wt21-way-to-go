@@ -1,0 +1,17 @@
+.sticky-footer {
+    Background-color: #50979e;
+    color:#fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 700;
+    font-family: QuattrocentoSans;
+    font-size: 12px;
+  }
+  
+  .left {
+  text-align: left;
+  }
+  
+  .right {
+    text-align: right;
+    }
