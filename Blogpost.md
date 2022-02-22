@@ -29,7 +29,7 @@ We'll now now talk through the process from the perspectives of each track.
 ### UX
 **Members:** [Sueon Ahn](https://www.linkedin.com/in/sueonahn/), Paula Sebastiano
 
-**Tech Stack:** Miro, Figma, Adope Photoshop, Notion, SurveyMonkey
+**Tech Stack:** Miro, Figma, Adobe Photoshop, Notion, SurveyMonkey
 
 The first step that we had to do was defining the problem: "There is no map app that provides a personalised route, which can suggest a recommendation and a route at the same time". In order to get a better understanding of potential users' needs, we decided to conduct in-depth interviews, targeting Berlin residents aged 20-40. 
 
