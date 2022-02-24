@@ -138,6 +138,9 @@ At this point, it was time to understand our data more deeply - so we did some s
 As mentioned, until now our data had been organised by waypoint, rather than by route. As such, in preparation for ML, we grouped our data by route ID and performed value counts for every category, before joining everything together into one DataFrame by Route ID with 16 features (a count value for every category of POI it contained)
 
 ![Route Data](./Images/RouteData.png)
+<p align="center">
+Extraction of absolute Numbers of Points of Interest
+</p>
 
 After another round of insightful office hours, we ploughed ahead to attempt to implement a classification/recommendation system in time for the final deadline.
 
@@ -146,10 +149,6 @@ Since we didn't have labelled data, we couldn't pursue supervised algorithms tau
 ![Clustering](./Images/Clustering.png)
 
 ![Recommendations](./Images/Recommendations.png)
-
-<p align="center">
-Extraction of absolute Numbers of Points of Interest
-</p>
 
 Because our ML models were not ready for recommending personalised routes (we still didn't have great clusters and hadn't finished the recommendation algorithm, and one of our team got sick with Covid) we decided to use predetermined routes for our final presentation demonstration. Having already built a flask app to communicate with Frontend using a test API with hard coded POI, we proceeded to convert our .csv database into SQL so that Flask could communicate with it. For the final demonstration, although not sensitive to location and destination, the app was able to return four different routes from our database, depending on the category request received from Frontend.
 
