@@ -25,7 +25,10 @@ It was after this that our main pressing points showed up - being a project that
 Thus, the whole group joined to start drawing and discussing a prototype to better understand this structure. From this point on, things got a bit clearer and work started showing up.
 
 ![Workflows-Schemas created by the group](./Images/WorkflowsSchemas.png)
+
+<p align="center">
 _Workflows-Schemas created by the group_
+</p>
 
 We'll now now talk through the process from the perspectives of each track.
 
