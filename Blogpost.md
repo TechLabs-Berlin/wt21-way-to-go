@@ -27,7 +27,7 @@ Thus, the whole group joined to start drawing and discussing a prototype to bett
 ![Workflows-Schemas created by the group](./Images/WorkflowsSchemas.png)
 
 <p align="center">
-*Workflows-Schemas created by the group*
+Workflows-Schemas created by the group
 </p>
 
 We'll now now talk through the process from the perspectives of each track.
@@ -82,7 +82,7 @@ Regarding our work, we couldn't wait for the UX team to give us the wireframes, 
 ![AppEvolution](./Images/AppEvolution.png)
 
 <p align="center">
-*Landing page evolution*
+Landing page evolution
 </p>
 
 And that was when we started getting information from both our UX and DS colleagues.
@@ -98,7 +98,7 @@ The decision of choosing the tools we learnt during the academic phase turned ou
 ![Final Landing Page](./Images/CurrentLandingPage.png)
 
 <p align="center">
-*Current landing page*
+Current landing page
 </p>
 
 ### Data Science (DS)
@@ -128,7 +128,7 @@ After a lot of research, we discovered GeoPandas - a library (almost too good to
 ![Joined dataset](./Images/JoinedDataset.png)
 
 <p align="center">
-*Joined dataset*
+Joined dataset
 </p>
 
 At this point, it was time to understand our data more deeply - so we did some statistical analysis and visualisation using Matplotlib and Seaborn
@@ -148,7 +148,7 @@ Since we didn't have labelled data, we couldn't pursue supervised algorithms tau
 ![Recommendations](./Images/Recommendations.png)
 
 <p align="center">
-*Extraction of absolute Numbers of Points of Interest*
+Extraction of absolute Numbers of Points of Interest
 </p>
 
 Because our ML models were not ready for recommending personalised routes (we still didn't have great clusters and hadn't finished the recommendation algorithm, and one of our team got sick with Covid) we decided to use predetermined routes for our final presentation demonstration. Having already built a flask app to communicate with Frontend using a test API with hard coded POI, we proceeded to convert our .csv database into SQL so that Flask could communicate with it. For the final demonstration, although not sensitive to location and destination, the app was able to return four different routes from our database, depending on the category request received from Frontend.
